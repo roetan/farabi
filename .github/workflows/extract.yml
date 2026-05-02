@@ -1,0 +1,53 @@
+name: Extract
+
+on:
+  schedule:
+    - cron: '0 * * * *' # setiap jam
+  workflow_dispatch: # bisa dijalankan manual
+
+jobs:
+  extract-blocks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Fetch TXT and Extract Blocks
+        run: |
+          python - << 'EOF'
+          import re
+          import requests
+
+          url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
+          response = requests.get(url)
+          response.raise_for_status()
+          txt = response.text
+
+          # regex untuk block
+          pattern = r"(\d{2}:\d{2} \[[gy]\].*?\[z\]\s+\^\-.*?)(?=\n\d{2}:\d{2} \[[gy]\]|\Z)"
+          blocks = re.findall(pattern, txt, flags=re.DOTALL)
+
+          # simpan hasil ke file baru
+          with open("blocks_extracted.txt", "w", encoding="utf-8") as f:
+              for b in blocks:
+                  f.write(b + "\n\n")
+
+          print(f"Extracted {len(blocks)} blocks into blocks_extracted.txt")
+          EOF
+
+      - name: Commit and Push Extracted Blocks
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add blocks_extracted.txt
+          git commit -m "Update extracted blocks" || echo "No changes to commit"
+          git push
