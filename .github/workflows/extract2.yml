@@ -1,0 +1,61 @@
+name: Extract .m3u8
+
+on:
+  schedule:
+    - cron: '0 * * * *' # setiap jam
+  workflow_dispatch: # bisa dijalankan manual
+
+jobs:
+  extract-m3u8:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch TXT, Extract Clean Blocks, and Filter .m3u8
+        run: |
+          python - << 'EOF'
+          import re
+          import requests
+
+          url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
+          txt = requests.get(url).text
+
+          # regex: header + baris pertandingan
+          pattern = r"(\d{2}:\d{2} \[[gy]\].*?\[z\]\s+\^\-(?:\n[^\n]+ vs [^\n]+\s+(`F)?https?://[^\s]+)+)"
+
+          blocks = re.findall(pattern, txt)
+
+          # tulis clean blocks sementara
+          clean_file = "blocks_clean.txt"
+          with open(clean_file, "w", encoding="utf-8") as f:
+              for b in blocks:
+                  f.write(b[0] + "\n\n")
+
+          # filter hanya baris yang mengandung .m3u8
+          output_file = "blocks_m3u8.txt"
+          with open(clean_file, "r", encoding="utf-8") as f:
+              lines = f.readlines()
+          m3u8_lines = [line for line in lines if ".m3u8" in line]
+          with open(output_file, "w", encoding="utf-8") as f:
+              f.writelines(m3u8_lines)
+
+          print(f"Extracted {len(blocks)} clean blocks, filtered {len(m3u8_lines)} .m3u8 lines into {output_file}")
+          EOF
+
+      - name: Commit and Push .m3u8 Blocks
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add blocks_m3u8.txt
+          git commit -m "Update .m3u8 blocks" || echo "No changes to commit"
+          git push
