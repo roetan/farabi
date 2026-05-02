@@ -31,7 +31,7 @@ jobs:
           output_file = "temporary.txt"
 
           ignore_start_line = "Live Sports Streaming\t`0https://www.marza12.shop/football.html"
-          ignore_end_line = "^@[].f Two Pop-Ups: Ads and The Live Streaming. f"
+          ignore_end_line = "^@[].f Two Pop-Ups: Ads and The Live Streaming"
 
           try:
               response = requests.get(url, timeout=30)
@@ -43,15 +43,23 @@ jobs:
 
           output_lines = []
           skip = True  # skip sampai ignore_start_line ditemukan
+          end_count = 0  # hitung kemunculan baris akhir
 
           for line in lines:
+              line_strip = line.strip()
+
+              # mulai ambil setelah ignore_start_line
               if skip:
-                  if line.strip() == ignore_start_line:
-                      skip = False  # mulai ambil dari baris setelah ini
+                  if line_strip == ignore_start_line:
+                      skip = False
                   continue
 
-              if line.strip() == ignore_end_line:
-                  break  # stop membaca di sini
+              # hitung kemunculan ignore_end_line
+              if line_strip == ignore_end_line:
+                  end_count += 1
+                  if end_count == 2:
+                      break  # stop membaca dari kemunculan kedua
+                  continue
 
               output_lines.append(line)
 
