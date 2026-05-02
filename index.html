@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>HLS Player Responsive</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Player</title>
 
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
@@ -35,7 +35,7 @@ body {
 video {
     width: 100%;
     height: 100%;
-    object-fit: contain; /* video tidak terpotong, rasio asli */
+    object-fit: contain; /* menjaga rasio asli */
     background: #000;
 }
 
@@ -90,7 +90,7 @@ video {
 
     .sidebar {
         width: 100%;
-        height: 50%; /* dinaikkan supaya video tidak terlalu kecil */
+        height: 50%; /* sidebar lebih tinggi di HP */
         border-left: none;
         border-top: 1px solid #ddd;
     }
@@ -102,7 +102,7 @@ video {
     video {
         width: 100%;
         height: 100%;
-        object-fit: contain; /* tetap menjaga rasio asli */
+        object-fit: contain;
     }
 }
 </style>
@@ -151,20 +151,43 @@ async function loadChannels() {
     });
 }
 
-// Play HLS
+// Play HLS stabil, klik satu kali
 function playStream(url) {
     if (hls) {
         hls.destroy();
         hls = null;
     }
 
+    video.pause();
+
     if (video.canPlayType('application/vnd.apple.mpegurl')) {
         video.src = url;
+        video.load();
+        video.play().catch(() => {
+            console.log("Autoplay gagal, tunggu klik user");
+        });
     } else if (Hls.isSupported()) {
-        hls = new Hls();
+        hls = new Hls({
+            autoStartLoad: true,
+            maxBufferLength: 30
+        });
         hls.loadSource(url);
         hls.attachMedia(video);
-        hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
+        hls.on(Hls.Events.MANIFEST_PARSED, () => {
+            video.play().catch(() => console.log("Autoplay gagal, klik untuk mulai"));
+        });
+
+        // retry otomatis jika stalled/error
+        let attempts = 0;
+        const retryPlay = () => {
+            attempts++;
+            if (attempts <= 3) {
+                console.log("Retry HLS attempt", attempts);
+                hls.startLoad();
+            }
+        };
+
+        video.onstalled = video.onerror = retryPlay;
     } else {
         alert("Browser tidak support HLS");
     }
