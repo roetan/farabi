@@ -21,18 +21,16 @@ jobs:
       - name: Install requests
         run: pip install requests
 
-      - name: Fetch and process channels safely
+      - name: Fetch and process channels
         run: |
           python - <<'EOF'
           import requests
-          import hashlib
           import os
           import sys
 
           url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
           output_file = "channels.txt"
           temp_file = "channels.tmp"
-          hash_file = ".last_hash"
 
           try:
               response = requests.get(url, timeout=30)
@@ -41,17 +39,6 @@ jobs:
           except Exception as e:
               print("Gagal fetch URL:", e)
               sys.exit(1)
-
-          # cek hash untuk perubahan
-          current_hash = hashlib.md5(content.encode('utf-8')).hexdigest()
-          previous_hash = None
-          if os.path.exists(hash_file):
-              with open(hash_file, 'r') as f:
-                  previous_hash = f.read().strip()
-
-          if current_hash == previous_hash:
-              print("Tidak ada perubahan. Tidak menulis file.")
-              sys.exit(0)
 
           # parsing konten
           lines = content.splitlines()
@@ -98,10 +85,6 @@ jobs:
           # replace channels.txt
           os.replace(temp_file, output_file)
 
-          # update hash
-          with open(hash_file, 'w') as f:
-              f.write(current_hash)
-
           print(f"{output_file} berhasil diperbarui, total {len(output_lines)} entries.")
           EOF
 
@@ -110,6 +93,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add channels.txt .last_hash
+          git add channels.txt
           git diff-index --quiet HEAD || git commit -m "Update channels.txt"
           git push
