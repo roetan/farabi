@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>HLS Player Responsive</title>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<style>
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    background: #000;
+    overflow: hidden;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+/* PLAYER */
+.player-container {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+}
+
+video {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* video tidak terpotong, rasio asli */
+    background: #000;
+}
+
+/* SIDEBAR */
+.sidebar {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    border-left: 1px solid #ddd;
+    background: #fff;
+    overflow: hidden;
+}
+
+.sidebar-header {
+    padding: 15px;
+    font-weight: bold;
+    background: #f1f1f1;
+    border-bottom: 1px solid #ddd;
+}
+
+.channel-list {
+    overflow-y: auto;
+    flex: 1;
+}
+
+.channel {
+    padding: 12px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.channel:hover {
+    background: #f0f0f0;
+}
+
+.category {
+    font-size: 11px;
+    color: #888;
+}
+
+.name {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* MOBILE RESPONSIVE */
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        height: 50%; /* dinaikkan supaya video tidak terlalu kecil */
+        border-left: none;
+        border-top: 1px solid #ddd;
+    }
+
+    .player-container {
+        height: 50%; /* video menyesuaikan sisa */
+    }
+
+    video {
+        width: 100%;
+        height: 100%;
+        object-fit: contain; /* tetap menjaga rasio asli */
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="player-container">
+    <video id="video" controls autoplay></video>
+</div>
+
+<div class="sidebar">
+    <div class="sidebar-header">CHANNEL LIST</div>
+    <div class="channel-list" id="channelList"></div>
+</div>
+
+<script>
+const CHANNEL_URL = "https://raw.githubusercontent.com/roetan/utilisasi/refs/heads/main/channels.txt";
+
+const video = document.getElementById('video');
+const channelList = document.getElementById('channelList');
+
+let hls;
+
+// Load channels dari txt
+async function loadChannels() {
+    const res = await fetch(CHANNEL_URL);
+    const text = await res.text();
+
+    const lines = text.split("\n").filter(l => l.trim() !== "");
+
+    lines.forEach(line => {
+        const [category, name, url] = line.split("#");
+
+        const div = document.createElement("div");
+        div.className = "channel";
+
+        div.innerHTML = `
+            <div class="category">${category}</div>
+            <div class="name">${name}</div>
+        `;
+
+        div.onclick = () => playStream(url);
+
+        channelList.appendChild(div);
+    });
+}
+
+// Play HLS
+function playStream(url) {
+    if (hls) {
+        hls.destroy();
+        hls = null;
+    }
+
+    if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = url;
+    } else if (Hls.isSupported()) {
+        hls = new Hls();
+        hls.loadSource(url);
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
+    } else {
+        alert("Browser tidak support HLS");
+    }
+}
+
+loadChannels();
+</script>
+
+</body>
+</html>
