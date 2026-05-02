@@ -1,0 +1,113 @@
+name: Update Channels
+
+on:
+  schedule:
+    # Setiap 1 jam
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-channels:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Fetch and process channels safely
+        id: fetch_channels
+        run: |
+          import requests
+          import hashlib
+          import os
+          import sys
+
+          url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
+          output_file = "channels.txt"
+          temp_file = "channels.tmp"
+          hash_file = ".last_hash"
+
+          try:
+              response = requests.get(url, timeout=30)
+              response.raise_for_status()
+              content = response.text
+          except Exception as e:
+              print("Gagal fetch URL:", e)
+              sys.exit(1)
+
+          # Cek hash untuk perubahan
+          current_hash = hashlib.md5(content.encode('utf-8')).hexdigest()
+          previous_hash = None
+          if os.path.exists(hash_file):
+              with open(hash_file, 'r') as f:
+                  previous_hash = f.read().strip()
+
+          if current_hash == previous_hash:
+              print("Tidak ada perubahan. Tidak menulis file.")
+              sys.exit(0)
+
+          # Parsing konten ke channels
+          lines = content.splitlines()
+          output_lines = []
+
+          current_category = ""
+          current_time = ""
+          for idx, line in enumerate(lines):
+              line = line.strip()
+              if not line:
+                  continue
+
+              # Kategori: "20:00 Malaysian Super League	^-"
+              if line.endswith('^-'):
+                  parts = line[:-2].split('\t')
+                  if len(parts) >= 1:
+                      time_and_category = parts[0].strip()
+                      if ' ' in time_and_category:
+                          current_time = time_and_category[:5]
+                          current_category = time_and_category[6:].strip()
+                      else:
+                          current_category = time_and_category
+                          current_time = ""
+                  continue
+
+              # Hanya baris URL HLS (https)
+              if line.startswith("http"):
+                  # Ambil nama match dari line sebelumnya
+                  prev_line = lines[idx-1].strip() if idx > 0 else ""
+                  prev_line = prev_line.lstrip('`F')  # hapus prefix "`F"
+                  match_name = prev_line
+                  output_lines.append(f"{current_category}#{current_time} {match_name}#{line}")
+
+          # Tulis ke file sementara
+          try:
+              with open(temp_file, 'w', encoding='utf-8') as f:
+                  f.write("\n".join(output_lines))
+          except Exception as e:
+              print("Gagal tulis file sementara:", e)
+              sys.exit(1)
+
+          # Replace channels.txt dengan file sementara
+          os.replace(temp_file, output_file)
+
+          # Update hash
+          with open(hash_file, 'w') as f:
+              f.write(current_hash)
+
+          print(f"{output_file} berhasil diperbarui, total {len(output_lines)} entries.")
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add channels.txt .last_hash
+          git diff-index --quiet HEAD || git commit -m "Update channels.txt"
+          git push
