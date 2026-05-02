@@ -26,7 +26,6 @@ jobs:
           python - <<'EOF'
           import requests
           import sys
-          import os
 
           url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
           output_file = "temporary.txt"
@@ -43,39 +42,37 @@ jobs:
               sys.exit(1)
 
           output_lines = []
-          skip = True  # skip sampai ignore_start_line ditemukan
-          end_count = 0  # hitung kemunculan baris akhir
+          skip = True
+          end_count = 0
 
           for line in lines:
               line_strip = line.strip()
-
-              # mulai ambil setelah ignore_start_line
               if skip:
                   if line_strip == ignore_start_line:
                       skip = False
                   continue
 
-              # hitung kemunculan ignore_end_line
               if line_strip == ignore_end_line:
                   end_count += 1
                   if end_count == 2:
-                      break  # stop membaca dari kemunculan kedua
+                      break
                   continue
 
               output_lines.append(line)
 
-          # tulis langsung ke temporary.txt, timpa file lama
+          # tulis ke temporary.txt langsung
           with open(output_file, 'w', encoding='utf-8') as f:
               f.write("\n".join(output_lines))
 
           print(f"{output_file} berhasil dibuat, total {len(output_lines)} baris.")
           EOF
 
-      - name: Commit and push changes
+      - name: Force add and push temporary.txt
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+          # paksa add file, commit selalu dibuat
           git add temporary.txt
-          git diff-index --quiet HEAD || git commit -m "Update temporary.txt"
+          git commit -m "Update temporary.txt" --allow-empty
           git push
