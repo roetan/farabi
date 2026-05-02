@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -25,7 +28,6 @@ jobs:
         run: |
           python - <<'EOF'
           import requests
-          import sys
 
           url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
           output_file = "temporary.txt"
@@ -38,8 +40,8 @@ jobs:
               response.raise_for_status()
               lines = response.text.splitlines()
           except Exception as e:
-              print("Gagal fetch URL:", e)
-              sys.exit(1)
+              print("Failed to fetch URL:", e)
+              exit(1)
 
           output_lines = []
           skip = True
@@ -60,8 +62,8 @@ jobs:
 
               output_lines.append(line)
 
-          # tulis ke temporary.txt langsung
-          with open(output_file, 'w', encoding='utf-8') as f:
+          # tulis file dengan LF dan timpa selalu
+          with open(output_file, 'w', encoding='utf-8', newline='\n') as f:
               f.write("\n".join(output_lines))
 
           print(f"{output_file} berhasil dibuat, total {len(output_lines)} baris.")
@@ -72,7 +74,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # paksa add file, commit selalu dibuat
-          git add temporary.txt
+          # paksa Git untuk commit file meski sama
+          git add -f temporary.txt
           git commit -m "Update temporary.txt" --allow-empty
           git push
