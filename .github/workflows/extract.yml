@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # bisa dijalankan manual
 
 jobs:
-  extract-blocks:
+  extract-clean-blocks:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,36 +18,34 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install requests
+      - name: Install dependencies
         run: pip install requests
 
-      - name: Fetch TXT and Extract Blocks
+      - name: Fetch TXT and Extract Clean Blocks
         run: |
           python - << 'EOF'
           import re
           import requests
 
           url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
-          response = requests.get(url)
-          response.raise_for_status()
-          txt = response.text
+          txt = requests.get(url).text
 
-          # regex untuk block
-          pattern = r"(\d{2}:\d{2} \[[gy]\].*?\[z\]\s+\^\-.*?)(?=\n\d{2}:\d{2} \[[gy]\]|\Z)"
-          blocks = re.findall(pattern, txt, flags=re.DOTALL)
+          # regex: header + baris pertandingan
+          pattern = r"(\d{2}:\d{2} \[[gy]\].*?\[z\]\s+\^\-(?:\n[^\n]+ vs [^\n]+\s+(`F)?https?://[^\s]+)+)"
 
-          # simpan hasil ke file baru
-          with open("blocks_extracted.txt", "w", encoding="utf-8") as f:
+          blocks = re.findall(pattern, txt)
+
+          with open("blocks_clean.txt", "w", encoding="utf-8") as f:
               for b in blocks:
-                  f.write(b + "\n\n")
+                  f.write(b[0] + "\n\n")  # ambil grup pertama saja
 
-          print(f"Extracted {len(blocks)} blocks into blocks_extracted.txt")
+          print(f"Extracted {len(blocks)} clean blocks into blocks_clean.txt")
           EOF
 
-      - name: Commit and Push Extracted Blocks
+      - name: Commit and Push Clean Blocks
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add blocks_extracted.txt
-          git commit -m "Update extracted blocks" || echo "No changes to commit"
+          git add blocks_clean.txt
+          git commit -m "Update extracted clean blocks" || echo "No changes to commit"
           git push
