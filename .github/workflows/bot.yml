@@ -2,8 +2,7 @@ name: Update Channels
 
 on:
   schedule:
-    # Setiap 1 jam
-    - cron: '0 * * * *'
+    - cron: '0 * * * *' # setiap 1 jam
   workflow_dispatch:
 
 jobs:
@@ -23,8 +22,8 @@ jobs:
         run: pip install requests
 
       - name: Fetch and process channels safely
-        id: fetch_channels
         run: |
+          python - <<'EOF'
           import requests
           import hashlib
           import os
@@ -102,7 +101,8 @@ jobs:
               f.write(current_hash)
 
           print(f"{output_file} berhasil diperbarui, total {len(output_lines)} entries.")
-      
+          EOF
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
