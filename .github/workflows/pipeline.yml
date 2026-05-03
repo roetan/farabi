@@ -148,7 +148,7 @@ jobs:
                   url = m.group(2).strip()
                   output.append(f"{current_league}#{current_time} {name}#{url}")
 
-          with open("jadwal.txt","w",encoding="utf-8") as f:
+          with open("schedule.txt","w",encoding="utf-8") as f:
               f.write("\n".join(output) + "\n")
 
           print(f"Final lines: {len(output)}")
@@ -159,6 +159,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add jadwal.txt
+          git add schedule.txt
           git commit -m "Update jadwal final" || echo "No changes"
           git push
