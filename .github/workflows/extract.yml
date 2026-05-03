@@ -2,7 +2,7 @@ name: Extract
 
 on:
   schedule:
-    - cron: '0 * * * *' # setiap jam
+    - cron: '*/30 * * * *'
   workflow_dispatch: # bisa dijalankan manual
 
 jobs:
