@@ -12,7 +12,7 @@ jobs:
     steps:
 
 # =========================
-# STEP 1 - SETUP
+# 1. SETUP
 # =========================
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -27,22 +27,38 @@ jobs:
 
 
 # =========================
-# STEP 2 - EXTRACT
+# 2. FETCH ONCE ONLY (SOURCE)
 # =========================
-      - name: Fetch TXT and Extract Clean Blocks
+      - name: Fetch source only once
         run: |
           python - << 'EOF'
-          import re
           import requests
 
           url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
           txt = requests.get(url).text
 
-          pattern = r"(\d{2}:\d{2} \[[gy]\].*?\[z\]\s+\^\-(?:\n[^\n]+ vs [^\n]+\s+(`F)?https?://[^\s]+)+)"
+          with open("source.txt", "w", encoding="utf-8") as f:
+              f.write(txt)
 
+          print("SOURCE SAVED")
+          EOF
+
+
+# =========================
+# 3. EXTRACT (LOCAL ONLY)
+# =========================
+      - name: Extract Clean Blocks
+        run: |
+          python - << 'EOF'
+          import re
+
+          with open("source.txt","r",encoding="utf-8") as f:
+              txt = f.read()
+
+          pattern = r"(\d{2}:\d{2} \[[gy]\].*?\[z\]\s+\^\-(?:\n[^\n]+ vs [^\n]+\s+(`F)?https?://[^\s]+)+)"
           blocks = re.findall(pattern, txt)
 
-          with open("blocks_clean.txt", "w", encoding="utf-8") as f:
+          with open("blocks_clean.txt","w",encoding="utf-8") as f:
               for b in blocks:
                   f.write(b[0] + "\n\n")
 
@@ -51,17 +67,15 @@ jobs:
 
 
 # =========================
-# STEP 3 - FILTER
+# 4. FILTER (LOCAL ONLY)
 # =========================
-      - name: Filter URLs
+      - name: Filter m3u8 only
         run: |
           python - << 'EOF'
-          import requests
           import re
 
-          url = "https://raw.githubusercontent.com/roetan/farabi/refs/heads/main/blocks_clean.txt"
-          response = requests.get(url)
-          lines = response.text.splitlines()
+          with open("blocks_clean.txt","r",encoding="utf-8") as f:
+              lines = f.read().splitlines()
 
           url_pattern = re.compile(r"https?://\S+")
 
@@ -71,7 +85,7 @@ jobs:
                   continue
               filtered.append(line)
 
-          with open("blocks_m3u8_filtered.txt", "w", encoding="utf-8") as f:
+          with open("blocks_m3u8_filtered.txt","w",encoding="utf-8") as f:
               f.write("\n".join(filtered))
 
           print("FILTER DONE")
@@ -79,18 +93,17 @@ jobs:
 
 
 # =========================
-# STEP 4 - FORMAT FINAL
+# 5. FORMAT FINAL (LOCAL ONLY)
 # =========================
-      - name: Format output
+      - name: Format jadwal
         run: |
           python - << 'EOF'
           import re
-          import requests
 
-          url = "https://raw.githubusercontent.com/roetan/farabi/refs/heads/main/blocks_m3u8_filtered.txt"
-          txt = requests.get(url).text.splitlines()
+          with open("blocks_m3u8_filtered.txt","r",encoding="utf-8") as f:
+              txt = f.read().splitlines()
 
-          output_lines = []
+          output = []
           current_time = ""
           current_league = ""
 
@@ -102,33 +115,33 @@ jobs:
               if not line:
                   continue
 
-              header_match = header_pattern.match(line)
-              if header_match:
-                  current_time = header_match.group(1)
-                  current_league = header_match.group(2).strip()
+              header = header_pattern.match(line)
+              if header:
+                  current_time = header.group(1)
+                  current_league = header.group(2).strip()
                   continue
 
               match = m3u8_pattern.match(line)
               if match:
-                  match_name = match.group(1).strip()
+                  name = match.group(1).strip()
                   url = match.group(2).strip()
-                  output_lines.append(f"{current_league}#{current_time} {match_name}#{url}")
+                  output.append(f"{current_league}#{current_time} {name}#{url}")
 
-          with open("schedule.txt", "w", encoding="utf-8") as f:
-              f.write("\n".join(output_lines))
+          with open("schedule.txt","w",encoding="utf-8") as f:
+              f.write("\n".join(output))
 
-          print("FORMAT DONE:", len(output_lines))
+          print("FORMAT DONE:", len(output))
           EOF
 
 
 # =========================
-# STEP 5 - COMMIT RESULT
+# 6. COMMIT OUTPUT
 # =========================
-      - name: Commit output
+      - name: Commit results
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add schedule.txt blocks_clean.txt blocks_m3u8_filtered.txt
-          git commit -m "Update pipeline output" || echo "No changes"
+          git add schedule.txt blocks_clean.txt blocks_m3u8_filtered.txt source.txt
+          git commit -m "Pipeline update (zero HTTP internal)" || echo "No changes"
           git push
