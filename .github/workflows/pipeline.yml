@@ -45,7 +45,7 @@ jobs:
 
 
 # =========================
-# 3. EXTRACT CLEAN BLOCKS (langsung format final)
+# 3. EXTRACT CLEAN BLOCKS
 # =========================
       - name: Extract Clean Blocks
         run: |
@@ -55,25 +55,27 @@ jobs:
           with open("source.txt","r",encoding="utf-8") as f:
               txt = f.read()
 
-          # Regex untuk header: jam + kode + kategori
+          # Regex header: jam + kode + kategori
           header_pattern = re.compile(r"(\d{2}:\d{2}) \[[a-z0-9]\](.*?)\[z\]")
 
-          # Regex untuk pertandingan + URL .m3u8
+          # Regex pertandingan + URL .m3u8
           url_pattern = re.compile(r"([^\n]+ vs [^\n]+)\s+(https?://[^\s]+\.m3u8[^\s]*)")
 
           blocks = []
 
-          # Iterasi semua header
           headers = list(header_pattern.finditer(txt))
           for i, header in enumerate(headers):
-              start = header.end()
-              end_match = headers[i + 1].start() if i + 1 < len(headers) else len(txt)
-              block_text = txt[start:end]
-
               jam = header.group(1).strip()
               kategori = header.group(2).strip()
+              
+              start = header.end()
+              if i + 1 < len(headers):
+                  end = headers[i + 1].start()
+              else:
+                  end = len(txt)
+              
+              block_text = txt[start:end]
 
-              # Cari semua pertandingan + URL dalam blok
               matches = url_pattern.findall(block_text)
               for match in matches:
                   match_line = f"{kategori}#{jam} {match[0].strip()}#{match[1].strip()}"
