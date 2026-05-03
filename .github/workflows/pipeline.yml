@@ -55,26 +55,26 @@ jobs:
           with open("source.txt","r",encoding="utf-8") as f:
               txt = f.read()
 
-          # Regex untuk mendeteksi header blok: jam + league
-          header_pattern = re.compile(r"(\d{2}:\d{2}) \[([a-z0-9])\](.*?)\[z\]\s+\^-")
+          # Regex untuk header: jam + kode + kategori
+          header_pattern = re.compile(r"\d{2}:\d{2} \[[a-z0-9]\](.*?)\[z\]")
 
-          # Regex untuk semua pertandingan + URL .m3u8
-          url_pattern = re.compile(r"([^\n]+ vs [^\n]+).*?(https?://[^\s]+\.m3u8[^\s]*)")
+          # Regex untuk pertandingan + URL .m3u8
+          url_pattern = re.compile(r"([^\n]+ vs [^\n]+)\s+(https?://[^\s]+\.m3u8[^\s]*)")
 
           blocks = []
 
-          for header in header_pattern.finditer(txt):
+          # Iterasi semua header
+          headers = list(header_pattern.finditer(txt))
+          for i, header in enumerate(headers):
               start = header.end()
-              # Cari sampai header berikutnya
-              end_match = header_pattern.search(txt, start)
-              end = end_match.start() if end_match else len(txt)
+              end = headers[i + 1].start() if i + 1 < len(headers) else len(txt)
               block_text = txt[start:end]
 
               # Cari semua pertandingan + URL dalam blok
               matches = url_pattern.findall(block_text)
               for match in matches:
-                  # Simpan kategori/league, pertandingan, dan URL sekaligus
-                  match_line = f"{header.group(3).strip()}#{match[0].strip()}#{match[1].strip()}"
+                  # Format: kategori#pertandingan#url
+                  match_line = f"{header.group(1).strip()}#{match[0].strip()}#{match[1].strip()}"
                   blocks.append(match_line)
 
           with open("blocks_clean.txt","w",encoding="utf-8") as f:
