@@ -10,7 +10,7 @@ on:
 jobs:
 
 # =========================
-# STEP 1 - EXTRACT (FRESH DATA)
+# STEP 1 - EXTRACT (FRESH SOURCE)
 # =========================
   extract:
     runs-on: ubuntu-latest
@@ -38,26 +38,20 @@ jobs:
 
           txt = requests.get(url, headers=headers, timeout=30).text
 
-          import re
+          with open("raw.txt","w",encoding="utf-8") as f:
+              f.write(txt)
 
-          pattern = r"(\d{2}:\d{2} \[[gy]\].*?\[z\]\s+\^\-(?:\n[^\n]+ vs [^\n]+\s+(`F)?https?://[^\s]+)+)"
-          blocks = re.findall(pattern, txt)
-
-          with open("blocks_clean.txt", "w", encoding="utf-8") as f:
-              for b in blocks:
-                  f.write(b[0] + "\n\n")
-
-          print("EXTRACT:", len(blocks))
+          print("RAW SAVED")
           EOF
 
       - uses: actions/upload-artifact@v4
         with:
-          name: step1
-          path: blocks_clean.txt
+          name: raw
+          path: raw.txt
 
 
 # =========================
-# STEP 2 - FILTER (ONLY M3U8)
+# STEP 2 - FILTER (KEEP STRUCTURE)
 # =========================
   filter:
     needs: extract
@@ -66,7 +60,7 @@ jobs:
     steps:
       - uses: actions/download-artifact@v4
         with:
-          name: step1
+          name: raw
 
       - uses: actions/setup-python@v4
         with:
@@ -74,51 +68,47 @@ jobs:
 
       - run: pip install requests
 
-      - name: Filter valid m3u8
+      - name: Filter valid lines only
         run: |
           python - << 'EOF'
           import re
+          import html
 
-          with open("blocks_clean.txt","r",encoding="utf-8") as f:
-              lines = f.read().splitlines()
+          txt = open("raw.txt","r",encoding="utf-8").read().splitlines()
 
           url_pattern = re.compile(r"https?://\S+")
 
-          filtered = []
-          for line in lines:
-              if not line.strip():
+          cleaned = []
+
+          for line in txt:
+              line = html.unescape(line.strip())
+              if not line:
                   continue
 
-              urls = url_pattern.findall(line)
-              if not urls:
+              # buang noise total
+              if "`F" in line or "`0" in line:
                   continue
 
-              for url in urls:
+              # hanya simpan line yang punya URL
+              if url_pattern.search(line):
+                  cleaned.append(line)
+              else:
+                  cleaned.append(line)  # tetap simpan header
 
-                  # ❌ skip non m3u8
-                  if ".m3u8" not in url:
-                      continue
+          with open("filtered.txt","w",encoding="utf-8") as f:
+              f.write("\n".join(cleaned) + "\n")
 
-                  # ❌ skip noise prefix
-                  if "`F" in line or "`0" in line:
-                      continue
-
-                  filtered.append(line)
-
-          with open("blocks_m3u8.txt","w",encoding="utf-8") as f:
-              f.write("\n".join(filtered) + "\n")
-
-          print("FILTER DONE:", len(filtered))
+          print("FILTER DONE:", len(cleaned))
           EOF
 
       - uses: actions/upload-artifact@v4
         with:
-          name: step2
-          path: blocks_m3u8.txt
+          name: filtered
+          path: filtered.txt
 
 
 # =========================
-# STEP 3 - FORMAT + COMMIT FINAL
+# STEP 3 - FORMAT FINAL (CATEGORY SAFE)
 # =========================
   format:
     needs: filter
@@ -129,7 +119,7 @@ jobs:
 
       - uses: actions/download-artifact@v4
         with:
-          name: step2
+          name: filtered
 
       - uses: actions/setup-python@v4
         with:
@@ -137,13 +127,13 @@ jobs:
 
       - run: pip install requests
 
-      - name: Build jadwal final
+      - name: Build final jadwal
         run: |
           python - << 'EOF'
           import re
           import html
 
-          txt = open("blocks_m3u8.txt","r",encoding="utf-8").read().splitlines()
+          txt = open("filtered.txt","r",encoding="utf-8").read().splitlines()
 
           header_pattern = re.compile(r"(\d{2}:\d{2}) \[[gy]\](.*)\[z\]\s+\^\-")
           url_pattern = re.compile(r"https?://\S+")
@@ -158,6 +148,7 @@ jobs:
               if not line:
                   continue
 
+              # HEADER (kategori + jam)
               h = header_pattern.match(line)
               if h:
                   current_time = h.group(1)
@@ -168,7 +159,7 @@ jobs:
 
               for url in urls:
 
-                  # ❌ final safety filter
+                  # FILTER FINAL
                   if ".m3u8" not in url:
                       continue
                   if "`F" in line or "`0" in line:
@@ -177,7 +168,8 @@ jobs:
                   name = line.split(url)[0]
                   name = name.replace("`F","").replace("`0","").strip()
 
-                  output.append(f"{current_league}#{current_time} {name}#{url}")
+                  if current_league and current_time:
+                      output.append(f"{current_league}#{current_time} {name}#{url}")
 
           with open("schedule.txt","w",encoding="utf-8") as f:
               f.write("\n".join(output) + "\n")
@@ -185,11 +177,11 @@ jobs:
           print("FINAL OUTPUT:", len(output))
           EOF
 
-      - name: Commit result
+      - name: Commit final result
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           git add schedule.txt
-          git commit -m "Update stable jadwal" || echo "No changes"
+          git commit -m "Update stable IPTV jadwal" || echo "No changes"
           git push
