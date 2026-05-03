@@ -10,7 +10,7 @@ on:
 jobs:
 
 # =========================
-# STEP 1 - EXTRACT (FRESH SOURCE)
+# STEP 1 - EXTRACT RAW (FRESH)
 # =========================
   extract:
     runs-on: ubuntu-latest
@@ -41,7 +41,7 @@ jobs:
           with open("raw.txt","w",encoding="utf-8") as f:
               f.write(txt)
 
-          print("RAW SAVED")
+          print("RAW OK")
           EOF
 
       - uses: actions/upload-artifact@v4
@@ -51,7 +51,7 @@ jobs:
 
 
 # =========================
-# STEP 2 - FILTER (KEEP STRUCTURE)
+# STEP 2 - FILTER ONLY VALID BLOCKS
 # =========================
   filter:
     needs: extract
@@ -68,7 +68,7 @@ jobs:
 
       - run: pip install requests
 
-      - name: Filter valid lines only
+      - name: Keep only structured blocks
         run: |
           python - << 'EOF'
           import re
@@ -76,29 +76,33 @@ jobs:
 
           txt = open("raw.txt","r",encoding="utf-8").read().splitlines()
 
+          header_pattern = re.compile(r"^\d{2}:\d{2} \[[gy]\].+?\[z\]")
           url_pattern = re.compile(r"https?://\S+")
 
-          cleaned = []
+          filtered = []
+          has_valid_header = False
 
           for line in txt:
               line = html.unescape(line.strip())
               if not line:
                   continue
 
-              # buang noise total
-              if "`F" in line or "`0" in line:
+              # detect valid header
+              if header_pattern.match(line):
+                  has_valid_header = True
+                  filtered.append(line)
                   continue
 
-              # hanya simpan line yang punya URL
-              if url_pattern.search(line):
-                  cleaned.append(line)
-              else:
-                  cleaned.append(line)  # tetap simpan header
+              # skip semua sebelum header valid
+              if not has_valid_header:
+                  continue
+
+              filtered.append(line)
 
           with open("filtered.txt","w",encoding="utf-8") as f:
-              f.write("\n".join(cleaned) + "\n")
+              f.write("\n".join(filtered) + "\n")
 
-          print("FILTER DONE:", len(cleaned))
+          print("FILTER DONE:", len(filtered))
           EOF
 
       - uses: actions/upload-artifact@v4
@@ -108,7 +112,7 @@ jobs:
 
 
 # =========================
-# STEP 3 - FORMAT FINAL (CATEGORY SAFE)
+# STEP 3 - FORMAT FINAL OUTPUT (STRICT RULE)
 # =========================
   format:
     needs: filter
@@ -127,7 +131,7 @@ jobs:
 
       - run: pip install requests
 
-      - name: Build final jadwal
+      - name: Build final jadwal (STRICT BLOCK ONLY)
         run: |
           python - << 'EOF'
           import re
@@ -135,12 +139,13 @@ jobs:
 
           txt = open("filtered.txt","r",encoding="utf-8").read().splitlines()
 
-          header_pattern = re.compile(r"(\d{2}:\d{2}) \[[gy]\](.*)\[z\]\s+\^\-")
+          header_pattern = re.compile(r"^(\d{2}:\d{2}) \[[gy]\](.+?)\[z\]")
           url_pattern = re.compile(r"https?://\S+")
 
           output = []
-          current_time = ""
-          current_league = ""
+
+          current_time = None
+          current_league = None
 
           for line in txt:
               line = html.unescape(line.strip())
@@ -148,18 +153,22 @@ jobs:
               if not line:
                   continue
 
-              # HEADER (kategori + jam)
+              # HEADER (WAJIB VALID)
               h = header_pattern.match(line)
               if h:
                   current_time = h.group(1)
                   current_league = h.group(2).strip()
                   continue
 
+              # ❌ skip kalau belum ada header valid
+              if not current_time or not current_league:
+                  continue
+
               urls = url_pattern.findall(line)
 
               for url in urls:
 
-                  # FILTER FINAL
+                  # FILTER STRICT
                   if ".m3u8" not in url:
                       continue
                   if "`F" in line or "`0" in line:
@@ -168,8 +177,7 @@ jobs:
                   name = line.split(url)[0]
                   name = name.replace("`F","").replace("`0","").strip()
 
-                  if current_league and current_time:
-                      output.append(f"{current_league}#{current_time} {name}#{url}")
+                  output.append(f"{current_league}#{current_time} {name}#{url}")
 
           with open("schedule.txt","w",encoding="utf-8") as f:
               f.write("\n".join(output) + "\n")
@@ -177,11 +185,11 @@ jobs:
           print("FINAL OUTPUT:", len(output))
           EOF
 
-      - name: Commit final result
+      - name: Commit result
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           git add schedule.txt
-          git commit -m "Update stable IPTV jadwal" || echo "No changes"
+          git commit -m "Update strict IPTV jadwal" || echo "No changes"
           git push
