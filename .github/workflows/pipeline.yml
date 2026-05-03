@@ -1,195 +1,134 @@
 name: Pipeline
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
   workflow_dispatch:
   repository_dispatch:
-    types: [refresh-data]
+    types: [run-pipeline]
 
 jobs:
-
-# =========================
-# STEP 1 - EXTRACT RAW (FRESH)
-# =========================
-  extract:
+  pipeline:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
 
-      - uses: actions/setup-python@v4
+# =========================
+# STEP 1 - SETUP
+# =========================
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
-      - run: pip install requests
-
-      - name: Fetch source (anti cache)
-        run: |
-          python - << 'EOF'
-          import requests, time
-
-          url = "https://raw.githubusercontent.com/englishcd/ai/main/a0a.txt?ts=" + str(int(time.time()))
-
-          headers = {
-              "Cache-Control": "no-cache",
-              "Pragma": "no-cache"
-          }
-
-          txt = requests.get(url, headers=headers, timeout=30).text
-
-          with open("raw.txt","w",encoding="utf-8") as f:
-              f.write(txt)
-
-          print("RAW OK")
-          EOF
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: raw
-          path: raw.txt
+      - name: Install dependencies
+        run: pip install requests
 
 
 # =========================
-# STEP 2 - FILTER ONLY VALID BLOCKS
+# STEP 2 - EXTRACT
 # =========================
-  filter:
-    needs: extract
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/download-artifact@v4
-        with:
-          name: raw
-
-      - uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
-
-      - run: pip install requests
-
-      - name: Keep only structured blocks
+      - name: Fetch TXT and Extract Clean Blocks
         run: |
           python - << 'EOF'
           import re
-          import html
+          import requests
 
-          txt = open("raw.txt","r",encoding="utf-8").read().splitlines()
+          url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
+          txt = requests.get(url).text
 
-          header_pattern = re.compile(r"^\d{2}:\d{2} \[[gy]\].+?\[z\]")
+          pattern = r"(\d{2}:\d{2} \[[gy]\].*?\[z\]\s+\^\-(?:\n[^\n]+ vs [^\n]+\s+(`F)?https?://[^\s]+)+)"
+
+          blocks = re.findall(pattern, txt)
+
+          with open("blocks_clean.txt", "w", encoding="utf-8") as f:
+              for b in blocks:
+                  f.write(b[0] + "\n\n")
+
+          print("EXTRACT DONE:", len(blocks))
+          EOF
+
+
+# =========================
+# STEP 3 - FILTER
+# =========================
+      - name: Filter URLs
+        run: |
+          python - << 'EOF'
+          import requests
+          import re
+
+          url = "https://raw.githubusercontent.com/roetan/farabi/refs/heads/main/blocks_clean.txt"
+          response = requests.get(url)
+          lines = response.text.splitlines()
+
           url_pattern = re.compile(r"https?://\S+")
 
           filtered = []
-          has_valid_header = False
-
-          for line in txt:
-              line = html.unescape(line.strip())
-              if not line:
+          for line in lines:
+              if url_pattern.search(line) and ".m3u8" not in line:
                   continue
-
-              # detect valid header
-              if header_pattern.match(line):
-                  has_valid_header = True
-                  filtered.append(line)
-                  continue
-
-              # skip semua sebelum header valid
-              if not has_valid_header:
-                  continue
-
               filtered.append(line)
 
-          with open("filtered.txt","w",encoding="utf-8") as f:
-              f.write("\n".join(filtered) + "\n")
+          with open("blocks_m3u8_filtered.txt", "w", encoding="utf-8") as f:
+              f.write("\n".join(filtered))
 
-          print("FILTER DONE:", len(filtered))
+          print("FILTER DONE")
           EOF
 
-      - uses: actions/upload-artifact@v4
-        with:
-          name: filtered
-          path: filtered.txt
-
 
 # =========================
-# STEP 3 - FORMAT FINAL OUTPUT (STRICT RULE)
+# STEP 4 - FORMAT FINAL
 # =========================
-  format:
-    needs: filter
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: actions/download-artifact@v4
-        with:
-          name: filtered
-
-      - uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
-
-      - run: pip install requests
-
-      - name: Build final jadwal (STRICT BLOCK ONLY)
+      - name: Format output
         run: |
           python - << 'EOF'
           import re
-          import html
+          import requests
 
-          txt = open("filtered.txt","r",encoding="utf-8").read().splitlines()
+          url = "https://raw.githubusercontent.com/roetan/farabi/refs/heads/main/blocks_m3u8_filtered.txt"
+          txt = requests.get(url).text.splitlines()
 
-          header_pattern = re.compile(r"^(\d{2}:\d{2}) \[[gy]\](.+?)\[z\]")
-          url_pattern = re.compile(r"https?://\S+")
+          output_lines = []
+          current_time = ""
+          current_league = ""
 
-          output = []
-
-          current_time = None
-          current_league = None
+          header_pattern = re.compile(r"(\d{2}:\d{2}) \[[gy]\](.*)\[z\]\s+\^\-")
+          m3u8_pattern = re.compile(r"(.+?)\s+(https?://.*\.m3u8.*)")
 
           for line in txt:
-              line = html.unescape(line.strip())
-
+              line = line.strip()
               if not line:
                   continue
 
-              # HEADER (WAJIB VALID)
-              h = header_pattern.match(line)
-              if h:
-                  current_time = h.group(1)
-                  current_league = h.group(2).strip()
+              header_match = header_pattern.match(line)
+              if header_match:
+                  current_time = header_match.group(1)
+                  current_league = header_match.group(2).strip()
                   continue
 
-              # ❌ skip kalau belum ada header valid
-              if not current_time or not current_league:
-                  continue
+              match = m3u8_pattern.match(line)
+              if match:
+                  match_name = match.group(1).strip()
+                  url = match.group(2).strip()
+                  output_lines.append(f"{current_league}#{current_time} {match_name}#{url}")
 
-              urls = url_pattern.findall(line)
+          with open("schedule.txt", "w", encoding="utf-8") as f:
+              f.write("\n".join(output_lines))
 
-              for url in urls:
-
-                  # FILTER STRICT
-                  if ".m3u8" not in url:
-                      continue
-                  if "`F" in line or "`0" in line:
-                      continue
-
-                  name = line.split(url)[0]
-                  name = name.replace("`F","").replace("`0","").strip()
-
-                  output.append(f"{current_league}#{current_time} {name}#{url}")
-
-          with open("schedule.txt","w",encoding="utf-8") as f:
-              f.write("\n".join(output) + "\n")
-
-          print("FINAL OUTPUT:", len(output))
+          print("FORMAT DONE:", len(output_lines))
           EOF
 
-      - name: Commit result
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add schedule.txt
-          git commit -m "Update strict IPTV jadwal" || echo "No changes"
+# =========================
+# STEP 5 - COMMIT RESULT
+# =========================
+      - name: Commit output
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add schedule.txt blocks_clean.txt blocks_m3u8_filtered.txt
+          git commit -m "Update pipeline output" || echo "No changes"
           git push
