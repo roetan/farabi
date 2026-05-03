@@ -73,7 +73,8 @@ jobs:
               # Cari semua pertandingan + URL dalam blok
               matches = url_pattern.findall(block_text)
               for match in matches:
-                  match_line = f"{match[0].strip()} {match[1].strip()}"
+                  # Simpan kategori/league, pertandingan, dan URL sekaligus
+                  match_line = f"{header.group(3).strip()}#{match[0].strip()}#{match[1].strip()}"
                   blocks.append(match_line)
 
           with open("blocks_clean.txt","w",encoding="utf-8") as f:
