@@ -44,8 +44,7 @@ jobs:
           print(f"Extracted {len(blocks)} blocks")
           EOF
 
-      - name: Upload step1
-        uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v4
         with:
           name: step1
           path: blocks_clean.txt
@@ -74,7 +73,7 @@ jobs:
           python - << 'EOF'
           import re
 
-          with open("blocks_clean.txt", "r", encoding="utf-8") as f:
+          with open("blocks_clean.txt","r",encoding="utf-8") as f:
               lines = f.read().splitlines()
 
           url_pattern = re.compile(r"https?://\S+")
@@ -85,7 +84,7 @@ jobs:
                   continue
               filtered.append(line)
 
-          with open("blocks_m3u8_filtered.txt", "w", encoding="utf-8") as f:
+          with open("blocks_m3u8_filtered.txt","w",encoding="utf-8") as f:
               f.write("\n".join(filtered) + "\n")
 
           print("Filter done")
@@ -98,13 +97,16 @@ jobs:
 
 
 # =========================
-# STEP 3 - FORMAT FINAL
+# STEP 3 - FORMAT + COMMIT (FIXED)
 # =========================
   format:
     needs: filter
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repo (WAJIB untuk git push)
+        uses: actions/checkout@v3
+
       - uses: actions/download-artifact@v4
         with:
           name: step2
@@ -115,7 +117,7 @@ jobs:
 
       - run: pip install requests
 
-      - name: Format final jadwal
+      - name: Format jadwal final
         run: |
           python - << 'EOF'
           import re
@@ -146,16 +148,17 @@ jobs:
                   url = m.group(2).strip()
                   output.append(f"{current_league}#{current_time} {name}#{url}")
 
-          with open("schedule.txt","w",encoding="utf-8") as f:
+          with open("jadwal.txt","w",encoding="utf-8") as f:
               f.write("\n".join(output) + "\n")
 
-          print(f"Final: {len(output)} lines")
+          print(f"Final lines: {len(output)}")
           EOF
 
-      - name: Commit final result
+      - name: Commit and push result
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add schedule.txt
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add jadwal.txt
           git commit -m "Update jadwal final" || echo "No changes"
           git push
