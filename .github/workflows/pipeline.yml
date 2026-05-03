@@ -1,8 +1,8 @@
-name: Pipeline Extract → Filter → Format
+name: Stable Pipeline Extract → Filter → Format
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
   repository_dispatch:
     types: [refresh-data]
@@ -10,7 +10,7 @@ on:
 jobs:
 
 # =========================
-# STEP 1 - EXTRACT
+# STEP 1 - EXTRACT (NO CACHE)
 # =========================
   extract:
     runs-on: ubuntu-latest
@@ -24,24 +24,30 @@ jobs:
 
       - run: pip install requests
 
-      - name: Extract Clean Blocks
+      - name: Fetch source (ANTI CACHE + FRESH)
         run: |
           python - << 'EOF'
-          import re
-          import requests
+          import requests, time
 
-          url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
-          txt = requests.get(url).text
+          url = "https://raw.githubusercontent.com/englishcd/ai/main/a0a.txt?ts=" + str(int(time.time()))
+
+          headers = {
+              "Cache-Control": "no-cache",
+              "Pragma": "no-cache"
+          }
+
+          txt = requests.get(url, headers=headers, timeout=30).text
+
+          import re
 
           pattern = r"(\d{2}:\d{2} \[[gy]\].*?\[z\]\s+\^\-(?:\n[^\n]+ vs [^\n]+\s+(`F)?https?://[^\s]+)+)"
-
           blocks = re.findall(pattern, txt)
 
           with open("blocks_clean.txt", "w", encoding="utf-8") as f:
               for b in blocks:
                   f.write(b[0] + "\n\n")
 
-          print(f"Extracted {len(blocks)} blocks")
+          print("Extract:", len(blocks))
           EOF
 
       - uses: actions/upload-artifact@v4
@@ -51,7 +57,7 @@ jobs:
 
 
 # =========================
-# STEP 2 - FILTER
+# STEP 2 - FILTER (ARTIFACT ONLY)
 # =========================
   filter:
     needs: extract
@@ -68,7 +74,7 @@ jobs:
 
       - run: pip install requests
 
-      - name: Filter M3U8
+      - name: Filter M3U8 only
         run: |
           python - << 'EOF'
           import re
@@ -84,7 +90,7 @@ jobs:
                   continue
               filtered.append(line)
 
-          with open("blocks_m3u8_filtered.txt","w",encoding="utf-8") as f:
+          with open("blocks_m3u8.txt","w",encoding="utf-8") as f:
               f.write("\n".join(filtered) + "\n")
 
           print("Filter done")
@@ -93,19 +99,18 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: step2
-          path: blocks_m3u8_filtered.txt
+          path: blocks_m3u8.txt
 
 
 # =========================
-# STEP 3 - FORMAT + COMMIT (FIXED)
+# STEP 3 - FORMAT + COMMIT FINAL
 # =========================
   format:
     needs: filter
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo (WAJIB untuk git push)
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3   # WAJIB untuk push
 
       - uses: actions/download-artifact@v4
         with:
@@ -117,12 +122,12 @@ jobs:
 
       - run: pip install requests
 
-      - name: Format jadwal final
+      - name: Format final output
         run: |
           python - << 'EOF'
           import re
 
-          txt = open("blocks_m3u8_filtered.txt","r",encoding="utf-8").read().splitlines()
+          txt = open("blocks_m3u8.txt","r",encoding="utf-8").read().splitlines()
 
           header_pattern = re.compile(r"(\d{2}:\d{2}) \[[gy]\](.*)\[z\]\s+\^\-")
           m3u8_pattern = re.compile(r"(.+?)\s+(https?://.*\.m3u8.*)")
@@ -151,14 +156,14 @@ jobs:
           with open("schedule.txt","w",encoding="utf-8") as f:
               f.write("\n".join(output) + "\n")
 
-          print(f"Final lines: {len(output)}")
+          print("Final lines:", len(output))
           EOF
 
-      - name: Commit and push result
+      - name: Commit final result
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           git add schedule.txt
-          git commit -m "Update jadwal final" || echo "No changes"
+          git commit -m "Update jadwal (stable pipeline)" || echo "No changes"
           git push
