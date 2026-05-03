@@ -56,7 +56,7 @@ jobs:
               txt = f.read()
 
           # Regex untuk header: jam + kode + kategori
-          header_pattern = re.compile(r"\d{2}:\d{2} \[[a-z0-9]\](.*?)\[z\]")
+          header_pattern = re.compile(r"(\d{2}:\d{2}) \[[a-z0-9]\](.*?)\[z\]")
 
           # Regex untuk pertandingan + URL .m3u8
           url_pattern = re.compile(r"([^\n]+ vs [^\n]+)\s+(https?://[^\s]+\.m3u8[^\s]*)")
@@ -67,17 +67,18 @@ jobs:
           headers = list(header_pattern.finditer(txt))
           for i, header in enumerate(headers):
               start = header.end()
-              end = headers[i + 1].start() if i + 1 < len(headers) else len(txt)
+              end_match = headers[i + 1].start() if i + 1 < len(headers) else len(txt)
               block_text = txt[start:end]
+
+              jam = header.group(1).strip()
+              kategori = header.group(2).strip()
 
               # Cari semua pertandingan + URL dalam blok
               matches = url_pattern.findall(block_text)
               for match in matches:
-                  # Format: kategori#pertandingan#url
-                  match_line = f"{header.group(1).strip()}#{match[0].strip()}#{match[1].strip()}"
+                  match_line = f"{kategori}#{jam} {match[0].strip()}#{match[1].strip()}"
                   blocks.append(match_line)
 
-          # Tulis langsung ke file schedule.txt
           with open("schedule.txt","w",encoding="utf-8") as f:
               for b in blocks:
                   f.write(b + "\n")
