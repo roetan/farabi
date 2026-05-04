@@ -22,7 +22,7 @@ jobs:
           curl -s "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt" -o data.txt
 
       # =========================
-      # 2. HASH CHECK
+      # 2. HASH CHECK (only for source.txt)
       # =========================
       - name: Check content hash
         id: hash
@@ -45,9 +45,9 @@ jobs:
           echo $NEW_HASH > last_hash.txt
 
       # =========================
-      # 3. PROCESS SOURCE → source.txt
+      # 3. PROCESS → source.txt (ONLY IF CHANGED)
       # =========================
-      - name: Process data
+      - name: Generate source.txt
         if: steps.hash.outputs.changed == 'true'
         run: |
           awk '
@@ -97,11 +97,17 @@ jobs:
           cat source.txt
 
       # =========================
-      # 4. GENERATE schedule.txt
+      # 4. ALWAYS GENERATE schedule.txt
       # =========================
       - name: Generate schedule.txt
-        if: steps.hash.outputs.changed == 'true'
         run: |
+          # kalau source.txt belum ada (karena tidak berubah), pakai versi lama
+          if [ ! -f source.txt ]; then
+            cp source.txt schedule.tmp 2>/dev/null || touch schedule.tmp
+          else
+            cp source.txt schedule.tmp
+          fi
+
           awk -F'#' '
           {
               league = $1
@@ -116,21 +122,28 @@ jobs:
 
               print league "#" match "#" url
           }
-          ' source.txt > schedule.txt
+          ' schedule.tmp > schedule.txt
+
+          rm -f schedule.tmp
 
           echo "=== schedule.txt ==="
           cat schedule.txt
 
       # =========================
-      # 5. COMMIT ALL
+      # 5. COMMIT (ALWAYS schedule.txt, conditional source.txt)
       # =========================
       - name: Commit changes
-        if: steps.hash.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add source.txt schedule.txt last_hash.txt
+          git add schedule.txt last_hash.txt
 
-          git commit -m "update source & schedule (content changed)"
+          # source.txt hanya kalau berubah
+          if [ "${{ steps.hash.outputs.changed }}" = "true" ]; then
+            git add source.txt
+          fi
+
+          git commit -m "update schedule (always) + source (if changed)" || echo "no changes"
+
           git push
