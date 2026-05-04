@@ -47,54 +47,38 @@ jobs:
       # =========================
       # 3. PROCESS → source.txt (ONLY IF CHANGED)
       # =========================
-      - name: Generate source.txt
-        if: steps.hash.outputs.changed == 'true'
+      - name: Generate schedule.txt
         run: |
-          awk '
-          BEGIN { RS=""; FS="\n" }
-
+          awk -F'#' '
           {
-              block = $0
+              league = $1
+              game   = $2
+              url    = $3
 
-              if (block !~ / vs /) next
-              if (block !~ /m3u8/) next
+              # skip kalau kosong
+              if (league == "" || game == "" || url == "") next
 
-              split(block, lines, "\n")
-              header = lines[1]
+              # normalize TAB → SPACE
+              gsub(/\t/, " ", league)
+              gsub(/\t/, " ", game)
+              gsub(/\t/, " ", url)
 
-              if (match(header, /[0-9]{2}:[0-9]{2}/)) {
-                  time = substr(header, RSTART, RLENGTH)
-              } else next
-
-              gsub(/\[[^]]*\]/, "", header)
-              gsub(/\^\-[a-zA-Z0-9]*/, "", header)
-
-              sub(/^[0-9]{2}:[0-9]{2}[ \t]*/, "", header)
-              league = header
+              # HARD TRIM (hapus spasi depan & belakang)
               gsub(/^ +| +$/, "", league)
+              gsub(/^ +| +$/, "", game)
+              gsub(/^ +| +$/, "", url)
 
-              for (i = 2; i <= length(lines); i++) {
-                  line = lines[i]
+              # hapus spasi ganda di dalam string
+              gsub(/  +/, " ", league)
+              gsub(/  +/, " ", game)
 
-                  if (line ~ / vs / && line ~ /m3u8/) {
-
-                      if (match(line, /(.* vs .*?)\s/)) {
-                          game = substr(line, RSTART, RLENGTH)
-                          gsub(/[ \t]+$/, "", game)
-                      } else next
-
-                      if (match(line, /https?:\/\/[^ ]+\.m3u8[^ ]*/)) {
-                          url = substr(line, RSTART, RLENGTH)
-                      } else next
-
-                      print league "#" time " " game "#" url
-                  }
-              }
+              # rebuild format CLEAN (tanpa space di sekitar #)
+              print league "#" game "#" url
           }
-          ' data.txt > source.txt
+          ' source.txt > schedule.txt
 
-          echo "=== source.txt ==="
-          cat source.txt
+          echo "=== CLEAN schedule.txt ==="
+          cat schedule.txt
 
       # =========================
       # 4. ALWAYS GENERATE schedule.txt
