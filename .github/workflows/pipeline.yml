@@ -65,35 +65,47 @@ jobs:
           with open("source.txt","r",encoding="utf-8") as f:
               txt = f.read()
 
-          # Regex header: jam + kode + kategori
-          header_pattern = re.compile(r"(\d{2}:\d{2}) \[[a-z0-9]\](.*?)\[z\]")
-
-          # Regex pertandingan + URL .m3u8
-          url_pattern = re.compile(r"([^\n]+ vs [^\n]+)\s+(https?://[^\s]+\.m3u8[^\s]*)")
+          lines = txt.splitlines()
 
           blocks = []
 
-          headers = list(header_pattern.finditer(txt))
-          for i, header in enumerate(headers):
-              jam = header.group(1).strip()
-              kategori = header.group(2).strip()
-              
-              start = header.end()
-              if i + 1 < len(headers):
-                  end = headers[i + 1].start()
-              else:
-                  end = len(txt)
-              
-              block_text = txt[start:end]
+          # header sekarang: 15:30 Super League
+          header_pattern = re.compile(r"(\d{2}:\d{2})\s+(.*)")
 
-              matches = url_pattern.findall(block_text)
-              for match in matches:
-                  match_line = f"{kategori}#{jam} {match[0].strip()}#{match[1].strip()}"
-                  blocks.append(match_line)
+          # ambil hanya m3u8 valid
+          url_pattern = re.compile(r"https?://\S+\.m3u8\S*")
+
+          current_time = None
+          current_category = None
+
+          for i in range(len(lines)):
+              line = lines[i].strip()
+
+              # deteksi header
+              h = header_pattern.match(line)
+              if h:
+                  current_time = h.group(1).strip()
+                  current_category = h.group(2).strip()
+                  continue
+
+              # deteksi match line
+              if "vs" in line and current_time and current_category:
+                  match_name = line.split("\t")[0].strip()
+
+                  # cari URL di baris ini
+                  urls = url_pattern.findall(line)
+
+                  # kalau tidak ada, cek baris berikutnya
+                  if not urls and i + 1 < len(lines):
+                      urls = url_pattern.findall(lines[i + 1])
+
+                  if urls:
+                      blocks.append(
+                          f"{current_category}#{current_time} {match_name}#{urls[0]}"
+                      )
 
           with open("schedule.txt","w",encoding="utf-8") as f:
-              for b in blocks:
-                  f.write(b + "\n")
+              f.write("\n".join(blocks) + "\n")
 
           print("EXTRACT DONE:", len(blocks))
           EOF
