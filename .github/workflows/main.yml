@@ -14,10 +14,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      # =========================
+      # 1. FETCH SOURCE
+      # =========================
       - name: Fetch source
         run: |
           curl -s "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt" -o data.txt
 
+      # =========================
+      # 2. HASH CHECK
+      # =========================
       - name: Check content hash
         id: hash
         run: |
@@ -38,10 +44,9 @@ jobs:
 
           echo $NEW_HASH > last_hash.txt
 
-      - name: Skip if no change
-        if: steps.hash.outputs.changed == 'false'
-        run: echo "No content change detected"
-
+      # =========================
+      # 3. PROCESS SOURCE → source.txt
+      # =========================
       - name: Process data
         if: steps.hash.outputs.changed == 'true'
         run: |
@@ -88,16 +93,44 @@ jobs:
           }
           ' data.txt > source.txt
 
-          echo "=== OUTPUT ==="
+          echo "=== source.txt ==="
           cat source.txt
 
+      # =========================
+      # 4. GENERATE schedule.txt
+      # =========================
+      - name: Generate schedule.txt
+        if: steps.hash.outputs.changed == 'true'
+        run: |
+          awk -F'#' '
+          {
+              league = $1
+              match  = $2
+              url    = $3
+
+              if (league == "" || match == "" || url == "") next
+
+              gsub(/^ +| +$/, "", league)
+              gsub(/^ +| +$/, "", match)
+              gsub(/^ +| +$/, "", url)
+
+              print league "#" match "#" url
+          }
+          ' source.txt > schedule.txt
+
+          echo "=== schedule.txt ==="
+          cat schedule.txt
+
+      # =========================
+      # 5. COMMIT ALL
+      # =========================
       - name: Commit changes
         if: steps.hash.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add source.txt last_hash.txt
+          git add source.txt schedule.txt last_hash.txt
 
-          git commit -m "update source.txt (content changed)"
+          git commit -m "update source & schedule (content changed)"
           git push
