@@ -101,30 +101,29 @@ jobs:
       # =========================
       - name: Generate schedule.txt
         run: |
-          # kalau source.txt belum ada (karena tidak berubah), pakai versi lama
+          # selalu pastikan file ada
           if [ ! -f source.txt ]; then
-            cp source.txt schedule.tmp 2>/dev/null || touch schedule.tmp
-          else
-            cp source.txt schedule.tmp
+            echo "source.txt not found, skipping"
+            touch source.txt
           fi
 
           awk -F'#' '
           {
               league = $1
-              match  = $2
+              game   = $2
               url    = $3
 
-              if (league == "" || match == "" || url == "") next
+              # skip kosong
+              if (league == "" || game == "" || url == "") next
 
+              # trim spasi
               gsub(/^ +| +$/, "", league)
-              gsub(/^ +| +$/, "", match)
+              gsub(/^ +| +$/, "", game)
               gsub(/^ +| +$/, "", url)
 
-              print league "#" match "#" url
+              print league "#" game "#" url
           }
-          ' schedule.tmp > schedule.txt
-
-          rm -f schedule.tmp
+          ' source.txt > schedule.txt
 
           echo "=== schedule.txt ==="
           cat schedule.txt
