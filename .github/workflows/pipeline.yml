@@ -63,46 +63,66 @@ jobs:
           import re
 
           with open("source.txt","r",encoding="utf-8") as f:
-              txt = f.read()
+              lines = [l.strip() for l in f if l.strip()]
 
-          lines = txt.splitlines()
+          header_pattern = re.compile(r"\[(.*?)\]\s*(.*?)\s*\[z\]|(.*?)\s*\[z\]|(.*?)")
 
-          blocks = []
-
-          # header sekarang: 15:30 Super League
-          header_pattern = re.compile(r"(\d{2}:\d{2})\s+(.*)")
-
-          # ambil hanya m3u8 valid
           url_pattern = re.compile(r"https?://\S+\.m3u8\S*")
 
-          current_time = None
+          blocks = []
+          seen = set()
+
           current_category = None
+          current_time = None
 
-          for i in range(len(lines)):
-              line = lines[i].strip()
+          for i, line in enumerate(lines):
 
-              # deteksi header
-              h = header_pattern.match(line)
-              if h:
-                  current_time = h.group(1).strip()
-                  current_category = h.group(2).strip()
+              # =========================
+              # CLEAN HEADER
+              # =========================
+              if ":" in line and "vs" not in line:
+                  # contoh:
+                  # Super League ^-
+                  # [y]English Premier League[z] ^-
+
+                  line_clean = line.replace("^-", "").strip()
+
+                  # hapus tag [y] [g] dll
+                  line_clean = re.sub(r"\[[a-z]\]", "", line_clean)
+                  line_clean = line_clean.replace("[z]", "").strip()
+
+                  parts = line_clean.split()
+
+                  # ambil jam jika ada
+                  time_match = re.search(r"(\d{2}:\d{2})", line_clean)
+                  if time_match:
+                      current_time = time_match.group(1)
+
+                  # kategori = sisa teks tanpa jam
+                  current_category = re.sub(r"\d{2}:\d{2}", "", line_clean).strip()
+
                   continue
 
-              # deteksi match line
-              if "vs" in line and current_time and current_category:
+              # =========================
+              # MATCH LINE
+              # =========================
+              if "vs" in line and current_category and current_time:
+
                   match_name = line.split("\t")[0].strip()
 
-                  # cari URL di baris ini
                   urls = url_pattern.findall(line)
 
-                  # kalau tidak ada, cek baris berikutnya
                   if not urls and i + 1 < len(lines):
                       urls = url_pattern.findall(lines[i + 1])
 
                   if urls:
-                      blocks.append(
-                          f"{current_category}#{current_time} {match_name}#{urls[0]}"
-                      )
+                      url = urls[-1]  # ambil yang paling valid
+
+                      key = f"{current_category}#{current_time} {match_name}#{url}"
+
+                      if key not in seen:
+                          seen.add(key)
+                          blocks.append(key)
 
           with open("schedule.txt","w",encoding="utf-8") as f:
               f.write("\n".join(blocks) + "\n")
