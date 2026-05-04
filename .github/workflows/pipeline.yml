@@ -30,29 +30,29 @@ jobs:
 # 2. FETCH ONCE ONLY (SOURCE)
 # =========================
       - name: Fetch source only once (forced refresh)
-      run: |
-        python - << 'EOF'
-        import requests
-        import time
-        import re
+        run: |
+          python - << 'EOF'
+          import requests
+          import time
+          import re
 
-        url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
-
-        headers = {
+          url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
+ 
+          headers = {
             "Cache-Control": "no-cache",
             "Pragma": "no-cache"
-        }
+          }
 
-        txt = requests.get(url, headers=headers).text
+          txt = requests.get(url, headers=headers).text
 
-        # FORCE DIFFERENCE MARKER (biar selalu dianggap file baru)
-        txt = f"<!-- RUN {time.time()} -->\n" + txt
+          # FORCE DIFFERENCE MARKER (biar selalu dianggap file baru)
+          txt = f"<!-- RUN {time.time()} -->\n" + txt
 
-        # =========================
-        # FILTER BLOK VALID
-        # =========================
-        # kategori yang mau diambil
-        valid_categories = [
+          # =========================
+          # FILTER BLOK VALID
+          # =========================
+          # kategori yang mau diambil
+          valid_categories = [
             "Argentine Division 1",
             "Danish Superliga",
             "English Premier League",
@@ -64,16 +64,16 @@ jobs:
             "Spanish La Liga",
             "Super League",
             "Sweden Allsvenskan"
-        ]
+          ]
 
-        # pisahkan per baris
-        lines = [l.strip() for l in txt.splitlines() if l.strip()]
-        valid_lines = []
-        current_header = None
+          # pisahkan per baris
+          lines = [l.strip() for l in txt.splitlines() if l.strip()]
+          valid_lines = []
+          current_header = None
 
-        header_pattern = re.compile(r"(\d{2}:\d{2})\s+(.*)")
+          header_pattern = re.compile(r"(\d{2}:\d{2})\s+(.*)")
 
-        for line in lines:
+          for line in lines:
             h = header_pattern.match(line)
             if h:
                 jam = h.group(1)
@@ -89,12 +89,12 @@ jobs:
                 if current_header:
                     valid_lines.append(line)
 
-        # tulis kembali ke source.txt
-        with open("source.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(valid_lines) + "\n")
+          # tulis kembali ke source.txt
+          with open("source.txt", "w", encoding="utf-8") as f:
+              f.write("\n".join(valid_lines) + "\n")
 
-        print(f"SOURCE FORCED REFRESHED + FILTERED BLOCKS ({len(valid_lines)} lines)")
-        EOF
+          print(f"SOURCE FORCED REFRESHED + FILTERED BLOCKS ({len(valid_lines)} lines)")
+          EOF
 
 
 # =========================
