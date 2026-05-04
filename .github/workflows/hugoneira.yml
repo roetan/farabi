@@ -2,6 +2,8 @@ name: Synchronizer
 
 on:
   workflow_dispatch: 
+  repository_dispatch:
+   types: [run-synchronizer]
 
 jobs:
   sync-and-merge:
