@@ -2,6 +2,8 @@ name: Extract Stream Blocks
 
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [run-extract]
 
 jobs:
   extract:
