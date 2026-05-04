@@ -1,4 +1,4 @@
-name: Extract Stream Info
+name: Extract Stream Blocks
 
 on:
   workflow_dispatch:
@@ -14,64 +14,68 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch and process data
+      - name: Fetch & parse
         run: |
           curl -s "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt" -o data.txt
 
           awk '
-          / vs / && /.m3u8/ {
-              line = $0
+          BEGIN {
+              FS="\n"
+              RS=""
+          }
 
-              # ambil jam
-              if (match(line, /[0-9]{2}:[0-9]{2}/)) {
-                  time = substr(line, RSTART, RLENGTH)
-              } else {
-                  next
+          {
+              block = $0
+
+              # ambil jam + liga dari baris pertama
+              if (match(block, /[0-9]{2}:[0-9]{2}/)) {
+                  time = substr(block, RSTART, RLENGTH)
+              } else next
+
+              # ambil liga (baris pertama sebelum ^-)
+              split(block, lines, "\n")
+              header = lines[1]
+
+              gsub(/\[[^]]*\]/, "", header)
+              gsub(/\^\-[a-zA-Z0-9]*/, "", header)
+
+              match(header, /^[0-9]{2}:[0-9]{2} (.*)/, m)
+              league = m[1]
+              gsub(/^[ \t]+|[ \t]+$/, "", league)
+
+              # proses line match + url
+              for (i = 2; i <= length(lines); i++) {
+                  line = lines[i]
+
+                  if (line ~ /vs/ && line ~ /m3u8/) {
+
+                      # ambil match
+                      match(line, /(.* vs .*?)\s/)
+                      game = substr(line, RSTART, RLENGTH)
+                      gsub(/[ \t]+$/, "", game)
+
+                      # ambil url m3u8
+                      if (match(line, /https?:\/\/[^ ]+\.m3u8[^ ]*/)) {
+                          url = substr(line, RSTART, RLENGTH)
+                      } else {
+                          continue
+                      }
+
+                      # output
+                      print league "#" time " " game "#" url
+                  }
               }
-
-              # ambil URL
-              if (match(line, /https?:\/\/[^ ]+\.m3u8[^ ]*/)) {
-                  url = substr(line, RSTART, RLENGTH)
-              } else {
-                  next
-              }
-
-              # hapus URL dari line
-              gsub(url, "", line)
-
-              # ambil teks setelah jam
-              sub(/^.*[0-9]{2}:[0-9]{2}/, "", line)
-              rest = line
-
-              # cleaning
-              gsub(/\[[^]]*\]/, "", rest)
-              gsub(/\^\-[a-zA-Z0-9]*/, "", rest)
-              gsub(/^ +| +$/, "", rest)
-
-              # split sebelum vs
-              split(rest, tmp, " vs ")
-              left = tmp[1]
-
-              # ambil liga (semua sebelum 2 kata terakhir)
-              n = split(left, words, " ")
-              league = ""
-              for (i = 1; i <= n-2; i++) {
-                  league = league words[i]
-                  if (i < n-2) league = league " "
-              }
-
-              print league "#" time " " rest "#" url
           }
           ' data.txt > source.txt
 
-          echo "=== HASIL ==="
+          echo "=== OUTPUT ==="
           cat source.txt
 
-      - name: Force commit & push
+      - name: Force commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add source.txt
-          git commit --allow-empty -m "Update source.txt $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit --allow-empty -m "update source.txt $(date '+%H:%M:%S')"
           git push
