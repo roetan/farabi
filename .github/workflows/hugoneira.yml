@@ -17,7 +17,7 @@ jobs:
       - name: 2. Fetch HUGO dan Label WIB
         run: |
           # 1. Download file
-          curl -sSL "https://raw.githubusercontent.com/t23-02/bongda/main/bongda.m3u" -o "bongda1.m3u" || echo "Gagal HUGO"
+          curl -sSL "https://raw.githubusercontent.com/t23-02/bongda/main/bongda.m3u" -o "hugo.m3u" || echo "Gagal HUGO"
           
           # 2. Transformasi: Hapus zona waktu asing yang umum (ET, UK, GMT, dll.)
           # Menggunakan sintaks sed yang lebih aman
