@@ -14,26 +14,46 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch & parse
+      - name: Fetch source
         run: |
           curl -s "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt" -o data.txt
 
+      - name: Check content hash
+        id: hash
+        run: |
+          NEW_HASH=$(sha256sum data.txt | awk '{print $1}')
+          echo "new_hash=$NEW_HASH" >> $GITHUB_OUTPUT
+
+          if [ -f last_hash.txt ]; then
+            OLD_HASH=$(cat last_hash.txt)
+          else
+            OLD_HASH=""
+          fi
+
+          if [ "$NEW_HASH" = "$OLD_HASH" ]; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+          echo $NEW_HASH > last_hash.txt
+
+      - name: Skip if no change
+        if: steps.hash.outputs.changed == 'false'
+        run: echo "No content change detected"
+
+      - name: Process data
+        if: steps.hash.outputs.changed == 'true'
+        run: |
           awk '
-          BEGIN {
-              RS=""
-              FS="\n"
-          }
+          BEGIN { RS=""; FS="\n" }
 
           {
               block = $0
 
-              # WAJIB ada "vs"
               if (block !~ / vs /) next
-
-              # WAJIB ada m3u8
               if (block !~ /m3u8/) next
 
-              # ambil header jam + liga
               split(block, lines, "\n")
               header = lines[1]
 
@@ -48,29 +68,19 @@ jobs:
               league = header
               gsub(/^ +| +$/, "", league)
 
-              # cari baris valid: harus vs + m3u8 + ada team
               for (i = 2; i <= length(lines); i++) {
                   line = lines[i]
 
                   if (line ~ / vs / && line ~ /m3u8/) {
 
-                      # ambil game
                       if (match(line, /(.* vs .*?)\s/)) {
                           game = substr(line, RSTART, RLENGTH)
                           gsub(/[ \t]+$/, "", game)
-                      } else {
-                          next
-                      }
+                      } else next
 
-                      # ambil URL m3u8 saja
                       if (match(line, /https?:\/\/[^ ]+\.m3u8[^ ]*/)) {
                           url = substr(line, RSTART, RLENGTH)
-                      } else {
-                          next
-                      }
-
-                      # filter tambahan: buang jika tidak ada "vs" di game valid
-                      if (game !~ / vs /) next
+                      } else next
 
                       print league "#" time " " game "#" url
                   }
@@ -78,14 +88,16 @@ jobs:
           }
           ' data.txt > source.txt
 
-          echo "=== CLEAN OUTPUT ==="
+          echo "=== OUTPUT ==="
           cat source.txt
 
-      - name: Force commit
+      - name: Commit changes
+        if: steps.hash.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add source.txt
-          git commit --allow-empty -m "update source.txt $(date '+%H:%M:%S')"
+          git add source.txt last_hash.txt
+
+          git commit -m "update source.txt (content changed)"
           git push
