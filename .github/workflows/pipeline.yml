@@ -29,71 +29,45 @@ jobs:
 # =========================
 # 2. FETCH ONCE ONLY (SOURCE)
 # =========================
-      - name: Fetch source only once (forced refresh)
+      - name: Extract Clean Blocks
         run: |
           python - << 'EOF'
-          import requests
-          import time
           import re
 
-          url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
- 
-          headers = {
-            "Cache-Control": "no-cache",
-            "Pragma": "no-cache"
-          }
+          with open("source.txt","r",encoding="utf-8") as f:
+              txt = f.read()
 
-          txt = requests.get(url, headers=headers).text
+          # Regex header: jam + kode + kategori
+          header_pattern = re.compile(r"(\d{2}:\d{2}) \[[a-z0-9]\](.*?)\[z\]")
 
-          # FORCE DIFFERENCE MARKER (biar selalu dianggap file baru)
-          txt = f"<!-- RUN {time.time()} -->\n" + txt
+          # Regex pertandingan + URL .m3u8
+          url_pattern = re.compile(r"([^\n]+ vs [^\n]+)\s+(https?://[^\s]+\.m3u8[^\s]*)")
 
-          # =========================
-          # FILTER BLOK VALID
-          # =========================
-          # kategori yang mau diambil
-          valid_categories = [
-            "Argentine Division 1",
-            "Danish Superliga",
-            "English Premier League",
-            "Finnish Super League",
-            "Italian Serie A",
-            "Portuguese Primera Liga",
-            "Saudi Professional League",
-            "Scottish Premiership",
-            "Spanish La Liga",
-            "Super League",
-            "Sweden Allsvenskan"
-          ]
+          blocks = []
 
-          # pisahkan per baris
-          lines = [l.strip() for l in txt.splitlines() if l.strip()]
-          valid_lines = []
-          current_header = None
+          headers = list(header_pattern.finditer(txt))
+          for i, header in enumerate(headers):
+              jam = header.group(1).strip()
+              kategori = header.group(2).strip()
+              
+              start = header.end()
+              if i + 1 < len(headers):
+                  end = headers[i + 1].start()
+              else:
+                  end = len(txt)
+              
+              block_text = txt[start:end]
 
-          header_pattern = re.compile(r"(\d{2}:\d{2})\s+(.*)")
+              matches = url_pattern.findall(block_text)
+              for match in matches:
+                  match_line = f"{kategori}#{jam} {match[0].strip()}#{match[1].strip()}"
+                  blocks.append(match_line)
 
-          for line in lines:
-            h = header_pattern.match(line)
-            if h:
-                jam = h.group(1)
-                kategori = h.group(2).strip()
-                # cek apakah kategori valid
-                if any(k in kategori.lower() for k in valid_categories):
-                    current_header = (jam, kategori)
-                    valid_lines.append(line)  # simpan header
-                else:
-                    current_header = None
-            else:
-                # hanya simpan jika ada header valid sebelumnya
-                if current_header:
-                    valid_lines.append(line)
+          with open("schedule.txt","w",encoding="utf-8") as f:
+              for b in blocks:
+                  f.write(b + "\n")
 
-          # tulis kembali ke source.txt
-          with open("source.txt", "w", encoding="utf-8") as f:
-              f.write("\n".join(valid_lines) + "\n")
-
-          print(f"SOURCE FORCED REFRESHED + FILTERED BLOCKS ({len(valid_lines)} lines)")
+          print("EXTRACT DONE:", len(blocks))
           EOF
 
 
