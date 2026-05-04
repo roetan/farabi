@@ -29,18 +29,28 @@ jobs:
 # =========================
 # 2. FETCH ONCE ONLY (SOURCE)
 # =========================
-      - name: Fetch source only once
+      - name: Fetch source only once (forced refresh)
         run: |
           python - << 'EOF'
           import requests
+          import time
 
           url = "https://raw.githubusercontent.com/englishcd/ai/refs/heads/main/a0a.txt"
-          txt = requests.get(url).text
+
+          headers = {
+              "Cache-Control": "no-cache",
+              "Pragma": "no-cache"
+          }
+
+          txt = requests.get(url, headers=headers).text
+
+          # FORCE DIFFERENCE MARKER (biar selalu dianggap file baru)
+          txt = f"<!-- RUN {time.time()} -->\n" + txt
 
           with open("source.txt", "w", encoding="utf-8") as f:
               f.write(txt)
 
-          print("SOURCE SAVED")
+          print("SOURCE FORCED REFRESHED")
           EOF
 
 
