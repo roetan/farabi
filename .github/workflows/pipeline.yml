@@ -61,39 +61,40 @@ jobs:
         run: |
           python - << 'EOF'
           import re
+          import time
 
           with open("source.txt","r",encoding="utf-8") as f:
               txt = f.read()
 
-          # Regex header: jam + kode + kategori
-          header_pattern = re.compile(r"(\d{2}:\d{2}) \[[a-z0-9]\](.*?)\[z\]")
+          # HEADER lebih fleksibel (tidak tergantung [a-z0-9] saja)
+          header_pattern = re.compile(r"(\d{2}:\d{2})\s*\[(.*?)\](.*?)\[z\]")
 
-          # Regex pertandingan + URL .m3u8
-          url_pattern = re.compile(r"([^\n]+ vs [^\n]+)\s+(https?://[^\s]+\.m3u8[^\s]*)")
+          # MATCH lebih tahan variasi spasi & format URL
+          url_pattern = re.compile(r"(.+?vs.+?)\s+(https?://\S+?\.m3u8\S*)")
 
           blocks = []
-
           headers = list(header_pattern.finditer(txt))
+
           for i, header in enumerate(headers):
               jam = header.group(1).strip()
               kategori = header.group(2).strip()
-              
-              start = header.end()
-              if i + 1 < len(headers):
-                  end = headers[i + 1].start()
-              else:
-                  end = len(txt)
-              
-              block_text = txt[start:end]
 
+              start = header.end()
+              end = headers[i + 1].start() if i + 1 < len(headers) else len(txt)
+
+              block_text = txt[start:end]
               matches = url_pattern.findall(block_text)
+
               for match in matches:
                   match_line = f"{kategori}#{jam} {match[0].strip()}#{match[1].strip()}"
                   blocks.append(match_line)
 
+          # FORCE OUTPUT SELALU BERUBAH
+          run_id = int(time.time())
+          blocks.append(f"#RUN {run_id}")
+
           with open("schedule.txt","w",encoding="utf-8") as f:
-              for b in blocks:
-                  f.write(b + "\n")
+              f.write("\n".join(blocks) + "\n")
 
           print("EXTRACT DONE:", len(blocks))
           EOF
