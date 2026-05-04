@@ -33,9 +33,6 @@ jobs:
         run: |
           FINAL_OUTPUT="jadwal.m3u"
           
-          # Buat Header Baru
-          echo "#EXTM3U" > "$FINAL_OUTPUT"
-          
           # Fungsi Penggabungan
           append_content() {
               FILENAME=$1
