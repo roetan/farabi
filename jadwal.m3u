@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777920040.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777920040.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6806_1ht90z022j0.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC (Lương Sơn) BLV KHỔNG MINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
@@ -42,20 +42,12 @@ https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a2
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV TÔN LẬP flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV KAKA m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777920040.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/440_1h1jgrf3gr2k.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju Football Club (Lương Sơn) BLV KAKA flv
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777920040.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/caa38bc35c5f4c7c72cb1b18cb6f0a40/image/small?v=1768601124",08:00 WIB 05/05 International San Carlos vs Escorpiones Belen (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/bc35d8905df609dde9b4a03e5652168e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a7310022b3bb408b1633a74e4156e502/image/small?v=1768601124",12:00 WIB 05/05 Gyeongju Korea Hydro & Nuclear Power WFC vs Seoul Amazones Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9c0a4da156acd4a6da8644dc0d2412d1/playlist.m3u8
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d3976c3dc694f6a214deb45940de5360/image/small?v=1768601124",12:00 WIB 05/05 Chuncheon Citizen vs Mokpo City (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -116,6 +108,14 @@ https://live.alilicloud.com/live/dd01e2b776dbcffb93e277ea7bae74b2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/80f01b368023ec1dd75d3cb83c5a40d7/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/caa38bc35c5f4c7c72cb1b18cb6f0a40/image/small?v=1768601124",08:00 WIB 05/05 International San Carlos vs Escorpiones Belen (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/bc35d8905df609dde9b4a03e5652168e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a7310022b3bb408b1633a74e4156e502/image/small?v=1768601124",12:00 WIB 05/05 Gyeongju Korea Hydro & Nuclear Power WFC vs Seoul Amazones Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9c0a4da156acd4a6da8644dc0d2412d1/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133957_d2e52bb4.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju United FC (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -276,10 +276,6 @@ https://gckc0525.edgemaxcdn.org/live/chanhhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chanhhd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a7310022b3bb408b1633a74e4156e502/image/small?v=1768601124",12:00 WIB 05/05 Gyeongju Korea Hydro & Nuclear Power WFC vs Seoul Amazones Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9c0a4da156acd4a6da8644dc0d2412d1/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d3976c3dc694f6a214deb45940de5360/image/small?v=1768601124",12:00 WIB 05/05 Chuncheon Citizen vs Mokpo City (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -328,222 +324,226 @@ https://live.alilicloud.com/live/dd01e2b776dbcffb93e277ea7bae74b2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/80f01b368023ec1dd75d3cb83c5a40d7/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=315db6d9c059ca8d0cd1f260c0e41b91&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=06189db5b203e60cf6d50a1cacb5ebd0&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=315db6d9c059ca8d0cd1f260c0e41b91&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=06189db5b203e60cf6d50a1cacb5ebd0&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1777963645-0-0-a00199093f98d646ddeba3bc1cdc97a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1777963645-0-0-a62b67f5c95920941c13b7a25380b13d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1777963645-0-0-fc5582f305224d9ea6e7e635bde61641
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1777963645-0-0-aba417f8c69ed571c4fc6b1a7cc9cba5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1777963645-0-0-2c7a6ad3b2eede561d2c81208296d275
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1777963645-0-0-b87f5e1ed8d288986292c709a73dd5b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1777963645-0-0-f8998c0ccc148ead76cad7a551257388
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1777963645-0-0-beadeca2537e24b1caf15e9c44bdd754
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=4f57f5efa75a1d1d63a9994957d137d5&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=a764cda0514e8be97941adf96f42b232&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=4f57f5efa75a1d1d63a9994957d137d5&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=a764cda0514e8be97941adf96f42b232&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=61cf1a516671783667b254bb1db42ca0&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=252557bd1c9cb5d5ed5d4c8d76ef4da5&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=61cf1a516671783667b254bb1db42ca0&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=252557bd1c9cb5d5ed5d4c8d76ef4da5&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=5822eb9e2150b91d052d29d30c242805&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=7041c688c69a65df2ac07c9980100861&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=5822eb9e2150b91d052d29d30c242805&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=7041c688c69a65df2ac07c9980100861&txTime=69f9d8cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1777963645-0-0-8f8c4d42da4e2ffbf4280cd1bef5e1ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1777963645-0-0-17802af0e83ab52caab8e36da25fbf09
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1777963645-0-0-1626787c1b131bd221f043a4ece173d0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1777963645-0-0-6c2a963e56d38991e0010fae1c30bcd5
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a7310022b3bb408b1633a74e4156e502/image/small?v=1768601124",12:00 WIB 05/05 Gyeongju Korea Hydro & Nuclear Power WFC vs Seoul Amazones Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9c0a4da156acd4a6da8644dc0d2412d1/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1777964005-0-0-e26149324358fb0f9fb691fd9e5d4acd
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1777965085-0-0-ed29b0e21ba6fe548f5937844be584e9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1777964005-0-0-ad77199c05ce9708c186ce62acc8d57e
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1777965085-0-0-0d0aba2d85005db82dd175c78b8934a0
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1777964005-0-0-c72be744d187aeb7f07cd04c57dd8495
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1777965085-0-0-6f3e54bb0ff50e6a49c1fe90c3bb662b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1777964005-0-0-ddea3349ddbc3c233e3fa3556b4bc88b
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1777965085-0-0-c35e3f595394808a4497d080c68c2fb9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1777964005-0-0-01ec30cef6c029faa2beef9828855d13
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1777965085-0-0-dd10eee1945785fbc1b233954bf1da46
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1777964005-0-0-320c3ef6cdd863fee23b51a72ef98291
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1777965085-0-0-9dfad8e2fe2b82fe00765c6798c9f456
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1777964005-0-0-1c5718101b6cb7869b200743d83331b4
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1777965085-0-0-6aad9ddce255cb544144245e92b18500
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1777964005-0-0-7ccff36226670c68e4bc667fa6832371
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1777965085-0-0-35d2b6536a99c14d89bdb4aeb7581d03
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ENZO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1777964005-0-0-b4981f3c1a00f399a883b6b7162433ae
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1777965085-0-0-0e044c9ca808971e81a663706b5cc453
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ENZO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1777964005-0-0-de2351d79f2606a6881f8030e09b6288
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1777965085-0-0-a16c6a90871072efcae616df4925be2f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ENZO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1777964005-0-0-7bfd0759daaa3786135fdab2b018e1cc
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1777965085-0-0-510bde450ad69c77b7b6a049265777c8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ENZO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1777964005-0-0-540236d29912715a8757f6ba704fa9a4
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1777965085-0-0-3ad5ecba378d55cea0e6d8707065cf1a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1777964005-0-0-298cd8ff4d4578b80cb0797e2d35ad3c
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1777965085-0-0-b8f0b569abe045498ff971247d900408
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1777964005-0-0-434a8535c0e612d7799051fa59821430
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1777965085-0-0-ab4ff5dbddc2bdac4942664a51fa16fe
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1777964005-0-0-7eb3e84ce2f73b7654f848e3b3e0e6f3
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1777965085-0-0-8ffcb6f3477fb4847c14ebecbafc381e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1777964005-0-0-0a79c5ff6139960639ba6c0c76b7ffb4
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1777965085-0-0-36784db5316c04e73ef0f9a075a581db
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1777964005-0-0-37d914931da3077f8b4a768d8bfa80aa
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1777965085-0-0-3e8b3eadd56527ee8f08249edb2489a1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1777964005-0-0-4821d979669789976b90d31c66a265c2
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1777965085-0-0-7876b0f577d79d8e62b4bffebff683dd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1777964005-0-0-f07598145a6db74fff32a5c9ad0919fd
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1777965085-0-0-4d2c6a1b8826b6ba21b9d291018b1b85
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1777964005-0-0-aad9864bd81ce1ae53802ef17431046f
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1777965085-0-0-5a0c572b9d26f47c2a9da5245f6fcafe
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1777964005-0-0-245fa3a61facd57e8afc8a36fc8fb6d8
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1777965085-0-0-82629e53ac26ae4a0ac5d02455eae6c6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1777964005-0-0-42d4d45aee3b49ba163e158f3ee3b964
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1777965085-0-0-93772574a71ac275ec0be1294bd61dc8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1777964005-0-0-3784bb8a38c2a7ec37ffec3f2cadb61a
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1777965085-0-0-3ddc19235da14561491fa40c416c6ee3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1777964005-0-0-2cc1250a0a3407873b033700191a90aa
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1777965085-0-0-411341de15e50cdf64391ac0a31f9c5d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1777964005-0-0-107b82a59c027933f247ded90a8f728f
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1777965085-0-0-fdc4ffd16ac3c9d61882ea8dbd20b59f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1777964005-0-0-ea7b07ae686486836bc6cee4e55cdfd6
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1777965085-0-0-12c83ad2feaedf7214d1d0f5e0c1d33f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1777964005-0-0-c7651d7eba31701c24de217ca181e8a2
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1777965085-0-0-13bef32757d5bdf9b915a1bb8e2f95e7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1777964005-0-0-758b3db6c4c64ad457c511a6f827df7f
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1777965085-0-0-025240eb78b232559e884bbcd295a536
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1777964005-0-0-e21be613128342e591eb28c8b8c3af04
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1777965085-0-0-9fbf6464e267cb729d7676eefaf8090e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1777964005-0-0-47066b08b4e5a63f0d9b0b6a15b11a35
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1777965085-0-0-22351dace5934ae72800e65b32d76590
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777964005-0-0-0e8963754331b63de4dad40e0095b191
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777965085-0-0-e53c5771ffc113c01f9060e0ade2f4b3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777964005-0-0-b2b2d1a02011ebe5f6b93168e4fd9d58
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1777964365-0-0-d2586acaac90681515f4d71791f1b420
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1777964365-0-0-26541b5ea8c172a17ab59c944b098884
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1777964365-0-0-3b78e04dd71b3d9ef466f5070aaae684
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1777964365-0-0-c38e22658ca869feede40408ff13f637
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=74aa8ebefca2c5689767f382f51f2583&txTime=69f9db9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=c17788a5f563778fbad02a852eb034c4&txTime=69f9db9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=74aa8ebefca2c5689767f382f51f2583&txTime=69f9db9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=c17788a5f563778fbad02a852eb034c4&txTime=69f9db9d
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777965085-0-0-d96fef05a19b89066b760bd42439b6d4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV MIXI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1777964365-0-0-43deb237a7e4ccf9c0f7e0a7e269b8ec
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1777965445-0-0-15e00ffb4f4befe16cce2a2ea0e20a5f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV MIXI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1777964365-0-0-515d7ecf4c80e71456cd868dd6b1cfaa
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1777965445-0-0-fcd0a5a1404dc31db63545dca31bd53f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV MIXI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1777964365-0-0-b4a0cee52b095fd6b4b2913096dca95d
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1777965445-0-0-5f484b00191514a786defbd9d9f8fa27
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV MIXI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1777964365-0-0-15840a44a050022043c15c24bf43cae1
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1777965445-0-0-bd08c3b8a58894b10d4331b4a3bc8b97
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1777965445-0-0-105a1f443f5527a530d733e3d2c6dad7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1777965445-0-0-382e6781824c8d3584fe9665a16fd7ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1777965445-0-0-ea7f7eca26ea8e04cbfc75cbc0697448
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1777965445-0-0-3bdb0683d3496f055a151cb085f70a92
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=908346e00bbe14e196a90a532e360acf&txTime=69f9dfd5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=81e3e18a7d401e037fd6f4c8db7ef133&txTime=69f9dfd5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=908346e00bbe14e196a90a532e360acf&txTime=69f9dfd5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=81e3e18a7d401e037fd6f4c8db7ef133&txTime=69f9dfd5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=c92bef2c5a13096069b9f693f239af66&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=ed436bfdf63cec33595b6bd44e0752b4&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=c92bef2c5a13096069b9f693f239af66&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV BÉO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ed436bfdf63cec33595b6bd44e0752b4&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=ef6db78b911b03e87637a405c3fb6543&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=f63f02597e0d72471f096ee5100c45b2&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=ef6db78b911b03e87637a405c3fb6543&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=f63f02597e0d72471f096ee5100c45b2&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=35d0db9ad563d3019a042472e0e1e31a&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=96a08d363963c18104e06621ef09ec6e&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=35d0db9ad563d3019a042472e0e1e31a&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=96a08d363963c18104e06621ef09ec6e&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=2c815036ab6514e2714ad8a5796270f9&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=16b1637035a1bb29d4333227a077054b&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=2c815036ab6514e2714ad8a5796270f9&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=16b1637035a1bb29d4333227a077054b&txTime=69f9e13d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1777965805-0-0-e63e8989b8bb91e48a8d16b334e79e13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1777965805-0-0-aad32dd5d594d73b939d225ef789c689
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1777965805-0-0-5265c42386eb488ecfd6e72b2a1cc496
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/fdb7fd6b0ef72b9b940e87b464837381.png",12:00 WIB 05/05 Jeonbuk Hyundai Motors vs Gwangju FC [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1777965805-0-0-1e59d4feb480b819a272a8ec3867750e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1777965805-0-0-43f0570280c5bd7b280d9e161cd843ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1777965805-0-0-6f04a25b6808849ace44881e4f8a2896
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1777965805-0-0-3f2f3bead8b8b2fb4fa40d519ca084ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/7ddd4a7ff6eece86ce7ee9b44a451e0f.png",12:00 WIB 05/05 Bucheon FC 1995 vs Jeju SK FC [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1777965805-0-0-547b7c485852e06b427ad15deff31527
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1777965805-0-0-1637fd625c5f7b8019d030e3a2473f9c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1777965805-0-0-27ca9900aabf76d44420eb00e1b9b9ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1777965805-0-0-b4d59a0dfb9776fca6c9b16c4a91da44
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/a52c8213515f16539f17e870daebe2ab.png",12:00 WIB 05/05 Goyang Sono vs KCC Egis [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1777965805-0-0-ed86c6f3644bfdb83b67f7c7981e2ab2
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://i.pinimg.com/474x/a2/15/26/a215265c058c137f372492e73f02beaf.jpg",12:00 WIB 05/05 Goyang Sono vs KCC Egis (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
