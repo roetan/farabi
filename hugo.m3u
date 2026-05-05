@@ -8,18 +8,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777920003.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777920003.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1584_1htkbf6ndy1h.png",05h30 ngày 05/05 CA Penarol vs Defensor Sporting Montevideo (Lương Sơn) BLV URA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1584_1htkbf6ndy1h.png",05h30 ngày 05/05 CA Penarol vs Defensor Sporting Montevideo (Lương Sơn) BLV URA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/32255_1k14v1wzqne.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming (Lương Sơn) BLV KHỔNG MINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
@@ -32,6 +20,40 @@ https://hls-ls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6dae
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/32255_1k14v1wzqne.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming (Lương Sơn) BLV KENCHU flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777920003.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers (Lương Sơn) BLV YẾN THANH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1777920003.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers (Lương Sơn) BLV YẾN THANH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1233_1jna7k7vjg2a.png",07h30 ngày 05/05 D. Concepcion vs Huachipato (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1233_1jna7k7vjg2a.png",07h30 ngày 05/05 D. Concepcion vs Huachipato (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16020_1h6wfbyh431p.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto AC Cordoba (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16020_1h6wfbyh431p.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto AC Cordoba (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/de38bb3d554ec80231a1dddec4a22319/image/small?v=1768601124",05h00 ngày 05/05 Vila Nova vs Athletic Club (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/46b33d85b0b4a84500f9ff411be796b1/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a009e15fa68885f5bbef6867272fb17f/image/small?v=1768601124",02h00 ngày 05/05 Sevilla FC vs Real Sociedad (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e452474ad3097f97ac6432b7bd34ac37/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a3cb2ad85503dfbb1a24b31e12f7a59f/image/small?v=1768601124",02h15 ngày 05/05 Sporting CP vs Vitoria Guimaraes (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/fa7a0b88ddf33a1502e86ed293578f80/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/142b49c0322c369643ff267b96a2f239/image/small?v=1768601124",05h15 ngày 05/05 Velez Sarsfield vs Club Atlético Newell's Old Boys (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9400a8fb2e6ca40eb28a4b9e971841ae/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/70b0bd163432d2be716c17824ca40cc5/image/small?v=1768601124",03h00 ngày 05/05 Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -40,22 +62,22 @@ https://live.alilicloud.com/live/2ea4e2725c34a0a91c9f0bbf3612cba5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/1adb45a94076e69cd139b7609b617baa/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c2a1a707c10fc9f2b3f846a9308004eb/image/small?v=1768601124",07h30 ngày 05/05 Gimnasia yTiro vs Agropecuario de Carlos Casares (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/bbadc9637be010ba794373656cbee7e0/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e25add5adddd312f758baa8e38e297b6/image/small?v=1768601124",06h00 ngày 05/05 Floresta CE vs Maranhao (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/24145fac478a3d10fe1e1f476754cb2f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/45de99d8eedecac58ee6ea005e11ab0c/image/small?v=1768601124",01h45 ngày 05/05 AS Roma vs Fiorentina (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d74638396be3a37c7f33aa5044f959d5/image/small?v=1768601124",07h30 ngày 05/05 SV Jong Aruba vs SV Brazil Juniors (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6374c61b3ae6964fc0ff65eb2418171f/playlist.m3u8
+https://live.alilicloud.com/live/1968555b032ee67745f1f17a914adbf0/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0b1952e9fdcbb44ce68adfa0f0f0e3fd/image/small?v=1768601124",05h30 ngày 05/05 CA Penarol vs Defensor Sporting Montevideo (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/edc5e09a21a1524aea2400cd02b72546/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cd235e8c280a08e980207736609c1a03/image/small?v=1768601124",01h30 ngày 05/05 Almeria vs Mirandes (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3f271ca16cd7a1e00ccd1507656d60ea/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/aed899f9e51c2a039bf8521e1eb19b04/image/small?v=1768601124",06h00 ngày 05/05 Quilmes vs Chacarita juniors (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -64,14 +86,14 @@ https://live.alilicloud.com/live/37e1dc65f55f867f78d472910c074d28/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/4143710322a0456d04dfb07816a210f7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fce171d82daf2f7fa70ddfea63c4fef6/image/small?v=1768601124",01h30 ngày 05/05 LASK Linz vs Rapid Wien (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/dfee85da80b981843bba13f5887c66a9/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/147f17c4fa667f3a07b6f85062e7fbf3/image/small?v=1768601124",06h00 ngày 05/05 Comunicaciones BsAs vs Ituzaingo (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d1b8ceaec2a9847303b561437cc5f17c/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b8dc43f469951298c477ac5d8d4f2d16/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e2a563547a4618672748660c58bf47d8/image/small?v=1768601124",07h00 ngày 05/05 CD Vargas Torres vs Pottu Via Ho (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -96,22 +118,6 @@ https://live.alilicloud.com/live/8a4e0f71834a7b585058c35c961d0f94/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9b0b632bc8ac686bc336bd3d6b833df7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/de38bb3d554ec80231a1dddec4a22319/image/small?v=1768601124",05h00 ngày 05/05 Vila Nova vs Athletic Club (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/46b33d85b0b4a84500f9ff411be796b1/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a009e15fa68885f5bbef6867272fb17f/image/small?v=1768601124",02h00 ngày 05/05 Sevilla FC vs Real Sociedad (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e452474ad3097f97ac6432b7bd34ac37/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a3cb2ad85503dfbb1a24b31e12f7a59f/image/small?v=1768601124",02h15 ngày 05/05 Sporting CP vs Vitoria Guimaraes (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/fa7a0b88ddf33a1502e86ed293578f80/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/142b49c0322c369643ff267b96a2f239/image/small?v=1768601124",05h15 ngày 05/05 Velez Sarsfield vs Club Atlético Newell's Old Boys (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9400a8fb2e6ca40eb28a4b9e971841ae/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130406_7b096f36.png",07h30 ngày 05/05 Estudiantes de Rio Cuarto vs Instituto Cordoba (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -264,14 +270,58 @@ https://gckc0525.edgemaxcdn.org/live/chanhhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chanhhd.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/de38bb3d554ec80231a1dddec4a22319/image/small?v=1768601124",05h00 ngày 05/05 Vila Nova vs Athletic Club (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/46b33d85b0b4a84500f9ff411be796b1/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/142b49c0322c369643ff267b96a2f239/image/small?v=1768601124",05h15 ngày 05/05 Velez Sarsfield vs Club Atlético Newell's Old Boys (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9400a8fb2e6ca40eb28a4b9e971841ae/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/b8dc43f469951298c477ac5d8d4f2d16/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/f6c67149967f476a86dc3009ea1c2d6f/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/f6c67149967f476a86dc3009ea1c2d6f/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/f6c67149967f476a86dc3009ea1c2d6f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/f6c67149967f476a86dc3009ea1c2d6f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/f6c67149967f476a86dc3009ea1c2d6f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/f6c67149967f476a86dc3009ea1c2d6f/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c59525cb6512f0682f68b447ececb4e3/image/small?v=1768601124",06h00 ngày 05/05 Ypiranga(RS) vs Ituano  SP (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/1adb45a94076e69cd139b7609b617baa/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c2a1a707c10fc9f2b3f846a9308004eb/image/small?v=1768601124",07h30 ngày 05/05 Gimnasia yTiro vs Agropecuario de Carlos Casares (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/bbadc9637be010ba794373656cbee7e0/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/e25add5adddd312f758baa8e38e297b6/image/small?v=1768601124",06h00 ngày 05/05 Floresta CE vs Maranhao (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/24145fac478a3d10fe1e1f476754cb2f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d74638396be3a37c7f33aa5044f959d5/image/small?v=1768601124",07h30 ngày 05/05 SV Jong Aruba vs SV Brazil Juniors (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/1968555b032ee67745f1f17a914adbf0/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/0b1952e9fdcbb44ce68adfa0f0f0e3fd/image/small?v=1768601124",05h30 ngày 05/05 CA Penarol vs Defensor Sporting Montevideo (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -328,206 +378,150 @@ https://stm02bc67063175.stream.hdplaylink.com/live/7cf4119d892643d6a22492e6221bd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/9b0b632bc8ac686bc336bd3d6b833df7/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/de38bb3d554ec80231a1dddec4a22319/image/small?v=1768601124",05h00 ngày 05/05 Vila Nova vs Athletic Club (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/46b33d85b0b4a84500f9ff411be796b1/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/142b49c0322c369643ff267b96a2f239/image/small?v=1768601124",05h15 ngày 05/05 Velez Sarsfield vs Club Atlético Newell's Old Boys (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9400a8fb2e6ca40eb28a4b9e971841ae/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) sd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/f6c67149967f476a86dc3009ea1c2d6f/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/f6c67149967f476a86dc3009ea1c2d6f/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/f6c67149967f476a86dc3009ea1c2d6f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/f6c67149967f476a86dc3009ea1c2d6f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/f6c67149967f476a86dc3009ea1c2d6f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f4bffda599decf38e8ad73a8c6a0e87b/image/small?v=1768601124",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://stm02bc67063175.stream.hdplaylink.com/live/f6c67149967f476a86dc3009ea1c2d6f/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [BLV PIRLO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1777943485-0-0-228a8c47b11cffa5f77d14dcdc709f67
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [BLV PIRLO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1777943485-0-0-02ee5fce9f250b0035a1c468708d32be
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [BLV PIRLO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1777943485-0-0-50b21f1ba4d1d1eae152501dd4036ba4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [BLV PIRLO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1777943485-0-0-e7bf15f04e5f869a6edc12dcc39237bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1777943485-0-0-b856bd323125d5969db6f9b5c23b7022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1777943485-0-0-b924b6f8c36073ae5a6d121b22b9b8b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1777943485-0-0-3c2b5cb403c5a4f6fb405a232156c163
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1777943485-0-0-b41c0cf518804d8424bc57a74907c400
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1777943485-0-0-b4ea46d94bac7b0572df32ba79dc4268
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1777943485-0-0-caea0abca61075894d402f506e7f2819
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1777943485-0-0-bb9a6180d4ff195eb692b85ab3a02462
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1777943485-0-0-611b164609ff05b6c6ce81bb4fce3cde
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=214ac80bd78e4ce2d87c5b59d17984cf&txTime=69f98a0d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=6660689ffff4f39e4ba5aaa08ebfdad1&txTime=69f98a0d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=214ac80bd78e4ce2d87c5b59d17984cf&txTime=69f98a0d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=6660689ffff4f39e4ba5aaa08ebfdad1&txTime=69f98a0d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [TYPN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=3800557761f70aa35a746b5f96c61fb2&txTime=69f98b75
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [TYPN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=05a5252087abf5db4407f911b8120a55&txTime=69f98b75
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [TYPN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=3800557761f70aa35a746b5f96c61fb2&txTime=69f98b75
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [TYPN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=05a5252087abf5db4407f911b8120a55&txTime=69f98b75
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1777943845-0-0-1273fb9804c87fd605740ff8cff2bea7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1777943845-0-0-c64bb1da631faa43044bd1016da296c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1777943845-0-0-1433efd69c9e35dc18eb893939ba9bd7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1777943845-0-0-df5372a67984607e9f20d19d06f444e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1777943845-0-0-7660f71a37d57e4b710524c9fd36aeac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1777943845-0-0-519fac81769e662bd87ab8cd82279b9f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777943845-0-0-4b3145f564e48eb564efbdc564675116
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777943845-0-0-fddb140fdafad85f0ef1aeac9411679c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/ab49d94434b160a4b4845bb1644e7cdb.png",07h30 ngày 05/05 San Marcos de Arica vs Deportes Recoleta [VỊT BẠC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1777943845-0-0-e87ab5651253e9e80e420597f2715c51
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/ab49d94434b160a4b4845bb1644e7cdb.png",07h30 ngày 05/05 San Marcos de Arica vs Deportes Recoleta [VỊT BẠC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1777943845-0-0-3faef0cb6e68008ddd72089397e542c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/ab49d94434b160a4b4845bb1644e7cdb.png",07h30 ngày 05/05 San Marcos de Arica vs Deportes Recoleta [VỊT BẠC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1777943845-0-0-259036ae2bfe186387f0d146dd6a1b67
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/ab49d94434b160a4b4845bb1644e7cdb.png",07h30 ngày 05/05 San Marcos de Arica vs Deportes Recoleta [VỊT BẠC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1777943845-0-0-84526cff716502d9d34594c5e6893a50
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/ab49d94434b160a4b4845bb1644e7cdb.png",07h30 ngày 05/05 San Marcos de Arica vs Deportes Recoleta [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1777943845-0-0-5819c9d2540f9c7ec3cdc2bea7165398
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/ab49d94434b160a4b4845bb1644e7cdb.png",07h30 ngày 05/05 San Marcos de Arica vs Deportes Recoleta [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1777943845-0-0-a3d6e39a234f8827de6a8d5664f00ae7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/ab49d94434b160a4b4845bb1644e7cdb.png",07h30 ngày 05/05 San Marcos de Arica vs Deportes Recoleta [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1777943845-0-0-0938bdc2af7ab8a75e76f6fffd53d2c4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/ab49d94434b160a4b4845bb1644e7cdb.png",07h30 ngày 05/05 San Marcos de Arica vs Deportes Recoleta [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1777943845-0-0-ea84d6336faa62830d661dbeb7867f96
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1777944205-0-0-cccdf911aa6639700594596e980ed1e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1777944205-0-0-8b81cb14a2ac193b4f81fac070c6f0f0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1777944205-0-0-431e7067d3f11724f698511ec1209bdf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1777944205-0-0-848cf045314b2a717e1a7b16a90e710b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1777944205-0-0-ff61fafdf90c6481b83df1b3adf590a4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1777944205-0-0-b84f4a685d11b8b8fefcb5519a1a7d0e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1777944205-0-0-f932e652e04f454e4e2004f3f437a2e5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1777944205-0-0-9119e5d31474a6cfa56d5f35a3bc55c2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1777944205-0-0-5238c49c028c9f80759231634d7d63d7
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1777945285-0-0-e13d82a36312773bd7e38d0f38c7b92c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1777944205-0-0-ff3680a11a855c69ecb1023cd4e6ae89
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1777945285-0-0-72b56377139812b56806c94a1f2f9444
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1777944205-0-0-1ec790b146a771018589fa140b63691d
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1777945285-0-0-b95a8fd08a0dff228d45d7eb168eb861
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1777944205-0-0-0ce605af35e004397645f3f9193e4326
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV RÔSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=1718336245d1f87c60abe0772ad6cc5b&txTime=69f98cdd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV RÔSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=ac5858d037e9b3c02e1d76d2c33551a2&txTime=69f98cdd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV RÔSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=1718336245d1f87c60abe0772ad6cc5b&txTime=69f98cdd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV RÔSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ac5858d037e9b3c02e1d76d2c33551a2&txTime=69f98cdd
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1777945285-0-0-03bdd869b8639b6df06dfb29bbf41f06
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [XUÂN SON] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=1e5491585f621f333a8592b33292986d&txTime=69f98cdd
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=ab6cbed67c865b27d90f9feafcfe06af&txTime=69f99115
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [XUÂN SON] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=bf03933d4c9a2571bddda3992aad6975&txTime=69f98cdd
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=86134f6da5990537ab5b5f1c9a8d5b46&txTime=69f99115
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [XUÂN SON] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=1e5491585f621f333a8592b33292986d&txTime=69f98cdd
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=ab6cbed67c865b27d90f9feafcfe06af&txTime=69f99115
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [XUÂN SON] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=bf03933d4c9a2571bddda3992aad6975&txTime=69f98cdd
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=86134f6da5990537ab5b5f1c9a8d5b46&txTime=69f99115
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [BLV SATIVA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1777945285-0-0-a43a625f6bfd0287e34407396f13ce2a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [BLV SATIVA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1777945285-0-0-41e0b489271bdc03ab7405e19742d30d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [BLV SATIVA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1777945285-0-0-bdc6a0f7ffc8ceddb129af469953854f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/2f8ad649a2b3faac82066b2444810047.png",07h00 ngày 05/05 Universitario De Vinto vs Blooming [BLV SATIVA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1777945285-0-0-a91e2027b4fba1cbbc5f73e3c27c3c2c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV RÔSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=40441a036b9b71ee912d6301c6101e5a&txTime=69f99115
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV RÔSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=35636f1af006914498901316d517088c&txTime=69f99115
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV RÔSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=40441a036b9b71ee912d6301c6101e5a&txTime=69f99115
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV RÔSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=35636f1af006914498901316d517088c&txTime=69f99115
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1777945285-0-0-949953cb04b0b0a57336aca5888d1007
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1777945285-0-0-28d3d0c1032713a24d44a4095c891fba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1777945285-0-0-0de7cfdc2cf7e05698206ea2ee9b4232
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1777945285-0-0-bd953e20312cc8463cd8cc42651f5ea7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1777945645-0-0-8683b2b9360f5f7539b01c017f78289b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1777945645-0-0-e3d5eb128278b46522140ec93e14608e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1777945645-0-0-5df6a7f162e4f531064dda4aad4ba356
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1777945645-0-0-1b459625015b6c1723e12e288710b170
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1777945645-0-0-e47b83df45cac66ed88c1064232b2bf2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1777945645-0-0-df0cb37cf5ec33988c9d7f473663bae0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1777945645-0-0-131960ee59d585d17f9f8b1085a0ae25
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1777945645-0-0-f719702f5597ab893b1f30ed64e1d4d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=c8b4366afa72b529900f1e8c744f73de&txTime=69f9927d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=b480e494dbae783bc4d914e2125129af&txTime=69f9927d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=c8b4366afa72b529900f1e8c744f73de&txTime=69f9927d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=b480e494dbae783bc4d914e2125129af&txTime=69f9927d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1777945645-0-0-9d617e14b297f56c71c2e182f203a5e0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1777945645-0-0-49effb8f561ff7abfa271dbaab2b571b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1777945645-0-0-520d5d2e487889c0cfb57f51baca3ad2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260502/a2e8869dc0df9a937f8e52e534295a99.png",07h30 ngày 05/05 Estudiantes Rio Cuarto vs Instituto de Córdoba [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1777945645-0-0-a7db8449ccca099b15d54f77acb453af
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [TYPN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=e9f3378a36e8611da96484b8f1ce9492&txTime=69f993e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [TYPN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=c47da570abd29f600cbeb189a0a72f82&txTime=69f993e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [TYPN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=e9f3378a36e8611da96484b8f1ce9492&txTime=69f993e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/743f728b3967bb0c178505f46492055e.png",07h00 ngày 05/05 Deportes Quindio vs Tigres FC [TYPN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=c47da570abd29f600cbeb189a0a72f82&txTime=69f993e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1777946005-0-0-0bac8ac31fd121ef6f9cad5bb0d66dbe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1777946005-0-0-c87aa5964b167fa77de33742c5708805
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777946005-0-0-aabb7428a9fcef6667ced6c2d1e46fd2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777946005-0-0-bfa0f36e1c061bc0bac7c1ca35492f94
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1777946005-0-0-3ae015fff1d67cda1cc463712bb5c68a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1777946005-0-0-1b9816bc24c7699b35a51e686098b109
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1777946005-0-0-4f618efeab9b414063c1242f946480ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/6aa57ea4ed2dc3734a92297547c0104c.png",07h00 ngày 05/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1777946005-0-0-b270810de543ee7bb2bd0acd7442ce36
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg",07h30 05/05 New York Knicks vs Philadelphia 76ers (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
