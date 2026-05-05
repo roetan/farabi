@@ -30,8 +30,11 @@ jobs:
             # Ubah group-title menjadi uppercase
             gsub(/group-title="[^"]+"/, toupper("&"), block)
 
-            # Ubah format jam: 06h00 ngày -> 06:00 WIB
-            block = gensub(/([0-9]{2})[hH]([0-9]{2}) ngày/, "\\1:\\2 WIB", "g", block)
+            # Ubah jam
+            block = gensub(/([0-9]{1,2})[hH]([0-9]{2})/, "\\1:\\2 WIB", "g", block)
+
+            # Hapus kata "ngày"
+            gsub(/ngày[[:space:]]*/, "", block)
 
             # Hilangkan baris kosong
             n = split(block, lines, "\n")
