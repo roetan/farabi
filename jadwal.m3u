@@ -1,65 +1,101 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8876_1hr8p728mx2e.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama (Lương Sơn) BLV KENCHU m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8876_1hr8p728mx2e.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama (Lương Sơn) BLV KENCHU flv
+https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka (Lương Sơn) BLV KHỔNG MINH m3u
+https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka (Lương Sơn) BLV KHỔNG MINH flv
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka (Lương Sơn) BLV TÔN LẬP m3u
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1326_1gtzcts36911.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga (Lương Sơn) BLV TIỂU LANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka (Lương Sơn) BLV TÔN LẬP flv
+https://hls-ls.cdnok9.com/live/AJUN/index.m3u8?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1326_1gtzcts36911.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga (Lương Sơn) BLV TIỂU LANG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+https://flv.cdnok9.com/live/AJUN.flv?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1326_1gtzcts36911.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga (Lương Sơn) BLV PELE m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1326_1gtzcts36911.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga (Lương Sơn) BLV PELE flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8876_1hr8p728mx2e.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8876_1hr8p728mx2e.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama (Lương Sơn) BLV LÝ QUỲ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/51703811d991085dc6d8fa8af7be8fb0/image/small?v=1768601124",07:30 WIB 06/05 Academia Puerto Cabello vs Cienciano (Khán Đài A) source
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka (Lương Sơn) BLV KHỔNG MINH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka (Lương Sơn) BLV KHỔNG MINH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8876_1hr8p728mx2e.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama (Lương Sơn) BLV KENCHU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8876_1hr8p728mx2e.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama (Lương Sơn) BLV KENCHU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka (Lương Sơn) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka (Lương Sơn) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c8e38d446fc1aeffdf9b4fa67a1da790/image/small?v=1768601124",12:00 WIB 06/05 Reilac Shiga FC vs Renofa Yamaguchi (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/34e8b755f3854f720e8d48dce6f4dd74/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/130cc5b95c47a0c7c0e4daca735754f2/image/small?v=1768601124",09:00 WIB 06/05 Deportivo Cuenca vs San Lorenzo (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/87fa071c737d347a429eaf6771381b5f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/09acd1f2a6c1dffaab710a0d52ec9607/image/small?v=1768601124",07:30 WIB 06/05 SV Estudiantes vs FC San Nicolas (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/23c9a61be11ecc2381530ce37e5d38f7/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/070cf060628f1c4f6345ca345794a66a/image/small?v=1768601124",06:00 WIB 06/05 New York City Team B vs Chicago flame B (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e600f924263929fa5235f4868506a2dc/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/90613d234de687535ade0a30f8a1b115/image/small?v=1768601124",07:30 WIB 06/05 Always Ready vs Club Atlético Lanús (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/053ec141ef104cdb8064f24fc04a4a66/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ac7071fa5db1dd71163a1c9b0a57a2d4/image/small?v=1768601124",06:00 WIB 06/05 Brittons Hill vs St Andrew Lions (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/555cfeb45cb28b6b25d0d641a1d9bd57/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/780f2a04ed8bbd6aeb147b28b1c2a3fc/image/small?v=1768601124",07:30 WIB 06/05 Deportivo Recoleta vs Santos Fc vs SP (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/82f8127646ad49882500678759e22232/playlist.m3u8
+https://live.alilicloud.com/live/a0b1dc2318f3ab033ec831976623903c/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a1de4f3b2c2d903f49d275d7b22090b5/image/small?v=1768601124",07:00 WIB 06/05 Barcelona SC(ECU) vs Boca Juniors (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ec55345eb476708524889ebf4acedc2b/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fe7155c92dbfaf6b00cc7650046f8e51/image/small?v=1768601124",12:00 WIB 06/05 Tochigi City vs Yokohama FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/25e9f853598bbd231ade61abd244adb8/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d7bbeedd586ed158a001358d80bc07a3/image/small?v=1768601124",12:00 WIB 06/05 Fujieda MYFC vs Fukushima United FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/bb115f3cf722389e4a38824ec85fdfec/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/388b2b951593a287af6c445c5d6f7541/image/small?v=1768601124",12:00 WIB 06/05 Zweigen Kanazawa FC vs Ehime FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/637bae99a5f2c297c29517816fbcb846/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8bb928f795cfc007adf7584960eec9e7/image/small?v=1768601124",12:00 WIB 06/05 Tegevajaro Miyazaki vs FC Ryukyu Okinawa (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b7860bb239f6010e7f82aedf8ab2f2f5/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/05f75ee0056b560b32c0afd8c12d57bc/image/small?v=1768601124",12:00 WIB 06/05 Sagan Tosu vs Gainare Tottori (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/0218c991f1fb627a927e2f3cdee965c2/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c1ae9a4e4087c90f9f166f93822a41d4/image/small?v=1768601124",12:00 WIB 06/05 Giravanz Kitakyushu vs Roasso Kumamoto (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/cea4e38e836811b045ff983b5cbef3d7/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1bd4885fe7fa6aa418c23fa161514ecd/image/small?v=1768601124",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/47fcac8176ce375bb674be5193f604d3/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8cc5c2bc5ae3a52cc5bd0450200f6a16/image/small?v=1768601124",08:30 WIB 06/05 Tigres UANL vs Nashville (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/dfa4cd689b3e7e627da398ca38a2e025/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9b8c8248137225ccc6fefb5c78f05ff4/image/small?v=1768601124",12:00 WIB 06/05 Kagoshima United vs Oita Trinita (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3a0d0226f409f5f6da4e3179b8e3cbd1/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a93b5892ed94ebec0e142848f0094b3b/image/small?v=1768601124",12:00 WIB 06/05 FC Imabari vs Kochi United (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/630a88f5c4242e7489d0e8689711f840/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/118d412c1b44b6b5366f770532b069b3/image/small?v=1768601124",10:00 WIB 06/05 Bula FC vs South Island United FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -68,10 +104,6 @@ https://live.alilicloud.com/live/91ef91ef38ecfe4c5e1ffd69f4b00c77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/db488f6e55cbfb0f725b061ff1307a78/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/dd34ac34f35e1d61053901692ae88766/image/small?v=1768601124",06:30 WIB 06/05 Toronto FC vs Atletico Ottawa (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2cf2f541df89a4237453692b6eb180c9/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/150d6f1dc52471fdbda8e78f84e70d93/image/small?v=1768601124",11:00 WIB 06/05 VvsVaren Nagasaki vs Fagiano Okayama (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -88,6 +120,66 @@ https://live.alilicloud.com/live/17bca154fa55787b57ac670b3017ad3d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/92940781e09d5e041b2fb491093fa6ea/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9ce4ba0eaaf0c5c8a7a0b45a1096e480/image/small?v=1768601124",12:00 WIB 06/05 Hokkaido Consadole Sapporo vs AC Nagano Parceiro (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a23d132b3152b05c9ad6e802ef5b989d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/51703811d991085dc6d8fa8af7be8fb0/image/small?v=1768601124",07:30 WIB 06/05 Academia Puerto Cabello vs Cienciano (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/34e8b755f3854f720e8d48dce6f4dd74/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/130cc5b95c47a0c7c0e4daca735754f2/image/small?v=1768601124",09:00 WIB 06/05 Deportivo Cuenca vs San Lorenzo (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/87fa071c737d347a429eaf6771381b5f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/09acd1f2a6c1dffaab710a0d52ec9607/image/small?v=1768601124",07:30 WIB 06/05 SV Estudiantes vs FC San Nicolas (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/23c9a61be11ecc2381530ce37e5d38f7/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/90613d234de687535ade0a30f8a1b115/image/small?v=1768601124",07:30 WIB 06/05 Always Ready vs Club Atlético Lanús (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/053ec141ef104cdb8064f24fc04a4a66/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/be93d5bae13993aa41a1031424c56c1e/image/small?v=1768601124",12:00 WIB 06/05 Vanraure Hachinohe FC vs Shonan Bellmare (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/139c948566f9b1af60f2d01c903f7f96/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/208b4af47dd1fe9a932a5d759de5c9d5/image/small?v=1768601124",12:00 WIB 06/05 RB Omiya Ardija vs Iwaki FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/eb8fc37638ef1341180883eaf2147936/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/68aa8b49a3ec4b85d8b883a0646a7a2e/image/small?v=1768601124",12:00 WIB 06/05 Montedio Yamagata vs Thespa Kusatsu Gunma (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d3c37399d4251a63311234321e57af58/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cd85a1a4de6502fe59ec28219e086351/image/small?v=1768601124",12:00 WIB 06/05 Ventforet Kofu vs Jubilo Iwata (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/99826b946ddb0f8cfc17319c4477399e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a1e4474af37ac1f689493fde1d3e98a9/image/small?v=1768601124",12:00 WIB 06/05 Vegalta Sendai vs Tochigi SC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/720c510b6e2dacf3fe5521be1be52ee8/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/006224472d2b84224ae96d41ef416e90/image/small?v=1768601124",12:00 WIB 06/05 Kataller Toyama vs Kamatamare Sanuki (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/281a6b33351926be6e511af1354754d5/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1862706133a26adbd8ac2f7fd822b868/image/small?v=1768601124",12:00 WIB 06/05 Nara Club vs FC Osaka (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c651be77520809a069d63bdcc705da04/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/780f2a04ed8bbd6aeb147b28b1c2a3fc/image/small?v=1768601124",07:30 WIB 06/05 Deportivo Recoleta vs Santos Fc vs SP (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/82f8127646ad49882500678759e22232/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/630e917e69a94a577da077b1d8248179/image/small?v=1768601124",12:00 WIB 06/05 Albirex Niigata vs Tokushima Vortis (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f61199cd01a6fb17f1c9a99db06cdfee/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9bd408414e41b61e2c81fc9c4f845f75/image/small?v=1768601124",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e228f0c7778572e5152815e5f940b328/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132409_e59d2efe.png",11:00 WIB 06/05 Shimizu S-pulse vs Cerezo Osaka (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -312,6 +404,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9ce4ba0eaaf0c5c8a7a0b45a1096e480/image/small?v=1768601124",12:00 WIB 06/05 Hokkaido Consadole Sapporo vs AC Nagano Parceiro (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a23d132b3152b05c9ad6e802ef5b989d/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8e38d446fc1aeffdf9b4fa67a1da790/image/small?v=1768601124",12:00 WIB 06/05 Reilac Shiga FC vs Renofa Yamaguchi (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a0b1dc2318f3ab033ec831976623903c/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/51703811d991085dc6d8fa8af7be8fb0/image/small?v=1768601124",07:30 WIB 06/05 Academia Puerto Cabello vs Cienciano (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -320,22 +420,98 @@ https://live.alilicloud.com/live/34e8b755f3854f720e8d48dce6f4dd74/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/87fa071c737d347a429eaf6771381b5f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a1de4f3b2c2d903f49d275d7b22090b5/image/small?v=1768601124",07:00 WIB 06/05 Barcelona SC(ECU) vs Boca Juniors (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ec55345eb476708524889ebf4acedc2b/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fe7155c92dbfaf6b00cc7650046f8e51/image/small?v=1768601124",12:00 WIB 06/05 Tochigi City vs Yokohama FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/25e9f853598bbd231ade61abd244adb8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/150d6f1dc52471fdbda8e78f84e70d93/image/small?v=1768601124",11:00 WIB 06/05 VvsVaren Nagasaki vs Fagiano Okayama (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/935f56803a750f693b5251e43db5c9d5/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/09acd1f2a6c1dffaab710a0d52ec9607/image/small?v=1768601124",07:30 WIB 06/05 SV Estudiantes vs FC San Nicolas (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/23c9a61be11ecc2381530ce37e5d38f7/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/070cf060628f1c4f6345ca345794a66a/image/small?v=1768601124",06:00 WIB 06/05 New York City Team B vs Chicago flame B (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/dec64da6b18c9222530ec189a05aa92a/image/small?v=1768601124",10:30 WIB 06/05 Salgaocar Sports Club vs Zinc Football Academy (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/e600f924263929fa5235f4868506a2dc/playlist.m3u8
+https://live.alilicloud.com/live/631fa630f60e28f8b1d82272f01f37d6/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d7bbeedd586ed158a001358d80bc07a3/image/small?v=1768601124",12:00 WIB 06/05 Fujieda MYFC vs Fukushima United FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/bb115f3cf722389e4a38824ec85fdfec/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/388b2b951593a287af6c445c5d6f7541/image/small?v=1768601124",12:00 WIB 06/05 Zweigen Kanazawa FC vs Ehime FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/637bae99a5f2c297c29517816fbcb846/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/90613d234de687535ade0a30f8a1b115/image/small?v=1768601124",07:30 WIB 06/05 Always Ready vs Club Atlético Lanús (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/053ec141ef104cdb8064f24fc04a4a66/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ac7071fa5db1dd71163a1c9b0a57a2d4/image/small?v=1768601124",06:00 WIB 06/05 Brittons Hill vs St Andrew Lions (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4b2611dc1cd8f0daf10c120956f6efa5/image/small?v=1768601124",11:00 WIB 06/05 Shimizu SvsPulse vs Cerezo Osaka (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/555cfeb45cb28b6b25d0d641a1d9bd57/playlist.m3u8
+https://live.alilicloud.com/live/17bca154fa55787b57ac670b3017ad3d/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/be93d5bae13993aa41a1031424c56c1e/image/small?v=1768601124",12:00 WIB 06/05 Vanraure Hachinohe FC vs Shonan Bellmare (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/139c948566f9b1af60f2d01c903f7f96/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8bb928f795cfc007adf7584960eec9e7/image/small?v=1768601124",12:00 WIB 06/05 Tegevajaro Miyazaki vs FC Ryukyu Okinawa (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/b7860bb239f6010e7f82aedf8ab2f2f5/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/208b4af47dd1fe9a932a5d759de5c9d5/image/small?v=1768601124",12:00 WIB 06/05 RB Omiya Ardija vs Iwaki FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/eb8fc37638ef1341180883eaf2147936/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/68aa8b49a3ec4b85d8b883a0646a7a2e/image/small?v=1768601124",12:00 WIB 06/05 Montedio Yamagata vs Thespa Kusatsu Gunma (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d3c37399d4251a63311234321e57af58/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/05f75ee0056b560b32c0afd8c12d57bc/image/small?v=1768601124",12:00 WIB 06/05 Sagan Tosu vs Gainare Tottori (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0218c991f1fb627a927e2f3cdee965c2/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c1ae9a4e4087c90f9f166f93822a41d4/image/small?v=1768601124",12:00 WIB 06/05 Giravanz Kitakyushu vs Roasso Kumamoto (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/cea4e38e836811b045ff983b5cbef3d7/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1bd4885fe7fa6aa418c23fa161514ecd/image/small?v=1768601124",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/47fcac8176ce375bb674be5193f604d3/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cd85a1a4de6502fe59ec28219e086351/image/small?v=1768601124",12:00 WIB 06/05 Ventforet Kofu vs Jubilo Iwata (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/99826b946ddb0f8cfc17319c4477399e/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a1e4474af37ac1f689493fde1d3e98a9/image/small?v=1768601124",12:00 WIB 06/05 Vegalta Sendai vs Tochigi SC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/720c510b6e2dacf3fe5521be1be52ee8/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/02240a4c8d7306e8ef5c8ae13bda0508/image/small?v=1768601124",08:00 WIB 06/05 Bagatelle SS vs Kickstart Barbados FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/92940781e09d5e041b2fb491093fa6ea/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9b8c8248137225ccc6fefb5c78f05ff4/image/small?v=1768601124",12:00 WIB 06/05 Kagoshima United vs Oita Trinita (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3a0d0226f409f5f6da4e3179b8e3cbd1/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/006224472d2b84224ae96d41ef416e90/image/small?v=1768601124",12:00 WIB 06/05 Kataller Toyama vs Kamatamare Sanuki (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/281a6b33351926be6e511af1354754d5/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a93b5892ed94ebec0e142848f0094b3b/image/small?v=1768601124",12:00 WIB 06/05 FC Imabari vs Kochi United (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/630a88f5c4242e7489d0e8689711f840/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1862706133a26adbd8ac2f7fd822b868/image/small?v=1768601124",12:00 WIB 06/05 Nara Club vs FC Osaka (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c651be77520809a069d63bdcc705da04/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/780f2a04ed8bbd6aeb147b28b1c2a3fc/image/small?v=1768601124",07:30 WIB 06/05 Deportivo Recoleta vs Santos Fc vs SP (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -348,186 +524,290 @@ https://live.alilicloud.com/live/91ef91ef38ecfe4c5e1ffd69f4b00c77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/db488f6e55cbfb0f725b061ff1307a78/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/dd34ac34f35e1d61053901692ae88766/image/small?v=1768601124",06:30 WIB 06/05 Toronto FC vs Atletico Ottawa (Gà Vàng) source
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/630e917e69a94a577da077b1d8248179/image/small?v=1768601124",12:00 WIB 06/05 Albirex Niigata vs Tokushima Vortis (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/2cf2f541df89a4237453692b6eb180c9/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a1de4f3b2c2d903f49d275d7b22090b5/image/small?v=1768601124",07:00 WIB 06/05 Barcelona SC(ECU) vs Boca Juniors (Gà Vàng) source
+https://live.alilicloud.com/live/f61199cd01a6fb17f1c9a99db06cdfee/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9bd408414e41b61e2c81fc9c4f845f75/image/small?v=1768601124",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ec55345eb476708524889ebf4acedc2b/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/150d6f1dc52471fdbda8e78f84e70d93/image/small?v=1768601124",11:00 WIB 06/05 VvsVaren Nagasaki vs Fagiano Okayama (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/935f56803a750f693b5251e43db5c9d5/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/dec64da6b18c9222530ec189a05aa92a/image/small?v=1768601124",10:30 WIB 06/05 Salgaocar Sports Club vs Zinc Football Academy (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/631fa630f60e28f8b1d82272f01f37d6/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/4b2611dc1cd8f0daf10c120956f6efa5/image/small?v=1768601124",11:00 WIB 06/05 Shimizu SvsPulse vs Cerezo Osaka (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/17bca154fa55787b57ac670b3017ad3d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/02240a4c8d7306e8ef5c8ae13bda0508/image/small?v=1768601124",08:00 WIB 06/05 Bagatelle SS vs Kickstart Barbados FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/92940781e09d5e041b2fb491093fa6ea/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/95072d3dab056b4ec308bb6b872e9a03.png",10:00 WIB 06/05 Bula FC vs South Island United FC [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1778046085-0-0-dc8b1386398e992b4c5e9d32dfa72109
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/95072d3dab056b4ec308bb6b872e9a03.png",10:00 WIB 06/05 Bula FC vs South Island United FC [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1778046085-0-0-2ad33a8dc88c2b20f519200c746d5824
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/95072d3dab056b4ec308bb6b872e9a03.png",10:00 WIB 06/05 Bula FC vs South Island United FC [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1778046085-0-0-21c30d41a79351bd0afa21c9a0ee3b0d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/95072d3dab056b4ec308bb6b872e9a03.png",10:00 WIB 06/05 Bula FC vs South Island United FC [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1778046085-0-0-db3aa07513aace7d456f11c9981fde62
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1778046085-0-0-4c1f01db23c6c8ebfac1b9bdcde307a5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1778046085-0-0-bbe397b2599bf88a37ec9c3f84ee0059
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1778046085-0-0-a0d5367666f46a0c920cabc4911579f5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1778046085-0-0-5bb96613865258b5121976ec5d9f33e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [LÃO LÂM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1778046085-0-0-4dce492d761aacee2015a5f60a1d69c6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [LÃO LÂM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1778046085-0-0-7b695806bb18c727a766f72ad271bd42
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [LÃO LÂM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1778046085-0-0-93b624c6af17fee1ff81e31169973f6e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [LÃO LÂM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1778046085-0-0-8ff2c85b2c414a07f886987bafc2793f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=afa611ba0a7713825a3af1659ff73ee6&txTime=69fb1c3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=afd69741c8e93b68230d5fc9ae15abee&txTime=69fb1c3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=afa611ba0a7713825a3af1659ff73ee6&txTime=69fb1c3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=afd69741c8e93b68230d5fc9ae15abee&txTime=69fb1c3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [LOGAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1778046445-0-0-344987d35bb241169a67412d07cbaf57
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [LOGAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1778046445-0-0-9ce2066b35394eb40bf3b7800a48cdf4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [LOGAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1778046445-0-0-39b3de1e806e768d0acd14ad33d1f095
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [LOGAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1778046445-0-0-78297e4819e5551caee413c0bd2d32d2
+https://live.alilicloud.com/live/e228f0c7778572e5152815e5f940b328/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV RÔSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=defaecba88e56e724e5e90e2f3b286be&txTime=69fb1c3d
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=58e22a3078fc1ef3200ed18c4795059c&txTime=69fb28e5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV RÔSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=8b8d68da453e70f83548f13840334779&txTime=69fb1c3d
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=0a210eaea1c41fe9961030a1d26d25fa&txTime=69fb28e5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV RÔSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=defaecba88e56e724e5e90e2f3b286be&txTime=69fb1c3d
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=58e22a3078fc1ef3200ed18c4795059c&txTime=69fb28e5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV RÔSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=8b8d68da453e70f83548f13840334779&txTime=69fb1c3d
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=0a210eaea1c41fe9961030a1d26d25fa&txTime=69fb28e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=ae5ca8098a4fd4f2f1608ca51e3cd8de&txTime=69fb28e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=eff5baa8d5eef8ac6e449862190f3dfd&txTime=69fb28e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=ae5ca8098a4fd4f2f1608ca51e3cd8de&txTime=69fb28e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=eff5baa8d5eef8ac6e449862190f3dfd&txTime=69fb28e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1778049685-0-0-4f760b4f66f0adb9d1835850c073bead
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1778049685-0-0-36a8eb2c41298fb4725348e620e1c2ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1778049685-0-0-334e0e3662bbc900758537011d036bbf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1778049685-0-0-cae76a1807ccde3258cf2252670ff44b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1778046445-0-0-587cdf86a73cb8d0be097da8fc32cc2b
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1778049685-0-0-507287c92ae9b9ee088787cfdf53ac48
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1778046445-0-0-605763f58257900d2bd0caf750c2f3f3
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1778049685-0-0-a73e562a490953533e6d0554dd6063bd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1778046445-0-0-50c2f4ba2ea162e334ba39ff8ae47dad
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1778049685-0-0-af720e602f235a9bdd26e7e98f19ceeb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1778046445-0-0-bcaf570ed63e7af5d0c85f7a5f86ba51
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [BLV ENZO] (Socolive) flv
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1778049685-0-0-b1efe0037c916a0de275e24b9f593cd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1778046805-0-0-c83b5e00e8faa757588ba5d20d431e1f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [BLV ENZO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1778050405-0-0-9862726533c2fd5eaf35f9aeac310612
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1778046805-0-0-f073b5ce157f63115b02e45629bfe9d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [BLV ENZO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1778050405-0-0-e83e27277968b262aacf7fad3ac398a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1778046805-0-0-e2db5702c42eef2e1dbb54edab97b802
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1778050405-0-0-b36dcee7542b6a952e4014eaa2e6b20b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1778046805-0-0-28301b1b61368168353f349b88d04f12
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [QUỐC KHÁNH] (Socolive) flv
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1778050405-0-0-12a4e7a3ccb06908c345b39b380349b5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=9a7d1c04d98173c323cc4c057757c6ea&txTime=69fb1da5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [QUỐC KHÁNH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1778050405-0-0-9e240947497813f80e9140a94554bc63
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=d92fc2feefa74685b501f2464483c01e&txTime=69fb1da5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [QUỐC KHÁNH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1778050405-0-0-af4dcf7f6e66b2615b43e8a1d7161216
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=9a7d1c04d98173c323cc4c057757c6ea&txTime=69fb1da5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1778050405-0-0-8c5f008fc1f95e5338ebac040fae2ccb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=d92fc2feefa74685b501f2464483c01e&txTime=69fb1da5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [NGƯỜI CÁ] (Socolive) flv
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1778050405-0-0-6656250920e6d276927c19e5c37f55bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1778046805-0-0-123a5ecb28dda59504900ce4f91c823c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [NGƯỜI CÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1778050405-0-0-042e37d142126fb91b33e1ae0df12cb7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1778046805-0-0-b5eb7ceda66c3ac843dfa682f0659db5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [NGƯỜI CÁ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1778050405-0-0-a1d26a5e282d34f6ede809045886750e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1778046805-0-0-242740bdf25424afec89c98dff294ec6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1778050405-0-0-b797e31879123ea7ce4b257d69ea4575
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1778046805-0-0-3e692c1d1f429951ebdca7744f68fdf2
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1778050405-0-0-b8bb46dd05cf5f51c9cb7a4a1d1a599b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1778046805-0-0-0f687eedd0d77e6446b42a0f2dfcc163
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1778050405-0-0-52732b63672dbe70539d179104f53670
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1778046805-0-0-0a2ea30485fbed104bc4fedc3103558c
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1778050405-0-0-1a12b0d9449a9087d86ed26b1cd0dda9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1778046805-0-0-b9a1ca4a88e24abb8a79b20286df64b6
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1778050405-0-0-c68694c644f3b83a1d9a3ecc3a085ddf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1778046805-0-0-229175adfc0da386f67fcf36a090c1ce
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1778050405-0-0-d3f1f2e27ab65c5046495f40bc5a936b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=02dfaf074d8b6bfa7e57451686302190&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=1b02f9b4b840746eddb724b622d05661&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=02dfaf074d8b6bfa7e57451686302190&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=1b02f9b4b840746eddb724b622d05661&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [LÃO LÂM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1778050405-0-0-bd5c6bd1d22154ad0ab572c713f5cb30
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [LÃO LÂM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1778050405-0-0-e5d93ddca3fd496136a5c72b4b4cc627
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [LÃO LÂM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1778050405-0-0-13e7f447fb9509094b9a855630babcd3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b741774f9e569ac76c2e2a33b0a3e796.png",11:00 WIB 06/05 Shimizu S-Pulse vs Cerezo Osaka [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1778050405-0-0-25e4cdaf87bbbd948567c55c0f22a667
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [BLV PIRLO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1778050405-0-0-aaf43ee811b0f71447074dcfd71fc14e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [BLV PIRLO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1778050405-0-0-6e94168429b4681160ad7ddf37fbf7e3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [BLV PIRLO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1778050405-0-0-b85100dab70328d2ecf3d8de45e7eec4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [BLV PIRLO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1778050405-0-0-f20ab45cf73fa6adc248caf304eca751
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1778050405-0-0-1c74423de1a518c60cc0a0835022a198
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1778050405-0-0-0720f09c5863cc72997ecd616a7c3c10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1778050405-0-0-333ccfba3c10c8d7f06f3b6f569fcaea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1778050405-0-0-49f5e58905a9d2b5e3f420c707ec4fd5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [TAM MAO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=c018f245a2a6c69fc4a6f8100e2b4201&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [TAM MAO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=cc853986d9e5b18228b813bccb222e9d&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=c018f245a2a6c69fc4a6f8100e2b4201&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=cc853986d9e5b18228b813bccb222e9d&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1778050405-0-0-ee5bfffe59c0f018e9802b2efc23fdff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1778050405-0-0-1bbd0dd9c26b00240a31dac0530185e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1778050405-0-0-4870150110e01924c5483afe364c4e94
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1778050405-0-0-c242f5b1041dfb1105c61d720e7b849a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [QUỐC KHÁNH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=a163bb6afbe1cf5a2179370a89a0ace0&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [QUỐC KHÁNH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=80a5c55b4d78a5d5ed2b5f80019239e3&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [QUỐC KHÁNH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=a163bb6afbe1cf5a2179370a89a0ace0&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/2f9d48ccf5361e87784e4817c2990ce1.png",11:00 WIB 06/05 V-Varen Nagasaki vs Fagiano Okayama [QUỐC KHÁNH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=80a5c55b4d78a5d5ed2b5f80019239e3&txTime=69fb2bb5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV COZY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1778046805-0-0-da42a0244a2d5d641dd24907b8f5f49d
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1778050405-0-0-fe9974436e0e07d125f18ebe6be62b8d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV COZY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1778046805-0-0-1e8463e71ce3840788bc70883cd2b708
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1778050405-0-0-cabbccb4c9f88c793d05c356ef25c48f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV COZY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1778046805-0-0-2c6b7fcf1e1abc62f38e31998a32f2ac
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1778050405-0-0-3a852d1df5b0d7809c76c8512e9e06e3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0b5ac4489fa8edad06c168e4aad51458.png",12:00 WIB 06/05 Nagoya Grampus vs Gamba Osaka [BLV COZY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1778046805-0-0-93eb95e203dd27556ca7f7737c7696b4
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1778050405-0-0-edce57b3d66ba86e221f69eb48552729
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1778050405-0-0-ae00e352a1644adf1bef546e4fc119db
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1778050405-0-0-64409f7665d5d49bee77cdba9abf7be0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1778050405-0-0-181ec7d9d11b91951a17b9ae47609c14
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1778050405-0-0-ccbb2fe9155e50468b7ba42ad541e463
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1778050405-0-0-efe91e9ea32a707a92dcc1ad514ecc6c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1778050405-0-0-dfe7b55ed4405a5657d6d7ac7dcf2ff0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1778050405-0-0-9ce4b39d09564583aa248d2e1c2390df
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/8526a0e8ff758c4bf942382d8eb05677.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1778050405-0-0-af11e96fd7debbb61c57b1b13ab8aaba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [NGƯỜI CÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1778050405-0-0-b6f11dcebba5d71658bf10df3221ed8e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [NGƯỜI CÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1778050405-0-0-c2b50ea358ade2a18302047f9a9226d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [NGƯỜI CÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1778050405-0-0-2a485a964f8af03398240eab680aff2f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [NGƯỜI CÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1778050405-0-0-b7a6fe35f295fee76d57e85139d0a53f
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1778046805-0-0-f9d4628bf5679797b7f0cf4a04251f79
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1778050405-0-0-31868f9ae20a39e6b1c737d1dfce3781
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [A PÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1778046805-0-0-cf247774fa7e667e5041389fde0072b8
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1778050405-0-0-58332f41fa88eeca91b6833790a9eb15
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [A PÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1778046805-0-0-fd6acf7dcbda1dd370bf01ac15ffdf52
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1778050405-0-0-7ec9fa2c3347b56af20a892692d4a195
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/71c430b4577d9cad9a9af05e45d0932a.png",12:00 WIB 06/05 Avispa Fukuoka vs Kyoto Sanga [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1778046805-0-0-49a5b44626405827f82211029937086a
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1778050405-0-0-4534de53057749edeb287103a1e5c5a0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=7908a8b1b4e6a20ffe8dbf2c5c525b31&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=fb059a4b3e6ff7b162f01e7e386eb328&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=7908a8b1b4e6a20ffe8dbf2c5c525b31&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=fb059a4b3e6ff7b162f01e7e386eb328&txTime=69fb2bb5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [CHÈ XANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-605223_lsd.flv?auth_key=1778050405-0-0-01ce70a3410e733e074f7b0e007bffea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [CHÈ XANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-605223_lhd.flv?auth_key=1778050405-0-0-ac953b79b400759ac0a80eb64a433078
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [CHÈ XANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-605223_lsd.m3u8?auth_key=1778050405-0-0-1fd5d241dd648f3fc6930a1a6c7a75ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7e0769b7c2db5bd26da966a3515227b.png",13:00 WIB 06/05 FC Tokyo vs JEF United Ichihara Chiba [CHÈ XANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-605223_lhd.m3u8?auth_key=1778050405-0-0-77a3b28eacc3c3d6288a2f05c67cb414
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ad/SanfrecceHiroshima.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ad/SanfrecceHiroshima.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/ad/SanfrecceHiroshima.png",13:00 WIB 06/05 Sanfrecce Hiroshima vs Vissel Kobe (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Tala%27ea_El_Gaish_Logo_2017.png",21:00 WIB 07/05 El Geish vs Ghazl Al Mehalla (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
