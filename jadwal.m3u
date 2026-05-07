@@ -1,17 +1,65 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12828_1h5bjfmbws2g.png",22:00 WIB 07/05 Tukums-2000 vs Ogre United (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/59118_1hfze7yy6rg.png",23:00 WIB 07/05 Um Alhassam vs Buri (Lương Sơn) BLV DƯƠNG CHÍ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12828_1h5bjfmbws2g.png",22:00 WIB 07/05 Tukums-2000 vs Ogre United (Lương Sơn) BLV MÃ SIÊU flv
+https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/59118_1hfze7yy6rg.png",23:00 WIB 07/05 Um Alhassam vs Buri (Lương Sơn) BLV DƯƠNG CHÍ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12828_1h5bjfmbws2g.png",22:00 WIB 07/05 Tukums-2000 vs Ogre United (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/59118_1hfze7yy6rg.png",23:00 WIB 07/05 Um Alhassam vs Buri (Lương Sơn) BLV HÀN TÍN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12828_1h5bjfmbws2g.png",22:00 WIB 07/05 Tukums-2000 vs Ogre United (Lương Sơn) BLV TRIỆU TỬ LONG flv
+https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/59118_1hfze7yy6rg.png",23:00 WIB 07/05 Um Alhassam vs Buri (Lương Sơn) BLV HÀN TÍN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+https://flv.cdnok9.com/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/40970_1grcyc2g2ty.PNG",23:00 WIB 07/05 CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/40970_1grcyc2g2ty.PNG",23:00 WIB 07/05 CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/40970_1grcyc2g2ty.PNG",23:00 WIB 07/05 CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe (Lương Sơn) BLV FERNANDO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/40970_1grcyc2g2ty.PNG",23:00 WIB 07/05 CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe (Lương Sơn) BLV FERNANDO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3071_1gq20wd9vg3.png",23:00 WIB 07/05 DHJ Difaa Hassani Jadidi vs Hassania Agadir (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3071_1gq20wd9vg3.png",23:00 WIB 07/05 DHJ Difaa Hassani Jadidi vs Hassania Agadir (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2176_1gqxnaerpe2.png",23:00 WIB 07/05 PK-35 Vantaa vs MP MIKELI (Lương Sơn) BLV PELE m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2176_1gqxnaerpe2.png",23:00 WIB 07/05 PK-35 Vantaa vs MP MIKELI (Lương Sơn) BLV PELE flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/883_1gq16sxga5p.png",23:00 WIB 07/05 LKS Lodz vs Pogon Grodzisk Mazowiecki (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/883_1gq16sxga5p.png",23:00 WIB 07/05 LKS Lodz vs Pogon Grodzisk Mazowiecki (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9595_1:54 WIBk7n1wrs.png",23:45 WIB 07/05 Ramtha Club vs Al-Baq's (Lương Sơn) BLV LEO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9595_1:54 WIBk7n1wrs.png",23:45 WIB 07/05 Ramtha Club vs Al-Baq's (Lương Sơn) BLV LEO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9595_1:54 WIBk7n1wrs.png",23:45 WIB 07/05 Ramtha Club vs Al-Baq's (Lương Sơn) BLV A TỦA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9595_1:54 WIBk7n1wrs.png",23:45 WIB 07/05 Ramtha Club vs Al-Baq's (Lương Sơn) BLV A TỦA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9595_1:54 WIBk7n1wrs.png",23:45 WIB 07/05 Ramtha Club vs Al-Baq's (Lương Sơn) BLV KEVILL m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9595_1:54 WIBk7n1wrs.png",23:45 WIB 07/05 Ramtha Club vs Al-Baq's (Lương Sơn) BLV KEVILL flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3228_1jzkqva5vgg.png",22:00 WIB 07/05 AL Najaf vs Baghdad (Lương Sơn) BLV LỮ BỐ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
@@ -24,94 +72,28 @@ https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3228_1jzkqva5vgg.png",22:00 WIB 07/05 AL Najaf vs Baghdad (Lương Sơn) BLV VƯƠNG LUÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/532_1:53 WIBw2zt601q.png",23:00 WIB 07/05 Dinamo Tbilisi vs Spaeri FC (Lương Sơn) BLV MỘT CHÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/532_1:53 WIBw2zt601q.png",23:00 WIB 07/05 Dinamo Tbilisi vs Spaeri FC (Lương Sơn) BLV MỘT CHÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/532_1:53 WIBw2zt601q.png",23:00 WIB 07/05 Dinamo Tbilisi vs Spaeri FC (Lương Sơn) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/532_1:53 WIBw2zt601q.png",23:00 WIB 07/05 Dinamo Tbilisi vs Spaeri FC (Lương Sơn) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778163935.png",22:00 WIB 07/05 Dinamo Jug vs FK Usce Novi Beograd (Lương Sơn) BLV KHỔNG MINH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778163935.png",22:00 WIB 07/05 Dinamo Jug vs FK Usce Novi Beograd (Lương Sơn) BLV KHỔNG MINH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4697_165750284694.png",21:00 WIB 07/05 Germany (W) U17 vs England (W) U17 (Lương Sơn) BLV TẦN CA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4697_165750284694.png",21:00 WIB 07/05 Germany (W) U17 vs England (W) U17 (Lương Sơn) BLV TẦN CA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3413_1k3cxxjnfx1x.png",21:00 WIB 07/05 Pogradeci vs Kastrioti Kruje (Lương Sơn) BLV MAYBACH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3413_1k3cxxjnfx1x.png",21:00 WIB 07/05 Pogradeci vs Kastrioti Kruje (Lương Sơn) BLV MAYBACH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3413_1k3cxxjnfx1x.png",21:00 WIB 07/05 Pogradeci vs Kastrioti Kruje (Lương Sơn) BLV LÃO HẠC m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3413_1k3cxxjnfx1x.png",21:00 WIB 07/05 Pogradeci vs Kastrioti Kruje (Lương Sơn) BLV LÃO HẠC flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2970_1hbcscz4mq19.png",21:00 WIB 07/05 Al-Jazeera vs AL Salt (Lương Sơn) BLV TÔN LẬP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2970_1hbcscz4mq19.png",21:00 WIB 07/05 Al-Jazeera vs AL Salt (Lương Sơn) BLV TÔN LẬP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2964_1gq1d0gs0pd.png",21:00 WIB 07/05 Talaea EI-Gaish vs Ghazl El Mahallah (Lương Sơn) BLV SHIN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2964_1gq1d0gs0pd.png",21:00 WIB 07/05 Talaea EI-Gaish vs Ghazl El Mahallah (Lương Sơn) BLV SHIN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2964_1gq1d0gs0pd.png",21:00 WIB 07/05 Talaea EI-Gaish vs Ghazl El Mahallah (Lương Sơn) BLV NGƯỜI THÉP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2964_1gq1d0gs0pd.png",21:00 WIB 07/05 Talaea EI-Gaish vs Ghazl El Mahallah (Lương Sơn) BLV NGƯỜI THÉP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2964_1gq1d0gs0pd.png",21:00 WIB 07/05 Talaea EI-Gaish vs Ghazl El Mahallah (Lương Sơn) BLV A TỦA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2964_1gq1d0gs0pd.png",21:00 WIB 07/05 Talaea EI-Gaish vs Ghazl El Mahallah (Lương Sơn) BLV A TỦA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9c23532712ae76d59ebaace703d405d2/image/small?v=1768601124",22:00 WIB 07/05 FK Dubocica vs FAP (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/78451c60fdf1b46a47d7ab8533d95936/image/small?v=1768601124",23:00 WIB 07/05 DHJ Difaa Hassani Jadidi vs Hassania Agadir (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/b5bb764bb8021ff6fe08d1aca01e8275/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/62b2d59ff667fb984cbfd0e067ccdfdc/image/small?v=1768601124",20:00 WIB 07/05 Juventus SP vs Ferroviaria SP (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/5602a3246f4c4711262a2f4b79002422/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7a976d68a244fe98fc40af630a80ec62/image/small?v=1768601124",19:00 WIB 07/05 Cebrayil vs Baku Sporting FK (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/3d1b7296166e400e4b4f6b648671762d/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b726e9b77da655ee0e328d3c9837f23c/image/small?v=1768601124",19:00 WIB 07/05 Finland U16 vs Latvia U16 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/15f8f306e3c5d689eae0b1fdc844119e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a4048e07a855972ad23b1bb77c9c5882/image/small?v=1768601124",19:00 WIB 07/05 FK Kaspiy Aktau B vs FC Shakhtyor Karagandy (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/195edbdda3f73c4b74e8eea3616337b2/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5376e80922f4bd587d3914d1d0882eb6/image/small?v=1768601124",17:00 WIB 07/05 Kairat Almaty II vs FK Yelimay Semey B (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/99a0b8c8bef0f2bb63255521b4a98e7b/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/662438975fc8fb59dea73a00ac47f3b8/image/small?v=1768601124",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/de2dfbd3148119ac5a92639537aef32f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/662438975fc8fb59dea73a00ac47f3b8/image/small?v=1768601124",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah (Khán Đài A) hd_1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/d55dcb1e3d2c48edbe3919924aa4194d/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/662438975fc8fb59dea73a00ac47f3b8/image/small?v=1768601124",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah (Khán Đài A) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/d55dcb1e3d2c48edbe3919924aa4194d/index.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/662438975fc8fb59dea73a00ac47f3b8/image/small?v=1768601124",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah (Khán Đài A) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-kda.fastestcdn-global.com/live/d55dcb1e3d2c48edbe3919924aa4194d/index.m3u8
+https://live.rapidlive.shop/live/b14f9a832cca24e6361aa932a3755568/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/5457908b5b5c1121f4d21f6d5edc2445/image/small?v=1768601124",19:30 WIB 07/05 Gamo Chencha vs Halaba City (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -120,10 +102,10 @@ https://live.rapidlive.shop/live/559af2c0c44b59f2da688dd01deb2b92/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.rapidlive.shop/live/f008ae747768ecb61a79f306661fd37e/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/470d88567c9b47c18d57d56f75673941/image/small?v=1768601124",17:00 WIB 07/05 Kolos Kovalivka U21 vs Kudrivka Nyva U21 (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/2ab0e9a33b5f1865ef69d666aa12c554/image/small?v=1768601124",23:00 WIB 07/05 Elva vs Tallinna FC Ararat TTU (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/c8f3fb94a7199e6bf479bca9d5730e1f/playlist.m3u8
+https://live.rapidlive.shop/live/57e373c2f169a599eb06ea7ae070cb61/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/46d492f2d551b09aa72c5bb17b9b57f2/image/small?v=1768601124",19:00 WIB 07/05 Lokomotiv Moscow Youth vs FK Krasnodar Youth (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -132,10 +114,6 @@ https://live.rapidlive.shop/live/de0ffbd09258e89a154de21f0ab913aa/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.rapidlive.shop/live/e4f9cb2ce607c2a62078cadec5438c94/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/3f72b29eb35f8a8b8640535e226e217e/image/small?v=1768601124",17:00 WIB 07/05 Hunters FC vs Khangarid FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/780fca92d1c46997b1f0081e37ab85c8/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/d1108feada7268b91182275d59a8889c/image/small?v=1768601124",22:00 WIB 07/05 Tekstilac vs Semendrija 1924 (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -176,30 +154,54 @@ https://pull-kda.fastestcdn-global.com/live/6a56a0e1c66740dbbb96fd9f20c3271a/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.rapidlive.shop/live/31ae6e842a0f23d9279278cdc032f8ff/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/607e88e0f27f74056b9e4d2d416253ea/image/small?v=1768601124",23:30 WIB 07/05 Fortune FC vs TMT FA (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/8c017b77474534baf3549eee484f7474/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/987941c5714a35beb459f350fa055d47/image/small?v=1768601124",21:00 WIB 07/05 Pogradeci vs Kastrioti Kruje (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.rapidlive.shop/live/54a51599111ad646edae0555e28bf22f/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/72fdc2cc39e050e732979776dbdb0997/image/small?v=1768601124",23:30 WIB 07/05 Freetown City vs BAI Bureh Warriors (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/0c19db1ba104972ee6f0d1f9f120ee9e/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/107084dd05ff14db3c0b34577aec2883/image/small?v=1768601124",22:00 WIB 07/05 AlvsNajaf vs Amanat Baghdad (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.rapidlive.shop/live/696174428ebff2ee7e16cc4b9e7041f9/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130125_26b2bc27.png",21:00 WIB 07/05 El Geish vs Ghazl El Mehalla (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chanh/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130125_26b2bc27.png",21:00 WIB 07/05 El Geish vs Ghazl El Mehalla (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chanh.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130125_26b2bc27.png",21:00 WIB 07/05 El Geish vs Ghazl El Mehalla (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chanhhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130125_26b2bc27.png",21:00 WIB 07/05 El Geish vs Ghazl El Mehalla (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chanhhd.flv
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/9c23532712ae76d59ebaace703d405d2/image/small?v=1768601124",22:00 WIB 07/05 FK Dubocica vs FAP (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/b5bb764bb8021ff6fe08d1aca01e8275/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/62b2d59ff667fb984cbfd0e067ccdfdc/image/small?v=1768601124",20:00 WIB 07/05 Juventus SP vs Ferroviaria SP (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/5602a3246f4c4711262a2f4b79002422/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7a976d68a244fe98fc40af630a80ec62/image/small?v=1768601124",19:00 WIB 07/05 Cebrayil vs Baku Sporting FK (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/3d1b7296166e400e4b4f6b648671762d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/798d8d1978bb9b9787ab4b66082e43e2/image/small?v=1768601124",23:00 WIB 07/05 PKvs35 Vantaa vs Mikkelin Palloilijat (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/b583900669bc7b3930b80510c9e38344/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0cb5a7bf05bbb5fb840d201a3a073dd7/image/small?v=1768601124",23:00 WIB 07/05 Dinamo Tbilisi vs Spaeri FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/8885db12b5091c31b7ad5ce679c1793e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/b726e9b77da655ee0e328d3c9837f23c/image/small?v=1768601124",19:00 WIB 07/05 Finland U16 vs Latvia U16 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/15f8f306e3c5d689eae0b1fdc844119e/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/a4048e07a855972ad23b1bb77c9c5882/image/small?v=1768601124",19:00 WIB 07/05 FK Kaspiy Aktau B vs FC Shakhtyor Karagandy (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/195edbdda3f73c4b74e8eea3616337b2/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/112a036f239bfcb5e733ba2ef93b5e16/image/small?v=1768601124",23:00 WIB 07/05 AlvsJazeera vs AL Salt (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/b880247f4d16bc1868cb83ae852cb282/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134743_b05f00b7.png",23:00 WIB 07/05 ŁKS Łódź vs Pogoń Grod. Mazowiecki (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -296,62 +298,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9c23532712ae76d59ebaace703d405d2/image/small?v=1768601124",22:00 WIB 07/05 FK Dubocica vs FAP (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/b5bb764bb8021ff6fe08d1aca01e8275/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/62b2d59ff667fb984cbfd0e067ccdfdc/image/small?v=1768601124",20:00 WIB 07/05 Juventus SP vs Ferroviaria SP (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/5602a3246f4c4711262a2f4b79002422/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/7a976d68a244fe98fc40af630a80ec62/image/small?v=1768601124",19:00 WIB 07/05 Cebrayil vs Baku Sporting FK (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/3d1b7296166e400e4b4f6b648671762d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b726e9b77da655ee0e328d3c9837f23c/image/small?v=1768601124",19:00 WIB 07/05 Finland U16 vs Latvia U16 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/15f8f306e3c5d689eae0b1fdc844119e/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a4048e07a855972ad23b1bb77c9c5882/image/small?v=1768601124",19:00 WIB 07/05 FK Kaspiy Aktau B vs FC Shakhtyor Karagandy (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/195edbdda3f73c4b74e8eea3616337b2/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/662438975fc8fb59dea73a00ac47f3b8/image/small?v=1768601124",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.rapidlive.shop/live/de2dfbd3148119ac5a92639537aef32f/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/662438975fc8fb59dea73a00ac47f3b8/image/small?v=1768601124",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah (Gà Vàng) sd_1
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/78451c60fdf1b46a47d7ab8533d95936/image/small?v=1768601124",23:00 WIB 07/05 DHJ Difaa Hassani Jadidi vs Hassania Agadir (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/0f99d05ad62c405f96cd132b93d4f883/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/662438975fc8fb59dea73a00ac47f3b8/image/small?v=1768601124",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah (Gà Vàng) hd_1
+https://live.rapidlive.shop/live/b14f9a832cca24e6361aa932a3755568/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2ab0e9a33b5f1865ef69d666aa12c554/image/small?v=1768601124",23:00 WIB 07/05 Elva vs Tallinna FC Ararat TTU (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/0f99d05ad62c405f96cd132b93d4f883/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/662438975fc8fb59dea73a00ac47f3b8/image/small?v=1768601124",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah (Gà Vàng) sd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/0f99d05ad62c405f96cd132b93d4f883/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/662438975fc8fb59dea73a00ac47f3b8/image/small?v=1768601124",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah (Gà Vàng) hd_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/0f99d05ad62c405f96cd132b93d4f883/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/662438975fc8fb59dea73a00ac47f3b8/image/small?v=1768601124",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah (Gà Vàng) sd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/0f99d05ad62c405f96cd132b93d4f883/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/662438975fc8fb59dea73a00ac47f3b8/image/small?v=1768601124",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah (Gà Vàng) hd_3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-gv.fastestcdn-global.com/live/0f99d05ad62c405f96cd132b93d4f883/index.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/5457908b5b5c1121f4d21f6d5edc2445/image/small?v=1768601124",19:30 WIB 07/05 Gamo Chencha vs Halaba City (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/559af2c0c44b59f2da688dd01deb2b92/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/46d492f2d551b09aa72c5bb17b9b57f2/image/small?v=1768601124",19:00 WIB 07/05 Lokomotiv Moscow Youth vs FK Krasnodar Youth (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/de0ffbd09258e89a154de21f0ab913aa/playlist.m3u8
+https://live.rapidlive.shop/live/57e373c2f169a599eb06ea7ae070cb61/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bdca7f1478a7e1c316dac76bb42770a0/image/small?v=1768601124",22:00 WIB 07/05 Tukumsvs2000 vs Ogre United (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -360,10 +318,6 @@ https://live.rapidlive.shop/live/e4f9cb2ce607c2a62078cadec5438c94/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.rapidlive.shop/live/47a800457d416c7d2c420683233a1ec9/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/734813ccc967a43c61c93cf1c7065146/image/small?v=1768601124",19:00 WIB 07/05 Kryvbas U21 vs Karpaty U21 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/a32e751439951d8a0d73f49b25eed7d9/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c6a6f37b056f2041dbd9abb0b8a40d45/image/small?v=1768601124",22:00 WIB 07/05 Dinamo Jug vs FK Usce Novi Beograd (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -404,194 +358,258 @@ https://pull-gv.fastestcdn-global.com/live/4be61d7206d24c3da4feecc6dc8b1365/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.rapidlive.shop/live/31ae6e842a0f23d9279278cdc032f8ff/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/607e88e0f27f74056b9e4d2d416253ea/image/small?v=1768601124",23:30 WIB 07/05 Fortune FC vs TMT FA (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/8c017b77474534baf3549eee484f7474/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/987941c5714a35beb459f350fa055d47/image/small?v=1768601124",21:00 WIB 07/05 Pogradeci vs Kastrioti Kruje (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.rapidlive.shop/live/54a51599111ad646edae0555e28bf22f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/72fdc2cc39e050e732979776dbdb0997/image/small?v=1768601124",23:30 WIB 07/05 Freetown City vs BAI Bureh Warriors (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/0c19db1ba104972ee6f0d1f9f120ee9e/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/107084dd05ff14db3c0b34577aec2883/image/small?v=1768601124",22:00 WIB 07/05 AlvsNajaf vs Amanat Baghdad (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.rapidlive.shop/live/696174428ebff2ee7e16cc4b9e7041f9/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=9e6a03dabf9294f185c845ba040e14bb&txTime=69fd0722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=14b8fc9817c7d2c9db70240afe0ff46d&txTime=69fd0722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=9e6a03dabf9294f185c845ba040e14bb&txTime=69fd0722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=14b8fc9817c7d2c9db70240afe0ff46d&txTime=69fd0722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/5da45cf08a3154362ae01c29d94b81a9.jpg",22:30 WIB 07/05 Elitzur Maccabi Netanya vs Hapoel Jerusalem [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1778172114-0-0-bfa51cf5252258074bff99d970a72c1a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/5da45cf08a3154362ae01c29d94b81a9.jpg",22:30 WIB 07/05 Elitzur Maccabi Netanya vs Hapoel Jerusalem [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1778172114-0-0-b9db5de036ddb18af353020283452666
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/5da45cf08a3154362ae01c29d94b81a9.jpg",22:30 WIB 07/05 Elitzur Maccabi Netanya vs Hapoel Jerusalem [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1778172114-0-0-40aa4303e0106ed870065955b3e9297a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/5da45cf08a3154362ae01c29d94b81a9.jpg",22:30 WIB 07/05 Elitzur Maccabi Netanya vs Hapoel Jerusalem [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1778172114-0-0-1f3645df1d24693b892f77dffe34c37d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1778172114-0-0-4feb3c3d5a1aa476adbd4cc64547d7c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1778172114-0-0-3e2be333c86a07ff107b03676854f9fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1778172114-0-0-1dc36f5c9bffbdffdb424ebef4a9d5ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1778172114-0-0-fcf6627c41ecd2c29d011bfd1edd3d36
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV VITAMIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1778172114-0-0-cdc893cc0ff4cd994db25041de0d6c55
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV VITAMIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1778172114-0-0-178b8a8cbd4f98e8ce650ce247e9c181
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV VITAMIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1778172114-0-0-53767696b6fdf5245a8e2ac17256c65c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV VITAMIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1778172114-0-0-a1794bf919412a00397b01c5ffed4438
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV LONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=1edf79c07f2a15804a572ad4800a0bc2&txTime=69fd0722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV LONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=9a52d9289ac78dcf5df70c1a8365f9e5&txTime=69fd0722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV LONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=1edf79c07f2a15804a572ad4800a0bc2&txTime=69fd0722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV LONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=9a52d9289ac78dcf5df70c1a8365f9e5&txTime=69fd0722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV RAMBO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=0af784f7f1bad25b01ad23cf1060ded9&txTime=69fd088a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV RAMBO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=77f15c7856dfe82a49fd2261d580e004&txTime=69fd088a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV RAMBO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=0af784f7f1bad25b01ad23cf1060ded9&txTime=69fd088a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV RAMBO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=77f15c7856dfe82a49fd2261d580e004&txTime=69fd088a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [BLV A WIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1778172474-0-0-909a3ec98ce1123e19b77a4a55d4e5b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [BLV A WIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1778172474-0-0-18abd77ab57d13631289fc077b8ce43f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [BLV A WIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778172474-0-0-21010b58751f702e1122a587c94811b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [BLV A WIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778172474-0-0-868bc9e9858d64262b29e358ea96ae16
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/9c23532712ae76d59ebaace703d405d2/image/small?v=1768601124",22:00 WIB 07/05 FK Dubocica vs FAP (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/b5bb764bb8021ff6fe08d1aca01e8275/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/62b2d59ff667fb984cbfd0e067ccdfdc/image/small?v=1768601124",20:00 WIB 07/05 Juventus SP vs Ferroviaria SP (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/5602a3246f4c4711262a2f4b79002422/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/798d8d1978bb9b9787ab4b66082e43e2/image/small?v=1768601124",23:00 WIB 07/05 PKvs35 Vantaa vs Mikkelin Palloilijat (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/b583900669bc7b3930b80510c9e38344/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/3b6cf59f1eb8de1c1ad7df6707933f8e/image/small?v=1768601124",23:00 WIB 07/05 LKS Lodz vs Pogon Grodzisk Mazowiecki (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/ffe20dc41c796a5e224317f1e8791e74/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/112a036f239bfcb5e733ba2ef93b5e16/image/small?v=1768601124",23:00 WIB 07/05 AlvsJazeera vs AL Salt (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/b880247f4d16bc1868cb83ae852cb282/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [KÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1778172474-0-0-9e64bc4369afd592ce23d92257ada803
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1778175714-0-0-ef1590e186bcfad1ce0da8bfc7846201
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [KÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1778172474-0-0-4bc6a83774dc6c0d26a6924a89aa1126
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1778175714-0-0-188d07535642d45ae1e804f5116970c8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [KÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1778172474-0-0-8b03fe6b6438b655337a11f742dcabee
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1778175714-0-0-71c7cff9f1d363b875ee617dd7972c30
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [KÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1778172474-0-0-31526674fa4c9d2e02752e0856212e13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",BCL: Rytas vs Tenerife [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1778172474-0-0-7722c46318713080336636c9f920ebd7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",BCL: Rytas vs Tenerife [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1778172474-0-0-f0172e8b37ab81015926f36dfe7c21af
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",BCL: Rytas vs Tenerife [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1778172474-0-0-68f46132179ade4d921d4d7bde293c91
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",BCL: Rytas vs Tenerife [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1778172474-0-0-98f567169807360679d05c3b2a03f366
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1778175714-0-0-037eaab937fce88134705d15d7e0bd9d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",POL D2: LKS Lodz vs Pogon Grodzisk Mazowiecki [BLV THÓC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1778172474-0-0-4e2fbe36121c4faa8bf3234da78ae3f5
+https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1778175714-0-0-1bdd798e90efe1f9505a40a2f0feb596
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",POL D2: LKS Lodz vs Pogon Grodzisk Mazowiecki [BLV THÓC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1778172474-0-0-e3651990bc9ef59b9e79b40ccca37492
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1778175714-0-0-6730ef673cb3132441fd840ba0f5d1bc
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",POL D2: LKS Lodz vs Pogon Grodzisk Mazowiecki [BLV THÓC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1778172474-0-0-506646361d8a4afc769a332fd96f2a84
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1778175714-0-0-d1afb841a7f7ee19ee99872e08a4157d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",POL D2: LKS Lodz vs Pogon Grodzisk Mazowiecki [BLV THÓC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1778172474-0-0-b7369302feb6ae1fc2049827763ced50
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [MR BÍCH] (Socolive) flv
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1778175714-0-0-54da5740894ecae584a40d94fc00ef87
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1778172834-0-0-fe9b8b4246acbd69b1cb8e17a75609a5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [MR BÍCH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1778175714-0-0-15967292fb5b7687a801298a121409d1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1778172834-0-0-5c1059bb799bb89e06ab43e7efdac5b0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [MR BÍCH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1778175714-0-0-9b337a015a329095d439660cfb7f3853
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1778172834-0-0-faac24310c96b443dd613b3a379b074f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [MR BÍCH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778175714-0-0-4ad3c01cfcfcfa74725d4a2dbd5da3ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",ROM D2: CSA Steaua Bucuresti vs Sepsi OSK Sfantul Gheorghe [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1778172834-0-0-558e096d4292f99955a27ef750953f79
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV BÉO] (Socolive) flv
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778175714-0-0-bc1f786bc474e8201a221dffb4f0b793
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",BCL: Rytas vs Tenerife [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=d90d243924ab904f2155631b1f7537ec&txTime=69fd09f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV BÉO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1778175714-0-0-9b8070582f66620c2fd43458382c90ab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",BCL: Rytas vs Tenerife [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=fc6aaad2be1c49a9f1ea1d5496d2f498&txTime=69fd09f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV BÉO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1778175714-0-0-b0a8747901284bd119c3c530656df679
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",BCL: Rytas vs Tenerife [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=d90d243924ab904f2155631b1f7537ec&txTime=69fd09f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/b088c425247f43beb536038dacddae97.png",21:00 WIB 07/05 Tala'ea El Gaish vs Ghazl El Mahallah [BLV BÉO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1778175714-0-0-6c0da92d7cd83abc0de80fa5b6c3f3bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",BCL: Rytas vs Tenerife [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=fc6aaad2be1c49a9f1ea1d5496d2f498&txTime=69fd09f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Tala'ea El Gaish vs Ghazl El Mahallan [TYPN] (Socolive) flv
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1778175714-0-0-bf8c2069acdfc904972caab90f00968d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=f3d977f9d70a06d91edb3634969a3f91&txTime=69fd09f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Tala'ea El Gaish vs Ghazl El Mahallan [TYPN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-472241_lsd.flv?txSecret=7fc22b52612719d8e8112635032e63a7&txTime=69fd169a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=a7272c9b2ae250753f4e74bd5b09f4cf&txTime=69fd09f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Tala'ea El Gaish vs Ghazl El Mahallan [TYPN] (Socolive) m3u8
+https://pull.niur.live/live/stream-472241_lhd.flv?txSecret=47ead92c05d2308ceef96d774e034ead&txTime=69fd169a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=f3d977f9d70a06d91edb3634969a3f91&txTime=69fd09f2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Tala'ea El Gaish vs Ghazl El Mahallan [TYPN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=7fc22b52612719d8e8112635032e63a7&txTime=69fd169a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=a7272c9b2ae250753f4e74bd5b09f4cf&txTime=69fd09f2
+https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=47ead92c05d2308ceef96d774e034ead&txTime=69fd169a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV CÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lsd.flv?txSecret=001c5b4819321dd48558661ba276208f&txTime=69fd09f2
+https://pull.niur.live/live/stream-597929_lsd.flv?txSecret=942471af7d365822f6cac9eb9664fbfc&txTime=69fd169a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV CÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lhd.flv?txSecret=3aa351b798d1d63dc33fd0203ad34bcc&txTime=69fd09f2
+https://pull.niur.live/live/stream-597929_lhd.flv?txSecret=da661b7d16300f8da33dc8df40ad360e&txTime=69fd169a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV CÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=001c5b4819321dd48558661ba276208f&txTime=69fd09f2
+https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=942471af7d365822f6cac9eb9664fbfc&txTime=69fd169a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV CÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=3aa351b798d1d63dc33fd0203ad34bcc&txTime=69fd09f2
+https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=da661b7d16300f8da33dc8df40ad360e&txTime=69fd169a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1778176074-0-0-5ff97ae9d939765a81556ab4c99b96e9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1778176074-0-0-3e10c5e0d4c7b689b58b78d08ce67d4d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1778176074-0-0-7f14ffd8677bd7b17eb66eb8bc503efc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1778176074-0-0-89e451270d0577f4a55cfd5f91576cd4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [NGƯỜI CÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1778176074-0-0-16c358f86dbcb1b05d93ad3aaf0c93e7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [NGƯỜI CÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1778176074-0-0-ddac59a9fafb178a7255f0c7f304c41c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [NGƯỜI CÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1778176074-0-0-469e386ec77250bec94ecd77c9daef04
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [NGƯỜI CÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1778176074-0-0-126051950ba3cfd8914032e7b6b0a829
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1778176074-0-0-ae5f1615833a6257dcaa92f0f3c73164
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1778176074-0-0-81616e964d430ced4e187ddb7739084a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1778176074-0-0-a7fca574b025af0ec2558ca83cff732f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Haras El Hodood vs ZED FC [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1778176074-0-0-3c4324ebebdc8001093edba5e27e7197
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",POL D2: LKS Lodz vs Pogon Grodzisk Mazowiecki [THE KOP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1778172834-0-0-2607a592470bfb70678ed78152852d04
+https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1778176074-0-0-f259d19c6cfca73017d0552845b9e611
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",POL D2: LKS Lodz vs Pogon Grodzisk Mazowiecki [THE KOP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1778172834-0-0-0b88844ef9af2ad3033ab07170c5deb3
+https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1778176074-0-0-0899db8179e92bafb97fe8f4bac74af9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",POL D2: LKS Lodz vs Pogon Grodzisk Mazowiecki [THE KOP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1778172834-0-0-7e698d4e5959430ed5bf31a2731e8f4a
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1778176074-0-0-71f15a840e5c4967b5e1560945c32d1c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",POL D2: LKS Lodz vs Pogon Grodzisk Mazowiecki [THE KOP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1778172834-0-0-edb3298c9799e3316bc6efac627bfa60
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1778176074-0-0-191e1a9c6c3857b08fcec4b78f5d2623
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [BLV WUKONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1778176074-0-0-debf37c17edb46154573d84c819feeda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [BLV WUKONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1778176074-0-0-ba52d567c6cb8df778dff2cfea5ffc05
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [BLV WUKONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1778176074-0-0-2da64ef9e366cb68013dfc36d0ae6ff9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [BLV WUKONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1778176074-0-0-b10f1ee4000aea601cc1681fdbf3530a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [BLV VIP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-491873_lsd.flv?auth_key=1778176434-0-0-9e025774bc5c27fc1f6dd48d2f59ffef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [BLV VIP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-491873_lhd.flv?auth_key=1778176434-0-0-4bce170c5c42c34790aabeffe6a2d3a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [BLV VIP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1778176434-0-0-723de7329f27eea1104271cc07a9f13c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [BLV VIP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1778176434-0-0-21e354a9a7a71329a7283c0371a3f1ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Bank El Ahly vs Ismaily SC [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1778176434-0-0-c11f4c8d42c08b9934692a6d28976689
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Bank El Ahly vs Ismaily SC [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1778176434-0-0-0434fa2c92129381e01bbd181e0d6876
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Bank El Ahly vs Ismaily SC [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1778176434-0-0-b926bc2803d24de665f3f8019ae90c76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Bank El Ahly vs Ismaily SC [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1778176434-0-0-304fd777a0b493adf956bfc03863e567
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1778176434-0-0-13cf161480ca4f38ced09447d82663f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1778176434-0-0-7f32043fbbfdbcbdbf339ad3cade7d1e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1778176434-0-0-db0c46f3ff6e25fa9282a6f529217e20
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Bodrum FK vs Pendikspor [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1778176434-0-0-1f1d6b2f37fd133ca442375acfbab139
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Bank El Ahly vs Ismaily SC [TRÀ ĐÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1778176434-0-0-5e0c39443915ee20c8987cbb41f99be2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Bank El Ahly vs Ismaily SC [TRÀ ĐÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1778176434-0-0-01ab42af1f49cfda1fafa1812d0bbdbe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Bank El Ahly vs Ismaily SC [TRÀ ĐÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1778176434-0-0-046feeafd7de6d2726a7aa85bfb0ad24
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",EGY D1: Bank El Ahly vs Ismaily SC [TRÀ ĐÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1778176434-0-0-944cba3d1cea9c3aca0a10536d26e9bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1778176434-0-0-e87863abb8c58844d92483b358e3f36f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1778176434-0-0-8f57a6b5d395a1c5d3240ac3a80b656b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1778176434-0-0-65f6d6c0d3a1f64d91b818a96e91192d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",GEO D1: Dinamo Tbilisi vs Spaeri FC [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1778176434-0-0-8838c1d920189a3673bf7bc64a841394
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [CHANH MUỐI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1778176434-0-0-fa97662cd70f680da8b728dcc596b25c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [CHANH MUỐI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1778176434-0-0-29e32c7e42a000c794c9018ca6026427
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [CHANH MUỐI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1778176434-0-0-5a24c550f91644ce0d8d78e71172cc1b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/20fbf478a675a73901cabbbcf1f03c8d.png",TFF 1. Lig: Corum Belediyespor vs Keciorengucu [CHANH MUỐI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1778176434-0-0-25be270f321953bacfb0fdf319d6d33f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/5da45cf08a3154362ae01c29d94b81a9.jpg",22:30 WIB 07/05 Elitzur Maccabi Netanya vs Hapoel Jerusalem [KING] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1778176434-0-0-ddb2e0196a0add12131587758307b2f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/5da45cf08a3154362ae01c29d94b81a9.jpg",22:30 WIB 07/05 Elitzur Maccabi Netanya vs Hapoel Jerusalem [KING] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1778176434-0-0-584f86054c641c8d9020368e9e0e46c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/5da45cf08a3154362ae01c29d94b81a9.jpg",22:30 WIB 07/05 Elitzur Maccabi Netanya vs Hapoel Jerusalem [KING] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1778176434-0-0-9255231e71596f7fce5f653ae6e26385
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/5da45cf08a3154362ae01c29d94b81a9.jpg",22:30 WIB 07/05 Elitzur Maccabi Netanya vs Hapoel Jerusalem [KING] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1778176434-0-0-57a965174144a6dcfb98797800dff5ac
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/11066.png",22:00 WIB 07/05 Al Najaf vs Baghdad (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -616,6 +634,18 @@ https://alive.zlylive.com/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Xp6R6nfpFwhEpBeHln9klK2IKYhtFAyZ9w&s",00:00 WIB 08/05 "Lorenzo Sonego - 	Ignacio Buse" (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Xp6R6nfpFwhEpBeHln9klK2IKYhtFAyZ9w&s",00:00 WIB 08/05 "Lorenzo Sonego - 	Ignacio Buse" (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Xp6R6nfpFwhEpBeHln9klK2IKYhtFAyZ9w&s",00:00 WIB 08/05 "Lorenzo Sonego - 	Ignacio Buse" (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80",23:00 WIB 03/05 Juventus F.C. vs Hellas Verona F.C.
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/14830711.m3u8
@@ -638,27 +668,27 @@ https://live5.msrktz.app/live/90725470.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Quê Choa",[Premier League] 21:00 WIB 07/05 El Geish vs Ghazl El Mehalla [FHD]
+#EXTINF:-1 group-title="Quê Choa",[WTA 1000 Rome] 23:00 WIB 07/05 Bencic B. vs Andreescu B. [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Premier League] 21:00 WIB 07/05 El Geish vs Ghazl El Mehalla [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+#EXTINF:-1 group-title="Quê Choa",[WTA 1000 Rome] 23:00 WIB 07/05 Bencic B. vs Andreescu B. [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Premier League] 21:00 WIB 07/05 El Geish vs Ghazl El Mehalla [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+#EXTINF:-1 group-title="Quê Choa",[WTA 1000 Rome] 23:00 WIB 07/05 Bencic B. vs Andreescu B. [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Virsliga] 21:00 WIB 07/05 Tukums vs Ogre United [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Virsliga] 21:00 WIB 07/05 Tukums vs Ogre United [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+#EXTINF:-1 group-title="Quê Choa",[Virsliga] 23:00 WIB 07/05 Tukums vs Ogre United [FHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Virsliga] 21:00 WIB 07/05 Tukums vs Ogre United [SD]
+#EXTINF:-1 group-title="Quê Choa",[Virsliga] 23:00 WIB 07/05 Tukums vs Ogre United [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+#EXTINF:-1 group-title="Quê Choa",[Virsliga] 23:00 WIB 07/05 Tukums vs Ogre United [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
