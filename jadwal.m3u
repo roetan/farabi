@@ -1,27 +1,33 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3307_1j3s206m3c2y.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre (Lương Sơn) BLV MỘT CHÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3307_1j3s206m3c2y.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre (Lương Sơn) BLV MỘT CHÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3307_1j3s206m3c2y.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre (Lương Sơn) BLV URA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3307_1j3s206m3c2y.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre (Lương Sơn) BLV URA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778081658.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778081658.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19954_1gtwwxwrx0s.png",06:00 WIB 07/05 Brasil de Pelotas vs Internacional RS (Lương Sơn) BLV LƯU BỊ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1:36 WIB70bc3a1h.png",08:30 WIB 07/05 Toluca vs Los Angeles FC (Lương Sơn) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1:36 WIB70bc3a1h.png",08:30 WIB 07/05 Toluca vs Los Angeles FC (Lương Sơn) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1:36 WIB70bc3a1h.png",08:30 WIB 07/05 Toluca vs Los Angeles FC (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1:36 WIB70bc3a1h.png",08:30 WIB 07/05 Toluca vs Los Angeles FC (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1:36 WIB70bc3a1h.png",08:30 WIB 07/05 Toluca vs Los Angeles FC (Lương Sơn) BLV SHIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1:36 WIB70bc3a1h.png",08:30 WIB 07/05 Toluca vs Los Angeles FC (Lương Sơn) BLV SHIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1:36 WIB70bc3a1h.png",08:30 WIB 07/05 Toluca vs Los Angeles FC (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19954_1gtwwxwrx0s.png",06:00 WIB 07/05 Brasil de Pelotas vs Internacional RS (Lương Sơn) BLV LƯU BỊ flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1:36 WIB70bc3a1h.png",08:30 WIB 07/05 Toluca vs Los Angeles FC (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/426_1gtqm76wzmz.png",07:30 WIB 07/05 Botafogo RJ vs Racing Club (Lương Sơn) BLV KENCHU m3u
@@ -36,54 +42,18 @@ https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/426_1gtqm76wzmz.png",07:30 WIB 07/05 Botafogo RJ vs Racing Club (Lương Sơn) BLV LÝ QUỲ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4730_1hxkcfqmkck.png",06:30 WIB 07/05 CF Montreal vs Calgary Blizzard (Lương Sơn) BLV TIỂU LANG m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3307_1j3s206m3c2y.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre (Lương Sơn) BLV MỘT CHÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/AJUN/index.m3u8?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4730_1hxkcfqmkck.png",06:30 WIB 07/05 CF Montreal vs Calgary Blizzard (Lương Sơn) BLV TIỂU LANG flv
+https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3307_1j3s206m3c2y.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre (Lương Sơn) BLV MỘT CHÂN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/AJUN.flv?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19954_1gtwwxwrx0s.png",06:00 WIB 07/05 Brasil de Pelotas vs Internacional RS (Lương Sơn) BLV PELE m3u
+https://flv.cdnok9.com/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3307_1j3s206m3c2y.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre (Lương Sơn) BLV URA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19954_1gtwwxwrx0s.png",06:00 WIB 07/05 Brasil de Pelotas vs Internacional RS (Lương Sơn) BLV PELE flv
+https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3307_1j3s206m3c2y.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre (Lương Sơn) BLV URA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/bbedd3004ef62336dabf307a15743f58/image/small?v=1768601124",05:00 WIB 07/05 Deportivo La Guaira vs Bolivar (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b21eb71d358db1365ecdfe38dda40476/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/efa0ccd379473dfb5a53abb34780cad3/image/small?v=1768601124",05:00 WIB 07/05 Montevideo City Torque vs Palestino (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9af7e35d7a0ff473597463f9ab7c2941/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fd1b4a0de5ab7b0ca6a6042309c61f39/image/small?v=1768601124",05:00 WIB 07/05 Central Cordoba SdE Reserves vs Lanus Reserves (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5a0282fe568e3df53f82a029ca157493/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/612e1b478387fe7a7e9bae1e1d2a1fe0/image/small?v=1768601124",03:00 WIB 07/05 Brazil U17 Women vs Chile Women U17 (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/daf156d884cd62ef22718782a10c1e43/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e785de17bbd6db2d6422579c398f45f3/image/small?v=1768601124",04:00 WIB 07/05 Palmeiras SP Women vs  (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/6422d1bec9333922daa136ee253f0902/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8ffbc907c7633e08cbe4cac5a557fae4/image/small?v=1768601124",05:00 WIB 07/05 Cusco FC vs Estudiantes La Plata (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/81384b386abd37a7c336adaed20a5a95/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/788bccae99db9042f8e9a3579ede34f5/image/small?v=1768601124",03:30 WIB 07/05 Cavalier FC vs Harbour View FC (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a67cb2835b0cac0fee0e47ace7374214/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ab87d1aebe8a1d4c9fc8e61eb163d2cd/image/small?v=1768601124",05:00 WIB 07/05 Audax Italiano vs Vasco da Gama Saf vs RJ (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a1b3944094018f741de7f6d73e1902fb/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/dee3ac26f3c61c05a4c133d502c796a0/image/small?v=1768601124",05:00 WIB 07/05 Talleres Cordoba Reserve vs Atletico Tucuman Reserve (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/25b9924a198b803ece3867088f90759f/playlist.m3u8
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/561aadbecc407331ca21612065d44311/image/small?v=1768601124",05:00 WIB 07/05 ABC RN vs Juazeirense (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -92,6 +62,10 @@ https://live.alilicloud.com/live/7a98f2115c87a4267b5024889258866b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/5e7149ef328217600f2a97fa7d5f6c0c/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/df4a65364bc8a1301985f9112fc15a75/image/small?v=1768601124",08:00 WIB 07/05 New Mexico United vs El Paso Locomotive FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f9946d5f9a7ca7e798d7f4c60253163c/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/52dd910ae09c6ece7622cbd969f42489/image/small?v=1768601124",06:00 WIB 07/05 DC Power Women vs Sporting JAX (W) (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -188,10 +162,22 @@ https://live.alilicloud.com/live/3003b873db23bc7b04724e3f53bcf88c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/75f14abc336569cc7fe51a6928a4015f/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/540a9b723dcd6a8b672b4ea763e1657d/image/small?v=1768601124",02:00 WIB 07/05 Taubate Women vs Bragantino Women (Khán Đài A) source
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08:30 WIB 07/05 Toluca vs Los Angeles FC (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/dc6ed8e035d052a98bb72ecd26c0a82e/playlist.m3u8
+https://live.alilicloud.com/live/d1b2e400b18f9bf86a92bc5d6dfa197d/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08:30 WIB 07/05 Toluca vs Los Angeles FC (Khán Đài A) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/94bf2300d9134e2c8d7c8fbfc94c03e7/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08:30 WIB 07/05 Toluca vs Los Angeles FC (Khán Đài A) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/94bf2300d9134e2c8d7c8fbfc94c03e7/index.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08:30 WIB 07/05 Toluca vs Los Angeles FC (Khán Đài A) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-kda.fastestcdn-global.com/live/94bf2300d9134e2c8d7c8fbfc94c03e7/index.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/7fb6a397cc91742809e7a94f0a77774f/image/small?v=1768601124",06:30 WIB 07/05 SV Robinhood vs SV Leo Victor (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -204,6 +190,42 @@ https://live.alilicloud.com/live/7e4d5f74d4e54284887012cbf27fca0b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/405d552ae2961fe83d337319bb3556e3/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/bbedd3004ef62336dabf307a15743f58/image/small?v=1768601124",05:00 WIB 07/05 Deportivo La Guaira vs Bolivar (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b21eb71d358db1365ecdfe38dda40476/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/efa0ccd379473dfb5a53abb34780cad3/image/small?v=1768601124",05:00 WIB 07/05 Montevideo City Torque vs Palestino (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9af7e35d7a0ff473597463f9ab7c2941/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/fd1b4a0de5ab7b0ca6a6042309c61f39/image/small?v=1768601124",05:00 WIB 07/05 Central Cordoba SdE Reserves vs Lanus Reserves (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5a0282fe568e3df53f82a029ca157493/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/612e1b478387fe7a7e9bae1e1d2a1fe0/image/small?v=1768601124",03:00 WIB 07/05 Brazil U17 Women vs Chile Women U17 (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/daf156d884cd62ef22718782a10c1e43/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/e785de17bbd6db2d6422579c398f45f3/image/small?v=1768601124",04:00 WIB 07/05 Palmeiras SP Women vs  (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/6422d1bec9333922daa136ee253f0902/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8ffbc907c7633e08cbe4cac5a557fae4/image/small?v=1768601124",05:00 WIB 07/05 Cusco FC vs Estudiantes La Plata (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/81384b386abd37a7c336adaed20a5a95/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/788bccae99db9042f8e9a3579ede34f5/image/small?v=1768601124",03:30 WIB 07/05 Cavalier FC vs Harbour View FC (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a67cb2835b0cac0fee0e47ace7374214/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ab87d1aebe8a1d4c9fc8e61eb163d2cd/image/small?v=1768601124",05:00 WIB 07/05 Audax Italiano vs Vasco da Gama Saf vs RJ (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a1b3944094018f741de7f6d73e1902fb/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/dee3ac26f3c61c05a4c133d502c796a0/image/small?v=1768601124",05:00 WIB 07/05 Talleres Cordoba Reserve vs Atletico Tucuman Reserve (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/25b9924a198b803ece3867088f90759f/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132728_39bee3ac.png",07:00 WIB 07/05 Barracas Central vs Olimpia (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -260,6 +282,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133901_a175d6ab.png",09:00 WIB 07/05 Alianza Atletico vs America de Cali (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133901_a175d6ab.png",09:00 WIB 07/05 Alianza Atletico vs America de Cali (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134647_fc928ab4.png",09:00 WIB 07/05 U. Catolica vs Cruzeiro (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134647_fc928ab4.png",09:00 WIB 07/05 U. Catolica vs Cruzeiro (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/4548.png",16:00 WIB 07/05 Astana II vs Turan Turkistan (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -404,38 +442,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bbedd3004ef62336dabf307a15743f58/image/small?v=1768601124",05:00 WIB 07/05 Deportivo La Guaira vs Bolivar (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b21eb71d358db1365ecdfe38dda40476/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/efa0ccd379473dfb5a53abb34780cad3/image/small?v=1768601124",05:00 WIB 07/05 Montevideo City Torque vs Palestino (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9af7e35d7a0ff473597463f9ab7c2941/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fd1b4a0de5ab7b0ca6a6042309c61f39/image/small?v=1768601124",05:00 WIB 07/05 Central Cordoba SdE Reserves vs Lanus Reserves (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5a0282fe568e3df53f82a029ca157493/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/612e1b478387fe7a7e9bae1e1d2a1fe0/image/small?v=1768601124",06:00 WIB 07/05 Brazil U17 Women vs Chile Women U17 (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/daf156d884cd62ef22718782a10c1e43/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8ffbc907c7633e08cbe4cac5a557fae4/image/small?v=1768601124",05:00 WIB 07/05 Cusco FC vs Estudiantes La Plata (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/81384b386abd37a7c336adaed20a5a95/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6266066d74babb44bf1176895d1428f0/image/small?v=1768601124",06:00 WIB 07/05 Penapolense vs Inter Bebedouro/SP (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/1c6d2c46ddbc8b8513b7dff48005fb5d/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ab87d1aebe8a1d4c9fc8e61eb163d2cd/image/small?v=1768601124",05:00 WIB 07/05 Audax Italiano vs Vasco da Gama Saf vs RJ (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/a1b3944094018f741de7f6d73e1902fb/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/dee3ac26f3c61c05a4c133d502c796a0/image/small?v=1768601124",05:00 WIB 07/05 Talleres Cordoba Reserve vs Atletico Tucuman Reserve (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/25b9924a198b803ece3867088f90759f/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2de758aa769b9b1370a28b3e2ba82976/image/small?v=1768601124",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -472,6 +478,10 @@ https://live.alilicloud.com/live/7a98f2115c87a4267b5024889258866b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5e7149ef328217600f2a97fa7d5f6c0c/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/df4a65364bc8a1301985f9112fc15a75/image/small?v=1768601124",08:00 WIB 07/05 New Mexico United vs El Paso Locomotive FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f9946d5f9a7ca7e798d7f4c60253163c/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/52dd910ae09c6ece7622cbd969f42489/image/small?v=1768601124",06:00 WIB 07/05 DC Power Women vs Sporting JAX (W) (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -564,222 +574,426 @@ https://live.alilicloud.com/live/7e4d5f74d4e54284887012cbf27fca0b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/405d552ae2961fe83d337319bb3556e3/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [KING] (Socolive) flv
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/bbedd3004ef62336dabf307a15743f58/image/small?v=1768601124",05:00 WIB 07/05 Deportivo La Guaira vs Bolivar (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/b21eb71d358db1365ecdfe38dda40476/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/efa0ccd379473dfb5a53abb34780cad3/image/small?v=1768601124",05:00 WIB 07/05 Montevideo City Torque vs Palestino (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9af7e35d7a0ff473597463f9ab7c2941/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fd1b4a0de5ab7b0ca6a6042309c61f39/image/small?v=1768601124",05:00 WIB 07/05 Central Cordoba SdE Reserves vs Lanus Reserves (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5a0282fe568e3df53f82a029ca157493/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/612e1b478387fe7a7e9bae1e1d2a1fe0/image/small?v=1768601124",06:00 WIB 07/05 Brazil U17 Women vs Chile Women U17 (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/daf156d884cd62ef22718782a10c1e43/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/8ffbc907c7633e08cbe4cac5a557fae4/image/small?v=1768601124",05:00 WIB 07/05 Cusco FC vs Estudiantes La Plata (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/81384b386abd37a7c336adaed20a5a95/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/6266066d74babb44bf1176895d1428f0/image/small?v=1768601124",06:00 WIB 07/05 Penapolense vs Inter Bebedouro/SP (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/1c6d2c46ddbc8b8513b7dff48005fb5d/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/ab87d1aebe8a1d4c9fc8e61eb163d2cd/image/small?v=1768601124",05:00 WIB 07/05 Audax Italiano vs Vasco da Gama Saf vs RJ (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a1b3944094018f741de7f6d73e1902fb/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/dee3ac26f3c61c05a4c133d502c796a0/image/small?v=1768601124",05:00 WIB 07/05 Talleres Cordoba Reserve vs Atletico Tucuman Reserve (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/25b9924a198b803ece3867088f90759f/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08:30 WIB 07/05 Toluca vs Los Angeles FC (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d1b2e400b18f9bf86a92bc5d6dfa197d/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08:30 WIB 07/05 Toluca vs Los Angeles FC (Gà Vàng) sd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/1c33be1e494446b1928dd11fb41ed168/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08:30 WIB 07/05 Toluca vs Los Angeles FC (Gà Vàng) hd_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-gv.fastestcdn-global.com/live/1c33be1e494446b1928dd11fb41ed168/index.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08:30 WIB 07/05 Toluca vs Los Angeles FC (Gà Vàng) sd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/1c33be1e494446b1928dd11fb41ed168/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08:30 WIB 07/05 Toluca vs Los Angeles FC (Gà Vàng) hd_2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/1c33be1e494446b1928dd11fb41ed168/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08:30 WIB 07/05 Toluca vs Los Angeles FC (Gà Vàng) sd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/1c33be1e494446b1928dd11fb41ed168/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fc071e179536f017a6a5ed04e396c8c1/image/small?v=1768601124",08:30 WIB 07/05 Toluca vs Los Angeles FC (Gà Vàng) hd_3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://stm02bc67063175.stream.hdplaylink.com/live/1c33be1e494446b1928dd11fb41ed168/playlist.m3u8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1778118113-0-0-e68f81061db2c1626d19249cb521d005
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [KING] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1778121714-0-0-a39d160f6c99f6b39e47a54d9754ce25
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1778118113-0-0-34b77c2caa042b90a7adbe69c5ab1215
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [KING] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1778121714-0-0-ff4c8ad975d7dd0a45af84c984390277
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1778118113-0-0-a36d523d93334ba8f8e957e9125994fd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1778121714-0-0-989c5089bffd23dd8668e4e8bd5342b6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1778118113-0-0-86f3d3d9e0e0cf1994da03f771e1e8f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [BLV ROBBEN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1778118114-0-0-92d9a54d50cdea2dc9fa90618aceba79
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [BLV ROBBEN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1778118114-0-0-96f09c36e5d0951f408d9143afd98747
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [BLV ROBBEN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1778118114-0-0-586bb65542cb9b0c457f962788ca0ebe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [BLV ROBBEN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1778118114-0-0-aef0b600863a22fe8170907b44ea196c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1778118114-0-0-e73dd3507d522f073176a32c08c8da84
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1778118114-0-0-829f914de26385e2263a2dbbcbf90a42
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1778118114-0-0-873040b0e2621f7a5463e4f8fd52eafa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1778118114-0-0-59366e0d1d26351be6a636003ff0696f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1778118114-0-0-10a6350a6eadfb0c4f3f5d0b47899807
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1778118114-0-0-e250cf953826b2eb0c9678ee23972894
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1778118114-0-0-86ce47716dc03c8f205690bda35774b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1778118114-0-0-f30097792930901f5355d5346a49711b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1778118113-0-0-c6bc1d07c645a1d935a00555db754dcd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1778118113-0-0-5ca55d645741f577b0b0e6c1f94ba600
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1778118113-0-0-ce86614691a8bb57e7749299f3b549cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1778118113-0-0-e4a8fe8450692e84af510e60b918dac0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [BLV RYO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1778118474-0-0-59599f1638d0252c24bb220316c82a19
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [BLV RYO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1778118474-0-0-407890a888e85b6a358e0c1d3ca67513
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [BLV RYO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1778118474-0-0-11880152f684bd9fab67ea426e45f0bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [BLV RYO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1778118474-0-0-3bece73a05fee288fe1ddae88e0efd52
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [PINKMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=7923f37e3d43564209b1b97e7a83df30&txTime=69fc359a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [PINKMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=32df12947b6ee7ee2e6099d8735d243d&txTime=69fc359a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [PINKMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=7923f37e3d43564209b1b97e7a83df30&txTime=69fc359a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [PINKMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=32df12947b6ee7ee2e6099d8735d243d&txTime=69fc359a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=bf571bdaea16d6473beb66b5128f9338&txTime=69fc3599
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=d41273bd9c8a437f7c17145385952c00&txTime=69fc3599
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=bf571bdaea16d6473beb66b5128f9338&txTime=69fc3599
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=d41273bd9c8a437f7c17145385952c00&txTime=69fc3599
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1778118473-0-0-947e6bb1402cff75bf92ee73731b2920
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1778118473-0-0-9fe6bc4898c0097689a8d8fdf8dec46c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1778118473-0-0-ffd0553600a52b18afa65855dfb4e5f5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1778118473-0-0-a28fd4b02e06bc35ad078dd16aa75118
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1778121714-0-0-cfa817434a31386b113c038171d6ea5e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [QUỐC KHÁNH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=1cb4b19ff9b8fbf5dda15953c1711afb&txTime=69fc359a
+https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=adb95a4e820c49921c43a2cf3a7239db&txTime=69fc4242
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [QUỐC KHÁNH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=960fdbf695e6d9eb2507802a0e3be7c0&txTime=69fc359a
+https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=6efd504535dbdbbd6c8ee17bb80b11a4&txTime=69fc4242
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [QUỐC KHÁNH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=1cb4b19ff9b8fbf5dda15953c1711afb&txTime=69fc359a
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=adb95a4e820c49921c43a2cf3a7239db&txTime=69fc4242
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [QUỐC KHÁNH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=960fdbf695e6d9eb2507802a0e3be7c0&txTime=69fc359a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV XO] (Socolive) flv
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=6efd504535dbdbbd6c8ee17bb80b11a4&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV ENZO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-472241_lsd.flv?txSecret=b3675c1d12321b20a5bf531a49cb1d55&txTime=69fc359a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV XO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1778121714-0-0-c096990ba9e3a20e34fdb41c91b0ad29
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV ENZO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-472241_lhd.flv?txSecret=e42b9772891f50315b3d5b56401d8668&txTime=69fc359a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV XO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1778121714-0-0-5daea4340fbe24e0a89106980d1aa4e8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV ENZO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=b3675c1d12321b20a5bf531a49cb1d55&txTime=69fc359a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1778121714-0-0-97575571c9ef139f18de7f7226e86307
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV ENZO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=e42b9772891f50315b3d5b56401d8668&txTime=69fc359a
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1778121714-0-0-7d5461a4a3cf9416f7bf42d2e771c740
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=c822d03bef09ed50f180f2fe9f17c97d&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=93be98f2fc420ce0b5529d5e35372166&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=c822d03bef09ed50f180f2fe9f17c97d&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=93be98f2fc420ce0b5529d5e35372166&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [TAM MAO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=456406760643c06377497b8fb7eff337&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [TAM MAO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=d3bf4aa02aba089db9e889391f2f913e&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [TAM MAO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=456406760643c06377497b8fb7eff337&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [TAM MAO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=d3bf4aa02aba089db9e889391f2f913e&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=11a38d60911ce10ba1368825e1cc7c7b&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=e5d0407a35cec3fb9fbaf36ab75968c3&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=11a38d60911ce10ba1368825e1cc7c7b&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=e5d0407a35cec3fb9fbaf36ab75968c3&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [PINKMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=2292ef77a20e426060bff1dba1701d81&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [PINKMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=0e02fe5e6af1c8be1d33e66dc192cd18&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [PINKMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=2292ef77a20e426060bff1dba1701d81&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [PINKMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=0e02fe5e6af1c8be1d33e66dc192cd18&txTime=69fc4242
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/c445afa51ae7a4874b87f0bdd5522f8a.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre [BLV RAMBO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=05d49c250af1bcedbfed2b613ffef3b2&txTime=69fc359a
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=51deaa7e83f2700a244557b5cb8e4154&txTime=69fc4242
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/c445afa51ae7a4874b87f0bdd5522f8a.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre [BLV RAMBO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=c4788f8241584a72328cdb54bf9a6a20&txTime=69fc359a
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=db40ac0600c3c36e0cf11b976e5f4ec8&txTime=69fc4242
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/c445afa51ae7a4874b87f0bdd5522f8a.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre [BLV RAMBO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=05d49c250af1bcedbfed2b613ffef3b2&txTime=69fc359a
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=51deaa7e83f2700a244557b5cb8e4154&txTime=69fc4242
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/c445afa51ae7a4874b87f0bdd5522f8a.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre [BLV RAMBO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c4788f8241584a72328cdb54bf9a6a20&txTime=69fc359a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) flv
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=db40ac0600c3c36e0cf11b976e5f4ec8&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1778118473-0-0-e1fde623c6dfabb8b789bdb5c680f2d3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-472241_lsd.flv?txSecret=f5079672bc17c9c715b1b484989cb2f0&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1778118473-0-0-2a320f94ebb5457820693f68211828b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) m3u8
+https://pull.niur.live/live/stream-472241_lhd.flv?txSecret=2476e20c81b8f4445a4c8f3e2dcb6d30&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1778118473-0-0-5457fa99e3721b55661a983715d4a02e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [A CHÈ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=f5079672bc17c9c715b1b484989cb2f0&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1778118473-0-0-b05c5806707469044489cd89208a6871
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) flv
+https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=2476e20c81b8f4445a4c8f3e2dcb6d30&txTime=69fc4242
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [BLV RYO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1778118833-0-0-c5efa1df76ee2aed1aad468781743c1d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1778121714-0-0-0620996c8b13ec131ee51a7e4855b302
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [BLV RYO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1778118833-0-0-44f28e76b046ff3f3dc050bb8f3cf18f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1778121714-0-0-55da9b55b3f34096ffc4f23eabd865ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [BLV RYO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1778118833-0-0-6447563b1068a8f1425630d299f0c981
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/c72ada8ab48f705562cd2e9e3defd067.png",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1778121714-0-0-f567ee7f9afe67d1e31e98e556d5d8b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d7d1bec715da3dce211c391a10082ce1.png",07:00 WIB 07/05 Barracas Central vs Olimpia Asuncion [BLV RYO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1778118833-0-0-68be95bc18793219d601493a7b3c44bd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV Củ Cải] (Socolive) flv
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1778121714-0-0-e22313e757388cb1caa127702c2f4b87
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/95ec7ad88a4003f4a271e71c09fb0213.png",09:00 WIB 07/05 Alianza Atletico Sullana vs America de Cali [VỊT BẠC] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1778118833-0-0-6250e0c21645eb9a61a2541a5850b4fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1778121714-0-0-d980189cf56c3d1a0f8c90925dd0b6fe
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/95ec7ad88a4003f4a271e71c09fb0213.png",09:00 WIB 07/05 Alianza Atletico Sullana vs America de Cali [VỊT BẠC] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1778118833-0-0-7b31351e018da418b9b1ef4482890f9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV Củ Cải] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1778121714-0-0-7e8281458e44578c921949749cb11ff8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/95ec7ad88a4003f4a271e71c09fb0213.png",09:00 WIB 07/05 Alianza Atletico Sullana vs America de Cali [VỊT BẠC] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1778118833-0-0-180df666862dd42260455fb8e2d7140c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1778121714-0-0-a7999fda1d004e13822b06cefb3d8a1e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/95ec7ad88a4003f4a271e71c09fb0213.png",09:00 WIB 07/05 Alianza Atletico Sullana vs America de Cali [VỊT BẠC] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1778118833-0-0-a50045535c39736d4e74668c47d1de0e
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1778121714-0-0-cb8d414831cc2458bbfc154b4f9a834f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [HẢI THANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1778121714-0-0-c8656cd7719f1f7594cfe4bd388f2a73
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [HẢI THANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1778121714-0-0-cbd41df04c47b7e3760c9e27d3506862
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [HẢI THANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1778121714-0-0-1838e6b2036cefbbeac5a721082dfd39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [HẢI THANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1778121714-0-0-f4acec0971fb2233e3bca0a969758eac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [BLV LIO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1778121714-0-0-2fcd61c762479122287ceafa0d0a19d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [BLV LIO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1778121714-0-0-3008f9f7bf279c1a84decdf8e644caf0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [BLV LIO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1778121714-0-0-fcd3e4ccca25ce9cf7464fbc05bc6d51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [BLV LIO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1778121714-0-0-cb0b35272fbc8b0a25556d172dda1c3d
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV CUỘI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1778118833-0-0-4ee2910b41c2acf4c77c345e052e3b07
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1778122074-0-0-a2605c61a1d8b3535f678204e7c329ef
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV CUỘI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1778118833-0-0-0f196b2e68dd36448df42a644428ffe8
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1778122074-0-0-77509a5e14f47bb053cbc683c2146a85
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV CUỘI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1778118833-0-0-503a09200bed8e4abfe480a07736385e
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1778122074-0-0-584b56b86459f6eb58b409c2471fe0e4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/d855e660aa9714a9aed2e3d40fafd2bf.png",07:30 WIB 07/05 Independiente Rivadavia vs Fluminense - RJ [BLV CUỘI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1778118833-0-0-ad5f96a71afe17615b1cdfd84c5eb9c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV CÒ] (Socolive) flv
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1778122074-0-0-20fd7fe3fb75850e4281d9abfab76ec5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1778118834-0-0-4b0f5b9e3ab7c59df7265a5fd8b754c4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1778122074-0-0-fc7b40e86521d821d447b2cd055043f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1778118834-0-0-7b20034fd7f6d85365d7527574bbe6ee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV CÒ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1778122074-0-0-da55e411c31e8bafdddca3eabb0032ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1778118834-0-0-d73793c37d9614b8b4e8582499f2268d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1778122074-0-0-9bd088483062a1af8200ca89284c8695
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1778118834-0-0-93d516c006904d42e8474b559c833138
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1778122074-0-0-6588a5cdc74030003e0708d974f99768
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1778122074-0-0-dc2772dc067c3dc90583be272cbf44de
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1778122074-0-0-e3cc57d022b5834e6d4691570dcc477d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1778122074-0-0-fad160ad12081acd19c21fb450d5352f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1778122074-0-0-5b60ff2361124a112a6146fb11899053
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1778122074-0-0-25d373067e81df5ae35a18aca71b0623
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1778122074-0-0-51ab2562c9b32c98af6983de9b16b8de
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1778122074-0-0-f34e505ec99331ae2cea2e75569867b6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1778122074-0-0-1f6a95ce7097b7c91ca9019dbb6b9d02
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [TYPN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=cdca3bf5476ad5c75ee8c9baa970e98e&txTime=69fc43aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [TYPN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=db7fb5bd040eb8a9e3c0082aab4cd9b9&txTime=69fc43aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [TYPN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=cdca3bf5476ad5c75ee8c9baa970e98e&txTime=69fc43aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/0a869774536e3e80a166acabbe6991d2.png",09:00 WIB 07/05 Univ Catolica vs Cruzeiro - MG [TYPN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=db7fb5bd040eb8a9e3c0082aab4cd9b9&txTime=69fc43aa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/c445afa51ae7a4874b87f0bdd5522f8a.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1778118834-0-0-fe1c5743e84aabdfd4edebd45ccd2926
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1778122074-0-0-cc4aa9b4ba4bb02f51e95dc00664ce74
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/c445afa51ae7a4874b87f0bdd5522f8a.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre [BLV GÔN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1778118834-0-0-a8adf444d189905b83cbcf9097a30780
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1778122074-0-0-a455981f35342eb18d3a06e2478fe0e9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/c445afa51ae7a4874b87f0bdd5522f8a.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre [BLV GÔN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1778118834-0-0-96c6fed90bc3632df18dc4a10e0e88cf
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1778122074-0-0-3bde4dfad1a098d500217ccafc59b8b6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/c445afa51ae7a4874b87f0bdd5522f8a.png",07:00 WIB 07/05 Macara vs Club Atletico Tigre [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1778118834-0-0-b3804c8bfad65c895f3ec32501c36ca8
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1778122074-0-0-bfd98b4f013394dd0ba3645f6ec64e40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1778122074-0-0-6a9ff1c8a797b13b42e7f73c6d909569
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1778122074-0-0-d81197a6b4ccbfc715c368cf53ffee4e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1778122074-0-0-3700e9732a77dc2db91b47ec966c6454
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/e22a8b61f629cb5a3092c3d1aaf1cbee.png",07:30 WIB 07/05 Botafogo - RJ vs Racing Club de Avellaneda [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1778122074-0-0-683588c8438e5a2699fc225d392a4ba9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1778122434-0-0-958a290846e5fde055a885ce0502a289
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1778122434-0-0-98fdf9d9e28ff13928ec66136d6c9390
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1778122434-0-0-7ad506459d8e098e25dcf4aa6e1f8447
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1778122434-0-0-3673c0ce3a405995b07456cb9b41474b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [LÃO LÂM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1778122434-0-0-0862c733db998350d2b6a1b739bfcea5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [LÃO LÂM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1778122434-0-0-cfbdcdeae7133da36ae8ee6e528f6991
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [LÃO LÂM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1778122434-0-0-beb1d95505915cdef502ad83b3d889b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f68e39c5a998f932ae4b13ba1ba3835f.png",08:30 WIB 07/05 Toluca vs Los Angeles FC [LÃO LÂM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1778122434-0-0-276c2b90c1a50f4a2a449d601c45d3c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1778122434-0-0-84c7c64ebd9ee6e99237078de069ff84
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1778122434-0-0-afc33b8c4a621630810941d14c89e254
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1778122434-0-0-0c33a5fd3682399eb533f57f839e8ff2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/afe343231f73c4246394b561905b6429.png",07:30 WIB 07/05 Independiente Santa Fe vs Corinthians - SP [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1778122434-0-0-c650e278dc9e0ad41f679644eb0dbdaa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [CÔNG CHẤT] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1778122434-0-0-f855e9c332f289232d7f1143e55840bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1778122434-0-0-1855ad512085b6ad5c43225fdab8fe08
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1778122434-0-0-4206962d7b8ce94a2c333dc0e347d1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [CÔNG CHẤT] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1778122434-0-0-962f35773c8bd382fd41578431804e14
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1778122434-0-0-da782b9c969406beeb9b8fe87a1b6460
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1778122434-0-0-43ef210561f933fae0e4de084af9e88c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1778122434-0-0-b2f2b921db996652901375ad22aa2ac3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1778122434-0-0-b7f4cda61bbc0a510bf777f80c797a48
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [BLV RÔSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=8089b55f95745ed73222ccc5a6d8de90&txTime=69fc4512
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [BLV RÔSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=cb220dfe50ed697715e21a73aa6ce185&txTime=69fc4512
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [BLV RÔSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=8089b55f95745ed73222ccc5a6d8de90&txTime=69fc4512
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/f1a46293440c11f82e584b526f8f336d.png",09:00 WIB 07/05 Deportes Tolima vs Nacional Montevideo [BLV RÔSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=cb220dfe50ed697715e21a73aa6ce185&txTime=69fc4512
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/d57c13c802e6c80220c1ad6876019ede.png",08:30 WIB 07/05 San Antonio Spurs vs Minnesota Timberwolves [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1778122434-0-0-f176c0e6bc1e7a44abc5bd1a5d083bc2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/d57c13c802e6c80220c1ad6876019ede.png",08:30 WIB 07/05 San Antonio Spurs vs Minnesota Timberwolves [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1778122434-0-0-84ac2c2bb7e44ae13e79f4a07362a714
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/d57c13c802e6c80220c1ad6876019ede.png",08:30 WIB 07/05 San Antonio Spurs vs Minnesota Timberwolves [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1778122434-0-0-e958816cf412f7f0f891319125f7f94d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/d57c13c802e6c80220c1ad6876019ede.png",08:30 WIB 07/05 San Antonio Spurs vs Minnesota Timberwolves [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1778122434-0-0-c2e396ea7723a024a9d142424bee5290
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/d57c13c802e6c80220c1ad6876019ede.png",08:30 WIB 07/05 San Antonio Spurs vs Minnesota Timberwolves [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1778122434-0-0-a37a4966c2c8827c4972cd010c543a3d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/d57c13c802e6c80220c1ad6876019ede.png",08:30 WIB 07/05 San Antonio Spurs vs Minnesota Timberwolves [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1778122434-0-0-4ca41c30a7612b7b81c0e493eb1dea85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/d57c13c802e6c80220c1ad6876019ede.png",08:30 WIB 07/05 San Antonio Spurs vs Minnesota Timberwolves [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1778122434-0-0-110189678dc385637b049f96a7987170
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260505/d57c13c802e6c80220c1ad6876019ede.png",08:30 WIB 07/05 San Antonio Spurs vs Minnesota Timberwolves [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1778122434-0-0-a17ffde4c2fc68afad1ac56f91113462
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/95ec7ad88a4003f4a271e71c09fb0213.png",09:00 WIB 07/05 Alianza Atletico Sullana vs America de Cali [CHÈ XANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-605223_lsd.flv?auth_key=1778122434-0-0-1e96f6b4a93d28f5e74accb0e5e98a40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/95ec7ad88a4003f4a271e71c09fb0213.png",09:00 WIB 07/05 Alianza Atletico Sullana vs America de Cali [CHÈ XANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-605223_lhd.flv?auth_key=1778122434-0-0-6e36971aa815d2167df508e7ba01ae01
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/95ec7ad88a4003f4a271e71c09fb0213.png",09:00 WIB 07/05 Alianza Atletico Sullana vs America de Cali [CHÈ XANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-605223_lsd.m3u8?auth_key=1778122434-0-0-8115f949d1e2f2395ebb81745a1834a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260503/95ec7ad88a4003f4a271e71c09fb0213.png",09:00 WIB 07/05 Alianza Atletico Sullana vs America de Cali [CHÈ XANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-605223_lhd.m3u8?auth_key=1778122434-0-0-56a2bffeab33561dc96f13260ad4ac2c
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Club_Toluca_Logo.svg",08:30 WIB 07/05 Toluca vs Los Angeles FC (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Club_Toluca_Logo.svg",08:30 WIB 07/05 Toluca vs Los Angeles FC (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Club_Toluca_Logo.svg",08:30 WIB 07/05 Toluca vs Los Angeles FC (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Escudo_de_Independiente_Santa_Fe.png/250px-Escudo_de_Independiente_Santa_Fe.png",07:30 WIB 07/05 Santa Fe vs Corinthians (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -792,18 +1006,18 @@ https://alive.zlylive.com/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers (Hội Quán) FHD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",08:30 WIB 07/05 San Antonio Spurs vs Minnesota Timberwolves (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers (Hội Quán) HD 
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",08:30 WIB 07/05 San Antonio Spurs vs Minnesota Timberwolves (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg",06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers (Hội Quán) SD 
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",08:30 WIB 07/05 San Antonio Spurs vs Minnesota Timberwolves (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80",23:00 WIB 03/05 Juventus F.C. vs Hellas Verona F.C.
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/14830711.m3u8
@@ -826,3 +1040,27 @@ https://live5.msrktz.app/live/90725470.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="Quê Choa",[NBA] 06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
+#EXTINF:-1 group-title="Quê Choa",[NBA] 06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
+#EXTINF:-1 group-title="Quê Choa",[NBA] 06:00 WIB 07/05 New York Knicks vs Philadelphia 76ers [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
+#EXTINF:-1 group-title="Quê Choa",[CONCACAF Champions League] 06:00 WIB 07/05 Toluca vs Los Angeles FC [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+#EXTINF:-1 group-title="Quê Choa",[CONCACAF Champions League] 06:00 WIB 07/05 Toluca vs Los Angeles FC [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+#EXTINF:-1 group-title="Quê Choa",[CONCACAF Champions League] 06:00 WIB 07/05 Toluca vs Los Angeles FC [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
