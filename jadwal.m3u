@@ -1,47 +1,23 @@
 #EXTM3U
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38659_1jstdenywf1v.png",07:00 WIB 08/05 Birmingham Legion vs Miami FC (Lương Sơn) BLV URA m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1171_1gv1yk239r2a.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno (Lương Sơn) BLV TỐNG GIANG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38659_1jstdenywf1v.png",07:00 WIB 08/05 Birmingham Legion vs Miami FC (Lương Sơn) BLV URA flv
+https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1171_1gv1yk239r2a.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno (Lương Sơn) BLV TỐNG GIANG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1171_1gv1yk239r2a.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno (Lương Sơn) BLV SHIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1171_1gv1yk239r2a.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno (Lương Sơn) BLV SHIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778172063.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1778172063.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3775_1gv1yk23re5.png",07:30 WIB 08/05 Blooming vs Bragantino (Lương Sơn) BLV LÃO HẠC m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3775_1gv1yk23re5.png",07:30 WIB 08/05 Blooming vs Bragantino (Lương Sơn) BLV LÃO HẠC flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0980e8c4933b10aca16e3ba5b123f4f6/image/small?v=1768601124",07:30 WIB 08/05 Dep.Independiente Medellin vs Flamengo vs RJ (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/04f460b0d8294428ad38e1c1d62cbc87/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c4882475ae47f9cf8d118530c7c3ccd5/image/small?v=1768601124",07:30 WIB 08/05 Blooming vs Red Bull Bragantino (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/a6f1c33e4612d0ab5b9a297faf334363/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/361c812fb4fb5f7873d8f278c18322c2/image/small?v=1768601124",07:30 WIB 08/05 Corinthians Women vs Sao Paulo Women (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/1c68522fda194a858ab72dbcbd33d485/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f1e5d85e06a671822034e53733e15ff4/image/small?v=1768601124",06:00 WIB 08/05 Independiente Yumbo vs Deportivo Pereira (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/7966f2b2710f1463808eeedd7c714f2a/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cfc28eca66520a2b1dd9645436a42911/image/small?v=1768601124",07:30 WIB 08/05 Carabobo vs River Plate (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/ea00b24d3bebfcad095b0eb3c9df6f63/playlist.m3u8
-#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/8ac20887c970da87f1f076b6f68795b7/image/small?v=1768601124",03:00 WIB 08/05 AS FAR Rabat vs Olympique de Safi (Khán Đài A) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.rapidlive.shop/live/2fe41b1a64bd0d18917cea8b3c736d93/playlist.m3u8
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/ddd4cd1bfdbb5b36a897b3654f8ef156/image/small?v=1768601124",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -106,38 +82,38 @@ https://live.rapidlive.shop/live/5497e6d02b74d64dc858e391e9610792/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.rapidlive.shop/live/9cac8fee79652b54a8e77202d813fc6e/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134645_a06615c0.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134645_a06615c0.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134810_eb2e0202.png",07:30 WIB 08/05 Blooming vs RB Bragantino (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134810_eb2e0202.png",07:30 WIB 08/05 Blooming vs RB Bragantino (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125508_b798ac29.png",07:30 WIB 08/05 Carabobo FC vs River Plate (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125508_b798ac29.png",07:30 WIB 08/05 Carabobo FC vs River Plate (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x3.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133532_a03c42a2.png",07:30 WIB 08/05 Independiente Medellin vs Flamengo (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133532_a03c42a2.png",07:30 WIB 08/05 Independiente Medellin vs Flamengo (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/0980e8c4933b10aca16e3ba5b123f4f6/image/small?v=1768601124",07:30 WIB 08/05 Dep.Independiente Medellin vs Flamengo vs RJ (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/04f460b0d8294428ad38e1c1d62cbc87/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c4882475ae47f9cf8d118530c7c3ccd5/image/small?v=1768601124",07:30 WIB 08/05 Blooming vs Red Bull Bragantino (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/a6f1c33e4612d0ab5b9a297faf334363/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/361c812fb4fb5f7873d8f278c18322c2/image/small?v=1768601124",07:30 WIB 08/05 Corinthians Women vs Sao Paulo Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/1c68522fda194a858ab72dbcbd33d485/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/1b8a874b0bd5d5aa7417a2679aaa92b2/image/small?v=1768601124",09:00 WIB 08/05 Municipal Pococi Women vs CS Herediano Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/8ba3f4d05cc4e612ee86fb52457ea3d1/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/f1e5d85e06a671822034e53733e15ff4/image/small?v=1768601124",06:00 WIB 08/05 Independiente Yumbo vs Deportivo Pereira (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/7966f2b2710f1463808eeedd7c714f2a/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/cfc28eca66520a2b1dd9645436a42911/image/small?v=1768601124",07:30 WIB 08/05 Carabobo vs River Plate (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/ea00b24d3bebfcad095b0eb3c9df6f63/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/70f155a1757882591c204b95d13eaecb/image/small?v=1768601124",09:00 WIB 08/05 Dimas Escazu Women vs Alajuelense Women (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/193ffd96d4c16fb6f29c93fa0954efbf/playlist.m3u8
+#EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.rapid-api.icu/football/team/c8770b11953cafd29f5e458bfa1a1260/image/small?v=1768601124",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno (Khán Đài A) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.rapidlive.shop/live/621bcc15165e90ac754dc2d5ca185102/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133534_095d7988.png",09:00 WIB 08/05 Junior vs Cerro Porteno (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -306,22 +282,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c4882475ae47f9cf8d118530c7c3ccd5/image/small?v=1768601124",07:30 WIB 08/05 Blooming vs Red Bull Bragantino (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/a6f1c33e4612d0ab5b9a297faf334363/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/361c812fb4fb5f7873d8f278c18322c2/image/small?v=1768601124",07:30 WIB 08/05 Corinthians Women vs Sao Paulo Women (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/1c68522fda194a858ab72dbcbd33d485/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f1e5d85e06a671822034e53733e15ff4/image/small?v=1768601124",06:00 WIB 08/05 Independiente Yumbo vs Deportivo Pereira (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/7966f2b2710f1463808eeedd7c714f2a/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cfc28eca66520a2b1dd9645436a42911/image/small?v=1768601124",07:30 WIB 08/05 Carabobo vs River Plate (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/ea00b24d3bebfcad095b0eb3c9df6f63/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/fd8b255f434c48ac186ef8aa0986dad2/image/small?v=1768601124",07:00 WIB 08/05 CRKSV Jong Colombia vs RKSV Centro Dominguito (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -334,10 +294,6 @@ https://live.rapidlive.shop/live/9c9b1d2b740111d6e6e6e60c50e69dbd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.rapidlive.shop/live/d3dfbc8b55a5e4e43929d0e9b5d3af1b/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/32582341fbc2d81d19723a17f153d7e6/image/small?v=1768601124",05:30 WIB 08/05 AD Confiança vs Fortaleza (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/4f15bb59750993d095e6c0dd93fb2420/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c8770b11953cafd29f5e458bfa1a1260/image/small?v=1768601124",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -370,26 +326,6 @@ https://pull-gv.fastestcdn-global.com/live/cbf68c8000c340c599755c2d8305f94a/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.rapidlive.shop/live/fe2c42fa3ec00586aaa1faa1ee3eee57/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/b9c48a4f25ba9bfd1cfd977dc0ce2c09/image/small?v=1768601124",05:30 WIB 08/05 Vasco da Gama Youth vs Santos Youth (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/8c4d2e79d14abbdd2b42031285990c6c/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d70fdeaff29824614655b9e36e7072da/image/small?v=1768601124",05:00 WIB 08/05 CA Platense vs CA Penarol (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/1f4412613e3f606eadbe69d8748bb500/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/69ad45e74425eff6eb5a665d3b41bb1d/image/small?v=1768601124",05:00 WIB 08/05 O.Higgins vs São Paulo vs SP (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/909dcb9265b6407f358aec9946b37074/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/a14f6353e02e5bbacaabcba3444d3263/image/small?v=1768601124",05:00 WIB 08/05 Llaneros FC vs Atletico FC (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/8def1a9f99ccc3b180cd4328138c69d4/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/63b47e4d1ca0fb6a0af3351f3e60b94c/image/small?v=1768601124",05:00 WIB 08/05 Mirassol vs SP vs Liga Dep Universitaria Quito (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/bd5eecb6f5e7ef11806b0abe792cb9f0/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/2bf7322057881bab656eaa369d76fdcd/image/small?v=1768601124",07:00 WIB 08/05 Huntsville City vs Carolina Core (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -406,242 +342,178 @@ https://live.rapidlive.shop/live/48c42916e609ece1ad80de4231e30076/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.rapidlive.shop/live/62702a98bb7182ce6346f2b44305c87b/playlist.m3u8
-#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/d93acc97c29ef6045a270f2ff5f1e2d6/image/small?v=1768601124",05:00 WIB 08/05 Boston River vs Millonarios (Gà Vàng) source
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.rapidlive.shop/live/5497e6d02b74d64dc858e391e9610792/playlist.m3u8
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/47b3102d280afcf9fa7eb53945b274b8/image/small?v=1768601124",08:00 WIB 08/05 Atletico Bucaramanga vs Real Santander (Gà Vàng) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.rapidlive.shop/live/9cac8fee79652b54a8e77202d813fc6e/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1778208114-0-0-05822f9fa91e72c67522c3d1696b36c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1778208114-0-0-5171c6016e3490645e168d4062c5eaf9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1778208114-0-0-dabc8ab979de8d77d7efcdf68f2880cc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1778208114-0-0-44244e962f118daf56be9ba0670444e4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [TAM MAO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=6a56b14c2dfc91159f4f681316667e21&txTime=69fd93c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [TAM MAO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=8e36136f8f9b542df4aba32a0389881d&txTime=69fd93c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [TAM MAO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=6a56b14c2dfc91159f4f681316667e21&txTime=69fd93c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [TAM MAO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=8e36136f8f9b542df4aba32a0389881d&txTime=69fd93c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=0d8c8eab95a00a6b635ce90e35684bcb&txTime=69fd93c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=e208005bdea4eda3983f22e424343ef8&txTime=69fd93c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=0d8c8eab95a00a6b635ce90e35684bcb&txTime=69fd93c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e208005bdea4eda3983f22e424343ef8&txTime=69fd93c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1778208474-0-0-fae443fb0bd94c7a2c6e4ed36da9bb54
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1778208474-0-0-92e2df08a5f9e851b025e6827756082e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1778208474-0-0-cf1467390b896366a1e01aab4c226da6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1778208474-0-0-3f3a10d174303916a78f5cd7ebbad3e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [KING] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1778208474-0-0-8c9b7c9c80066c7fd7c5085220d09174
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [KING] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1778208474-0-0-106fe05a665ade913e6249c7adcf71a2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [KING] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1778208474-0-0-721ad93bebd0ea9ff725146da3c7ab3c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [KING] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1778208474-0-0-22713b54e18b77c736f2d4d771faa1a2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1778208474-0-0-372a05ed81aa370f1a7b49758986c2b4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1778208474-0-0-44fb0ae6f30972e7469baf8f60064f17
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1778208474-0-0-1e4c0fc389cbde3ab0230e2120b210c8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1778208474-0-0-b4ff1700c27ab99de684045925c0f294
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/c4882475ae47f9cf8d118530c7c3ccd5/image/small?v=1768601124",07:30 WIB 08/05 Blooming vs Red Bull Bragantino (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/a6f1c33e4612d0ab5b9a297faf334363/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/361c812fb4fb5f7873d8f278c18322c2/image/small?v=1768601124",07:30 WIB 08/05 Corinthians Women vs Sao Paulo Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/1c68522fda194a858ab72dbcbd33d485/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/1b8a874b0bd5d5aa7417a2679aaa92b2/image/small?v=1768601124",09:00 WIB 08/05 Municipal Pococi Women vs CS Herediano Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/8ba3f4d05cc4e612ee86fb52457ea3d1/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/f1e5d85e06a671822034e53733e15ff4/image/small?v=1768601124",06:00 WIB 08/05 Independiente Yumbo vs Deportivo Pereira (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/7966f2b2710f1463808eeedd7c714f2a/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/cfc28eca66520a2b1dd9645436a42911/image/small?v=1768601124",07:30 WIB 08/05 Carabobo vs River Plate (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/ea00b24d3bebfcad095b0eb3c9df6f63/playlist.m3u8
+#EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.rapid-api.icu/football/team/70f155a1757882591c204b95d13eaecb/image/small?v=1768601124",09:00 WIB 08/05 Dimas Escazu Women vs Alajuelense Women (Gà Vàng) source
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.rapidlive.shop/live/193ffd96d4c16fb6f29c93fa0954efbf/playlist.m3u8
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1778208474-0-0-654e731f9b47398fd9a62181455b8597
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1778211714-0-0-73ad2c8bfb53e9e17d2ffc6176b34e02
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1778208474-0-0-267e67f5d30d8d6e9663e4ff37f8077d
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1778211714-0-0-5acf946e38272ecc4a8a85693b2fbffa
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1778208474-0-0-7dd22c0c5a08c16708498d14d453084f
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1778211714-0-0-db4c6aba34aab0d588e60ac1bcca5c69
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1778208474-0-0-22f87b68fcc3b8fa83b5e337bd2a7c0c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [BLV SATIVA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1778208474-0-0-55bbbf06d803423e97fe29dc476defd2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [BLV SATIVA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1778208474-0-0-159ab35ee91fd502d1c46439d35d5680
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [BLV SATIVA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1778208474-0-0-a241bb8ec38bc1357ee0d8aae199ac92
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [BLV SATIVA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1778208474-0-0-66c5247cccf064e7a1278e9331efda4a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6c2cd2c3c62e7d392a68dba809ed62ac.png",07:30 WIB 08/05 Blooming vs Red Bull Bragantino [BLV GÔN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1778208474-0-0-c8031e07c91f165f7709888e37a07bce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6c2cd2c3c62e7d392a68dba809ed62ac.png",07:30 WIB 08/05 Blooming vs Red Bull Bragantino [BLV GÔN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1778208474-0-0-af66412a9be698c1e9f8bb2393cf5ba3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6c2cd2c3c62e7d392a68dba809ed62ac.png",07:30 WIB 08/05 Blooming vs Red Bull Bragantino [BLV GÔN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1778208474-0-0-a4ecbf90984d6656518b4f542c2c32b7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6c2cd2c3c62e7d392a68dba809ed62ac.png",07:30 WIB 08/05 Blooming vs Red Bull Bragantino [BLV GÔN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1778208474-0-0-1f61ded57d3705dd65eefd28025877da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1778208474-0-0-deaa5a74f910c5a5182a746630a78758
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1778208474-0-0-723b728202b8e38f8341e129b1174562
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1778208474-0-0-d7680da292685af8ef0a3ce795c8361f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1778208474-0-0-3c03c08e8d61a900590965884cc7f32d
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1778211714-0-0-8bdb9fcf2c3d40d2545ea73579c57de5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1778208474-0-0-8cf1259ed59c3d3ef34d1c70f71eaebb
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1778211714-0-0-6bcd9e5348c01801fd3b0b38f4129682
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1778208474-0-0-614f77c0f5c62487546b4d3fbd5c61ea
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1778211714-0-0-86bfb995eab2446ad0b74bb39e651d7c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1778208474-0-0-c6408d46833481ab83ba0d94218be908
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1778211714-0-0-5ad384bfc9b1f15062d6cbf5546054e1
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1778208474-0-0-a88dcb29a8599e16c5d62ca4ba7edb85
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [BLV KAN] (Socolive) flv
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1778211714-0-0-9c85b6e57ecbb79e888029cb8b021f0b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=678b13a649e6bc95ec2a277244e5f946&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [BLV KAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1778211714-0-0-195a5dc9dd01a6a328b6004b412db021
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=55f595719dd90f87aef89c993d4f2bf8&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [BLV KAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1778211714-0-0-e04ae0e654a1a671e5fe9dd43e64dcf4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=678b13a649e6bc95ec2a277244e5f946&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [BLV KAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1778211714-0-0-c51c13ec47c68090e265e996dd5b679b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=55f595719dd90f87aef89c993d4f2bf8&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [BLV NIBO] (Socolive) flv
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1778211714-0-0-aad273948c59d8704e1d3bc7cadc5450
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1778208834-0-0-87f67b959b1cb01ef991d4c3a099fd94
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [BLV NIBO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1778211714-0-0-7ade7bd771f962a627e1275c06370b7c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1778208834-0-0-a72beaa9adf66392baf08fa972baa31c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [BLV NIBO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1778211714-0-0-c26bf88bb484aefb3f4f75714da5014c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1778208834-0-0-54e17065220fd7bef14d2a41e18307c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/359954005452557b7aebee17412afc66.png",07:00 WIB 08/05 Coquimbo Unido vs Universitario De Deportes [BLV NIBO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1778211714-0-0-9bb4faf871264fbb2874f2864284bab7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1778208834-0-0-96e2f299aee690776d1fe7b48ba8ae9e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [TYPN] (Socolive) flv
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1778211714-0-0-3a5f09956a92de009710d46fce95902f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=61a4361d1aab9ac6f4e1f117043db02c&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [TYPN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1778211714-0-0-0b2a94a7f73e2c51e7ca50c8f3a657b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=6d601103b37030ce4a063a9ca4b14492&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [TYPN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1778211714-0-0-006a09867b7e3c286f9b0661a8cf8468
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=61a4361d1aab9ac6f4e1f117043db02c&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/b01496cbd909fd5d3d46c759538976b4.png",07:30 WIB 08/05 Carabobo vs River Plate [TYPN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1778211714-0-0-af9b04c1143a9e9b1d7ac5c04c421285
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=6d601103b37030ce4a063a9ca4b14492&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [DECO] (Socolive) flv
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1778211714-0-0-5e19534e0405b6f9ae9c795b9a05cd56
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [A CHÈ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1778208834-0-0-da42d02f1602b583eb838a85a7ca5593
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1778211714-0-0-85406af7f3a1bde590a1250cdd433610
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [A CHÈ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1778208834-0-0-2ecfc20e3363cea0b8684cad99e55722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [DECO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1778211714-0-0-67f8a76ab997ef278816792b0b837cd5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [A CHÈ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1778208834-0-0-482dd41141337e96c1e2366896dda5ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1778211714-0-0-ecb991399f81f46a4c745dd8b99d590c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [A CHÈ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1778208834-0-0-348c0c0b05e12203c43c3806a5d8ba8b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=5702a023c70d5499c3c37170b90e6914&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=a20940910b70806d4653ddf89426fba2&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=5702a023c70d5499c3c37170b90e6914&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a20940910b70806d4653ddf89426fba2&txTime=69fd9692
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1778208834-0-0-4aaee6f633f679cde66c3c2f80c6f4db
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1778208834-0-0-97bbfbe591168edab117c02c2c8e4c07
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1778208834-0-0-5f50cbdbaae10030cd0df9e1f3126ed9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1778208834-0-0-f5d368a77ea929f281225e87ab11d072
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6c2cd2c3c62e7d392a68dba809ed62ac.png",07:30 WIB 08/05 Blooming vs Red Bull Bragantino [VỊT BẠC] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1778208834-0-0-8398c3ad2b48cf260b57d10a5b365d33
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6c2cd2c3c62e7d392a68dba809ed62ac.png",07:30 WIB 08/05 Blooming vs Red Bull Bragantino [VỊT BẠC] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1778208834-0-0-48888fe8961548f60a03924faee3c269
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6c2cd2c3c62e7d392a68dba809ed62ac.png",07:30 WIB 08/05 Blooming vs Red Bull Bragantino [VỊT BẠC] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1778208834-0-0-44582fb018659aee2c25849aeba4028f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6c2cd2c3c62e7d392a68dba809ed62ac.png",07:30 WIB 08/05 Blooming vs Red Bull Bragantino [VỊT BẠC] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1778208834-0-0-d4795e453df96c997a9b5dd6095ea846
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1778211714-0-0-f41c6298e66e639e51cc67edeb3a0081
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1778208834-0-0-6d52a78a9c269121adb5189dd99412e4
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1778212074-0-0-fdca2cda0e9ac68a057a50ec912f65fb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1778208834-0-0-06492b17c47bc8f88fdb325407f62ce0
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1778212074-0-0-f8d503b9963235358e1acb79ed4886bb
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1778208834-0-0-8e155fea725a7ed66c90ef2a658db2ae
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1778212074-0-0-3202ee35d8c473eedbd3a7092959d182
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260506/b5a6000a62f58e3239fccc8e6d00beff.png",08:30 WIB 08/05 Oklahoma City Thunder vs Los Angeles Lakers [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1778208834-0-0-80f92253afa01ce0ad71725cacb774e4
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1778212074-0-0-4ed9dc386f61b07d1d52b1a90cf0b0bc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1778212074-0-0-6877d6cc78cc7be53535862e97154c75
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1778212074-0-0-5eefb5e5130f72452a8cf1f132418168
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1778212074-0-0-5c385fc93a207725ecde25eefd88eb3b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1778212074-0-0-43b359ec25ea18faf474690bb66b6993
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=0b62e7dd9cf9ee80807eb2186541a0e5&txTime=69fda33a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=a14654888a8bb4f2eb07150fd2738a92&txTime=69fda33a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=0b62e7dd9cf9ee80807eb2186541a0e5&txTime=69fda33a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a14654888a8bb4f2eb07150fd2738a92&txTime=69fda33a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1778212074-0-0-b7d5e6c60c33724770faad227e217da4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1778212074-0-0-fcc2dc0a3aa29dae9e968b400175523d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1778212074-0-0-eedf3d34bb8f7909a94f0e577832307e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1778212074-0-0-e5ce8498505361498011a2ab3b916cb8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1778212434-0-0-6f36e9045568b32cd9ca8443f9495153
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1778212434-0-0-12f326324245f1c3825317d781a2e8ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1778212434-0-0-ce49f79d51c8ada42df23b2a37ccafa2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1778212434-0-0-f67676a5940d836f7ca052ffc2ba4ef5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1778212434-0-0-f601d66f8ffa8544bd94126e4274cd1b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1778212434-0-0-84ab284e4da64cba8ed731c734dd70f6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1778212434-0-0-b15bb25aafd6c1acb4e224698699a12b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260504/6f87e8837518e58bcadfe60b95dca393.png",09:00 WIB 08/05 Atletico Junior Barranquilla vs Cerro Porteno [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1778212434-0-0-21107f7d90ad9c68bddd806d1f2b8124
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2810.png",07:30 WIB 08/05 Carabobo FC vs River Plate (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -700,27 +572,3 @@ https://live5.msrktz.app/live/90725470.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Quê Choa",[WTA 1000 Rome] 23:00 WIB 07/05 Bencic B. vs Andreescu B. [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-#EXTINF:-1 group-title="Quê Choa",[WTA 1000 Rome] 23:00 WIB 07/05 Bencic B. vs Andreescu B. [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-#EXTINF:-1 group-title="Quê Choa",[WTA 1000 Rome] 23:00 WIB 07/05 Bencic B. vs Andreescu B. [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Virsliga] 23:00 WIB 07/05 Tukums vs Ogre United [FHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Virsliga] 23:00 WIB 07/05 Tukums vs Ogre United [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 group-title="Quê Choa",[Virsliga] 23:00 WIB 07/05 Tukums vs Ogre United [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
