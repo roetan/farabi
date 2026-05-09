@@ -19,8 +19,11 @@ jobs:
       - name: Process dabong.txt
         run: |
           awk '
-          BEGIN {RS="\n#EXTINF"; ORS=""; FS="\n"}
-          print \"#EXTM3U\"
+          BEGIN {
+              # Cetak header M3U di awal
+              print "#EXTM3U"
+              RS="\n#EXTINF"; ORS=""; FS="\n"
+          }
           {
             # Tambahkan #EXTINF kembali jika bukan blok pertama
             block = (NR==1 ? $0 : "#EXTINF" $0)
