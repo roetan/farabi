@@ -20,7 +20,7 @@ jobs:
         run: |
           awk '
           BEGIN {RS="\n#EXTINF"; ORS=""; FS="\n"}
-          print "#EXTM3U"
+          print \"#EXTM3U\"
           {
             # Tambahkan #EXTINF kembali jika bukan blok pertama
             block = (NR==1 ? $0 : "#EXTINF" $0)
