@@ -47,6 +47,9 @@ jobs:
             # Hapus kata " (Khán Đài A) source"
             gsub(/ \(Khán Đài A\) source/, "", block)
 
+            # Hapus kata " (Gà Vàng) source"
+            gsub(/ \(Gà Vàng\) source/, "", block)
+
             # Hilangkan baris kosong
             n = split(block, lines, "\n")
             for (i=1; i<=n; i++) {
