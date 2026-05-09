@@ -20,7 +20,7 @@ jobs:
         run: |
           awk '
           BEGIN {RS="\n#EXTINF"; ORS=""; FS="\n"}
-          print "#EXTM3U"   # baris pertama
+          print "#EXTM3U"
           {
             # Tambahkan #EXTINF kembali jika bukan blok pertama
             block = (NR==1 ? $0 : "#EXTINF" $0)
@@ -48,7 +48,7 @@ jobs:
               if (lines[i] !~ /^$/) print lines[i] "\n"
             }
           }
-          END { print "#EXTM3U" }  # baris terakhir
+          END { print "#EXTM3U" }
           ' dabong.txt > jadwal.m3u
 
       - name: Commit processed file
