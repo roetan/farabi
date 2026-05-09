@@ -20,6 +20,7 @@ jobs:
         run: |
           awk '
           BEGIN {RS="\n#EXTINF"; ORS=""; FS="\n"}
+          print "#EXTM3U"   # baris pertama
           {
             # Tambahkan #EXTINF kembali jika bukan blok pertama
             block = (NR==1 ? $0 : "#EXTINF" $0)
@@ -46,7 +47,9 @@ jobs:
             for (i=1; i<=n; i++) {
               if (lines[i] !~ /^$/) print lines[i] "\n"
             }
-          }' dabong.txt > jadwal.m3u
+          }
+          END { print "#EXTM3U" }  # baris terakhir
+          ' dabong.txt > jadwal.m3u
 
       - name: Commit processed file
         run: |
