@@ -87,6 +87,9 @@ jobs:
 
                       if (match(line, /https?:\/\/[^ ]+\.m3u8[^ ]*/)) {
                           url = substr(line, RSTART, RLENGTH)
+
+                          # hapus semua setelah ? pada url
+                          sub(/\?.*$/, "", url)
                       } else next
 
                       print league "#" time " " game "#" url
