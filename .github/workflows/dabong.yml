@@ -18,38 +18,29 @@ jobs:
 
       - name: Process dabong.txt
         run: |
-          awk '
-          BEGIN {RS="\n#EXTINF"; ORS=""; FS="\n"}
-          print "#EXTM3U"
+          awk "BEGIN {
+            RS=\"\n#EXTINF\"; ORS=\"\"; FS=\"\n\"
+            print \"#EXTM3U\"
+          }
           {
-            # Tambahkan #EXTINF kembali jika bukan blok pertama
-            block = (NR==1 ? $0 : "#EXTINF" $0)
+            block = (NR==1 ? \$0 : \"#EXTINF\" \$0)
 
-            # Lewati block jika mengandung kata kunci tertentu
-            if (block ~ /group-title="Bún chả"/) next
+            if (block ~ /group-title=\"Bún chả\"/) next
             if (block ~ /BIT.LY\/SOCOLIVE/) next
             if (block ~ /Tường thuật/) next
 
-            # Lewati block jika tidak mengandung rapidlive.shop
             if (block !~ /rapidlive\.shop/) next
 
-            # Ubah group-title menjadi uppercase
-            gsub(/group-title="[^"]+"/, toupper("&"), block)
+            gsub(/group-title=\"[^\"]+\"/, toupper(\"&\"), block)
+            block = gensub(/([0-9]{1,2})[hH]([0-9]{2})/, \"\\1:\\2 WIB\", \"g\", block)
+            gsub(/ngày[[:space:]]*/, \"\", block)
 
-            # Ubah jam
-            block = gensub(/([0-9]{1,2})[hH]([0-9]{2})/, "\\1:\\2 WIB", "g", block)
-
-            # Hapus kata "ngày"
-            gsub(/ngày[[:space:]]*/, "", block)
-
-            # Hilangkan baris kosong
-            n = split(block, lines, "\n")
+            n = split(block, lines, \"\n\")
             for (i=1; i<=n; i++) {
-              if (lines[i] !~ /^$/) print lines[i] "\n"
+              if (lines[i] !~ /^$/) print lines[i] \"\n\"
             }
           }
-          END { print "#EXTM3U" }
-          ' dabong.txt > jadwal.m3u
+          END { print \"#EXTM3U\" }" dabong.txt > jadwal.m3u
 
       - name: Commit processed file
         run: |
