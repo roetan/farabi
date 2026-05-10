@@ -21,12 +21,12 @@ jobs:
           python3 << 'EOF'
           import re
 
-          allowed_groups = {
+          allowed_keywords = [
               "Premier League",
               "La Liga",
               "Serie A",
               "Bundesliga"
-          }
+          ]
 
           blocked_strings = [
               'group-title="LIVE EVENT"',
@@ -84,11 +84,6 @@ jobs:
 
                   category = group_match.group(1).strip()
 
-                  # Only allowed categories
-                  if category not in allowed_groups:
-                      i = j + 1
-                      continue
-
                   # Extract channel/event name
                   name_match = re.search(r'",\s*(.+)$', line)
                   if not name_match:
@@ -96,6 +91,11 @@ jobs:
                       continue
 
                   name = name_match.group(1).strip()
+
+                  # Only keep if channel/event name contains allowed keyword
+                  if not any(keyword.lower() in name.lower() for keyword in allowed_keywords):
+                      i = j + 1
+                      continue
 
                   # Extract URL
                   url = None
