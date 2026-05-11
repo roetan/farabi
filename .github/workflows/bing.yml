@@ -24,11 +24,11 @@ jobs:
           import re
 
           allowed_keywords = [
-              "Premier League",
-              "La Liga",
-              "Serie A",
-              "Bundesliga"
-              "Primeira Liga"
+              "| Premier League",
+              "| La Liga",
+              "| Serie A",
+              "| Bundesliga"
+              "| Primeira Liga"
           ]
 
           blocked_strings = [
