@@ -28,6 +28,7 @@ jobs:
               "La Liga",
               "Serie A",
               "Bundesliga"
+              "Primeira Liga"
           ]
 
           blocked_strings = [
