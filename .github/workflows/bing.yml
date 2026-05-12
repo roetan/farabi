@@ -23,12 +23,9 @@ jobs:
           python3 << 'EOF'
           import re
 
-          allowed_keywords = [
-              "| Premier League",
-              "| La Liga",
-              "| Serie A",
-              "| Bundesliga",
-              "| Primeira Liga"
+          disallowed_keywords = [
+              "| Tarkam",
+              "| Tarkul"
           ]
 
           blocked_strings = [
@@ -95,8 +92,8 @@ jobs:
 
                   name = name_match.group(1).strip()
 
-                  # Only keep if channel/event name contains allowed keyword
-                  if not any(keyword.lower() in name.lower() for keyword in allowed_keywords):
+                  # Skip if channel/event name contains disallowed keyword
+                  if any(keyword.lower() in name.lower() for keyword in disallowed_keywords):
                       i = j + 1
                       continue
 
@@ -125,6 +122,6 @@ jobs:
 
           git add schedule2.txt
 
-          git commit --allow-empty -m "Update schedule2.txt $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit --allow-empty -m "Update schedule2.txt $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
 
           git push
