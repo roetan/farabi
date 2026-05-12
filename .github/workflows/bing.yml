@@ -23,9 +23,12 @@ jobs:
           python3 << 'EOF'
           import re
 
-          disallowed_keywords = [
-              "| Tarkam",
-              "| Tarkul"
+          allowed_keywords = [
+              "| Premier League",
+              "| La Liga",
+              "| Serie A",
+              "| Bundesliga",
+              "| Primeira Liga"
           ]
 
           blocked_strings = [
