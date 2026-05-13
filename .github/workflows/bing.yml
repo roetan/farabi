@@ -92,6 +92,12 @@ jobs:
 
                   name = name_match.group(1).strip()
 
+                  # Remove [Server X] patterns
+                  name = re.sub(r'\s*\[Server[^\]]*\]\s*', ' ', name, flags=re.IGNORECASE)
+
+                  # Normalize spaces
+                  name = re.sub(r'\s+', ' ', name).strip()
+
                   # Skip if channel/event name contains disallowed keyword
                   if any(keyword.lower() in name.lower() for keyword in disallowed_keywords):
                       i = j + 1
