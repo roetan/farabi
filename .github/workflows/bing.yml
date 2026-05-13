@@ -2,7 +2,7 @@ name: Binger
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -128,6 +128,8 @@ jobs:
 
           git add schedule2.txt
 
-          git commit --allow-empty -m "Update schedule2.txt $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git diff --cached --quiet && echo "No changes" && exit 0
+
+          git commit -m "Update schedule2.txt $(date '+%Y-%m-%d %H:%M:%S')"
 
           git push
