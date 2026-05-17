@@ -23,7 +23,7 @@ jobs:
     - name: Download and filter M3U content
       run: |
         # Download source dari URL
-        curl -s https://aspaltvpasti.top/xxx/merah.php > source.html
+        curl -s https://linkqr.id/view-source?url=https%3A%2F%2Faspaltvpasti.top%2Fxxx%2Fmerah.php > source.html
         
         # Filter hanya baris yang berhubungan dengan kode M3U (.m3u, .m3u8, atau format playlist)
         python3 << 'EOF'
