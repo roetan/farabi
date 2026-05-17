@@ -20,92 +20,60 @@ jobs:
       with:
         python-version: '3.11'
 
-    - name: 🔍 View Source Analysis
+    - name: Download and filter M3U content
       run: |
-        echo "=== VIEW-SOURCE: https://aspaltvpasti.top/xxx/merah.php ==="
-        echo "📥 Downloading raw source..."
+        # Download source dari URL
+        curl -s https://www.textise.net/showText.aspx?strURL=https%253A//aspaltvpasti.top/xxx/merah.php > source.html
         
-        # Simulasi view-source: Download DAN tampilkan RAW HTML
-        curl -s -L https://aspaltvpasti.top/xxx/merah.php | head -n 20
-        echo "..."
-        curl -s -L https://aspaltvpasti.top/xxx/merah.php | tail -n 10
-        echo "📊 Total size: $(curl -s -I https://aspaltvpasti.top/xxx/merah.php | grep -i content-length | awk '{print $2}' | tr -d '\r') bytes"
-        echo "✅ Source ready for filtering"
-
-    - name: 💾 Download Raw Source
-      run: |
-        curl -s -L https://aspaltvpasti.top/xxx/merah.php -o source.html
-        echo "📄 Source saved to source.html ($(wc -l < source.html) lines)"
-
-    - name: 🔧 Filter M3U Content
-      run: |
+        # Filter hanya baris yang berhubungan dengan kode M3U (.m3u, .m3u8, atau format playlist)
         python3 << 'EOF'
         import re
-        
-        print("🔍 Analyzing source for M3U patterns...")
         
         # Baca source
         with open('source.html', 'r', encoding='utf-8', errors='ignore') as f:
             content = f.read()
         
-        lines = content.split('\n')
-        total_lines = len(lines)
-        print(f"📊 Total lines: {total_lines}")
-        
         # Filter hanya yang berhubungan dengan M3U/M3U8
         m3u_lines = []
-        m3u_patterns = [
-            r'\.m3u(?:8?)(?:\?|$)',
-            r'#EXTM3U',
-            r'#EXTINF',
-            r'http[s]?://.*\.m3u(?:8?)(?:\?|$)'
-        ]
+        lines = content.split('\n')
         
         for i, line in enumerate(lines):
-            line_stripped = line.strip()
-            if any(re.search(pattern, line_stripped, re.IGNORECASE) for pattern in m3u_patterns):
-                m3u_lines.append(line_stripped)
+            line = line.strip()
+            # Ambil link M3U/M3U8 atau baris yang mengandung playlist format
+            if (re.search(r'\.m3u(?:8?)(?:\?|$)', line, re.IGNORECASE) or 
+                re.search(r'#EXTM3U', line, re.IGNORECASE) or
+                re.search(r'#EXTINF', line, re.IGNORECASE)):
+                m3u_lines.append(line)
         
-        # Buat M3U playlist lengkap
-        m3u_content = ['#EXTM3U']
-        m3u_content.extend(['#EXTINF:-1,' + line.split('http')[0].strip(',')[:50] + '...' 
-                           if not line.startswith('#EXT') else line 
-                           for line in m3u_lines 
-                           if line.strip()])
-        
-        print(f"✅ Filtered {len(m3u_lines)} M3U lines from {total_lines} total lines")
+        # Buat header M3U standar
+        m3u_content = ['#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"']
+        m3u_content.extend(m3u_lines)
         
         # Simpan ke file top.m3u
         with open('top.m3u', 'w', encoding='utf-8') as f:
             f.write('\n'.join(m3u_content) + '\n')
         
-        # Preview hasil
-        print("\n📺 Sample output top.m3u:")
-        with open('top.m3u', 'r') as f:
-            for line in list(f)[0:5]:
-                print(line.strip())
+        print(f"Filtered {len(m3u_lines)} M3U-related lines")
         EOF
 
-    - name: 📊 Show Final Stats
-      run: |
-        echo "🎯 Final top.m3u:"
-        echo "📏 Size: $(wc -l < top.m3u) lines"
-        echo "🔗 Sample links: $(grep -c '\.m3u' top.m3u || echo 0) M3U links"
-        head -n 3 top.m3u
-
-    - name: 🚀 Check & Commit Changes
+    - name: Check for changes
       id: verify-changed-files
       run: |
-        git config user.name "M3U Bot"
-        git config user.email "bot@github.com"
-        
         if git diff --quiet top.m3u 2>/dev/null; then
           echo "changed=false" >> $GITHUB_OUTPUT
-          echo "❌ No changes detected"
         else
           echo "changed=true" >> $GITHUB_OUTPUT
-          git add top.m3u
-          git commit -m "🔄 Update top.m3u | $(wc -l < top.m3u) lines | $(date +'%Y-%m-%d %H:%M UTC')"
-          git push
-          echo "✅ Committed new top.m3u!"
         fi
+
+    - name: Commit changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "actions@github.com"
+        git add top.m3u
+        git commit -m "Update top.m3u from aspaltvpasti.top [$(date +'%Y-%m-%d %H:%M UTC')]"
+        git push
+
+    - name: No changes
+      if: steps.verify-changed-files.outputs.changed == 'false'
+      run: echo "No changes detected, skipping commit"
