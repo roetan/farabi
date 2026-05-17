@@ -1,79 +1,44 @@
-name: Markotop
+name: Generate M3U Filter
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Jalankan setiap 30 menit
-  workflow_dispatch:  # Manual trigger juga bisa
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-m3u:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
+      - name: Fetch source and filter M3U
+        run: |
+          URL="https://www.textise.net/showText.aspx?strURL=https%253A//aspaltvpasti.top/xxx/merah.php"
 
-    - name: Download and filter M3U content
-      run: |
-        # Download source dari URL
-        curl -s https://www.textise.net/showText.aspx?strURL=https%253A//aspaltvpasti.top/xxx/merah.php > source.html
-        
-        # Filter hanya baris yang berhubungan dengan kode M3U (.m3u, .m3u8, atau format playlist)
-        python3 << 'EOF'
-        import re
-        
-        # Baca source
-        with open('source.html', 'r', encoding='utf-8', errors='ignore') as f:
-            content = f.read()
-        
-        # Filter hanya yang berhubungan dengan M3U/M3U8
-        m3u_lines = []
-        lines = content.split('\n')
-        
-        for i, line in enumerate(lines):
-            line = line.strip()
-            # Ambil link M3U/M3U8 atau baris yang mengandung playlist format
-            if (re.search(r'\.m3u(?:8?)(?:\?|$)', line, re.IGNORECASE) or 
-                re.search(r'#EXTM3U', line, re.IGNORECASE) or
-                re.search(r'#EXTINF', line, re.IGNORECASE)):
-                m3u_lines.append(line)
-        
-        # Buat header M3U standar
-        m3u_content = ['#EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"']
-        m3u_content.extend(m3u_lines)
-        
-        # Simpan ke file top.m3u
-        with open('top.m3u', 'w', encoding='utf-8') as f:
-            f.write('\n'.join(m3u_content) + '\n')
-        
-        print(f"Filtered {len(m3u_lines)} M3U-related lines")
-        EOF
+          echo "Fetching source..."
+          curl -s "$URL" > topsource.txt
 
-    - name: Check for changes
-      id: verify-changed-files
-      run: |
-        if git diff --quiet top.m3u 2>/dev/null; then
-          echo "changed=false" >> $GITHUB_OUTPUT
-        else
-          echo "changed=true" >> $GITHUB_OUTPUT
-        fi
+          echo "Filtering M3U content..."
+          grep -Ei "m3u8?|\.m3u" topsource.txt | sort -u > top.m3u
 
-    - name: Commit changes
-      if: steps.verify-changed-files.outputs.changed == 'true'
-      run: |
-        git config user.name "GitHub Actions Bot"
-        git config user.email "actions@github.com"
-        git add top.m3u
-        git commit -m "Update top.m3u from aspaltvpasti.top [$(date +'%Y-%m-%d %H:%M UTC')]"
-        git push
+          echo "Done. Output saved to top.m3u"
 
-    - name: No changes
-      if: steps.verify-changed-files.outputs.changed == 'false'
-      run: echo "No changes detected, skipping commit"
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add top.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "update top.m3u (auto filter m3u)"
+          git push
