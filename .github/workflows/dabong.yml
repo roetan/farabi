@@ -36,7 +36,7 @@ jobs:
             if (block ~ /BIT.LY\/SOCOLIVE/) next
             if (block ~ /Tường thuật/) next
 
-            if (block !~ /rapidlive\.shop/) next
+            # if (block !~ /rapidlive\.shop/) next
 
             # Ubah group-title menjadi uppercase
             gsub(/group-title="[^"]+"/, toupper("&"), block)
