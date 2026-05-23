@@ -24,7 +24,7 @@ jobs:
           awk '
           BEGIN {
               # Cetak header M3U di awal
-              print "#EXTM3U"
+              # print "#EXTM3U"
               RS="\n#EXTINF"; ORS=""; FS="\n"
           }
           {
