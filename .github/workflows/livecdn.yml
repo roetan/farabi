@@ -4,35 +4,40 @@ on:
   workflow_dispatch:
 
 jobs:
-  extract:
+  scan:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install dependencies
+      - name: Install git
         run: |
           sudo apt-get update
-          sudo apt-get install -y git grep coreutils
+          sudo apt-get install -y git
 
-      - name: Clone target repository
+      - name: Clone repository (FULL)
         run: |
           git clone --mirror https://github.com/englishcd/ai.git repo.git
 
-      - name: Aggressive history scan
+      - name: Deep scan all git objects
         run: |
           mkdir -p output
 
           cd repo.git
 
-          echo "START SCAN..."
+          echo "EXTRACTING ALL GIT OBJECTS..."
 
-          git rev-list --all | while read commit; do
+          # ambil semua object dari seluruh history
+          git rev-list --objects --all > all_objects.txt
 
-            git grep -oE \
-            'https://pull\.livecdn\.cc/live/[^"'\'' ]+' \
-            $commit 2>/dev/null || true
+          echo "TOTAL OBJECTS:"
+          wc -l all_objects.txt
 
-          done | \
-          cut -d: -f2- | \
+          # scan seluruh blob/object
+          while read hash path; do
+
+            git cat-file -p "$hash" 2>/dev/null | \
+            grep -aoE 'https://pull\.livecdn\.cc/live/[^"'\'' <>]+' || true
+
+          done < all_objects.txt | \
           sed 's/[",]//g' | \
           sort -u > ../output/livecdn_urls.txt
 
@@ -40,13 +45,12 @@ jobs:
           echo "TOTAL URLS:"
           wc -l ../output/livecdn_urls.txt
 
-      - name: Preview result
+      - name: Show sample
         run: |
-          echo "====== RESULT ======"
           head -100 output/livecdn_urls.txt || true
 
-      - name: Upload artifact
+      - name: Upload result
         uses: actions/upload-artifact@v4
         with:
-          name: extracted-livecdn-urls
+          name: full-history-livecdn
           path: output/livecdn_urls.txt
