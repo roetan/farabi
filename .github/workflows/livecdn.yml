@@ -1,0 +1,52 @@
+name: LiveCDN Extractor
+
+on:
+  workflow_dispatch:
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y git grep coreutils
+
+      - name: Clone target repository
+        run: |
+          git clone --mirror https://github.com/englishcd/ai.git repo.git
+
+      - name: Aggressive history scan
+        run: |
+          mkdir -p output
+
+          cd repo.git
+
+          echo "START SCAN..."
+
+          git rev-list --all | while read commit; do
+
+            git grep -oE \
+            'https://pull\.livecdn\.cc/live/[^"'\'' ]+' \
+            $commit 2>/dev/null || true
+
+          done | \
+          cut -d: -f2- | \
+          sed 's/[",]//g' | \
+          sort -u > ../output/livecdn_urls.txt
+
+          echo ""
+          echo "TOTAL URLS:"
+          wc -l ../output/livecdn_urls.txt
+
+      - name: Preview result
+        run: |
+          echo "====== RESULT ======"
+          head -100 output/livecdn_urls.txt || true
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: extracted-livecdn-urls
+          path: output/livecdn_urls.txt
