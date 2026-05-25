@@ -1,21 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",07:00 | San Antonio Spurs vs Oklahoma City Thunder
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/9568.png",06:00 | Inter Miami vs Philadelphia Union
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Los_Angeles_Football_Club.svg",08:15 | Los Angeles FC vs Seattle Sounders
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2286.png",08:00 | U.N.A.M. - Pumas vs Cruz Azul
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",18:30 | Croatia U17 vs Belgium U17
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSudffqD2g0jjQWUuaVhdEmUDtpntLzckzVLg&s",06:00 | Inter Miami vs Philadelphia Union
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://dothethao.net.vn/wp-content/uploads/2020/06/sc-paderborn-logo-900px.png",01:30 | SC Paderborn 07 vs VfL Wolfsburg
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wawrinka_RG19_%2816%29_%2848199015787%29.jpg/960px-Wawrinka_RG19_%2816%29_%2848199015787%29.jpg",18:00 | Stan Wawrinka vs Jesper De Jong
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/3840px-Flag_of_Croatia.svg.png",18:30 | Croatia U17 vs Belgium U17
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/334.png",19:30 | Start vs Valerenga
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/325.png",22:00 | Tromso vs Aalesund
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
@@ -32,83 +29,35 @@ https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/625.png",Lyngby vs AC Horsens
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Gimnasia yTiro vs Gimnasia Jujuy (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvYqjftjRxRdCakQk/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 (Lương Sơn) BLV LÝ ỨNG m3u
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Volta Redonda vs Ypiranga(RS) (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwd5eHwLWSQav46ua/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 (Lương Sơn) BLV LÝ ỨNG flv
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Univ Catolica vs Colo Colo (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvYquUMwkotkMWxAQ/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Bhutan (W) vs Nepal (W) (Lương Sơn) BLV HÀN TÍN m3u
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Montego Bay Utd vs Mount Pleasant FA (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwe5ZsvDzx6SLdBat/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Bhutan (W) vs Nepal (W) (Lương Sơn) BLV HÀN TÍN flv
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Avai FC vs Goias (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvVNfPVVZTvtcdDtQ/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Bhutan (W) vs Nepal (W) (Lương Sơn) BLV MAYBACH m3u
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 25/05 Yaracuyanos vs Barquisimeto (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwe5EGyoPSe4WahEU/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Bhutan (W) vs Nepal (W) (Lương Sơn) BLV MAYBACH flv
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 25/05 Alianza Atletico Sullana vs FC Cajamarca (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvVczFgjtvHVYmroe/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding IF vs Hillerod Fodbold (Lương Sơn) BLV NGƯỜI THÉP m3u
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 25/05 Inter Moengo Tapoe vs SV Leo Victor (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwe5Wdfdk42ExDvf6/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding IF vs Hillerod Fodbold (Lương Sơn) BLV NGƯỜI THÉP flv
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 25/05 Real Santander vs Deportivo Cali (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MwdLb4oZW2TvjrJip/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding IF vs Hillerod Fodbold (Lương Sơn) BLV PHI HỔ m3u
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 25/05 Atletico Bucaramanga vs Alianza Petrolera (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MwdLb4oZYDwoDgDsi/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 25/05 Club Sport Emelec vs Macara (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvVNKqXrVbmraQXWt/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Confianca SE vs Figueirense (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwd5eHwLHFXN36bzC/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Sporting JAX (W) vs Carolina Ascent (W) (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwe5Waj2aYGVAbTEC/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Independiente Medellin (W) vs Orsomarso (W) (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwe5B4xVhw5XriZ7r/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Colon de Santa Fe vs Atletico Mitre de Santiago del Estero (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvYqjftjzvdgPyViC/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Deportivo Lara vs Zamora FC Barinas B (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwe5EHk8Ftoqz7kHS/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Estudiantes Merida FC vs Metropolitanos FC (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MwdLFTr8igQaUg5vC/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Carabobo FC vs Deportivo Tachira (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MwdLFTr8kstSxW156/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Bay FC (W) vs Chicago Red Stars (W) (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MwcqRw1mXHk4QX4Eg/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h10 ngày 25/05 Columbus Crew vs Atlanta United (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/hd-en-6MvZ6B9FtBYnqm8QBn/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Defensor Sporting Montevideo vs CA Penarol (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwe5AzXFkMt5fW6wn/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Club Atletico Guemes vs Patronato Parana (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvYqjftjtLC4xVkFW/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Junior (W) vs Fortaleza CEIF FC (W) (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwe5B4xAqMn6wJAjN/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians Paulista (SP) vs Atletico Mineiro (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvZ6LyC4tuFWowATn/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 America MG vs Vila Nova (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvVNfPVexZ6jbWVvk/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 San Martin Tucuman vs Atletico Atlanta (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvYqjfuF2YiMtoVCx/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding IF vs Hillerod Fodbold (Lương Sơn) BLV PHI HỔ flv
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -125,47 +74,11 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United FC (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/m3x1/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Bhutan W vs Nepal W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United FC (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/m3x1.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/05 Inter Miami vs Philadelphia Union (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/05 Inter Miami vs Philadelphia Union (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/05 Inter Miami vs Philadelphia Union (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/05 Inter Miami vs Philadelphia Union (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 25/05 Los Angeles FC vs Seattle Sounders (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoichay/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 25/05 Los Angeles FC vs Seattle Sounders (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoichay.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 25/05 Los Angeles FC vs Seattle Sounders (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoichayhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 25/05 Los Angeles FC vs Seattle Sounders (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoichayhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 25/05 South Melbourne vs Avondale (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Bhutan W vs Nepal W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 25/05 Hvidovre vs Esbjerg (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
@@ -178,6 +91,18 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 25/05 Hvidovre vs Esbjerg (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 25/05 Notts County vs Salford City (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 25/05 Notts County vs Salford City (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 25/05 Notts County vs Salford City (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 25/05 Notts County vs Salford City (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 25/05 Budaiya vs Al Najma (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
@@ -203,6 +128,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 26/05 Estonia U17 vs Spain U17 (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 26/05 Comerciantes Unidos vs Deportivo Garcilaso (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoichay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 26/05 Comerciantes Unidos vs Deportivo Garcilaso (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoichay.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 26/05 Comerciantes Unidos vs Deportivo Garcilaso (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoichayhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 26/05 Comerciantes Unidos vs Deportivo Garcilaso (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoichayhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/05 Coritiba vs Bahia (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/05 Coritiba vs Bahia (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/05 Coritiba vs Bahia (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/05 Coritiba vs Bahia (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -212,129 +161,303 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV NẤM] (Socolive) flv
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1779663595-0-0-a8787cdb5820237c176eee9eeb0ac638
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV LION] (Socolive) flv
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1779713635-0-0-3f031ab836c244dba667f24ed9d8d0f5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV NẤM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1779663595-0-0-5c471882b333ef75bc4cc5593fd1f182
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV LION] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1779713635-0-0-5f66943a7d11c4acf20f8de54ea00d48
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1779663595-0-0-c44288c393a079389a989fc78a35e2be
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV LION] (Socolive) m3u8
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1779713635-0-0-112f9f72a06589cd83c60e1dc696f951
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1779663595-0-0-9a0109258c398f6e90f34a696b56f945
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV LION] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779713635-0-0-3b6ef434402099332e4f7e43e2d98fdb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV CHIVAS] (Socolive) flv
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=2b1e3726ef31adffdd8b93e9399a9703&txTime=6a13c93b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV ROBBEN] (Socolive) flv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1779713635-0-0-1bfb5b137db61927cab516d9a75831d5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV CHIVAS] (Socolive) hdFlv
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=4656d60272f47c25420ca504306febd4&txTime=6a13c93b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV ROBBEN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1779713635-0-0-50c5a9cbd33e2fed30d6551210851f7c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV CHIVAS] (Socolive) m3u8
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=2b1e3726ef31adffdd8b93e9399a9703&txTime=6a13c93b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV ROBBEN] (Socolive) m3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1779713635-0-0-f9e44f32f51b6df5c9134e3213825d78
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV CHIVAS] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=4656d60272f47c25420ca504306febd4&txTime=6a13c93b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV ROBBEN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1779713635-0-0-3478aeccbb7a7784e8adfbdb400eb3fe
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [BLV ANH TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1779663595-0-0-dba2ae5abbf2a6874e6aacc0c14fd704
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [BLV ENZO] (Socolive) flv
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1779713635-0-0-a27374cebe46a2fc5e14e2c9171103d1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [BLV ANH TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1779663595-0-0-a8f69d72c8b116c829d9a958233c951d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [BLV ENZO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1779713635-0-0-fd99cb80e22497af6ade5c66dcde6dfd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1779663595-0-0-6ae8735ffb4a2d130188210f96d0649f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1779713635-0-0-6c84825c51b279e40df0a0d5933930b0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1779663595-0-0-5ad66674fcec553649ab28ed37060832
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1779713635-0-0-94e70990eccfa1459ef95c4bea87c7d9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV ALEX] (Socolive) flv
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1779663595-0-0-98b4cb5d08a150d5bd29f6843ff62224
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Drukpa FC vs Tsirang FC [XUÂN SON] (Socolive) flv
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=b5082e0f1245adfca32a74a2ede75b5c&txTime=6a148cb3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV ALEX] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1779663595-0-0-51a1e3dab90f6904461a97de91f09bb6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Drukpa FC vs Tsirang FC [XUÂN SON] (Socolive) hdFlv
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=c8dc2bb909694a17b81fa9a64f0929df&txTime=6a148cb3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779663595-0-0-14a93034e73bfc123ec2b5194cc0da63
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Drukpa FC vs Tsirang FC [XUÂN SON] (Socolive) m3u8
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=b5082e0f1245adfca32a74a2ede75b5c&txTime=6a148cb3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 25/05 Corinthians - SP vs Atlético Mineiro - MG [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779663595-0-0-4676f05f825591671545eed58411c4a0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Drukpa FC vs Tsirang FC [XUÂN SON] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c8dc2bb909694a17b81fa9a64f0929df&txTime=6a148cb3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Univ Catolica vs Colo Colo [BLV PEWPEW] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1779663955-0-0-3f7d20527181b925c8554534f1616b79
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Quezon City vs Bulacan Kuyas [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1779713635-0-0-92123f0f12c33f970b8af295530b53a3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Univ Catolica vs Colo Colo [BLV PEWPEW] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1779663955-0-0-ddf9f7d4382cbf8f2997bd2be0c8f795
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Quezon City vs Bulacan Kuyas [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1779713635-0-0-f61994d2cf0c10f666d09d3654a9ee0a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Univ Catolica vs Colo Colo [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779663955-0-0-9ae0305eb79c686d15abe7c561a5aec8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Quezon City vs Bulacan Kuyas [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1779713635-0-0-5e433a433695bf62e809d29d36916da8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Univ Catolica vs Colo Colo [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779663955-0-0-910add0ac761bc645ab276d7154ba56c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Quezon City vs Bulacan Kuyas [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1779713635-0-0-c5e673141362d3183163a002f7178c0b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [BLV WUKONG] (Socolive) flv
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1779663955-0-0-3bcf805b34cb82c47368ad673a4a3682
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/05 GenSan Warriors vs Pasay Voyagers [CHAN SENA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1779713995-0-0-2089ef603e50f7ffd9144d0f016bd703
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [BLV WUKONG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1779663955-0-0-52b81e6e8bce9cd05fbfb3bb264a943f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/05 GenSan Warriors vs Pasay Voyagers [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1779713995-0-0-4877861b45b1163bd0b1e2ddc404de9b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779663955-0-0-dd078787674a3b640e5f3cdc38c50750
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/05 GenSan Warriors vs Pasay Voyagers [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1779713995-0-0-b1200fe0b732a95d71e47c8911b96f92
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779663955-0-0-c42eed1e2072e499ac1f67aab7591ee4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/05 GenSan Warriors vs Pasay Voyagers [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1779713995-0-0-3c8bb94f8be8d4b4530c9d27e97ea848
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [LOGAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1779664315-0-0-a7c336929773be0b38f381cc8e7d4282
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV KEM] (Socolive) flv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1779713995-0-0-64f8bd2a250a80593e1401ead835a3a2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [LOGAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1779664315-0-0-2cc9c5be6bc9a2d48b369dfef9b8435a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV KEM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1779713995-0-0-877ce3cd2acb81a3eebe93f2e5808866
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [LOGAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1779664315-0-0-b1770af9b25ed8a23236e2451f1ebb29
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV KEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1779713995-0-0-910e7527e9e8dfc82bb55cfab5978fd2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 25/05 Columbus Crew vs Atlanta United [LOGAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1779664315-0-0-8c65f6c3f4e515dfc3d4a0fc50c93b9e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779713995-0-0-45e0b17af1cac718c28fc7924c002a61
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Univ Catolica vs Colo Colo [BLV THÓC] (Socolive) flv
-https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1779664315-0-0-4430326bcfefacc12820fc23a1df8c47
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV KAN] (Socolive) flv
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=4cf3f53ae315aaf258d09c856e4979b1&txTime=6a148e1b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Univ Catolica vs Colo Colo [BLV THÓC] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1779664315-0-0-963845f2b7f1bf66c6e943b150ec102c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV KAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=7ad5a6bbc5120547c5c20a1577ccfd64&txTime=6a148e1b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Univ Catolica vs Colo Colo [BLV THÓC] (Socolive) m3u8
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1779664315-0-0-23a39b49385feeefb826d9cae5b342d6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV KAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=4cf3f53ae315aaf258d09c856e4979b1&txTime=6a148e1b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Univ Catolica vs Colo Colo [BLV THÓC] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1779664315-0-0-3d7fabbbb2ae142320cb066f6409a657
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV KAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=7ad5a6bbc5120547c5c20a1577ccfd64&txTime=6a148e1b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Seattle Storm W vs Washington Mystics W [A CHÈ] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1779664315-0-0-66be6d501861073efba3feb961caab25
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV VITAMIN] (Socolive) flv
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1779713995-0-0-6442378ba1df4b7cb516a97086853124
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Seattle Storm W vs Washington Mystics W [A CHÈ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1779664315-0-0-78370bb63dabcb65a99d2a384397d2c2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV VITAMIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1779713995-0-0-6a6b8cc634f3d9dd234e26b90ea1a50e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Seattle Storm W vs Washington Mystics W [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1779664315-0-0-69c0d568aa7404aac7a92a5024673b71
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV VITAMIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1779713995-0-0-dfebf06396fbee3b53033f5310efee43
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/05 Seattle Storm W vs Washington Mystics W [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1779664315-0-0-997d195033c32ee28c09594d9b38ca65
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV VITAMIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779713995-0-0-c66f9638357d9849fa21a24032c6bdfc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV VIP] (Socolive) flv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=df83004fbf742acac24d9a9858b9dad4&txTime=6a148e1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV VIP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=567e7de2f164c22aefe6a7e9345fb036&txTime=6a148e1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=df83004fbf742acac24d9a9858b9dad4&txTime=6a148e1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=567e7de2f164c22aefe6a7e9345fb036&txTime=6a148e1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [MONEY MAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-605412_lsd.flv?auth_key=1779713995-0-0-f2437c83c4c443d50acc0868fc1864fe
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [MONEY MAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1779713995-0-0-1152c55ca375b0c7037b0a757725e508
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [MONEY MAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1779713995-0-0-18f454a8a8a40ee22f9a150cdecfea32
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [MONEY MAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1779713995-0-0-ce3ebf10e4163edc060d10c397378eca
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV PEWPEW] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1779713995-0-0-cd3aee6558eb614c3115fbf96aa32195
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1779713995-0-0-16e77766c877b3e47d4baf9efd1374b6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779713995-0-0-63d4cad02037bc892fadd138a794c9d9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779713995-0-0-867f35680c5d24a06c3df4ad95290a2f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [TYPN] (Socolive) flv
+https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=84eccbf2c05aff17324ba326826c8335&txTime=6a148e1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [TYPN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=e12a1d36b6141d6f46cdd6c7fae80f18&txTime=6a148e1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [TYPN] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=84eccbf2c05aff17324ba326826c8335&txTime=6a148e1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [TYPN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=e12a1d36b6141d6f46cdd6c7fae80f18&txTime=6a148e1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/05 GenSan Warriors vs Pasay Voyagers [KING] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1779713995-0-0-cb4815aa0bfb6f823d91c39620aef13b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/05 GenSan Warriors vs Pasay Voyagers [KING] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1779713995-0-0-c247a25f4787a7d3b4a1e072378cc941
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/05 GenSan Warriors vs Pasay Voyagers [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1779713995-0-0-68aea893fd6f18a33f0412854177f70b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/05 GenSan Warriors vs Pasay Voyagers [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1779713995-0-0-1675b6e7dadbe79bc1b51508e60935a4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Quezon City vs Bulacan Kuyas [BLV HENRY] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1779713995-0-0-7bee58fc5b8294f8f2c6959b05a0896c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Quezon City vs Bulacan Kuyas [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1779713995-0-0-1cc8b661d9a49d94afbf5c40c59b4fd1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Quezon City vs Bulacan Kuyas [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1779713995-0-0-7fc862829cfacc747a43a498ef56905a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Quezon City vs Bulacan Kuyas [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1779713995-0-0-aaa5f6508750c23605ee8920d08a15fb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779664315-0-0-bbaeb483739b9df27f3c722d97b0ab37
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1779713995-0-0-e7fe2fb97d96750523b705b2ccfcfc7b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779664315-0-0-cc2d6d35e65343fc70522c3e69676f48
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1779713995-0-0-96d703d862db2c5590cf8bbe1f26b45e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779664315-0-0-dabd3c16b80a796216404ac35e2b9aa7
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1779713995-0-0-bc7dbc6760784b5b057e69850e447c4f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779664315-0-0-5843e074d30a41ef375353b20632f531
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1779713995-0-0-292133600ccb78d595e34da8ebeaf834
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h10 25/05 Columbus Crew vs Atlanta Utd
-https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [THẠCH TÚ] (Socolive) flv
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=5f258107a29f6a7db46e987ca6108c2e&txTime=6a148f83
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 25/05 Corinthians Paulista vs Atletico Mineiro
-https://live5.msrktz.app/live/88508431.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [THẠCH TÚ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=de059cc71049d14a9455e20061deea3d&txTime=6a148f83
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [THẠCH TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=5f258107a29f6a7db46e987ca6108c2e&txTime=6a148f83
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=de059cc71049d14a9455e20061deea3d&txTime=6a148f83
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV FIREMAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1779714355-0-0-e3e3195009886bb93ce3aec2e940be79
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV FIREMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1779714355-0-0-609fe0432a27d29c7d0574227c19ba48
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779714355-0-0-4bf091c35df094d0f2470d69c6b24f4d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 25/05 Croatia U17 vs Belgium U17 [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779714355-0-0-da467420e3b9a7bc2690cc8494905c3b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [BLV TOMIA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1779714355-0-0-656732e6c77557bf8700d4bbea9d6605
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [BLV TOMIA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1779714355-0-0-6e92efcb1188e8eeecc85394d7c3e6b1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [BLV TOMIA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1779714355-0-0-8e202826e79a0846b5257eca4715a566
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [BLV TOMIA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1779714355-0-0-f0777520734cc02935fce73af1cde90a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [CÔNG CHẤT] (Socolive) flv
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1779714355-0-0-444d6f1673332db6cef8c21f8b30f16e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [CÔNG CHẤT] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1779714355-0-0-1440527ce76874ff8031de93bf8dc59f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [CÔNG CHẤT] (Socolive) m3u8
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1779714355-0-0-7528921989d2483dfe70d610cf2cf7cb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 25/05 Start Kristiansand vs Vålerenga Fotball Elite [CÔNG CHẤT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779714355-0-0-aba511dbe88bafbf52102cfee2ebac0c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV RAMBO] (Socolive) flv
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=b446d6283598e34451254ad3c7188a7f&txTime=6a148f83
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV RAMBO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=dca27199e58b5a98eb46b7d4d3782407&txTime=6a148f83
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV RAMBO] (Socolive) m3u8
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=b446d6283598e34451254ad3c7188a7f&txTime=6a148f83
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV RAMBO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=dca27199e58b5a98eb46b7d4d3782407&txTime=6a148f83
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV CÒ] (Socolive) flv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1779714355-0-0-7db4362f4228f87fb05e82795c1e41ca
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1779714355-0-0-e23a8c3874c47f016dc956d3727a1209
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1779714355-0-0-e9b284a50e682df2a5f09d530b4bbffd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/05 Kolding FC vs Hillerod Fodbold [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1779714355-0-0-10fc1ffd58e4dde33a5ae0353316b763
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Drukpa FC vs Tsirang FC [BLV SATIVA] (Socolive) flv
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1779714355-0-0-4a460340b121dbbc2a6c7a768d81537a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Drukpa FC vs Tsirang FC [BLV SATIVA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1779714355-0-0-ace8d2804521d211cf8945add9c54d8d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Drukpa FC vs Tsirang FC [BLV SATIVA] (Socolive) m3u8
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1779714355-0-0-b47a5c03007beb4e425ecdb10f3e63b8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/05 Drukpa FC vs Tsirang FC [BLV SATIVA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1779714355-0-0-35217c01fbfdf9d9847d22656a832647
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 25/05 Croatia U17 vs Belgium U17 (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 25/05 Croatia U17 vs Belgium U17 (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 25/05 Stan Wawrinka vs Jesper De Jong (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 25/05 Stan Wawrinka vs Jesper De Jong (Hội Quán) SD
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 25/05 Elena Rybakina vs Veronika Erjavec (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 25/05 Elena Rybakina vs Veronika Erjavec (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 25/05 Kolding vs Hillerod
+https://live05.msdht.app/live/82054853.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 25/05 Croatia U17 vs Bỉ U17
+https://live05.msdht.app/live/68848594.m3u8
 
