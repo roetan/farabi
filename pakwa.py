@@ -71,9 +71,13 @@ while queue:
         pass
 
 # =========================
-# OUTPUT FILE
+# OUTPUT FILE (FORCE FRESH)
 # =========================
+
 with open("pakwa.txt", "w", encoding="utf-8") as f:
+    f.seek(0)
+    f.truncate(0)  # pastikan kosong total
+
     for title, stream in results.items():
         f.write(f"{title},{stream}\n")
 
