@@ -1,0 +1,10 @@
+playwright==1.43.0
+aiohttp
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+urllib3
+idna
+certifi
+charset-normalizer
+selectolax
