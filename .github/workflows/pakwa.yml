@@ -1,0 +1,33 @@
+name: Pakwa M3U8 Scraper
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # jalan tiap 6 jam
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python pakwa.py
+
+      - name: Commit results
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git add pakwa.txt
+          git commit -m "update pakwa stream list" || echo "no changes"
+          git push
