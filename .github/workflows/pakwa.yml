@@ -13,6 +13,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Clean workspace
+        run: |
+          git reset --hard
+          git clean -fd
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -24,10 +29,10 @@ jobs:
       - name: Run scraper
         run: python pakwa.py
 
-      - name: Commit results
+      - name: Commit results (fresh overwrite)
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions"
           git add pakwa.txt
-          git commit -m "update pakwa stream list" || echo "no changes"
+          git commit -m "fresh pakwa update" || echo "no changes"
           git push
