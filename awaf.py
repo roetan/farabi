@@ -4,8 +4,6 @@ from functools import partial
 from pathlib import Path
 from urllib.parse import quote, quote_plus, urljoin
 
-from https://github.com/KPRDROP/kpr/tree/main/utils import Cache, Time, get_logger, leagues, network
-
 log = get_logger(__name__)
 
 TAG = "FAWA"
