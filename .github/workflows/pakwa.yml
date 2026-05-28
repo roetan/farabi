@@ -2,7 +2,7 @@ name: Pakwa M3U8 Scraper
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # jalan tiap 6 jam
+    - cron: "0 */1 * * *"   
   workflow_dispatch:
 
 jobs:
