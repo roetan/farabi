@@ -4,7 +4,7 @@ from functools import partial
 from pathlib import Path
 from urllib.parse import quote, quote_plus, urljoin
 
-from utils import Cache, Time, get_logger, leagues, network
+Cache, Time, get_logger, leagues, network
 
 log = get_logger(__name__)
 
