@@ -26,11 +26,11 @@ https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/19157.png",16:00 | Vietnam U19 vs Timor-Leste U19
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",13:00 | KFF Singapore Badminton Open 2026
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/9585.png",Real Sociedad II vs Cultural Leonesa
-https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/85.png",Paris Saint Germain vs Arsenal
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
@@ -41,68 +41,68 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2384.png",USA vs Senegal
 https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Lahti vs Ilves Tampere (Lương Sơn) BLV DƯƠNG CHÍ m3u
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1536.png",Tajikistan vs Palestine
+https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Lahti vs Ilves Tampere (Lương Sơn) BLV DƯƠNG CHÍ flv
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Lahti vs Ilves Tampere (Lương Sơn) BLV GẤU KA flv
-https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 FC Telavi vs FC Gori (Lương Sơn) BLV QUAN VŨ m3u
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 FC Telavi vs FC Gori (Lương Sơn) BLV QUAN VŨ flv
-https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS (Lương Sơn) BLV TRIỆU TỬ LONG flv
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS (Lương Sơn) BLV MAYBACH m3u
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS (Lương Sơn) BLV MAYBACH flv
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku (Lương Sơn) BLV LÝ ỨNG m3u
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku (Lương Sơn) BLV LÝ ỨNG flv
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku (Lương Sơn) BLV PELE m3u
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku (Lương Sơn) BLV PELE flv
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 30/05 Zimbabwe vs India (Lương Sơn) BLV LÃO HẠC m3u
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 30/05 Zimbabwe vs India (Lương Sơn) BLV LÃO HẠC flv
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 30/05 Zimbabwe vs India (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 30/05 Zimbabwe vs India (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 30/05 Osters IF vs Norrby IF (Lương Sơn) BLV PHI HỔ m3u
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 30/05 Osters IF vs Norrby IF (Lương Sơn) BLV PHI HỔ flv
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LEO flv
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 30/05 MB Rouissat vs USM Alger (Lương Sơn) BLV FERNANDO m3u
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 30/05 MB Rouissat vs USM Alger (Lương Sơn) BLV FERNANDO flv
 https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LƯU BỊ flv
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LỮ BỐ flv
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KAKA m3u
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KAKA flv
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV TÔN LẬP m3u
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV TÔN LẬP flv
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KEVILL flv
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Najma Manama vs Manama Club (Lương Sơn) BLV MÃ SIÊU m3u
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Najma Manama vs Manama Club (Lương Sơn) BLV MÃ SIÊU flv
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV HÀN TÍN m3u
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV HÀN TÍN flv
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -119,17 +119,17 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta FC vs Albacete (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta FC vs Albacete (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad II vs Cultural Leonesa (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad II vs Cultural Leonesa (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
@@ -142,18 +142,6 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
@@ -179,6 +167,30 @@ https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Hồng Lĩnh Hà Tĩnh vs Da Nang (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Hồng Lĩnh Hà Tĩnh vs Da Nang (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Hồng Lĩnh Hà Tĩnh vs Da Nang (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Hồng Lĩnh Hà Tĩnh vs Da Nang (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -188,360 +200,198 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780156436-0-0-1c3e68a6f93a6ce33c1a0085c97a2301
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) flv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780163996-0-0-94a5db20edf0f90c3e2de44f97ef3bed
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780156436-0-0-538951dd9ec1aa66a10a09a15f4d9be6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780163996-0-0-483d025b25aa556be4ebd09fbdfaf9f7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780156436-0-0-f171d2b421f19545c78873a641008908
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780163996-0-0-ab8754c2e80aebeaff9dc1c5f7215e94
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780156436-0-0-1557142024e8c06b9e133f63daafc198
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780163996-0-0-fc7d5f7fd2fd6c29ce9791b65e977da4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",UEFA CL: Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) flv
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=ebe6ec457708d857f1a9495f89c0e6f6&txTime=6a1b4e64
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5e41d9ec636090fbdf783ec198ad61a7&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",UEFA CL: Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=eb0de4d16520fe50f9f32ad1bc7bfc89&txTime=6a1b4e64
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=5424001e5df85cfa3bf2ace503b793bd&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",UEFA CL: Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=ebe6ec457708d857f1a9495f89c0e6f6&txTime=6a1b4e64
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5e41d9ec636090fbdf783ec198ad61a7&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",UEFA CL: Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=eb0de4d16520fe50f9f32ad1bc7bfc89&txTime=6a1b4e64
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5424001e5df85cfa3bf2ace503b793bd&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV TOMMY] (Socolive) flv
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1780156436-0-0-8ffa1139fca736fa6fb51a6ad4202721
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) flv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780163996-0-0-6674802c327c497a21856f17687fe063
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV TOMMY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1780156436-0-0-599cb9cd3b8b21d3a6b209a9897377e5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780163996-0-0-aee9b0fbdacbf9d5df31d3c4877edf15
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV TOMMY] (Socolive) m3u8
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1780156436-0-0-0b6eea3e37f7560f5590345bf1fc81b6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780163996-0-0-50356c14b7d5cceb3f154ad67d6b3d83
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1780156436-0-0-f11dd4ccfe9aae02bbc12a0e406c6e7f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780163996-0-0-29c87df73132ad8f7163559a0d1f300f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 30/05 Alba Berlin vs Bamberg [KING] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780156436-0-0-dab37fbf5ac03fae51efad217c67a003
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1780163996-0-0-c90e5d77b0a29842fe31ef108e68decd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 30/05 Alba Berlin vs Bamberg [KING] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780156436-0-0-8ccfc6b98913824687c620d24bbdb1e0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780163996-0-0-95d4d33d69788e350e9fce832a788fbe
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 30/05 Alba Berlin vs Bamberg [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780156436-0-0-3c614a68d6643978139749412c42bf57
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1780163996-0-0-92a76c513c0695d885aa64b8afa5593e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 30/05 Alba Berlin vs Bamberg [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780156436-0-0-552d4dae981247618360aaf855de76de
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780163996-0-0-c662f00bcb640f3a0d608bdeb537e4ac
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Gnistan Helsinki vs SJK Seinajoen [NGƯỜI CÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780156436-0-0-69b8670f7cbbf1104460ce5b37484471
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780163996-0-0-3ca38dc8c05fecf07dc3f6d91b074a15
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Gnistan Helsinki vs SJK Seinajoen [NGƯỜI CÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780156436-0-0-32574974c16377ab63c3f899675176ca
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780163996-0-0-6a83ce79b37516925920cd1d04bc47fb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Gnistan Helsinki vs SJK Seinajoen [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780156436-0-0-a7e3827e68c9a0d9f1c555e89a0def18
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780163996-0-0-558adb92e5303e2cb63ae66618f5e141
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Gnistan Helsinki vs SJK Seinajoen [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780156436-0-0-b7643a9f42ad74f3cdbebdded1e2e8c2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780163996-0-0-6dfd52a8c5696ac3aabdc078b74d5591
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV COZY] (Socolive) flv
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780156796-0-0-e77924b23d9c68124f720d5f0d8bf2f8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780163996-0-0-19a4baa03be53d5e1306bf1204456541
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV COZY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780156796-0-0-2d62579a8bb9b288b460afcf563f4ada
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780163996-0-0-aa35ab67cee075aaa2933ef294480fe9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780156796-0-0-ae50f04609a9448a5b85c4ddbb1d25ae
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780163996-0-0-492a1590c7e17e393fb69ae9a52a8f03
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780156796-0-0-6cdd9b252d6c7a76f63731fab1c38b8a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780163996-0-0-8c123dc1d5c7ddbc47c84f48387235d8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780156796-0-0-8f694cd19a13f1a016c06c61aed3936b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=9b945b087c154ed9ab483411ab863798&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780156796-0-0-2fb03c8ab318459ed45280010bc7131a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=e4870e23a56ac726f1a56590b63496e0&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780156796-0-0-130b560de31eaf888d37ccf74f549a50
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=9b945b087c154ed9ab483411ab863798&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 Malmo FF vs Halmstads [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780156796-0-0-b035a2b019d1cbc915bcd3e6c35b817c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=e4870e23a56ac726f1a56590b63496e0&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV CUỘI] (Socolive) flv
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780156796-0-0-4ef40179a5a08e03e7bf372a91d34604
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) flv
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=af56d867eae7944e9808324e6febdf9d&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV CUỘI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780156796-0-0-74f9d629cca87b4b5a5f0dc113fd1063
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=4ec8ce043586552eb64e264dd7617167&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780156796-0-0-45c881ffabcbf4965d296c2239a475d7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=af56d867eae7944e9808324e6febdf9d&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780156796-0-0-34108cfe1e97c22c69cf624ed6183809
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4ec8ce043586552eb64e264dd7617167&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [BLV RÔSI] (Socolive) flv
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=35dccc77d42c54a184636f7bc9c7bff3&txTime=6a1b4fcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780163996-0-0-fa7a40f654a2e88c09af2916f0744b46
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [BLV RÔSI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=3085791bed954c697429108a638e87a9&txTime=6a1b4fcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780163996-0-0-e677976822023cc8f02525026d8e5b7f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [BLV RÔSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=35dccc77d42c54a184636f7bc9c7bff3&txTime=6a1b4fcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780163996-0-0-159615626c8db29aa6fea03385acea6c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [BLV RÔSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=3085791bed954c697429108a638e87a9&txTime=6a1b4fcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780163996-0-0-de0a9776aedd4fe92c60523c16c3472b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV LONG] (Socolive) flv
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=4d0ceae439dd815a9dcb8936b7e26622&txTime=6a1b4fcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) flv
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=c3c7cda7ab762e38d8c28dfdd1cd9a07&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV LONG] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=dd2c42b9c2599cc7b4563c8377d533b5&txTime=6a1b4fcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=2360b45cb7e1d062355c2284f56b6255&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV LONG] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=4d0ceae439dd815a9dcb8936b7e26622&txTime=6a1b4fcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c3c7cda7ab762e38d8c28dfdd1cd9a07&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV LONG] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=dd2c42b9c2599cc7b4563c8377d533b5&txTime=6a1b4fcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=2360b45cb7e1d062355c2284f56b6255&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV TOMIA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1780156796-0-0-50488d4c1065fc7cab4866582528de40
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) flv
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=9a77e477043430e8a59ad306f4da4cb1&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV TOMIA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780156796-0-0-eb0396d963c84bd8c9e2a39b49e4546b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=5e1fda1f1793f9789273019e423c4008&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780156796-0-0-d878226e73dce94c1a1f258048f04b93
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=9a77e477043430e8a59ad306f4da4cb1&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780156796-0-0-0bf62f3aba04c071eb42c5b2921a2268
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=5e1fda1f1793f9789273019e423c4008&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",SPA D2: Granada CF vs Sporting Gijon [BLV XO] (Socolive) flv
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780156796-0-0-aabd34a7407efae9eb9fe1d943cc3930
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) flv
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=5242f5c0a0ca6366f9909ecf9cd3ee67&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",SPA D2: Granada CF vs Sporting Gijon [BLV XO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780156796-0-0-e94af345a1380c1b960d7072ec579b9a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=66fd21351dd64cd3d762b42b7c0de332&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",SPA D2: Granada CF vs Sporting Gijon [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780156796-0-0-89d73bc8aa38e2f8056d687f66faf8b4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=5242f5c0a0ca6366f9909ecf9cd3ee67&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",SPA D2: Granada CF vs Sporting Gijon [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780156796-0-0-c2d64291d9569b3d8c6e07198ac09def
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=66fd21351dd64cd3d762b42b7c0de332&txTime=6a1b6bec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [QUỐC KHÁNH] (Socolive) flv
-https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=7323bb90ee0191a7d2176af458cb5af4&txTime=6a1b4fcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780163996-0-0-762478147de283ee53f8cd5a42730a01
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [QUỐC KHÁNH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=39a0c5c2b5f07ede0aa97449ef601f5f&txTime=6a1b4fcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780163996-0-0-75518341ca9b0794880da31db778ceb7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [QUỐC KHÁNH] (Socolive) m3u8
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=7323bb90ee0191a7d2176af458cb5af4&txTime=6a1b4fcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780163996-0-0-348ad8d919f2dbeee4fd1f848109edd8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [QUỐC KHÁNH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=39a0c5c2b5f07ede0aa97449ef601f5f&txTime=6a1b4fcc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [BLV RYO] (Socolive) flv
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780156796-0-0-5441e556fec856045c2faf7bf3cdf1ce
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [BLV RYO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780156796-0-0-8b232f7ce219e6ee23aa4f5fa8301454
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [BLV RYO] (Socolive) m3u8
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780156796-0-0-a39572e97e31c5898ab8710f764afc67
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [BLV RYO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780156796-0-0-d34bca9ac704ca5ac5b4e2908bbe524c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [BLV A TINH] (Socolive) flv
-https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=47c5e79d8aa68e1a4a8dba490330176b&txTime=6a1b4fcc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [BLV A TINH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=3b59e64c848eb23659fa91030093a001&txTime=6a1b4fcc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [BLV A TINH] (Socolive) m3u8
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=47c5e79d8aa68e1a4a8dba490330176b&txTime=6a1b4fcc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [BLV A TINH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=3b59e64c848eb23659fa91030093a001&txTime=6a1b4fcc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku [BLV SATIVA] (Socolive) flv
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1780156796-0-0-b485346a80097f0367562fe38a698961
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku [BLV SATIVA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780156796-0-0-c0a6b59cb58b7ded79fef9c8d14ed109
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku [BLV SATIVA] (Socolive) m3u8
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1780156796-0-0-12edde9d6dd66b9a5bd4b3c763ffb6be
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku [BLV SATIVA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780156796-0-0-100098030f2c5513825295f4c21b1d97
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",UEFA CL: Paris Saint Germain vs Arsenal [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=ae1c2446064fc85ef9aacd6fb5fe99e1&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",UEFA CL: Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=6b6854190ea7f243919caf73a2c1cced&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",UEFA CL: Paris Saint Germain vs Arsenal [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=ae1c2446064fc85ef9aacd6fb5fe99e1&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",UEFA CL: Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=6b6854190ea7f243919caf73a2c1cced&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku [TYPN] (Socolive) flv
-https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=83f0e9e790c4c798702d32140cb826f4&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku [TYPN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=4c769e0a2fdb41a84af1fc03eaa4a715&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku [TYPN] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=83f0e9e790c4c798702d32140cb826f4&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 KuPs vs Inter Turku [TYPN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=4c769e0a2fdb41a84af1fc03eaa4a715&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [LÃO LÂM] (Socolive) flv
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1780157156-0-0-1ce4d5200756a4a3eca278ddd46c5615
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [LÃO LÂM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780157156-0-0-8068b14290ffae571a8811c9df1d4a77
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [LÃO LÂM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780157156-0-0-dfef1d51d6cc461ee0f87d764da89f7d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780157156-0-0-d6eb2c0f249756e968b0f177d9f6b7d1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS [A PÁO] (Socolive) flv
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1780157156-0-0-cc46c76ba922384d611287b470d587ea
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS [A PÁO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780157156-0-0-75555ae201871a76e6d0fb02c1c660d5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS [A PÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780157156-0-0-533531f5a88b2692542b786e741294f8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS [A PÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780157156-0-0-d27fd98027087fb3735720f2481b47be
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [CR Bưởi] (Socolive) flv
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1780157156-0-0-fa8240ecde0f49de252d11f541054ea5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [CR Bưởi] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780157156-0-0-c8f718148940885c3798617403712fb6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [CR Bưởi] (Socolive) m3u8
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780157156-0-0-e8dd1e9a9d7e3f63370f0f60064cb974
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Molde vs Sandefjord [CR Bưởi] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780157156-0-0-13dd8f2e5ce63231b6ae8146ddfa9445
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Gnistan Helsinki vs SJK Seinajoen [BLV PEWPEW] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780157156-0-0-49e156c0d38904d5abfe94643c1d01b4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Gnistan Helsinki vs SJK Seinajoen [BLV PEWPEW] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780157156-0-0-57e5597d4778177903bff56582d8320f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Gnistan Helsinki vs SJK Seinajoen [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780157156-0-0-66ad7e8a908190a12e472d19df694872
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Gnistan Helsinki vs SJK Seinajoen [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780157156-0-0-6b5b68e923782eba8a2f4f09c87b42ec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [MONEY MAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-605412_lsd.flv?auth_key=1780157156-0-0-9ca2a7846a7180d4cec9ff76f2d8dca9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [MONEY MAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1780157156-0-0-714fb7300edef2133fdc7fe8449a3dd0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [MONEY MAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1780157156-0-0-c1a4d3c4971f83f9b520cbd99dbb1207
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 AD Ceuta vs Albacete Balompié SAD [MONEY MAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1780157156-0-0-5efb18013dbe4f893b8c3865266cbf3e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Lahti vs Ilves Tampere [BLV MIXI] (Socolive) flv
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780157156-0-0-a52b0a853ac9f990b7bff535f13b8519
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Lahti vs Ilves Tampere [BLV MIXI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780157156-0-0-2bb0807b5d0c6b6b5a3f65e35a08e42d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Lahti vs Ilves Tampere [BLV MIXI] (Socolive) m3u8
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780157156-0-0-7d04b38ba104d49919899eb58df0a65d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Lahti vs Ilves Tampere [BLV MIXI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780157156-0-0-3d7076e7d1dc636f0ebb800af05fc571
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [ĐỖ TÚ TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780157156-0-0-3ce9f94118119d52bf9315a72dca499f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [ĐỖ TÚ TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780157156-0-0-73f8e430d8193d0a908dad4ddfd11637
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [ĐỖ TÚ TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780157156-0-0-acd2fb66d95410ee513046012420e593
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 ngày 30/05 Real Sociedad B vs Cultural Leonesa [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780157156-0-0-b72ab3b1008ea00a4a9cfae646a775ba
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Lahti vs Ilves Tampere [BLV GÔN] (Socolive) flv
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=2534f719bd11b097ece1f418e112ff70&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Lahti vs Ilves Tampere [BLV GÔN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=b590d49f3ebc6eae6de2ef3410352252&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Lahti vs Ilves Tampere [BLV GÔN] (Socolive) m3u8
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=2534f719bd11b097ece1f418e112ff70&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 Lahti vs Ilves Tampere [BLV GÔN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=b590d49f3ebc6eae6de2ef3410352252&txTime=6a1b5134
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS [BLV CÁO] (Socolive) flv
-https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780157156-0-0-78e6bf189f79ab976a679b4d5a691632
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS [BLV CÁO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780157156-0-0-8606ab486b801a3005b72477cf4da62f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS [BLV CÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780157156-0-0-9b98fd01130a3c1c9bc7b26390886080
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 30/05 TPS Turku vs Vaasa VPS [BLV CÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780157156-0-0-203a21a860d58672aeb4582ae683dfa1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [CHÍ PHÈO] (Socolive) flv
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1780156975-0-0-3409fff20a8b41cf64014de16abf8afc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [CHÍ PHÈO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1780156975-0-0-259346e7e77b5c14d72ade4738f2eacc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [CHÍ PHÈO] (Socolive) m3u8
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1780156975-0-0-886b4d1f7c2e8a8b33836810772250df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 30/05 AIK vs IK Sirius FK [CHÍ PHÈO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1780156975-0-0-e91022f8d685dc2f432a8c64988a866c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780163996-0-0-d74aca90bf434d302c4ff5be94613051
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780157156-0-0-5737d73750dbdf55b1df7fad8d425a74
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780164716-0-0-8c05a7a0e19140da78d12c0e6615a5c0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780157156-0-0-f65c1b0ba12bb7bc0ed2aa5ab176374a
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780164716-0-0-e7830ba247f77017886e10513a1c4015
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780157156-0-0-0d9dc222b690738250a6edba0344cfe4
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780164716-0-0-cb0bb8d97ee749c36c3efd3f81337a00
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780157156-0-0-59875e30cef16ea6e9ea5ab66ebc4e15
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780164716-0-0-b89cf3287146ec4bae7f2748076a2850
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 30/05 Molde vs Sandefjord
-https://live05.msdht.app/live/87547578.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 30/05 KuPs vs Inter Turku
-https://live05.msdht.app/live/88508431.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h15 30/05 R Sociedad B vs Cultural Leonesa
-https://live05.msdht.app/live/33982309.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint-Germain vs Arsenal
+https://live05.msdht.app/live/97312754.m3u8
 
