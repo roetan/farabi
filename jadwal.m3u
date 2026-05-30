@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LƯU BỊ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LƯU BỊ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KAKA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -17,12 +11,6 @@ https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a13
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LEO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KEVILL m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KEVILL flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LỮ BỐ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
@@ -35,24 +23,48 @@ https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc5
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV TÔN LẬP flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3063_1hg20ce24121.png",23:00 WIB 30/05 Najma Manama vs Manama Club (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LƯU BỊ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3063_1hg20ce24121.png",23:00 WIB 30/05 Najma Manama vs Manama Club (Lương Sơn) BLV MÃ SIÊU flv
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LƯU BỊ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4583_1gqk9kddch1y.png",23:00 WIB 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV HÀN TÍN m3u
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KEVILL m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4583_1gqk9kddch1y.png",23:00 WIB 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV HÀN TÍN flv
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/246_164871185439.png",23:00 WIB 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KEVILL flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4583_1gqk9kddch1y.png",23:00 WIB 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/682_165018846810.png",01:30 WIB 31/05 Nigeria vs Jamaica (Lương Sơn) BLV PHI HỔ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/682_165018846810.png",01:30 WIB 31/05 Nigeria vs Jamaica (Lương Sơn) BLV PHI HỔ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/682_165018846810.png",01:30 WIB 31/05 Nigeria vs Jamaica (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4583_1gqk9kddch1y.png",23:00 WIB 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/682_165018846810.png",01:30 WIB 31/05 Nigeria vs Jamaica (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2241_20130917084528.jpg",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2241_20130917084528.jpg",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2241_20130917084528.jpg",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2241_20130917084528.jpg",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1656_1gtzd4kmqp30.png",01:00 WIB 31/05 Danubio FC vs Club Atletico Progreso (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1656_1gtzd4kmqp30.png",01:00 WIB 31/05 Danubio FC vs Club Atletico Progreso (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -353,162 +365,390 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780165076-0-0-3f91ce4312432af58219f4b4c0cbfe40
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780165076-0-0-59e2622cf55d2597e8912ce179357fc9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780165076-0-0-3e74885916f7cc63214706989a5a94e5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780165076-0-0-f1ccacc1fd025db6876acffb6a73a11f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1780165076-0-0-8ee4688f0cccfaf238effa8a1b31ac2e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780165076-0-0-fd717eae7e44800d359c9bcd9b9b882f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1780165076-0-0-2722434e68813c789580c40c6067f014
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780165076-0-0-93137f87a731b685ca187b7daa3cd56f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=acff7f9d8f7c7180ba21193713f85413&txTime=6a1b7024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=a07bf45d118dcdc235546dcfbb4c7861&txTime=6a1b7024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=acff7f9d8f7c7180ba21193713f85413&txTime=6a1b7024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a07bf45d118dcdc235546dcfbb4c7861&txTime=6a1b7024
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780165076-0-0-270daad5e216a9186c042779e75e9ba0
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780170476-0-0-96705e733551c67f7437d34d5670ccf6
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780165076-0-0-28027e2fc1b0bcca692af61df93b7d20
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780170476-0-0-243474d4a33d3a015372534f4941116a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780165076-0-0-12629ca44b25513446947572ec35618b
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780170476-0-0-b7f46c6837d45c60cf8e90ea882907f9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780165076-0-0-db70995ba38484624f52ed3a7b19065c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=fb0de53960ad9e635ebb7b4b95786786&txTime=6a1b7024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=cddfeb062e1d001a0291059e33fe2983&txTime=6a1b7024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=fb0de53960ad9e635ebb7b4b95786786&txTime=6a1b7024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=cddfeb062e1d001a0291059e33fe2983&txTime=6a1b7024
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780170476-0-0-3f419df71edee8e9aff71baed2374c95
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=b45ba713111d7082e302d9acf78fe261&txTime=6a1b7024
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=98c0fb8140514b527382c1908187887c&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=c0d1e99fd9dbdb91dc510da992f9fddf&txTime=6a1b7024
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=6e620e0205cc116a0a06e4f74eff2d53&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=b45ba713111d7082e302d9acf78fe261&txTime=6a1b7024
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=98c0fb8140514b527382c1908187887c&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=c0d1e99fd9dbdb91dc510da992f9fddf&txTime=6a1b7024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780165076-0-0-556fdffedb5d85edec31ce68487d2a6a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780165076-0-0-c972535f296d28e81cc481e5b53d08b3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780165076-0-0-3b7b78f0353f3e2e25934f6639c9330c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780165076-0-0-e0b0982e3756efd6c60293592938db60
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780165076-0-0-55fbaba29faaaa223e83ee64fad48ce8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780165076-0-0-802a161ea5f4238afaa34f740200c722
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780165076-0-0-0ce51d8c3475b178cb1898c18d83cda0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780165076-0-0-41d569059ceb4a49aa7ac4a15f2096d8
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=6e620e0205cc116a0a06e4f74eff2d53&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=d08b3ea85e409ab9fd8811871b3fcda0&txTime=6a1b7024
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=5ec2647c98922415feccb58930018a76&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=08818fafe8f5fe930007152b7890c248&txTime=6a1b7024
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=fb0676ab710b25f2fd151b5b1bd3e413&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=d08b3ea85e409ab9fd8811871b3fcda0&txTime=6a1b7024
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=5ec2647c98922415feccb58930018a76&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=08818fafe8f5fe930007152b7890c248&txTime=6a1b7024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=fb0676ab710b25f2fd151b5b1bd3e413&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=6a1dff7d9d2ba83b5cf119ec9218eea8&txTime=6a1b7024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=88a83e326731ee5100e68fe4e63dd427&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=3a0800ba3f6ab8ad44e33c41df806abd&txTime=6a1b7024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=f630f84f22f8a2724309cc367aa3be78&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=6a1dff7d9d2ba83b5cf119ec9218eea8&txTime=6a1b7024
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=88a83e326731ee5100e68fe4e63dd427&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=3a0800ba3f6ab8ad44e33c41df806abd&txTime=6a1b7024
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f630f84f22f8a2724309cc367aa3be78&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=f8a864c03de9f069a13c10f28a0c8312&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=cc3e08b14c44bf6eaa9ba182a607b471&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=f8a864c03de9f069a13c10f28a0c8312&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=cc3e08b14c44bf6eaa9ba182a607b471&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=85f8a159209121aa0327b717b962face&txTime=6a1b7024
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=85b61f181c4b0e9969e6cfce4193a871&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=b766ae2a016003eeff828448da7b046f&txTime=6a1b7024
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=c3d0b2cf322576ac6cf62eb8d7e9bdcf&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=85f8a159209121aa0327b717b962face&txTime=6a1b7024
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=85b61f181c4b0e9969e6cfce4193a871&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b766ae2a016003eeff828448da7b046f&txTime=6a1b7024
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=c3d0b2cf322576ac6cf62eb8d7e9bdcf&txTime=6a1b853c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780165076-0-0-c47ee1ae81536174a5b2e4aaa58b21cb
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780170476-0-0-93ae715f2bf1da8ced8b8a7b1f11a813
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780165076-0-0-0c578663abd543b70ab53847dc3562cf
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780170476-0-0-5c3a77793cc87e35e7422aa738166a5c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780165076-0-0-2df1af6a90f51f376c3e766b26b67fca
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780170476-0-0-ce63ed2cfe5acc046e5d94732b303acf
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780165076-0-0-bf11f4ba2fa520bc8c1821500db81c6b
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780170476-0-0-b3ccf8441aa41cfb32b841d85293b2d0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780170476-0-0-8d139e8a6d6174d25462ac850524723a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780170476-0-0-2e299822f00260f770129bbe93e66db8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780170476-0-0-4e5f7050b4f30a9b4b8f8e5974beac54
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780170476-0-0-8a02f92d617b078edc086485ec15781a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780170476-0-0-568257854e53493c14346e912052b663
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780170476-0-0-6171bae756f4a19de7bf202d57ee99e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780170476-0-0-c52a42f5289cd9fa8ce2cc9b93d7b66c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780170476-0-0-f194422c32635a7fad7118e10b22d443
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5b29e7b5cc0e000e1234ef33592b4042&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=dcf6db056a53677e8ff193d5bb938a73&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5b29e7b5cc0e000e1234ef33592b4042&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=dcf6db056a53677e8ff193d5bb938a73&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1780170476-0-0-35c8c7b4fc6bd9d56eff8d93ff26a228
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780170476-0-0-26bf383bdc59866dc08b47a5b920d7ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1780170476-0-0-0d488f7b950bd45bcf8d291f9b17809a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780170476-0-0-10ec2944fd9a8d1f21b6d67cf7240f54
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780170476-0-0-553c002413d846b9014940c78902b091
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780170476-0-0-06a7a7540540e33ecd2bdcd88e0a1dbb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780170476-0-0-2c8df05b142f33ba1ed4a9a0b838b143
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260527/4857cbeab1614c5a0064bc674a92dd33.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780170476-0-0-3d15d65d8149c03107240f781a54250d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV XO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780170476-0-0-0c49aa1a13dcfb86bb5e854e4a7d82ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV XO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780170476-0-0-506b7ea14b6c58bb93025b5a44f6fa98
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV XO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780170476-0-0-e7e2a096c3722ca2108cb2962b2a0159
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV XO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780170476-0-0-33db28a326f255fa7a8ddb824311e4e7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780170476-0-0-4209e16322fea7b814c6ee6a466561fc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780170476-0-0-311af53f850d8e98eaf52c1f89f71d8a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780170476-0-0-11653e4055e0b57c034dd97ab385a679
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780170476-0-0-0a261e5a2e36d96ce7fb8282ed24371f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV LONG] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=362797b9116fd0d278c6e9a7b6ab58e5&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV LONG] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=d74f063f2aafdb37070d77767a1342a1&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV LONG] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=362797b9116fd0d278c6e9a7b6ab58e5&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV LONG] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=d74f063f2aafdb37070d77767a1342a1&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV MIXI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780170476-0-0-91e69fe36accf152982a13c1e39d20fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV MIXI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780170476-0-0-9d1c111aeb85ebec17265a41a472fd0f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV MIXI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780170476-0-0-9564181faee06be7c295be5f7e3c065d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV MIXI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780170476-0-0-c5f94108c8d095f54a80455c4b66a85a
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/2fb987ac38f1aea4809b78b627250b3e.png",00:00 WIB 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780165076-0-0-588759abe6c076cbfa15d5bc0db88bee
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780170476-0-0-99bea0ac6298f0d63821e7508bd3239c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/2fb987ac38f1aea4809b78b627250b3e.png",00:00 WIB 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780165076-0-0-203b43e10ac309975b9dae7b5f28040d
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780170476-0-0-145b70d7ac4f44b61d63b334288ecf87
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/2fb987ac38f1aea4809b78b627250b3e.png",00:00 WIB 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780165076-0-0-e7ee8f2990b9854100b69ab05f0cd95b
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780170476-0-0-5a175f8ea3c59d4bbf074facd0dc0de4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260529/2fb987ac38f1aea4809b78b627250b3e.png",00:00 WIB 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780165076-0-0-35d6520b97fe664e0ab19906186acbf2
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780170476-0-0-1341a64068529fa1cbb5fb3f833e178a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/935e82e85e70b1beec68788aac1ce347.png",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano [NGƯỜI CÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780170476-0-0-cf4c990f4933d8a3ff9fedc38a38d9cf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/935e82e85e70b1beec68788aac1ce347.png",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano [NGƯỜI CÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780170476-0-0-2405059916d460c46a9a848a627a4e63
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/935e82e85e70b1beec68788aac1ce347.png",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano [NGƯỜI CÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780170476-0-0-a7b76728a6e4f69117f18a0082b607ac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/935e82e85e70b1beec68788aac1ce347.png",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano [NGƯỜI CÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780170476-0-0-a4e7d26b3897afaa3adad23cc7fd0893
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/165b72bf9973f1d79c15164604e3ae69.png",01:00 WIB 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [BLV A WIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780170476-0-0-3a9c06917d44b312b9bf76a498cc8495
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/165b72bf9973f1d79c15164604e3ae69.png",01:00 WIB 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [BLV A WIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780170476-0-0-f945d18a84e822a12510cb162693f501
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/165b72bf9973f1d79c15164604e3ae69.png",01:00 WIB 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [BLV A WIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780170476-0-0-65b39e83c2d00e1c455ce456545c87ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/165b72bf9973f1d79c15164604e3ae69.png",01:00 WIB 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780170476-0-0-793974630cf5243a67577b54f462e507
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/a28029bfc0951a73a77c88daf8490d52.png",01:00 WIB 31/05 Colegiales vs Agropecuario de Carlos Casares [QUỐC KHÁNH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=04de51d788fa120f8c1753f10c1b262b&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/a28029bfc0951a73a77c88daf8490d52.png",01:00 WIB 31/05 Colegiales vs Agropecuario de Carlos Casares [QUỐC KHÁNH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=cec62d196dac30721494c44503531bbb&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/a28029bfc0951a73a77c88daf8490d52.png",01:00 WIB 31/05 Colegiales vs Agropecuario de Carlos Casares [QUỐC KHÁNH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=04de51d788fa120f8c1753f10c1b262b&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/a28029bfc0951a73a77c88daf8490d52.png",01:00 WIB 31/05 Colegiales vs Agropecuario de Carlos Casares [QUỐC KHÁNH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=cec62d196dac30721494c44503531bbb&txTime=6a1b853c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b61d58696aef4def92924000c5d0a2a4.png",02:00 WIB 31/05 Deportes La Serena vs Colo Colo [HẢI THANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780170476-0-0-bf28a656cfe75239dd195383d6bad6c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b61d58696aef4def92924000c5d0a2a4.png",02:00 WIB 31/05 Deportes La Serena vs Colo Colo [HẢI THANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780170476-0-0-07ad1f581cbd099d472d0815af3bece9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b61d58696aef4def92924000c5d0a2a4.png",02:00 WIB 31/05 Deportes La Serena vs Colo Colo [HẢI THANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780170476-0-0-7798e81840d3ce2ca03639aa190b33a9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b61d58696aef4def92924000c5d0a2a4.png",02:00 WIB 31/05 Deportes La Serena vs Colo Colo [HẢI THANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780170476-0-0-dbb9da7468466d793baeb32b95123158
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b61d58696aef4def92924000c5d0a2a4.png",02:00 WIB 31/05 Deportes La Serena vs Colo Colo [BLV VOI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1780170476-0-0-d77d1513a939aae8adad6cc5afe8718b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b61d58696aef4def92924000c5d0a2a4.png",02:00 WIB 31/05 Deportes La Serena vs Colo Colo [BLV VOI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780170476-0-0-79a5ffeb3f70534d72f85b4cab853cd7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b61d58696aef4def92924000c5d0a2a4.png",02:00 WIB 31/05 Deportes La Serena vs Colo Colo [BLV VOI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780170476-0-0-4835e2862147ce503ae89f16b951a273
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b61d58696aef4def92924000c5d0a2a4.png",02:00 WIB 31/05 Deportes La Serena vs Colo Colo [BLV VOI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780170476-0-0-289bd237f12856fbacf46410fa37be71
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780170836-0-0-c5a51717e6b130fba27315b6f9590a36
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780170836-0-0-9d8c91871ae76cba5cdcd29cfa73b87b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780170836-0-0-65a85a7c9f94e15db87836711a2fa401
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780170836-0-0-ba2fe1a59b964d0552283ae1044cbf3e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780170836-0-0-98bf4d9b35402e4fa6253fc7a68dc213
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780170836-0-0-93f0fde29787ecf2f0d8964ea57d8cd2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780170836-0-0-c21f261ba8e03eae1bb6e78686fb6cee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/92b78a6bbe7e709877318d3d37d3a9ad.png",02:00 WIB 31/05 Granada CF vs Sporting Gijon [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780170836-0-0-b83300de3da2febfd0d9374f5745d4cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780170836-0-0-bd07803606881877a4790f5600a6284e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780170836-0-0-40d922727d8e569aaf505c594442ac6a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780170836-0-0-57765db538d91fed29a7b944e6d5d685
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780170836-0-0-2f8ec96a194abf3cd02f8a25be60d74b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1780170836-0-0-a3baa534371afa60d3057c5c0468b698
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780170836-0-0-ea2414f913fbeef09e46aef2105a23ab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780170836-0-0-b4a8fcb6985f918ca75da446a86d6c49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780170836-0-0-0c353b3f78376e7ee815228ffbe00de5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/165b72bf9973f1d79c15164604e3ae69.png",01:00 WIB 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [PINKMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=4163990fbbe9f1a3ac8fe8b9aeaa7eca&txTime=6a1b86a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/165b72bf9973f1d79c15164604e3ae69.png",01:00 WIB 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [PINKMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=31b5cc4d661e810c8df39ae81c6d2aea&txTime=6a1b86a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/165b72bf9973f1d79c15164604e3ae69.png",01:00 WIB 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [PINKMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=4163990fbbe9f1a3ac8fe8b9aeaa7eca&txTime=6a1b86a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/165b72bf9973f1d79c15164604e3ae69.png",01:00 WIB 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [PINKMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=31b5cc4d661e810c8df39ae81c6d2aea&txTime=6a1b86a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780171196-0-0-692860ecfab0fc5a0eee85f2cb46aa05
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780171196-0-0-0eed88e43c64c030676fcba30e1de069
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780171196-0-0-2f0a385e754e39a12cbda18c67485378
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780171196-0-0-dd0de777199a000653976fb07c421bfa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780171196-0-0-3634798af5b6b9ff6979081812ecbebc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780171196-0-0-00138c4c723cda22a146e880eeb0173f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780171196-0-0-3bad7b8292dbe07f17fc75ab90924e0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/b4c165819098599a73614adeb518d4a1.png",02:00 WIB 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780171196-0-0-226a410758cbd2883d62f03c0b85f27c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780171196-0-0-07fbdfe7c5718dd7adc54da6ff8de39e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780171196-0-0-9495cb5a4d5d3ecaf49ddeffbeb9215c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780171196-0-0-d96b03e306d36fd0f7ab362c5f49273b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/c5005ca2e9f134d0596ad8eee6c1ee20.png",02:00 WIB 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780171196-0-0-3d4a86d7f5f4844fabaa844568d62f45
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/935e82e85e70b1beec68788aac1ce347.png",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano [ĐỖ TÚ TÀI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780171196-0-0-6e34d31ba1c12c7dd95e45b2b4120f08
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/935e82e85e70b1beec68788aac1ce347.png",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano [ĐỖ TÚ TÀI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780171196-0-0-8cd22ad397df7af93c8f10faa18a8e7d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/935e82e85e70b1beec68788aac1ce347.png",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano [ĐỖ TÚ TÀI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780171196-0-0-38d724d74055de64d5221e46638969f0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/935e82e85e70b1beec68788aac1ce347.png",01:30 WIB 31/05 Gimnasia Jujuy vs Belgrano [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780171196-0-0-cf33b5e6522efc8787c5e9e021f43c1f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/a28029bfc0951a73a77c88daf8490d52.png",01:00 WIB 31/05 Colegiales vs Agropecuario de Carlos Casares [CHANH MUỐI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780171196-0-0-3a204fed92a684c3f31dc00a845abfaa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/a28029bfc0951a73a77c88daf8490d52.png",01:00 WIB 31/05 Colegiales vs Agropecuario de Carlos Casares [CHANH MUỐI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780171196-0-0-719d8de3a281e8f7b5b6508e19da522c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/a28029bfc0951a73a77c88daf8490d52.png",01:00 WIB 31/05 Colegiales vs Agropecuario de Carlos Casares [CHANH MUỐI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780171196-0-0-95b004f8f7c2c4216aa2fd70f4e3944a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260528/a28029bfc0951a73a77c88daf8490d52.png",01:00 WIB 31/05 Colegiales vs Agropecuario de Carlos Casares [CHANH MUỐI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780171196-0-0-b1e9a265f378a474e363342e26a59f54
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",23:00 WIB 30/05 Paris Saint Germain vs Arsenal (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -557,6 +797,30 @@ https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg",01:00 WIB 31/05 Hahha (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg",01:00 WIB 31/05 Hahha (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg",01:00 WIB 31/05 Hahha (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",23:00 WIB 30/05 Paris Saint-Germain vs Arsenal
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/97312754.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/d22566a52f9dc6784a88e3f1f1685231.png!w80",01:00 WIB 31/05 Colegiales vs Agropecuario
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/87547578.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80",02:00 WIB 31/05 Flamengo vs Coritiba
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/68848594.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80",02:00 WIB 31/05 Athletico-PR vs Mirassol
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/33982309.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/f8ac17559f204d139563929dc7eeedeb.png!w80",02:00 WIB 31/05 Granada CF vs Sporting Gijon
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/43612277.m3u8
