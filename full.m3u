@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",23:00 | Paris Saint Germain vs Arsenal
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",23:00 | Paris Saint Germain vs Arsenal
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/mcpMspef1hwHwi9qrfp4YQ_96x96.png",23:00 | Paris Saint Germain vs Arsenal
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0x_r4HXgpRt8N2PALEejkBLGLqf4VYCZmhg&s",07:00 | Oklahoma City Thunder vs San Antonio Spurs
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
@@ -20,8 +11,17 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/12/Rc_deportivo_de_la_coruna.png",23:30 | Deportivo La Coruna vs Las Palmas
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",06:30 | Ecuador vs Saudi Arabia
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1728.png",08:00 | South Korea vs Trinidad and Tobago
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",09:00 | Mexico vs Australia
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",18:00 | Công An Nhân Dân vs Binh Duong
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/19157.png",16:00 | Vietnam U19 vs Timor-Leste U19
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
@@ -35,7 +35,7 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/85.png",Paris Saint Germain vs Arsenal
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/85.png",Paris Saint Germain vs Arsenal
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/16400.png",Công An Nhân Dân vs Binh Duong
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2384.png",USA vs Senegal
@@ -44,65 +44,65 @@ https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1536.png",Tajikistan vs Palestine
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LEO m3u
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano (Lương Sơn) BLV LÝ ỨNG m3u
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LEO flv
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano (Lương Sơn) BLV LÝ ỨNG flv
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 30/05 MB Rouissat vs USM Alger (Lương Sơn) BLV FERNANDO m3u
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano (Lương Sơn) BLV QUAN VŨ m3u
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 30/05 MB Rouissat vs USM Alger (Lương Sơn) BLV FERNANDO flv
-https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano (Lương Sơn) BLV QUAN VŨ flv
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LƯU BỊ m3u
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LƯU BỊ flv
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LỮ BỐ m3u
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV LỮ BỐ flv
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KAKA m3u
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KAKA flv
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV TÔN LẬP m3u
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV TÔN LẬP flv
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KEVILL m3u
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain (PSG) vs Arsenal (Lương Sơn) BLV KEVILL flv
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Najma Manama vs Manama Club (Lương Sơn) BLV MÃ SIÊU m3u
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Najma Manama vs Manama Club (Lương Sơn) BLV MÃ SIÊU flv
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Nigeria vs Jamaica (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Nigeria vs Jamaica (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV HÀN TÍN m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Nigeria vs Jamaica (Lương Sơn) BLV PHI HỔ m3u
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Nigeria vs Jamaica (Lương Sơn) BLV PHI HỔ flv
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Danubio FC vs Club Atletico Progreso (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Danubio FC vs Club Atletico Progreso (Lương Sơn) BLV TRIỆU TỬ LONG flv
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon (Lương Sơn) BLV LEO flv
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo vs Coritiba PR (Lương Sơn) BLV DƯƠNG CHÍ m3u
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo vs Coritiba PR (Lương Sơn) BLV DƯƠNG CHÍ flv
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Atletico Paranaense vs Mirassol (Lương Sơn) BLV FERNANDO m3u
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Atletico Paranaense vs Mirassol (Lương Sơn) BLV FERNANDO flv
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Deportes La Serena vs Colo Colo (Lương Sơn) BLV HÀN TÍN m3u
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Al-Ittihad(BHR) vs Al-Budaiya (Lương Sơn) BLV HÀN TÍN flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Deportes La Serena vs Colo Colo (Lương Sơn) BLV HÀN TÍN flv
 https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Union Touarga Sport Rabat vs FAR Forces Armee Royales (Lương Sơn) BLV VƯƠNG LUÂN m3u
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Union Touarga Sport Rabat vs FAR Forces Armee Royales (Lương Sơn) BLV VƯƠNG LUÂN flv
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -167,6 +167,24 @@ https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Atletico Paranaense vs Mirassol (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Atletico Paranaense vs Mirassol (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo vs Coritiba (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo vs Coritiba (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
 
@@ -200,198 +218,300 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780163996-0-0-94a5db20edf0f90c3e2de44f97ef3bed
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [LOKA] (Socolive) flv
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780171916-0-0-488b2a59f4bc5c937fb501e631b7f41e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780163996-0-0-483d025b25aa556be4ebd09fbdfaf9f7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [LOKA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780171916-0-0-5601c20e193badc5a672dfb662eb9be2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780163996-0-0-ab8754c2e80aebeaff9dc1c5f7215e94
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [LOKA] (Socolive) m3u8
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780171916-0-0-63fd8c5d6b9b7099c0e1d76690a8032e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780163996-0-0-fc7d5f7fd2fd6c29ce9791b65e977da4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [LOKA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780171916-0-0-ceece951511842c3845569032b8bb48c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5e41d9ec636090fbdf783ec198ad61a7&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [A PÁO] (Socolive) flv
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1780171916-0-0-7e5675b6e154ebd29170e1125755abd3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=5424001e5df85cfa3bf2ace503b793bd&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [A PÁO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780171916-0-0-9815b5530854f89a89addc23aa36ef47
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5e41d9ec636090fbdf783ec198ad61a7&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780171916-0-0-b097a99852939c57b3d0d4bfee643251
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5424001e5df85cfa3bf2ace503b793bd&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780171916-0-0-29d684c8c65f3857110765888d8bb1b8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780163996-0-0-6674802c327c497a21856f17687fe063
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV PEWPEW] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780171916-0-0-614b0873898254627328625fff532aa2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780163996-0-0-aee9b0fbdacbf9d5df31d3c4877edf15
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780171916-0-0-e15c685b9ac437a809e7db9fd39856a9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780163996-0-0-50356c14b7d5cceb3f154ad67d6b3d83
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780171916-0-0-ff44a7dd25312728b8656f52faeaa953
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780163996-0-0-29c87df73132ad8f7163559a0d1f300f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780171916-0-0-f23f9a6c7b5a426b6c7843cc0b031ee7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1780163996-0-0-c90e5d77b0a29842fe31ef108e68decd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV ROBBEN] (Socolive) flv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780171916-0-0-36391352faf5e77fb9e4008a62ba962a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780163996-0-0-95d4d33d69788e350e9fce832a788fbe
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV ROBBEN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780171916-0-0-6dfc47c58601ebf30c6e7796fe7bf94b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1780163996-0-0-92a76c513c0695d885aa64b8afa5593e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV ROBBEN] (Socolive) m3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780171916-0-0-a551494ff5003aa3a0efff59784e46ca
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780163996-0-0-c662f00bcb640f3a0d608bdeb537e4ac
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV ROBBEN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780171916-0-0-4d9c3fff376fddd283a06a6c7c86e4fe
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780163996-0-0-3ca38dc8c05fecf07dc3f6d91b074a15
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [PINKMAN] (Socolive) flv
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=5b18c8736933b0381fc91df6a3eed67c&txTime=6a1b8adc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780163996-0-0-6a83ce79b37516925920cd1d04bc47fb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [PINKMAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=60a5892692a613a80ca49aed22167fbf&txTime=6a1b8adc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780163996-0-0-558adb92e5303e2cb63ae66618f5e141
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [PINKMAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=5b18c8736933b0381fc91df6a3eed67c&txTime=6a1b8adc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780163996-0-0-6dfd52a8c5696ac3aabdc078b74d5591
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [PINKMAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=60a5892692a613a80ca49aed22167fbf&txTime=6a1b8adc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780163996-0-0-19a4baa03be53d5e1306bf1204456541
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) flv
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780172276-0-0-3dd213cfeb76959c1f91ea26531c7b7a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780163996-0-0-aa35ab67cee075aaa2933ef294480fe9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780172276-0-0-2011c0f38b2b64468200f197b03435cd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780163996-0-0-492a1590c7e17e393fb69ae9a52a8f03
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) m3u8
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780172276-0-0-57bc73fb691f9646e37233d72e9baaa9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780163996-0-0-8c123dc1d5c7ddbc47c84f48387235d8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Flamengo - RJ vs Coritiba SAF - PR [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780172276-0-0-0313bd8e863519f7c2b1354e85da0304
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) flv
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=9b945b087c154ed9ab483411ab863798&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) flv
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1780172276-0-0-dd849cb175009e301cc33ee050ba153b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=e4870e23a56ac726f1a56590b63496e0&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780172276-0-0-bbe9666f029686ab3d62f490f30248e1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=9b945b087c154ed9ab483411ab863798&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780172276-0-0-c65fd5bb04789ce3a1bbb91fade6bda6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=e4870e23a56ac726f1a56590b63496e0&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV VITAMIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780172276-0-0-d62476e58112e1fadcfb29339e247ea3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=af56d867eae7944e9808324e6febdf9d&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) flv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780172276-0-0-2073a3b3733bf491b495790cf15e49d1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=4ec8ce043586552eb64e264dd7617167&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780172276-0-0-e42eb00d3348be18e213073f8efdf9eb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=af56d867eae7944e9808324e6febdf9d&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780172276-0-0-f51e78b85b49b90be3be912be6a3d8ce
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4ec8ce043586552eb64e264dd7617167&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780172276-0-0-0196751e3328df50fbd3dc72d206644f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780163996-0-0-fa7a40f654a2e88c09af2916f0744b46
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano [ĐỖ TÚ TÀI] (Socolive) flv
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780172276-0-0-fc4b3ac04fe6e58ed56baa15c06d82fa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780163996-0-0-e677976822023cc8f02525026d8e5b7f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano [ĐỖ TÚ TÀI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780172276-0-0-08e58c23f1443bae63368e08241d43b4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780163996-0-0-159615626c8db29aa6fea03385acea6c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780172276-0-0-903fe22ebf9b2f971dab186ab4913c25
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780163996-0-0-de0a9776aedd4fe92c60523c16c3472b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780172276-0-0-c4f97db5c4c631479c32a35ad77a8a01
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) flv
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=c3c7cda7ab762e38d8c28dfdd1cd9a07&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Colegiales vs Agropecuario de Carlos Casares [CHANH MUỐI] (Socolive) flv
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780172276-0-0-025b4d85badc7f0545ff09558ffe3f4a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=2360b45cb7e1d062355c2284f56b6255&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Colegiales vs Agropecuario de Carlos Casares [CHANH MUỐI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780172276-0-0-9ab78f9018a22533d71d3b4fdd73f87e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c3c7cda7ab762e38d8c28dfdd1cd9a07&txTime=6a1b6bec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Colegiales vs Agropecuario de Carlos Casares [CHANH MUỐI] (Socolive) m3u8
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780172276-0-0-4e35ea3f3333597c2b59d0fdcd015971
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV TAP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=2360b45cb7e1d062355c2284f56b6255&txTime=6a1b6bec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) flv
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=9a77e477043430e8a59ad306f4da4cb1&txTime=6a1b6bec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=5e1fda1f1793f9789273019e423c4008&txTime=6a1b6bec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=9a77e477043430e8a59ad306f4da4cb1&txTime=6a1b6bec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=5e1fda1f1793f9789273019e423c4008&txTime=6a1b6bec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) flv
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=5242f5c0a0ca6366f9909ecf9cd3ee67&txTime=6a1b6bec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=66fd21351dd64cd3d762b42b7c0de332&txTime=6a1b6bec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=5242f5c0a0ca6366f9909ecf9cd3ee67&txTime=6a1b6bec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=66fd21351dd64cd3d762b42b7c0de332&txTime=6a1b6bec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780163996-0-0-762478147de283ee53f8cd5a42730a01
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780163996-0-0-75518341ca9b0794880da31db778ceb7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780163996-0-0-348ad8d919f2dbeee4fd1f848109edd8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 31/05 Toronto Tempo W vs Seattle Storm W [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780163996-0-0-d74aca90bf434d302c4ff5be94613051
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Colegiales vs Agropecuario de Carlos Casares [CHANH MUỐI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780172276-0-0-a7a7b783e9d704c551ac946924072231
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780164716-0-0-8c05a7a0e19140da78d12c0e6615a5c0
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780172276-0-0-2415f9ee8d7bdf3090bf1ee18f6ee8b5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780164716-0-0-e7830ba247f77017886e10513a1c4015
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780172276-0-0-78408817e7b829ae42e6c0c529be0899
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780164716-0-0-cb0bb8d97ee749c36c3efd3f81337a00
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780172276-0-0-f129982206484ac860b2a45ca041c0ee
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780164716-0-0-b89cf3287146ec4bae7f2748076a2850
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780172276-0-0-7f8988913e204cda942fb2b67a433273
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780172636-0-0-894495ba34fe5066a5c4c287266108cc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780172636-0-0-ed4b5cdfbf88a8740dfe8d23ddbe2414
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780172636-0-0-0e4382ee5a264bb8ce94cf6ed4efc160
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780172636-0-0-60c2626a3dbc651877ffb51117a4f9c8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV XO] (Socolive) flv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780172636-0-0-f7635c40fb3fb385c86248f7dc1df642
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV XO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780172636-0-0-9623f67d07687aba718fe084b7096166
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780172636-0-0-7cdd7d36470b9490d80ab4249f409eec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint Germain vs Arsenal (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780172636-0-0-a04d6ca4f85bcd15bb4d73df2754d1a1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) flv
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=c2cc785b74be0018a887ae2768a5f594&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=8d400098a2a945f6891dc6ba99b179b5&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=c2cc785b74be0018a887ae2768a5f594&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [BLV MESSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=8d400098a2a945f6891dc6ba99b179b5&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=3dbee0e262e98b474b09c899257a738f&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=8cee3261c4de4862972822eefdd9708f&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=3dbee0e262e98b474b09c899257a738f&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/05 Paris Saint Germain vs Arsenal [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=8cee3261c4de4862972822eefdd9708f&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV MIXI] (Socolive) flv
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1780172636-0-0-091afb0b3d111350c276fc7d24a4267e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV MIXI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780172636-0-0-e4a8fee9b215b0eab5d1d3990ffa8151
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV MIXI] (Socolive) m3u8
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780172636-0-0-93cd0d5a8aef98fa70383c8ea0065f8b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Athletico Paranaense - PR vs Mirassol - SP [BLV MIXI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780172636-0-0-643989427dc3ba9e950a3f94250eedb0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [A BỆU] (Socolive) flv
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780172636-0-0-3d1de71ab9734f75666b610a23b77d4a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [A BỆU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780172636-0-0-858f327c59deff4c5571fe956f8db4f9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780172636-0-0-0d356aace4baae0b3aaf51cfd6ee281b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780172636-0-0-9e5d97f023f7401a71fe2c845d657f68
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV LONG] (Socolive) flv
+https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=bf1a5afcbbbbdb37dd286c5aede9a41e&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV LONG] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=899925afb1c00c133992fb4f745f9e82&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV LONG] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=bf1a5afcbbbbdb37dd286c5aede9a41e&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Granada CF vs Sporting Gijon [BLV LONG] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=899925afb1c00c133992fb4f745f9e82&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano [NGƯỜI CÁ] (Socolive) flv
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780172636-0-0-43415d1608f8cd3608afd4d006386c0a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano [NGƯỜI CÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780172636-0-0-e870233fa03d93e3b85ae3fe123fca0b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano [NGƯỜI CÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780172636-0-0-1503f462e34487cf2f4822ac53dd9a4a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 31/05 Gimnasia Jujuy vs Belgrano [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780172636-0-0-4814a0c177af69dd31e5a25c8f719dd5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Deportes La Serena vs Colo Colo [BLV VOI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1780172636-0-0-488ccff4c559355ccc9064288a7222fb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Deportes La Serena vs Colo Colo [BLV VOI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780172636-0-0-e3b6f2c5b7f34533215eb68405bfd9b4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Deportes La Serena vs Colo Colo [BLV VOI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780172636-0-0-a2b7a55e305e0d88c2b76356679970b0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Deportes La Serena vs Colo Colo [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780172636-0-0-c78e18f67cf5cf8e60d04d6f52508d08
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Deportes La Serena vs Colo Colo [HẢI THANH] (Socolive) flv
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780172636-0-0-188a54551bf5bf9aaf82a7068929d3d8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Deportes La Serena vs Colo Colo [HẢI THANH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780172636-0-0-e0aa38c790ccac2b55c202bdbecbc8cd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Deportes La Serena vs Colo Colo [HẢI THANH] (Socolive) m3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780172636-0-0-35bf2ffbd9c1e3ac9855f00c262c22e4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 31/05 Deportes La Serena vs Colo Colo [HẢI THANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780172636-0-0-31d787f88b25cd41e015a76ad38001a5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [BLV A WIN] (Socolive) flv
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780172636-0-0-b2cfd6b374d0843f45b551cee79abb67
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [BLV A WIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780172636-0-0-527b3ba14a9bec4823b1dad1a6fac672
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [BLV A WIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780172636-0-0-1ae6fb0ddb4d860ea9d2d25cece2a63a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Estudiantes de Caseros vs Godoy Cruz Antonio Tomba [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780172636-0-0-1bd50b013be253e8731bd3a603df4885
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Colegiales vs Agropecuario de Carlos Casares [QUỐC KHÁNH] (Socolive) flv
+https://pull.niur.live/live/stream-602153_lsd.flv?txSecret=a18459b275cbbd636dd3f9ac4a8fecd4&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Colegiales vs Agropecuario de Carlos Casares [QUỐC KHÁNH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=04851b7097a9fc317d070cd90a7a85fb&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Colegiales vs Agropecuario de Carlos Casares [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=a18459b275cbbd636dd3f9ac4a8fecd4&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 31/05 Colegiales vs Agropecuario de Carlos Casares [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=04851b7097a9fc317d070cd90a7a85fb&txTime=6a1b8dac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 31/05 Hahha (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 31/05 Hahha (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/05 Paris Saint-Germain vs Arsenal
 https://live05.msdht.app/live/97312754.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 31/05 Colegiales vs Agropecuario
+https://live05.msdht.app/live/87547578.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 31/05 Flamengo vs Coritiba
+https://live05.msdht.app/live/68848594.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 31/05 Athletico-PR vs Mirassol
+https://live05.msdht.app/live/33982309.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 31/05 Granada CF vs Sporting Gijon
+https://live05.msdht.app/live/43612277.m3u8
 
