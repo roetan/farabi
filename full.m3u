@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0x_r4HXgpRt8N2PALEejkBLGLqf4VYCZmhg&s",07:00 | Oklahoma City Thunder vs San Antonio Spurs
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/4315.png",12:00 | Blaublitz Akita vs Consadole Sapporo
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
@@ -11,23 +8,26 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/12/Rc_deportivo_de_la_coruna.png",23:30 | Deportivo La Coruna vs Las Palmas
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",06:30 | Ecuador vs Saudi Arabia
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1728.png",08:00 | South Korea vs Trinidad and Tobago
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.png",09:00 | Mexico vs Australia
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",17:25 | Japan vs Iceland
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/3/38/Logo_CAHN_FC.svg/500px-Logo_CAHN_FC.svg.png",18:00 | Công An Nhân Dân vs Binh Duong
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d2/Logo_CLB_%C4%90ATH.png",18:00 | Thanh Hóa vs Phu Dong
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",01:45 | Germany vs Finland
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/19157.png",16:00 | Vietnam U19 vs Timor-Leste U19
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",13:00 | KFF Singapore Badminton Open 2026
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://www.tennisnerd.net/wp-content/uploads/2025/05/Marta-Kostyuk-1024x546.webp",16:00 | Marta Kostyuk vs Iga Świątek
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
@@ -44,41 +44,17 @@ https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1536.png",Tajikistan vs Palestine
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 31/05 Carolina Core vs New York Red Bulls B (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwe5WcCfRwzS21CSY/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h30 ngày 31/05 Portsmouth Bombers vs Point Michel FC (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwe5Q2WZkt7vTe7q6/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara (Lương Sơn) BLV YẾN THANH flv
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h35 ngày 31/05 Portland Hearts of Pine vs Spokane Velocity (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwd6CpxhJunDWcV6k/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h35 ngày 31/05 Las Vegas Lights vs FC Tulsa (Lương Sơn) BLV VÕ TÒNG m3u
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h05 ngày 31/05 Charleston Battery vs Detroit City (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvYqd9ARfTyfiUZUY/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Saint Louis City B vs North Texas SC (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwe5WcCfMZ2h4MN8k/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto AC Cordoba vs Lanus (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MwdayFforAs6zkwdW/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Botafogo PB vs Maringa FC (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwd5eJhf9hh9Wdf3A/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Athletic Club MG vs Fortaleza (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvVNfPVVJ5ZoFqop8/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 31/05 Universidad de Chile vs D. Concepcion (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvYquUM7HeJajspyi/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h30 ngày 31/05 Sport Boys vs Comerciantes Unidos (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvVczFgukPDnHa8gk/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h30 ngày 31/05 Caxias RS vs Ituano SP (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwd5eJhfLh6VumEoe/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h35 ngày 31/05 Washington Spirit (W) vs Seattle Reign (W) (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MwcqRvzvkYJvxGbpp/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h35 ngày 31/05 Las Vegas Lights vs FC Tulsa (Lương Sơn) BLV VÕ TÒNG flv
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -95,30 +71,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 31/05 South Korea vs Trinidad and Tobago (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 31/05 South Korea vs Trinidad and Tobago (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/max.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 31/05 South Korea vs Trinidad and Tobago (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 31/05 South Korea vs Trinidad and Tobago (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h25 ngày 31/05 Japan vs Iceland (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 
@@ -130,6 +82,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h25 ngày 31/05 Japan vs Iceland (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Công An Hà Nội vs Becamex Hồ Chí Minh (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Công An Hà Nội vs Becamex Hồ Chí Minh (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/max.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Công An Hà Nội vs Becamex Hồ Chí Minh (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Công An Hà Nội vs Becamex Hồ Chí Minh (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Hồng Lĩnh Hà Tĩnh vs Da Nang (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
@@ -143,6 +107,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Hồng Lĩnh Hà Tĩnh vs Da Nang (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Nam Dinh vs Song Lam Nghe An (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Nam Dinh vs Song Lam Nghe An (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/anhhot.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Nam Dinh vs Song Lam Nghe An (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Nam Dinh vs Song Lam Nghe An (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/anhhothd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Thanh Hóa vs Ninh Bình FC (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Thanh Hóa vs Ninh Bình FC (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Thanh Hóa vs Ninh Bình FC (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 31/05 Thanh Hóa vs Ninh Bình FC (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -152,168 +140,165 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Santos Fc - SP vs Vitória - BA [BLV YONE] (Socolive) flv
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780184516-0-0-057fa4ab87239032e6312adad5456468
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [CHAN SENA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780203956-0-0-be0f2b04f41d1e8577296bc171975af5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Santos Fc - SP vs Vitória - BA [BLV YONE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780184516-0-0-f2936939f5ee6cd1142b0f16ec0e7344
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780203956-0-0-b0f66f200563613cdc56d2483dd43277
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Santos Fc - SP vs Vitória - BA [BLV YONE] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780184516-0-0-29a7141d9ddda1fbb872a6f96a33f623
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780203956-0-0-95217f587ecf4ea01fc1e27863753b60
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Santos Fc - SP vs Vitória - BA [BLV YONE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780184516-0-0-bc6821ceef78d70fff4a5a622311dfde
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780203956-0-0-ba09189dd338b0cf9a0b03679a7c756d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Santos Fc - SP vs Vitória - BA [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780184516-0-0-177e34b5f8e6e4854010a0b1c4cd73c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Las Vegas Lights vs FC Tulsa [BLV A TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780203956-0-0-b7626697d84b06655ef5f1655da55053
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Santos Fc - SP vs Vitória - BA [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780184516-0-0-04446f8c0568a4ec3b4f23ae024cc142
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Las Vegas Lights vs FC Tulsa [BLV A TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780203956-0-0-0ce46273acb154365779b31baa5f86a0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Santos Fc - SP vs Vitória - BA [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780184516-0-0-9d8275168214c0766d306847bbcbd322
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Las Vegas Lights vs FC Tulsa [BLV A TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780203956-0-0-877f3c0560998dbb75f7e76d0a283331
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Santos Fc - SP vs Vitória - BA [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780184516-0-0-79751c0755f14b7dfcd70ed5ffa1ab03
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Las Vegas Lights vs FC Tulsa [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780203956-0-0-96d17444952392af2b8b3ac7bdac53fb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Hartford Athletic vs New Mexico United [BLV A TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780184876-0-0-af08781245f52776e7148a3e1f18189b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [TƯ MÃ Ý] (Socolive) flv
+https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1780203956-0-0-888ee8df22b9b589c9a82d876014fe39
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Hartford Athletic vs New Mexico United [BLV A TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780184876-0-0-28726de1283074d13f278284e9322598
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [TƯ MÃ Ý] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780203956-0-0-eb1005357846f292527353b6039b4a19
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Hartford Athletic vs New Mexico United [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780184876-0-0-22288596f54679f2f35fde092f75e335
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [TƯ MÃ Ý] (Socolive) m3u8
+https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780203956-0-0-06f46bbc468057f1bfc989cc57990f06
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Hartford Athletic vs New Mexico United [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780184876-0-0-fbe1e58c6de52192d09af6c2f01d0a6b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [TƯ MÃ Ý] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780203956-0-0-7a7a231d3bf24399874164d3931bc226
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 31/05 Universidad de Chile vs D. Concepcion [BLV LONG] (Socolive) flv
-https://pull.niur.live/live/stream-9912050_lsd.flv?txSecret=8b5c838c8865eb576db59bbf373d6455&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) flv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780204316-0-0-75f0825bcbc0d6253b836f3fa71f4d96
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 31/05 Universidad de Chile vs D. Concepcion [BLV LONG] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912050_lhd.flv?txSecret=fc54ba534832e191fa1e24507dc621a9&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780204316-0-0-5536070285094d19f0e9351f81921c71
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 31/05 Universidad de Chile vs D. Concepcion [BLV LONG] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=8b5c838c8865eb576db59bbf373d6455&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780204316-0-0-98db01d6a77eeb2c03cc9aa1f3129a36
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 31/05 Universidad de Chile vs D. Concepcion [BLV LONG] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=fc54ba534832e191fa1e24507dc621a9&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780204316-0-0-dd4e0d9f366a6a2e5158b7cc2f2cd4b1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [BLV LUCAS] (Socolive) flv
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780184876-0-0-cdcf4a2450bca6c332f13ad2bdd7e868
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780204316-0-0-e4fdf0b708fc05c6bdab3aab58bb4071
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [BLV LUCAS] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780184876-0-0-dc3b524a6c7bdfe2d67339c665052bfb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780204316-0-0-5dde7f2dd473b786c33f50946c6662fc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780184876-0-0-c936833d2170f6c049cfde3b489fe8f7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780204316-0-0-a857e8da23321f6341b3ddcd442278cd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780184876-0-0-22c3b67e8c3609f583817cccba585494
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 31/05 Franklin Bulls vs Auckland Tuatara [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780204316-0-0-4941456d19e09a4bc894b5f62dedc3e7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia [BLV BÉO] (Socolive) flv
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=70ee099cb86f0e33e397148f9f6850c3&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV LION] (Socolive) flv
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780204316-0-0-f9bd018762bde9536a340990388508ca
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia [BLV BÉO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=8e01efa6bd725c98d5869b98696962a7&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV LION] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780204316-0-0-68a481a95d436f60360a1a998e1c1544
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia [BLV BÉO] (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=70ee099cb86f0e33e397148f9f6850c3&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV LION] (Socolive) m3u8
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780204316-0-0-dd69d1b5ded46bf452a5f20e4c81b97b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 31/05 Ecuador vs Saudi Arabia [BLV BÉO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=8e01efa6bd725c98d5869b98696962a7&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV LION] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780204316-0-0-a89762cdafe2fe2018d3c8db814a7153
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 31/05 Charleston Battery vs Detroit City [XUÂN SON] (Socolive) flv
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=53d6245426c7e56ac29016a1d020880f&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Las Vegas Lights vs FC Tulsa [BLV RYO] (Socolive) flv
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1780204316-0-0-eb1de31b665a3ecb771dc89186d237a8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 31/05 Charleston Battery vs Detroit City [XUÂN SON] (Socolive) hdFlv
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=fb50910267269b6e1fbafed0279dd8ff&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Las Vegas Lights vs FC Tulsa [BLV RYO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780204316-0-0-74869a2fa4a8cfe77de49fbdfab53e57
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 31/05 Charleston Battery vs Detroit City [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=53d6245426c7e56ac29016a1d020880f&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Las Vegas Lights vs FC Tulsa [BLV RYO] (Socolive) m3u8
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780204316-0-0-f84669a8f30bfe7cba0941e4c99ee6e6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 31/05 Charleston Battery vs Detroit City [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=fb50910267269b6e1fbafed0279dd8ff&txTime=6a1bbd7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Las Vegas Lights vs FC Tulsa [BLV RYO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780204316-0-0-bb8d1667d0cc500c4e1a0e917f5a3de6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [BLV ANH TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1780184876-0-0-a45c96791e6f6805d717bda58643fccf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV HÚP] (Socolive) flv
+https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780204316-0-0-e9d0a08151900ed2b2f64963bbf84889
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [BLV ANH TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780184876-0-0-c062d00fcb5f282ed18fb20a329a271e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV HÚP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780204316-0-0-d032af9c493fa58a9a36d5333b6780a7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780184876-0-0-1fd781b1edfd25d2edf746db6c303104
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV HÚP] (Socolive) m3u8
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780204316-0-0-4af6d38e4186ab9f3709e75a98af2f07
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780184876-0-0-4ec8faa755e1203ec4ec097377ff2b87
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [HÀ DUY KIÊN] (Socolive) flv
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780184876-0-0-1d6937bb2368b41e4a5b9e2d834db99b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [HÀ DUY KIÊN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780184876-0-0-68091c28eede617516e093dc569f8da3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780184876-0-0-d367eee67a60a2530fd73a8e7732c5f0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 31/05 Instituto de Córdoba vs Club Atlético Lanús [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780184876-0-0-b01baa37c3303848873ae6767147acc5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Magic United TFA vs Queensland Lions SC [BLV HÚP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780204316-0-0-f5b13c47f2a20c64a3a3722d5ee402c7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780184876-0-0-18ee0992d1cf3689dd3e2c44156acef1
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780204316-0-0-d03e6fe7f5b2a0158ef07b7c50b88a84
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780184876-0-0-b7ee622d2d39c3bfd816cbc9412f903a
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780204316-0-0-e9305082532334e11aec1fd49f2f1ce6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780184876-0-0-4a7d56a290c50156b4febdc62cfca466
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780204316-0-0-5f3fbe9864af5f833652aa00887fab8f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780184876-0-0-668349511458680ac40d6c507f251f6c
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780204316-0-0-c79303366441d5a1465c0de6266da85a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 31/05 Connecticut Sun W vs Los Angeles Sparks W [KING] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780185236-0-0-d269e7e7f6936945b8b596857b0ef645
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Phoenix Rising FC vs Sacramento Republic FC [BLV RÔSI] (Socolive) flv
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=1ee53cd50850e0e586be34d71510fcc9&txTime=6a1c0ad4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 31/05 Connecticut Sun W vs Los Angeles Sparks W [KING] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780185236-0-0-82145e49c4ea724216e60dddd2e00e8e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Phoenix Rising FC vs Sacramento Republic FC [BLV RÔSI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=7f3bf2fb080fb4da92eab82eb4ced2ac&txTime=6a1c0ad4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 31/05 Connecticut Sun W vs Los Angeles Sparks W [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780185236-0-0-1b98b147c76b065f2cd6d1a9025a115d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Phoenix Rising FC vs Sacramento Republic FC [BLV RÔSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=1ee53cd50850e0e586be34d71510fcc9&txTime=6a1c0ad4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 31/05 Connecticut Sun W vs Los Angeles Sparks W [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780185236-0-0-c33ee7feb318554157078472eae4b1fd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Phoenix Rising FC vs Sacramento Republic FC [BLV RÔSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=7f3bf2fb080fb4da92eab82eb4ced2ac&txTime=6a1c0ad4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Pittsburgh Riverhounds vs Miami FC [CHÍ PHÈO] (Socolive) flv
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1780185236-0-0-259c76a6fedd7305deea84b550bd0ed1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Phoenix Rising FC vs Sacramento Republic FC [BLV 24H] (Socolive) flv
+https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1780204620-0-0-478cccddf04d03b63d429443fee01dda
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Pittsburgh Riverhounds vs Miami FC [CHÍ PHÈO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1780185236-0-0-e95aa44331bcbbcbd8052c005dc1c4c2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Phoenix Rising FC vs Sacramento Republic FC [BLV 24H] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1780204620-0-0-db01b4440523df37156057ae90741d01
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Pittsburgh Riverhounds vs Miami FC [CHÍ PHÈO] (Socolive) m3u8
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1780185236-0-0-494df6bd87b0c5e4d2d56f46750a48d8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Phoenix Rising FC vs Sacramento Republic FC [BLV 24H] (Socolive) m3u8
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1780204620-0-0-19136b76c9df464c21553e28e7b28195
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Pittsburgh Riverhounds vs Miami FC [CHÍ PHÈO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1780185236-0-0-b3a0478fcfea963e737b3947f4e355a7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h30 ngày 31/05 Phoenix Rising FC vs Sacramento Republic FC [BLV 24H] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780204620-0-0-c34c783fb2855dc849fc8c33371e7576
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Louisville City FC vs Tampa Bay Rowdies [BLV GÔN] (Socolive) flv
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=e1c5f8ce723ce79c769098cec62b2f17&txTime=6a1bbee4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [BLV CÒ] (Socolive) flv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780204676-0-0-f45e2f295c8f316990cb584331dda834
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Louisville City FC vs Tampa Bay Rowdies [BLV GÔN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=4d8a3b1ce9e22bf67f76476cb1fe9e0a&txTime=6a1bbee4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780204676-0-0-4f4684c8b2331145f3c214e7aee3e028
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Louisville City FC vs Tampa Bay Rowdies [BLV GÔN] (Socolive) m3u8
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=e1c5f8ce723ce79c769098cec62b2f17&txTime=6a1bbee4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780204676-0-0-df8c6073375da3fb8ff7f7dd9f72393c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 31/05 Louisville City FC vs Tampa Bay Rowdies [BLV GÔN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=4d8a3b1ce9e22bf67f76476cb1fe9e0a&txTime=6a1bbee4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 31/05 Sydney United 58 FC vs Sutherland Sharks [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780204676-0-0-952378df887413722a3eff29462fd47a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 31/05 Instituto vs Lanus
-https://live05.msdht.app/live/14707124.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780204676-0-0-f72c9890c50def003d8fbb3182b885d6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 31/05 Connecticut Sun vs Los Angeles Sparks
-https://live05.msdht.app/live/19919577.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780204676-0-0-c46ab1557720e826330bf00468d9cd29
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 31/05 Ecuador vs Ả Rập Saudi
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780204676-0-0-236eea1e01bd51ec088be9dea77c3b14
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 31/05 Fagiano Okayama vs Urawa Red Diamonds [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780204676-0-0-7a847cfea02777090946a03075b56ab6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 31/05 Broadmeadow Magic vs Lambton Jarvis
 https://live05.msdht.app/live/88508431.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 31/05 Franklin Bulls vs Auckland Huskies
+https://live05.msdht.app/live/19919577.m3u8
 
