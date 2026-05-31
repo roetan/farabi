@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",22:00 | Cape Verde Islands vs Serbia
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/12/Rc_deportivo_de_la_coruna.png",23:30 | Deportivo La Coruna vs Las Palmas
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/24.png",22:30 | Poland vs Ukraine
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
@@ -8,224 +8,245 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/24.png",Poland vs Ukraine
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czech Republic vs Kosovo (Lương Sơn) BLV MÃ SIÊU m3u
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/268.png",IBV Vestmannaeyjar vs Keflavik
+https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 31/05 Cape Verde vs Serbia (Lương Sơn) BLV NGƯỜI THÉP m3u
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 31/05 Cape Verde vs Serbia (Lương Sơn) BLV HÀN TÍN m3u
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Bragantino vs Internacional RS (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Bragantino vs Internacional RS (Lương Sơn) BLV QUAN VŨ m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 KAA Gent vs Racing Genk (Lương Sơn) BLV QUAN VŨ m3u
 https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Bragantino vs Internacional RS (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Atletico Atlanta vs Gimnasia yTiro (Lương Sơn) BLV MAYBACH m3u
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Racing Santander vs Cadiz (Lương Sơn) BLV LÝ QUỲ m3u
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czech Republic vs Kosovo (Lương Sơn) BLV PHI HỔ m3u
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Deportes Limache vs Coquimbo Unido (Lương Sơn) BLV LÝ ỨNG m3u
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Brighton H.A. (W) vs Manchester City (W) (Lương Sơn) BLV TÔN LẬP m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Real Zaragoza vs Malaga (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Castellon vs Eibar (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Deportivo La Coruna vs Las Palmas (Lương Sơn) BLV TÔN LẬP m3u
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [VƯƠNG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=9f11b05a128264a6aaeb9832848c5d45&txTime=6a1ca2b4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [VƯƠNG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=96023777b0261e03a8ceb73ed9400fb4&txTime=6a1ca2b4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [THẠCH TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1780243556-0-0-07202365995c59f450962e7968c5f339
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780243556-0-0-0d6a9e0d1e2e0558636df085328fe538
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [BLV RÔSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=349f81d6b88760abab8704fe0cd8d7b3&txTime=6a1ca2b4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [BLV RÔSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=9235f64ffeeb14a26ae9153f00ee3b94&txTime=6a1ca2b4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [BLV ENZO] (Socolive) m3u8
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780243556-0-0-3a716b38b3580a890261bd1df65ffd37
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [BLV ENZO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780243556-0-0-c9119da119cc4c2550220d5579167de1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780243556-0-0-7d82c56fc8f109840ecd8d9db27daeab
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780243556-0-0-94b8db5593bb15df53d8f256b745de65
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Brighton & Hove Albion Women vs Manchester City Women [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780243556-0-0-ce61d0fd7d26a01b5ae6cd74afe46f99
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Brighton & Hove Albion Women vs Manchester City Women [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780243556-0-0-0967c1a11c7a6ae42bb4e794042e949e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780243556-0-0-e716c0481fb111aa8879f010c945b0c4
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780250036-0-0-79a7b5a411ce4f7da0bf71097c7cd04f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780243556-0-0-0edc59d6f413411da8f28884d717d4be
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780250036-0-0-11a5b5cbef90691521be960729451733
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [BLV LONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780243556-0-0-1ca9cf58ec8c0a768efb6be48aa5afc9
+https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780250036-0-0-b693cff0973eae542c39bce8e3607c2a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [BLV LONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780243556-0-0-2455ef7fa881e521ac758bf1dceb9cbf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [A PÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780243556-0-0-4312e2819a81104085dabe1cec55aceb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [A PÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780243556-0-0-b87dd73d744cd89313ae21eb20818e5a
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780250036-0-0-35248104437b481e41b2b4cd88dcd2c0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780243564-0-0-9f6dde0d9a27780643052b92365355b1
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780250036-0-0-121294564b46a0cfd3bb78f32b2bbeb5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780243564-0-0-86f2a60058e3921ac0da3ff45ffc0b3d
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780250036-0-0-ec5a278498d9025e08e419d56260b40b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Red Bull Bragantino vs Internacional - RS [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ae2f1ef267287dd526a08be33d2560c2&txTime=6a1ca2b4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780250036-0-0-a4ac9cd9b9099885fa6495c436e9adc3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Red Bull Bragantino vs Internacional - RS [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5b7a471cd2d59cbe63af598240bc2de3&txTime=6a1ca2b4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780250036-0-0-d0a6b759d2876d82ad2827575462f62f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Red Bull Bragantino vs Internacional - RS [TƯ MÃ Ý] (Socolive) m3u8
-https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780243556-0-0-1e25e10606f5c4c3cf89d03d7292ee33
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Racing Santander vs Cadiz [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780250396-0-0-0c191ab705b04d33eeb79f05ca44f231
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Red Bull Bragantino vs Internacional - RS [TƯ MÃ Ý] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780243556-0-0-cc6c2de58d76c83feacadf3cb1956b1d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Racing Santander vs Cadiz [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780250396-0-0-604892a7a4ca2fad76bafc30a07c89d5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Londrina PR vs Vila Nova [BLV LION] (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780243556-0-0-ab446e42902cc1fb455d2ea3246749d7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Deportivo La Coruna vs UD Las Palmas [LOKA] (Socolive) m3u8
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780250396-0-0-2784c4739f538b65e4d710633f76ead4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Londrina PR vs Vila Nova [BLV LION] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780243556-0-0-4ab234dceeb289375fc2c3d2ff4a85cc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Sao Bernardo vs Gremio Novorizontino [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=abf41516157222d347299b7743ed6ece&txTime=6a1ca2b4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Sao Bernardo vs Gremio Novorizontino [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=626bd71dff4cd68da48f009e7506ec66&txTime=6a1ca2b4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780243916-0-0-51e80d833ea1e559b932f7f5cc35493a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780243916-0-0-31dcb9373cabe7ec2f03d688c37fc16c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780243916-0-0-f6b027dd543e67c53110094e6e708a01
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780243916-0-0-377660b4efcc4c429c9a2efa6f0dda17
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780243916-0-0-a096ae0c58af377c08363f81938b841b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780243916-0-0-b0481e186bc662cc6b312dc80ece7c36
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Brighton & Hove Albion Women vs Manchester City Women [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780243916-0-0-0e61a194a09f1418b20940d0d007e997
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Brighton & Hove Albion Women vs Manchester City Women [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780243916-0-0-e2d16019b067dad40b3441458322de08
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Brighton & Hove Albion Women vs Manchester City Women [BLV BÉO] (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=d937b758b7cc7ced6a2ca93255f1d23c&txTime=6a1ca41c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Brighton & Hove Albion Women vs Manchester City Women [BLV BÉO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=b54ef5fd3631feb86b6dac6e1a0fc246&txTime=6a1ca41c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Deportivo La Coruna vs UD Las Palmas [LOKA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780250396-0-0-2d181491afea31713431ed4c8313cb59
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780243916-0-0-1ed17917851d2967390fc0a497c83e4e
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780250396-0-0-ea9b04a2c51915560006d961f8b35d48
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780243916-0-0-70c2cf16c0b8a079089a7e39fbd3caef
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780250396-0-0-32f2dd788450244b7c787ec494eff659
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Red Bull Bragantino vs Internacional - RS [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780243916-0-0-f2f84e06ce4ee9e022902e60331657b5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780250396-0-0-91ba190e9d4308e5630b658877104671
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Red Bull Bragantino vs Internacional - RS [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780243916-0-0-7288405e66510b53e2104061bfac9dce
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780250396-0-0-dccd6a98d95051b11cca11a1beb1f156
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Brighton & Hove Albion Women vs Manchester City Women [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780243916-0-0-895b42e834b5b5ee1cb3499005c6dbce
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV MIXI] (Socolive) m3u8
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780250396-0-0-66014068f6045d24a9244a01c98b034e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Brighton & Hove Albion Women vs Manchester City Women [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780243916-0-0-3095d6d6f6865edce680b2684984b31a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV MIXI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780250396-0-0-0986cc7565b7a83e65c8d0082467026f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Castellon vs Eibar [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=33f711917f5ca7b113dee3a326c6000a&txTime=6a1cbd6c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Castellon vs Eibar [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=07d31864906e287775f7103de6797410&txTime=6a1cbd6c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780243916-0-0-7c7fa3a8e9abec2a6efec6e490994558
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780250396-0-0-854c93136846fd8b7ec4493c80255343
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 31/05 Poland vs Ukraine [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780243916-0-0-a82e9ed0efe4f6dedf824535c4c27e86
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780250396-0-0-89340c52edd6e64ed3e326db68895b9b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Almeria vs Real Valladolid CF [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=61e2644dc24d3b41739ea960b9d9d952&txTime=6a1cbd6c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Almeria vs Real Valladolid CF [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=8f6db33ed3ecd0cb046bc856dcfa98ab&txTime=6a1cbd6c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Castellon vs Eibar [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780250396-0-0-acaba6cafbeeabd9c84beb270e5ada2d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Castellon vs Eibar [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780250396-0-0-e14841368bf6b4d2a552ce4a665ffdc2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Real Zaragoza vs Malaga [BLV VOI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780250396-0-0-013313671d507bf603a39e2fc6fd31c2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Real Zaragoza vs Malaga [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780250396-0-0-e7cb6aeb975c2e8532d8d817cf4cf6bb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Deportivo La Coruna vs UD Las Palmas [BLV WUKONG] (Socolive) m3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780250396-0-0-c484fd52f3abb4fe9ea336ef0dd14d9f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Deportivo La Coruna vs UD Las Palmas [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780250396-0-0-cf70c006bfcd7e80a82f0321b407feda
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Racing Santander vs Cadiz [BLV HÚP] (Socolive) m3u8
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780250396-0-0-081f761950954b117ac7f07b20febb54
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Racing Santander vs Cadiz [BLV HÚP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780250396-0-0-e489337d0a464f9ed28b3e85430e2e40
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Burgos CF vs Andorra CF [BLV RAMBO] (Socolive) m3u8
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=535ef4d1640c85a6cc8d23ade8ca8d32&txTime=6a1cbd6c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Burgos CF vs Andorra CF [BLV RAMBO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9cf67246d0546534d93086908c734542&txTime=6a1cbd6c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=24a8ae727aa36dfb058cc61f04dab250&txTime=6a1cbd6c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 KAA Gent vs Racing Genk [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=bc30fb61c05a1876f89f1216c621628d&txTime=6a1cbd6c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 KAA Gent vs Racing Genk [TRÀ ĐÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780250396-0-0-3509273c678420c22ac934850d71c437
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 KAA Gent vs Racing Genk [TRÀ ĐÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780250396-0-0-76264842f87be875dcbdea97919e76b6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Castellon vs Eibar [BLV CÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780250396-0-0-9a556e64a47d622080823d8ee9858434
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Castellon vs Eibar [BLV CÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780250396-0-0-52469d3218286e57d9ffedd4376a83de
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Almeria vs Real Valladolid CF [BLV PICK] (Socolive) m3u8
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780250396-0-0-9b1cd77ac989f0c7a4abfc4ed9e991ee
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Almeria vs Real Valladolid CF [BLV PICK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780250396-0-0-4f700c752ac55e23cebc02edefdd20af
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Real Zaragoza vs Malaga [BLV A TINH] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=b6957203418cd17aab5d6fdfe28a7f93&txTime=6a1cbd6c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Real Zaragoza vs Malaga [BLV A TINH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=0b4480ebdb0a01d5f63ce5c6c3fb1fa5&txTime=6a1cbd6c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Burgos CF vs Andorra CF [BLV AB] (Socolive) m3u8
+https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780250396-0-0-123a9974204e9408c608cfdb9fe5cdd2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Burgos CF vs Andorra CF [BLV AB] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780250396-0-0-3dbd78b9bea435a0669255134f4ca082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Castellon vs Eibar [BLV A WIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780250396-0-0-aefd905c3727ef31aa2685b6456a6cc6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 31/05 Castellon vs Eibar [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780250396-0-0-5dda34fcd34e1d97b00299eee5a31ae9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h35 ngày 31/05 Hapoel Tel Aviv vs Maccabi Rishon [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780250396-0-0-7f467dfe49230099bbb6946a7862b074
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h35 ngày 31/05 Hapoel Tel Aviv vs Maccabi Rishon [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780250396-0-0-7b0c11a1142e941d81b802a641166271
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h35 ngày 31/05 Hapoel Tel Aviv vs Maccabi Rishon [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780243916-0-0-039792cd6a02f66b8db7016c322cf5d3
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780250396-0-0-0bcce321768aeae46de67a878bf2de52
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h35 ngày 31/05 Hapoel Tel Aviv vs Maccabi Rishon [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780243916-0-0-ad4c3c741aa82654bd4ae053be4b6783
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780250396-0-0-38908600d67e9d2cb96455c9b0d410ca
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780244276-0-0-f284b3025c1eadcbb27238476cdc2a7a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/06 KR Reykjavik vs KA Akureyri [TƯ MÃ Ý] (Socolive) m3u8
+https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780250396-0-0-948eb7a7c0c949a282cc8f3f8af0bc59
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780244276-0-0-b2eda61c38d73449ff3dbe50eeccffcd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/06 KR Reykjavik vs KA Akureyri [TƯ MÃ Ý] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780250396-0-0-74cf645aaf0998577521a9fb7a064dcb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [TYPN] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=e5001b3f367d1a2e93676931b6998782&txTime=6a1ca584
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/06 Thor Akureyri vs Stjarnan Gardabaer [PINKMAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=c452b20fe4f49910e86fb261ba4a3274&txTime=6a1cbd6c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [TYPN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=573aded349f87be978d597b0dfa824d2&txTime=6a1ca584
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/06 Thor Akureyri vs Stjarnan Gardabaer [PINKMAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=fa8125831fc1bea02f30e95c197badb8&txTime=6a1cbd6c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [LOGAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780244276-0-0-234e171ea4ca046c38cd3feb07264167
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/06 IBV Vestmannaeyjar vs Keflavik [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780250396-0-0-7cdb3d52a31fd1cd6617ab04e06999ae
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 31/05 Cape Verde vs Serbia [LOGAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780244276-0-0-79cb1ee25db3c6be246bece1678b1f18
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/06 IBV Vestmannaeyjar vs Keflavik [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780250396-0-0-34d5e64f047079ada56c8cb7905ea956
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [CR Bưởi] (Socolive) m3u8
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780244276-0-0-5391bbbd5a54d2fb8113dd76d1ab49e0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/06 IBV Vestmannaeyjar vs Keflavik [NGƯỜI CÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780250396-0-0-bade8e452d59e4af9cd241006752f84e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Czechia vs Kosovo [CR Bưởi] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780244276-0-0-8d0dea168b4b58bb77aaf06ad1059c17
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/06 IBV Vestmannaeyjar vs Keflavik [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780250396-0-0-de952f380783c27e76b90e9c126bbd51
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Brighton & Hove Albion Women vs Manchester City Women [BLV VITAMIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780244276-0-0-8f74e5b1b62781fee6eb6a5b036a4c36
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/06 Thor Akureyri vs Stjarnan Gardabaer [BLV ANH TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780250396-0-0-56719c49182fda8158f4aea559f87bde
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Brighton & Hove Albion Women vs Manchester City Women [BLV VITAMIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780244276-0-0-a7f5a043fc31a604ab3582395d275264
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/06 Thor Akureyri vs Stjarnan Gardabaer [BLV ANH TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780250396-0-0-ca6a12a319a3bd8a2e5033704abfa425
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Red Bull Bragantino vs Internacional - RS [BLV GÔN] (Socolive) m3u8
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=d4da01efddd5b13fa17a9ace9627dfd5&txTime=6a1ca584
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 01/06 Farul Constanta vs Chindia Targoviste [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780250756-0-0-4f9d10b642c76e99180258623843751e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 31/05 Red Bull Bragantino vs Internacional - RS [BLV GÔN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=6c895d2d5c867181b102c254c81498a2&txTime=6a1ca584
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 01/06 Farul Constanta vs Chindia Targoviste [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780250756-0-0-3fdb9bb61b9d2ee965a4292edef9a161
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 01/06 Farul Constanta vs Chindia Targoviste [HẢI THANH] (Socolive) m3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780250756-0-0-0455be50dee69ba4e6d559e3fb2908a2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 01/06 Farul Constanta vs Chindia Targoviste [HẢI THANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780250756-0-0-ac35b368cee92d5296da913cfcc650b4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780244276-0-0-63e03b42f5c6c48e47ee44be42fe0a18
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780250756-0-0-f9c8c96b3bd5d22acd5a67d46b5211ee
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780244276-0-0-af4cf4d64e0708ef19b209578c6ea58d
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780250756-0-0-d7ec4ceb428c0d2d4e87ee40ae5580e1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 31/05 RB Bragantino vs Internacional (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 31/05 Deportivo La Coruna vs Las Palmas (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 31/05 Cape Verde Islands vs Serbia (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 31/05 Cape Verde Islands vs Serbia (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 31/05 Deportivo La Coruna vs Las Palmas (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 31/05 Poland vs Ukraine (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
@@ -233,21 +254,12 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 31/05 Poland vs Ukraine (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 31/05 Jesper De Jong vs Alexander Zverev (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 31/05 Czech Republic vs Kosovo
-https://live05.msdht.app/live/33982309.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 31/05 Cape Verde vs Serbia
-https://live05.msdht.app/live/88508431.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 31/05 Bragantino vs Sport Club Internacional
-https://live05.msdht.app/live/14707124.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 31/05 Brighton Nữ vs Manchester City Nữ
-https://live05.msdht.app/live/90725470.m3u8
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 31/05 Ba Lan vs Ukraine
 https://live05.msdht.app/live/87379114.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 31/05 KAA Gent vs Racing Genk
+https://live05.msdht.app/live/24561735.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 31/05 Castellon vs CLB Eibar
+https://live05.msdht.app/live/68848594.m3u8
 
