@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/57484_1gx54nvs4g27.png",06:00 WIB 03/06 NONA FC vs Brave SC (Lương Sơn) BLV SHIN m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780455295.png",09:54 WIB 03/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/57484_1gx54nvs4g27.png",06:00 WIB 03/06 NONA FC vs Brave SC (Lương Sơn) BLV SHIN flv
+https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780455295.png",09:54 WIB 03/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13140_1gs46x3erp23.png",07:10 WIB 03/06 Barracas Central vs CA Huracan (Lương Sơn) BLV LÃO HẠC m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/13140_1gs46x3erp23.png",07:10 WIB 03/06 Barracas Central vs CA Huracan (Lương Sơn) BLV LÃO HẠC flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -327,354 +321,27 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=b1edda8dbea98f4ba7c25b7be2a6287f&txTime=6a1fc587
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=a5cf9a04bfc246b1d9f4744bf9d5a1d3&txTime=6a1fc587
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=b1edda8dbea98f4ba7c25b7be2a6287f&txTime=6a1fc587
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a5cf9a04bfc246b1d9f4744bf9d5a1d3&txTime=6a1fc587
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780449079-0-0-000bbc0b8818df045c43b122b3dc12c4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780449079-0-0-de5fbf8adccaeafa56953ae3b5859f98
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780449079-0-0-53bca4f75fd64d4231315e3a7e06da5f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780449079-0-0-c562ad472a08d0a40719f2ab2c5a3ef2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV PEWPEW] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780449079-0-0-196bd352636abbf942eccaac5eef6511
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV PEWPEW] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780449079-0-0-b09a0da52965fd898d9bbe77a01cd2a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV PEWPEW] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780449079-0-0-91416088490a94710c18870a7dcd633e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV PEWPEW] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780449079-0-0-715f3671f0762c53c87b8df98565d525
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [NGƯỜI CÁ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780449079-0-0-ad0ed010a2a3832b786c3b219e4d42fd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [NGƯỜI CÁ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780449079-0-0-3e837f72e1bf13b769b16f142e9c89d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [NGƯỜI CÁ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780449079-0-0-246f8869a0ec51a45e9b1c4c8307c13f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [NGƯỜI CÁ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780449079-0-0-8adbae43d6cc3fbfb7bf5d2db72539de
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780449079-0-0-e4e5a9514854560dea8fbcb5553936ec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780449079-0-0-b8404e65bc98fb883c5500d14486e780
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780449079-0-0-df77381ddebb4bb5980d2a8ee0b28cc5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780449079-0-0-926da1e18f567a9cb941bd5a199a7eb8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [BRIAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780449079-0-0-1442fe21d382fe2dfea86dbd68fb3f40
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [BRIAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780449079-0-0-11d6c702130625adc19e5e6116e116cd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [BRIAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780449079-0-0-37549a4c0401b626dd39a3d6a8f4079c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [BRIAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780449079-0-0-dd3cc8f579b84ab27f0d6e8269105c7d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [BLV HENRY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780449079-0-0-6cde7cc158b68d9728fe6a1ae0ef0815
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [BLV HENRY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780449079-0-0-56a5103e5f5cecc8086275110ba28c43
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [BLV HENRY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780449079-0-0-e748b8ccd3c6c9d291fa440e5b8307b4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [BLV HENRY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780449079-0-0-4cdf5da377719729d69301e93d0bcc7b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [CHAN SENA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780449079-0-0-59a206babacd8fd0df2cf9f3dba8ce52
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [CHAN SENA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780449079-0-0-88946462630ef171e58c1373ca6108b8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [CHAN SENA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780449079-0-0-29ed57349bf4b1ab43ffb98c9ba49c0b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/ff359ef2d40bb1387e8cf0f5b1af210d.png",06:30 WIB 03/06 Washington Mystics W vs Chicago Sky W [CHAN SENA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780449079-0-0-17953b96347c016f29504f94b19b90d1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BLV YONE] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780449079-0-0-23611fb50f6588fd93852d3b2509d4a1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BLV YONE] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780449079-0-0-20b7a5c0e432743674a1284559759ac0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BLV YONE] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780449079-0-0-6665ebd60c43088801d036ec4c109745
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BLV YONE] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780449079-0-0-6a62f6febcf9d9b05a20113ead36d608
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780449439-0-0-352eadf0601cbd1a005a25bf2f80428d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780449439-0-0-32bbe464874149c7f90d4691062f868b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780449439-0-0-a620778d950094774c86e52835b9e008
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780449439-0-0-48754b58f32160bef1355c83ebc2c121
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [A PÁO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1780449439-0-0-a89cc35622c30705e21807bc4d0b3acf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [A PÁO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780449439-0-0-d82c22d20b8377b208cd266725b5a3e2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [A PÁO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780449439-0-0-1c9aafce620f44afeecbe479a2d9d5a0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [A PÁO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780449439-0-0-4e51b8851167a94b8b89e19719497a75
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [BLV ENZO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780449439-0-0-1bcc49ffe57c751be088a9cceb411b88
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [BLV ENZO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780449439-0-0-e0b8db46e046b4df133445dde1ab0728
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [BLV ENZO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780449439-0-0-66f37642da0d962f65892133a0536abc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [BLV ENZO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780449439-0-0-17adbb0056a0a3f97067c313adfc0aae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BLV KAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=80b9a775bb8b4cb2b44bb99b475b8c51&txTime=6a1fc6ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BLV KAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=786ee20a8256c4d508ca20d52c7ae7bc&txTime=6a1fc6ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BLV KAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=80b9a775bb8b4cb2b44bb99b475b8c51&txTime=6a1fc6ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BLV KAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=786ee20a8256c4d508ca20d52c7ae7bc&txTime=6a1fc6ef
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [HÀ DUY KIÊN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780449439-0-0-7cee1e4775b171bc2557fe6bfc2810e5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [HÀ DUY KIÊN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780449439-0-0-b6145b53492b5d9f589efbb15c91fa98
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [HÀ DUY KIÊN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780449439-0-0-e0aecf9fe62e05c6504f9e24258c86d8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [HÀ DUY KIÊN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780449439-0-0-e3bfa0fe881aed7093c1dd25fd1cef3b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/cd530def2113fca934837ee89ee9282b.png",06:30 WIB 03/06 Atlanta Dream W vs Connecticut Sun W [A CHÈ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780449439-0-0-e538c8898339566f2a679817af4d0a5d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/cd530def2113fca934837ee89ee9282b.png",06:30 WIB 03/06 Atlanta Dream W vs Connecticut Sun W [A CHÈ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780449439-0-0-12b2d12ff4289821bf947053b1b02b88
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/cd530def2113fca934837ee89ee9282b.png",06:30 WIB 03/06 Atlanta Dream W vs Connecticut Sun W [A CHÈ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780449439-0-0-8bb903a7171b89bc9c2f03ded6b0b825
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/cd530def2113fca934837ee89ee9282b.png",06:30 WIB 03/06 Atlanta Dream W vs Connecticut Sun W [A CHÈ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780449439-0-0-d49b12dddd31e5f1243ef8b4b513e68e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780449799-0-0-2d1f8234571293f85bf37e740c46a052
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780449799-0-0-a6c4aaecc3401e2a44cd35cb564dfcb0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780449799-0-0-00c747373d01fb0d8bf7fecc791bc8af
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780449799-0-0-d374f458fffc83c944608fbec9624e9a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780449799-0-0-6bd2ca1ef1cdcdc74ec404ba75d60340
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780449799-0-0-27c1918fd1ac398f9e317ddc9c8bfd60
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780449799-0-0-eed89f3f0596478b323d3bc9d6342903
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780449799-0-0-c7fd139dd2a8cf878462ad048baefb7d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=ba5d12116ca90a5b402a3213a6d86131&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=92a573e3dbbc9279de61ec239b893804&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=ba5d12116ca90a5b402a3213a6d86131&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=92a573e3dbbc9279de61ec239b893804&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV TOMMY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=92736e74e639af42a049be406798aa4f&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV TOMMY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=a7f62c915b56e5ac744dc7f90776073f&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV TOMMY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=92736e74e639af42a049be406798aa4f&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/72cb5d7af091d84d5532fe6c340987b4.png",07:30 WIB 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV TOMMY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=a7f62c915b56e5ac744dc7f90776073f&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV ALEX] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780449799-0-0-66356cbcf9a4e9654f1d4ba19413d6e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV ALEX] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780449799-0-0-b999a669de6284acad910081a02be92a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV ALEX] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780449799-0-0-9c144250ac6f615df9c311d61911d3e2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV ALEX] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780449799-0-0-54f6d3a4b78c89367d67c014cb71bd3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV TOMIA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1780449799-0-0-9de1297dc79b58c1625b6002c1ea370e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV TOMIA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780449799-0-0-2cd08aa0119ee3f3e4561da2dff63635
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV TOMIA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780449799-0-0-e74e8e9b86e438aec3f8348589aaee15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/ca92a1e45c1e5b1120f6a183dbfea535.png",07:00 WIB 03/06 Haiti vs New Zealand [BLV TOMIA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780449799-0-0-7372edf256607e5e352562e17b6972ed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=c8c09cbf212739e713f4b17939a3ec66&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=98c913fbab6405bee230705f03716b6d&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=c8c09cbf212739e713f4b17939a3ec66&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=98c913fbab6405bee230705f03716b6d&txTime=6a1fc857
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/cd530def2113fca934837ee89ee9282b.png",06:30 WIB 03/06 Atlanta Dream W vs Connecticut Sun W [HUNTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780449799-0-0-df12358d0b2c915e9e16f9ac3fc9541a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/cd530def2113fca934837ee89ee9282b.png",06:30 WIB 03/06 Atlanta Dream W vs Connecticut Sun W [HUNTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780449799-0-0-dd441d7eed9802221797aa7e66170734
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/cd530def2113fca934837ee89ee9282b.png",06:30 WIB 03/06 Atlanta Dream W vs Connecticut Sun W [HUNTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780449799-0-0-c2f25d53bead314a1fd9d28189fd5cd4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260601/cd530def2113fca934837ee89ee9282b.png",06:30 WIB 03/06 Atlanta Dream W vs Connecticut Sun W [HUNTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780449799-0-0-2063bb22fe3a4112b40a85658f6509fb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780449799-0-0-f6722c93390aa5fd20a766700e3092ea
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780449799-0-0-30fb3ef5c35a621e78a58698a9befad0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780449799-0-0-e05f49a32c22fa31e6353af21221a172
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/dc9a71a50e0877f38ce2355c8a27c896.png",07:00 WIB 03/06 Fortaleza vs Vitória - BA [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780449799-0-0-08c23cb534ea549847f5e0a18acb5c8d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BEN 10] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1780449799-0-0-c7839a113fff1cb7deca07dfc0b565ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BEN 10] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1780449799-0-0-4600534ad4d17d787f82f09b8e954e43
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BEN 10] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780449799-0-0-df652a64bca06ceada5a72f1b37ab709
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260531/c9a5aadeecb286e7629780aefbb32b3b.png",07:10 WIB 03/06 Barracas Central vs CA Huracan [BEN 10] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780449799-0-0-7bea5459ea3fa40ec04a40fd351e59e4
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",07:00 WIB 03/06 Haiti vs New Zealand (Hội Quán) FHD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZ8ZxCLsoaIyb_Ezu6YskGKkBQ9oAEPUGvw&s",09:00 WIB 03/06 NGUYEN Thuy Linh vs Pitchamon OPATNIPUTH (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",07:00 WIB 03/06 Haiti vs New Zealand (Hội Quán) HD 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZ8ZxCLsoaIyb_Ezu6YskGKkBQ9oAEPUGvw&s",09:00 WIB 03/06 NGUYEN Thuy Linh vs Pitchamon OPATNIPUTH (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",07:00 WIB 03/06 Haiti vs New Zealand (Hội Quán) SD 
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZ8ZxCLsoaIyb_Ezu6YskGKkBQ9oAEPUGvw&s",09:00 WIB 03/06 NGUYEN Thuy Linh vs Pitchamon OPATNIPUTH (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUH2RYSu0HFyVZ05p8ps-zOowmIzGxKox_A&s",07:10 WIB 03/06 Barracas Central vs Huracan (Hội Quán) FHD 
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",10:00 WIB 03/06 AN Se Young vs Neslihan ARIN (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUH2RYSu0HFyVZ05p8ps-zOowmIzGxKox_A&s",07:10 WIB 03/06 Barracas Central vs Huracan (Hội Quán) HD 
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",10:00 WIB 03/06 AN Se Young vs Neslihan ARIN (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUH2RYSu0HFyVZ05p8ps-zOowmIzGxKox_A&s",07:10 WIB 03/06 Barracas Central vs Huracan (Hội Quán) SD 
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",10:00 WIB 03/06 AN Se Young vs Neslihan ARIN (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",07:30 WIB 03/06 Junior vs Atletico Nacional (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",07:30 WIB 03/06 Junior vs Atletico Nacional (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaNCIKzpPJH83I5J2Exi7EAkD4McMVH54pA&s",07:30 WIB 03/06 Junior vs Atletico Nacional (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",06:30 WIB 03/06 Atlanta Dream vs Connecticut Sun
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80",06:30 WIB 03/06 Washington Mystics vs Chicago Sky
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80",07:00 WIB 03/06 Haiti vs New Zealand
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/90725470.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png!w80",07:10 WIB 03/06 Barracas Central vs Huracan
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png!w80",07:30 WIB 03/06 Junior vs Atletico Nacional
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/14707124.m3u8
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
