@@ -1,157 +1,64 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",07:00 | Haiti vs New Zealand
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/16746.png",23:30 | Viken vs Utsikten
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 03/06 NONA FC vs Brave SC (Lương Sơn) BLV SHIN m3u
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgyDXXFrntQ8oD-0ScBeI4o43O2rcgU2dsjQ&s",20:00 | Félix Auger-Aliassime vs Flavio Cobolli
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=bf3fcf338902e612c0acd52cbe454198&txTime=6a1fbd17
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=083929317b2c9fb2edf33c0deede91f1&txTime=6a1fbd17
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 03/06 Washington Mystics W vs Chicago Sky W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780446919-0-0-4266ab1c5104154b3aa7b9c704fb559a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 03/06 Washington Mystics W vs Chicago Sky W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780446919-0-0-5953e26281e084cfb3702b263cafe92b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780446919-0-0-22e65b53c9a0b3e40ff06a24e85c7580
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780446919-0-0-e6b069739f039d32606caacf8432da1a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 03/06 Washington Mystics W vs Chicago Sky W [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780446919-0-0-3ea04a77abddd6b479711af9020ae23c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 03/06 Washington Mystics W vs Chicago Sky W [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780446919-0-0-e9de0892f20dc913882e4810b5fe269e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780446919-0-0-532b4fa9b63cf408a9b3b134d0bc0c2d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780446919-0-0-e875fcb8afc41832f25de0225e8a8a7c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 03/06 Washington Mystics W vs Chicago Sky W [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780446919-0-0-735c1f68c4140963b2a89debfcfac966
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 03/06 Washington Mystics W vs Chicago Sky W [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780446919-0-0-333bf80191e0558327cb78ccbea92526
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780446919-0-0-7392f71bc41bece9ee0f3c5986988812
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780446919-0-0-96903cf023c978219d65c674dcb48700
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h10 ngày 03/06 Barracas Central vs CA Huracan [BLV YONE] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780446919-0-0-94ce0e60634bf538e7dfb61636856fd2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h10 ngày 03/06 Barracas Central vs CA Huracan [BLV YONE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780446919-0-0-2e296a049a2b3ead6d50d000592c0929
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Fortaleza vs Vitória - BA [BLV ENZO] (Socolive) m3u8
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780447279-0-0-e7e53d1ea9eb28d76a566fa7ff33e592
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Fortaleza vs Vitória - BA [BLV ENZO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780447279-0-0-7892e90bc7be84c0a03220e306452cfe
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 03/06 Atlanta Dream W vs Connecticut Sun W [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780447279-0-0-0e91fb9f7b25cce61d05d2454fa46b74
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 03/06 Atlanta Dream W vs Connecticut Sun W [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780447279-0-0-8d5b6031e387644825f5893f8f2682d5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [A PÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780447279-0-0-800977ab79f84f20784a23d162f63c6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [A PÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780447279-0-0-9dfe2f12a8da51798d5e4ef2a8864bb3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h10 ngày 03/06 Barracas Central vs CA Huracan [BLV KAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=b2158d2d217e4dd7a587807ed7344adb&txTime=6a1fbe7f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h10 ngày 03/06 Barracas Central vs CA Huracan [BLV KAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=25834696d1a13be4dee1cdedf57f5263&txTime=6a1fbe7f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Fortaleza vs Vitória - BA [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780447279-0-0-e64ccc7d3152ed76767d255bdfd04da3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Fortaleza vs Vitória - BA [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780447279-0-0-f4abc805bd57cebe8122c93688cbb03e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h10 ngày 03/06 Barracas Central vs CA Huracan [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=58cecbb5c7ce347546434375b589241a&txTime=6a1fbfe7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h10 ngày 03/06 Barracas Central vs CA Huracan [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=0f72022a4469a7b49342d8ee32a79296&txTime=6a1fbfe7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780447639-0-0-bbe79326d452a72f6ae66de466074e41
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 03/06 Atletico Junior Barranquilla vs Atletico Nacional Medellin [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780447639-0-0-79e3b1fd965782beb49c6bd2561f7ac9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780447639-0-0-01b8577e51a3afd79733788b91f3a568
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780447639-0-0-2cf717685d7c626d8f799e4521b16de4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780447639-0-0-56a97ba903aee04ed4540bd4cfd39bdb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Haiti vs New Zealand [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780447639-0-0-c04d2ed6b6e2cb76c53ad5907f97688a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 03/06 Atlanta Dream W vs Connecticut Sun W [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780447639-0-0-e7169558f3a7caeafcade557afa63b09
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 03/06 Atlanta Dream W vs Connecticut Sun W [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780447639-0-0-212ff3069724873175e30a6595420e9f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Fortaleza vs Vitória - BA [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=8bb280c56c0d82300379714e0e9d5111&txTime=6a1fbfe7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Fortaleza vs Vitória - BA [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=4a20c7fa4f141bfdc81ab254c34b65bf&txTime=6a1fbfe7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h10 ngày 03/06 Barracas Central vs CA Huracan [BEN 10] (Socolive) m3u8
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780447639-0-0-5cc84fed96712f9de97ae606c3a46556
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h10 ngày 03/06 Barracas Central vs CA Huracan [BEN 10] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780447639-0-0-7282a5dc35a594e0344188d6fecb59e8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Fortaleza vs Vitória - BA [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780447639-0-0-429696fcb80916debd2c21aed876be9c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 03/06 Fortaleza vs Vitória - BA [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780447639-0-0-9e56ac2faf3e810866c2533b89737fda
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h54 ngày 03/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY m3u
+https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780447639-0-0-f026c2e078f325cf8fd3bd62c1c23b0d
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780464919-0-0-8c249035404f38e879c874b8adef1ae7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780447639-0-0-2707fefed8351cac19805e1aed869b0c
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780464919-0-0-af9aa119f06aee4ab504703585678ed7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 03/06 Haiti vs New Zealand (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Georgia vs Romania [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780464919-0-0-5dc851ea22c4f9f74c85835f1ed56b10
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 03/06 Haiti vs New Zealand (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Georgia vs Romania [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780464919-0-0-d9b19a1d53026d95c494034f17236918
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 03/06 Atlanta Dream vs Connecticut Sun
-https://live05.msdht.app/live/87379114.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Austria vs Tunisia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780465279-0-0-c40c7a074fe1602c411023ab0e7a33cb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 03/06 Washington Mystics vs Chicago Sky
-https://live05.msdht.app/live/19919577.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Austria vs Tunisia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780465279-0-0-4e20ccbcdfa8f452369aca53679adb27
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 03/06 Haiti vs New Zealand
-https://live05.msdht.app/live/90725470.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Malaysia U19 vs Singapore U19 [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780465279-0-0-8e5353a456ed99dcf529f9f7250535a9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h10 03/06 Barracas Central vs Huracan
-https://live05.msdht.app/live/02456966.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Malaysia U19 vs Singapore U19 [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780465279-0-0-58d89a3e3afbd62653b82442c2aa23a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Norway vs Sweden [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780465279-0-0-1723ccf09798d285cac5e7ef43a71f82
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Norway vs Sweden [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780465279-0-0-8bf7120da36782bd27c93b37e23490f5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Thailand U19 vs Brunei Darussalam U19 [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780465279-0-0-35d91e263338b061bcf8858f7142d437
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Thailand U19 vs Brunei Darussalam U19 [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780465279-0-0-de2aadc6a573cd270d4f1ef67203bfb8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780465279-0-0-07a8fce1f3105314b04978818d99354b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Turkiye vs North Macedonia [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780465279-0-0-3e1ccb4d1e084ccfd64b452c5a267e22
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 03/06 NGUYEN Thuy Linh vs Pitchamon OPATNIPUTH (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 03/06 NGUYEN Thuy Linh vs Pitchamon OPATNIPUTH (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 03/06 AN Se Young vs Neslihan ARIN (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 03/06 AN Se Young vs Neslihan ARIN (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
