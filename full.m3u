@@ -14,32 +14,32 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",07:30 | San Antonio Spurs - New York Knicks
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1543.png",19:30 | Cambodia vs Bhutan
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/776.png",23:00 | Northern Ireland vs Guinea
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/9.png",02:00 | Spain vs Iraq
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",02:10 | France vs Ivory Coast
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbTb8U14QpUju1pVk3xufX4Gi5d9dM4z74Ew&s",17:30 | POLYTRON Indonesia Open 2026
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",02:10 | France vs Ivory Coast
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/317.png",17:00 | Kamatamare Sanuki vs Parceiro Nagano
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",02:30 | Thổ Nhĩ Kỳ vs Hà Lan
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1543.png",Cambodia vs Bhutan
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1551.png",Lebanon vs Yemen
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/19156.png",Timor-Leste U19 vs Indonesia U19
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/5.png",Sweden vs Greece
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/9.png",Spain vs Iraq
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Ivory Coast
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
@@ -47,29 +47,71 @@ https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1546.png",Singapore vs China
 https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 (Lương Sơn) BLV SHIN m3u
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 (Lương Sơn) BLV SHIN flv
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan (Lương Sơn) BLV PELE m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Lebanon vs Yemen (Lương Sơn) BLV PELE m3u
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan (Lương Sơn) BLV PELE flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Lebanon vs Yemen (Lương Sơn) BLV PELE flv
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 (Lương Sơn) BLV LƯU BỊ m3u
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Slovenia vs Cyprus (Lương Sơn) BLV KAKA m3u
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 (Lương Sơn) BLV LƯU BỊ flv
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Slovenia vs Cyprus (Lương Sơn) BLV KAKA flv
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan (Lương Sơn) BLV LÝ QUỲ m3u
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Slovenia vs Cyprus (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan (Lương Sơn) BLV LÝ QUỲ flv
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Slovenia vs Cyprus (Lương Sơn) BLV LỮ BỐ flv
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Northern Ireland vs Guinea (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Northern Ireland vs Guinea (Lương Sơn) BLV TRIỆU TỬ LONG flv
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Northern Ireland vs Guinea (Lương Sơn) BLV DƯƠNG CHÍ m3u
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Northern Ireland vs Guinea (Lương Sơn) BLV DƯƠNG CHÍ flv
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Afghanistan vs Bangladesh U23 (Lương Sơn) BLV PHI HỔ m3u
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Afghanistan vs Bangladesh U23 (Lương Sơn) BLV PHI HỔ flv
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Moldova U21 vs Malta U21 (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Moldova U21 vs Malta U21 (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Germany (W) U23 vs Denmark (W) U23 (Lương Sơn) BLV HÀN TÍN m3u
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Germany (W) U23 vs Denmark (W) U23 (Lương Sơn) BLV HÀN TÍN flv
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 ES Ben Aknoun vs USM Alger (Lương Sơn) BLV QUAN VŨ m3u
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 ES Ben Aknoun vs USM Alger (Lương Sơn) BLV QUAN VŨ flv
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Lebanon vs Yemen (Lương Sơn) BLV VƯƠNG LUÂN m3u
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Lebanon vs Yemen (Lương Sơn) BLV VƯƠNG LUÂN flv
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Afghanistan vs Bangladesh U23 (Lương Sơn) BLV LÝ ỨNG m3u
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Afghanistan vs Bangladesh U23 (Lương Sơn) BLV LÝ ỨNG flv
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -86,58 +128,16 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 China W vs Thailand W (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 China W vs Thailand W (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 China W vs Thailand W (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 China W vs Thailand W (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/max.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) HD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Lebanon vs Yemen (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/cauca/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) HD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Lebanon vs Yemen (Chuối Chiên) HD2
 https://gckc0525.edgemaxcdn.org/live/cauca.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) FHD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Lebanon vs Yemen (Chuối Chiên) FHD1
 https://gckc0525.edgemaxcdn.org/live/caucahd/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 04/06 Timor-Leste U19 vs Indonesia U19 (Chuối Chiên) FHD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Lebanon vs Yemen (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/caucahd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 04/06 Slovenia vs Cyprus (Chuối Chiên) HD1
@@ -165,6 +165,18 @@ https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) HD2
@@ -175,6 +187,24 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 05/06 Sweden vs Greece (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 05/06 Andorra vs Liechtenstein (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 05/06 Andorra vs Liechtenstein (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/max.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
@@ -187,6 +217,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h30 ngày 05/06 Turkey W vs Netherlands W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h30 ngày 05/06 Turkey W vs Netherlands W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h30 ngày 05/06 Turkey W vs Netherlands W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h30 ngày 05/06 Turkey W vs Netherlands W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 05/06 Ukraine W vs Germany W (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/rockie/playlist.m3u8
@@ -209,231 +251,246 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [NGƯỜI CÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780577239-0-0-4f135260634c4ce0f9094118ac6d048d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV XO] (Socolive) flv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1780592719-0-0-7623b5469a1f4ddee971437abc321d06
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [NGƯỜI CÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780577239-0-0-4ac42135bb2428a75490ac0dc2d496c0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV XO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780592719-0-0-396856760e6faac5e383cd5911d35789
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780577239-0-0-63d4c6d016864748dd3b80542cdef37b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780592719-0-0-12d8785b6272732a43f15644e41b2160
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780577239-0-0-c8dbe6920641de04c4129adf72e785fa
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780592719-0-0-294ad7ec0b8ddff1ea3662ec4008061e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [BLV KAN] (Socolive) flv
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=4890526a3157a5919b186dd6766ae6b2&txTime=6a21ba27
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV ROBBEN] (Socolive) flv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780592719-0-0-6309123a663956bbebfd8258dcfcd9ad
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [BLV KAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=1c6041b94c50ed7f098fffdd6c9d7a04&txTime=6a21ba27
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV ROBBEN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780592719-0-0-5727039eac4e641b2db051e7b6d7258c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [BLV KAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=4890526a3157a5919b186dd6766ae6b2&txTime=6a21ba27
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV ROBBEN] (Socolive) m3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780592719-0-0-7f2565687a9cde6526ccb4741d0c30b6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [BLV KAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=1c6041b94c50ed7f098fffdd6c9d7a04&txTime=6a21ba27
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV ROBBEN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780592719-0-0-2f2e42b9277377e2f3cc81777a2a74c7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV VOI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1780577239-0-0-739cea39349fdf166a9df3d3a3af3543
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV PEWPEW] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780592719-0-0-145247e0bf4b03eac3f25edc25c1ad64
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV VOI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780577239-0-0-2135833e9bab82c1b5626e42359a23c5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780592719-0-0-de6a1a077bf4861bdf3d53a2a1c2a344
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV VOI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780577239-0-0-74cb05c512e0228f1476488d6556fce1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780592719-0-0-b6199687001f5e7e7387d8bfd7a070b1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV VOI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780577239-0-0-078378c8fe33753143b39e26d86cf720
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780592719-0-0-0afd9d1cb8815094382ceb457beab590
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780577239-0-0-475a205fc896300de91fa6d458cde512
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV CÒ] (Socolive) flv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1780592719-0-0-8bbe7e88fd266434828428c06f00b41c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780577239-0-0-917cf06a27631142febb07d0f67d3b80
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780592719-0-0-bfd17ca15cda7c7630565add33f75527
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780577239-0-0-e670d8a39fd7e96e3d367dedd2770581
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780592719-0-0-d82b54aa13e7a46a95befe88f99be793
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780577239-0-0-481ae9c8b3321ac1bff0c6da258f7ad3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780592719-0-0-e075e13daf421547cc784451da90a8e7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV A WIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780577239-0-0-84d9e3239cffeb2a2e647d17c4670077
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [A CHÈ] (Socolive) flv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780592719-0-0-7cdb21b35dbfd5fbbbfbfc059697ae98
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV A WIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780577239-0-0-eeb3b5d393b17f164517da20a2aa7499
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780592719-0-0-9063ec3a48fc96fa2e61109633b9a3f3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780577239-0-0-58d87ba1ae0e2b48ed961c59d8ea21e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780592719-0-0-31eed9cdbde1f575ca0d750d0e3f7fc7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780577239-0-0-8020e80a5b082155cc8cb9158198ec35
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780592719-0-0-d3d5cba4b729657986bcab4feabdee68
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BEN 10] (Socolive) flv
-https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1780577239-0-0-88076e0ca09b25e10421d2b914ef6f4f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780592719-0-0-a6169cb439257587c8546d34544af216
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BEN 10] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1780577239-0-0-f7f7052ec2e77a80644860c2b35dc170
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780592719-0-0-1ecee4a5957c0ce0475cdc63b4b7fe54
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BEN 10] (Socolive) m3u8
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780577239-0-0-f9288e94071a1049fbd84da8f3be926f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780592719-0-0-02fd9f9fce2088afbba5965b1a21067d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BEN 10] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780577239-0-0-5e3377675715ea689c8a40ed3e39f8b1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780592719-0-0-3fb4bc33e79c4cd65373e25fe83a4c56
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV 24H] (Socolive) flv
-https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1780577239-0-0-73d53215112779851134bc572d087745
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780592719-0-0-f8972c48577c9acf3fd7d556227e4cb1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV 24H] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1780577239-0-0-25e4a9d622ce26ec20d6c1154730bbb6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780592719-0-0-7673ac2edbebef9237e6afe8e1fde1ba
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV 24H] (Socolive) m3u8
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1780577239-0-0-7d2501c9d96ef5c79f48afc3ef00d64e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780592719-0-0-cc50d19ab8a8ef14da0e4dc7307ee902
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV 24H] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780577239-0-0-b9f9a02d86dde2cb354188c5f1e6e3c8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780592719-0-0-2bb806f878d3f7e0f7d410bc217d3451
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV A TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780577599-0-0-df206f4145eae303c5bd3f8c77f8c762
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [THẠCH TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1780593079-0-0-eda21c94a1f41a720fe2defd1a2c7f54
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV A TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780577599-0-0-9b09a0e6175aeb2b9c0e4bb43f33f88c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [THẠCH TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780593079-0-0-b70b13e86f3110587ad60aece26d96c7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780577599-0-0-f3efed6d5b36e8dfdbb00f532ecb4ce4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [THẠCH TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1780593079-0-0-2015daab288bdf12e7e5219561a8063f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780577599-0-0-4033e7d2572d67ec5cf83249485cf678
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780593079-0-0-6274d0408b5333bab3769879faf38d93
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV GÔN] (Socolive) flv
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=3667cb3a152141bac48687291a4ce9ac&txTime=6a21bb8f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [LOKA] (Socolive) flv
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780593079-0-0-23199b3ff24628a5c0f6b0107a678805
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV GÔN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=d5bbdcec106565f0bb2d984e3f0e04a8&txTime=6a21bb8f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [LOKA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780593079-0-0-5db17667e198978af694d14078056a96
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV GÔN] (Socolive) m3u8
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=3667cb3a152141bac48687291a4ce9ac&txTime=6a21bb8f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [LOKA] (Socolive) m3u8
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780593079-0-0-d5cf38585feb42459a60a1033160935c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV GÔN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=d5bbdcec106565f0bb2d984e3f0e04a8&txTime=6a21bb8f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [LOKA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780593079-0-0-32143cc13f6edcaff154af55f4aafe81
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV CÁP] (Socolive) flv
-https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1780577599-0-0-b1c41f958fe99f5dd4df9720ad54fc4b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [VƯƠNG ANH] (Socolive) flv
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=161e61b7bfedb4dbdb1d638e809bb37c&txTime=6a21f807
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV CÁP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780577599-0-0-a60565614f3192d35ec30ec668356d2d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [VƯƠNG ANH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=606cc8e086a715983c9535f3ee4e94d1&txTime=6a21f807
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV CÁP] (Socolive) m3u8
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780577599-0-0-29f53383ad7ed1b87342e91103ce606c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=161e61b7bfedb4dbdb1d638e809bb37c&txTime=6a21f807
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV CÁP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780577599-0-0-650352ccdc353e91c99dcc0be16cb107
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=606cc8e086a715983c9535f3ee4e94d1&txTime=6a21f807
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Pasay Voyagers vs Batang Kankaloo [HUNTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780577599-0-0-3536b65918384e4154e86249b0f1ca3a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV FIREMAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780593079-0-0-832d54286d8d4d11a34c16757057063f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Pasay Voyagers vs Batang Kankaloo [HUNTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780577599-0-0-bf662c7d0fb5f324a05d7a94249fa83d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV FIREMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780593079-0-0-16769730a1a428529c5153b5e65eb9a7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Pasay Voyagers vs Batang Kankaloo [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780577599-0-0-f27431e8964872188b2ec7560ec898b3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780593079-0-0-b2cbf3f62ec02365ff423ad2af6e3627
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Pasay Voyagers vs Batang Kankaloo [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780577599-0-0-1906d8b2092dd52ecda8eb1d163a07eb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780593079-0-0-cd63a0b6040dd7a3aa9ae8a1aadc9a94
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV HÚP] (Socolive) flv
-https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780577599-0-0-3640afda25cb85c11a677083c777480f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ACB: Barcelona vs Murcia [KING] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780593079-0-0-fb1231d51557e7e5e0997732a7441c24
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV HÚP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780577599-0-0-bc2ec8514746d817dd4ae5885d9aa77d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ACB: Barcelona vs Murcia [KING] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780593079-0-0-1f8bdbceb4ca0cd870a320b9d147e904
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV HÚP] (Socolive) m3u8
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780577599-0-0-218647cf47be873fafc2d1229d7ffc42
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ACB: Barcelona vs Murcia [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780593079-0-0-c78465447885b21c00b7c58e584d7413
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Cambodia vs Bhutan [BLV HÚP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780577599-0-0-6ec6f4811aaf2096f8efb83b5bd8606d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [BLV PICK] (Socolive) flv
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1780577959-0-0-a26968102e42d51e60c7669c5184a667
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [BLV PICK] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780577959-0-0-1b764b29319ce50eb71439004bce96f1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [BLV PICK] (Socolive) m3u8
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780577959-0-0-951e515fbb225cc7a70e7c35bdc7306e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [BLV PICK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780577959-0-0-522917a65a3fd75338a0a36455db8fbb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [XUÂN SON] (Socolive) flv
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=472eb7dc8996d0f610d5ddf21741fe7a&txTime=6a21bcf7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [XUÂN SON] (Socolive) hdFlv
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=1e1068a4f8690fe9da992286badc7eef&txTime=6a21bcf7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=472eb7dc8996d0f610d5ddf21741fe7a&txTime=6a21bcf7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 04/06 Maldives vs Pakistan [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=1e1068a4f8690fe9da992286badc7eef&txTime=6a21bcf7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV LION] (Socolive) flv
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1780577959-0-0-133c523804fe74531aac7e291d91b0f7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV LION] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780577959-0-0-23c4ee562ba0c6214af973c873f69c87
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV LION] (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1780577959-0-0-b0345c037a523fd2c015e0d48b02879e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 04/06 Belgium U17 vs France U17 [BLV LION] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1780577959-0-0-16b587c69ef3251e5c874221cb0442a8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ACB: Barcelona vs Murcia [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780593079-0-0-eda653ad51e8eb1a3c0ae87eae089d93
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780577959-0-0-5af1e4a39779c91caadc3468a1c3af1d
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780593079-0-0-fddcb260685ae4eeaa648b498354c2fa
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780577959-0-0-81370aae6a0165df7e7a634684782906
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780593079-0-0-946bd508ebb29ad02316a50dd78a656e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780577959-0-0-26df2c4f0e106d5ff3d0c04b128b2c4f
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780593079-0-0-961f03f6e26529177a279d7105c95ab3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780577959-0-0-74830cf105879c3a72991142f02ad26a
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780593079-0-0-2a475af04ed405faff46934c0a3852a1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Philippines vs Guam Island [Sóc nhàm nhang nhồ] (Socolive) flv
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780577959-0-0-283aea0b57795327099672826ec6e168
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [BLV MESSI] (Socolive) flv
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780593439-0-0-f4384a76d77db208954ede38595a09ac
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Philippines vs Guam Island [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780577959-0-0-65b6a8641cd398335bd3a86d57c21578
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [BLV MESSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780593439-0-0-1ad7015e17257a6ba18765b21d6c141c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Philippines vs Guam Island [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780577959-0-0-249ec2f574ea7957414d5beca4d28807
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780593439-0-0-0890af943779812580ed9d87ba39e184
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Philippines vs Guam Island [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780577959-0-0-28a6e083dd8164c901aa2f78b512fc9e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780593439-0-0-c90b73e255618f96a65be4a482bb7bb4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 04/06 Trung Quốc vs Thái Lan (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [BLV KEM] (Socolive) flv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780593439-0-0-5480ada7ead2b9f0af274d664b448c11
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 04/06 Trung Quốc vs Thái Lan (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [BLV KEM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780593439-0-0-95920191a61749f5c60c07a385982113
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 04/06 Cambodia vs Bhutan (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [BLV KEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780593439-0-0-d20f46b111f950be7cdf90a80eb98c2f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 04/06 Cambodia vs Bhutan (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780593439-0-0-7fc8606dffea685d531015d4ef006325
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [A BỆU] (Socolive) flv
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780593439-0-0-304b249e57066ab82a89ca53d7255d6f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [A BỆU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780593439-0-0-25bf186511da07ee0a80f4a4039a4bf8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 04/06 Maldives vs Pakistan
-https://live05.msdht.app/live/90725470.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780593439-0-0-fb576b886b4ad5002cf782fa32b07a53
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 04/06 Campuchia vs Bhutan
-https://live05.msdht.app/live/33982309.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",ASIAN CUP: Lebanon vs Yemen [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780593439-0-0-ec1fed351751916e16682d13ec4719e3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV COZY] (Socolive) flv
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780593439-0-0-bc9a2c8bd95e5935fc6d71e2b5982b93
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV COZY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780593439-0-0-41aa9f79d281f3ddba840433046cb674
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV COZY] (Socolive) m3u8
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780593439-0-0-3b26f62b15ccd96c98f7cbb6d2a05ebb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 04/06 Slovenia vs Cyprus [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780593439-0-0-0ebd315fc337a215d636474feaa4e4c5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780593439-0-0-c30a0fca148433b0f215773f76a02598
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780593439-0-0-7b9942dd4e3faf3df53740b1af42882e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780593439-0-0-72431cb6fc99375845cdaace5b0dd644
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: CSKA Moscow vs Unics Kazan [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780593439-0-0-18ae380eb9e0392d74531c8cd9d82a8a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 04/06 Northern Ireland vs Guinea (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 04/06 Northern Ireland vs Guinea (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 04/06 Diana Shnaider vs Maja Chwalińska (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 04/06 Diana Shnaider vs Maja Chwalińska (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 04/06 Slovenia vs Cyprus (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 04/06 Slovenia vs Cyprus (Hội Quán) SD
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 04/06 Liban vs Yemen
+https://live05.msdht.app/live/08552895.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 04/06 Bắc Ireland vs Guinea
+https://live05.msdht.app/live/14830711.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 04/06 Slovenia vs Đảo Síp
+https://live05.msdht.app/live/43612277.m3u8
 
