@@ -1,61 +1,193 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png",20:00 | Philippin vs Uzbekistan
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/330px-Flag_of_Lebanon.svg.png",11:00 | Liban vs Indonesia
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/19152.png",16:00 | Myanmar U19 vs Vietnam U19
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/19152.png",16:00 | Myanmar U19 vs Vietnam U19
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/26603.png",Văn Hiến vs Sanna Khanh Hoa
+https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/19152.png",Myanmar U19 vs Vietnam U19
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/19152.png",Myanmar U19 vs Vietnam U19
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 04/06 Seattle Storm W vs Phoenix Mercury W (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 04/06 Bay Hawks vs Nelson Giants [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780565719-0-0-a3a5c9ee9308cc463ee68edeb72347f8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 04/06 Bay Hawks vs Nelson Giants [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780565719-0-0-976931503b66a9cd7684aa0260776c9e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [LOGAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780565719-0-0-0692d909e6e763e667fd8b0e3c1783a2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [LOGAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780565719-0-0-daf33ed1adb612073da6666d91423ca8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780565719-0-0-d5af8fc0a4c13cb8e359eaa4c82d056e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780565719-0-0-aa9fc8585040f93782911be5ff640e80
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV CUỘI] (Socolive) m3u8
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780565719-0-0-1dfdde255ba0eee1fd357435161cadcc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV CUỘI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780565719-0-0-a2aca2fee35a009c42a7f618cdb6a64e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780565719-0-0-e6d54b593d9c9e4867adec633979ac75
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780565719-0-0-7b1ddf57faf5385fc0326efae131d3a4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Van Hien University vs Khatoco Khanh Hoa [BLV CHIVAS] (Socolive) m3u8
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=1cc04c70e1f21bb8635a1ba56d500afe&txTime=6a218d27
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Van Hien University vs Khatoco Khanh Hoa [BLV CHIVAS] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=032813b4cc5bba7fd3a4b9c19d326e45&txTime=6a218d27
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Van Hien University vs Khatoco Khanh Hoa [BLV GIÓ] (Socolive) m3u8
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1780565719-0-0-80b506d200da9d745407b517026be307
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Van Hien University vs Khatoco Khanh Hoa [BLV GIÓ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1780565719-0-0-2c0148943a6e4a2941e80e03d21ff92b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Van Hien University vs Khatoco Khanh Hoa [BLV RYO] (Socolive) m3u8
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780565719-0-0-c0ddd2335742ef976e09121d99246b79
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Van Hien University vs Khatoco Khanh Hoa [BLV RYO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780565719-0-0-35ddc01ba63a25e838bc4911c8e21932
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [LÃO LÂM] (Socolive) m3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780566079-0-0-1606962fed57b701bd18fa44df8c43e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780566079-0-0-b0fb30d37536a4361f174ff14e5f5758
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=0c8d0cd68bb022665aa1d2cb35646863&txTime=6a218e8f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=55eb70fdb5e77648dc703c87d30cf95d&txTime=6a218e8f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=b0275c563150c641970ec82530f8b122&txTime=6a218e8f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=0e04d97b75f90fc317384442ba55b99b&txTime=6a218e8f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780566079-0-0-72e38e320bda30b02cd8f3f044ed251e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780566079-0-0-8ac52f151b245c29ff745f8762dfdecf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 04/06 Bay Hawks vs Nelson Giants [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780566079-0-0-2c5248d46c617144ac3d9bd4b117ba38
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 04/06 Bay Hawks vs Nelson Giants [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780566079-0-0-46f0f2e78f12f8685fa50902cb920dfa
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 04/06 Bay Hawks vs Nelson Giants [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780566079-0-0-3ef86752ed71b6d84af392128786a7e4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 04/06 Bay Hawks vs Nelson Giants [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780566079-0-0-ae1269f659ca92e90983019be407e80d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780551319-0-0-290437e4e320042428a3dfa32f65fa75
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780566079-0-0-a984f754c4827b290f21c6cfd71adc4a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780551319-0-0-e8a759c6d946e4897e092653acc01592
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780551319-0-0-e430849ba571d4479873e4adf4fdf98d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780551319-0-0-7966313d5cd82c03e93c4cb5f8e78109
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780551319-0-0-af8873c2e56ba4d1edec487289cd452c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780551319-0-0-145422398d4813eb3c83a31e5c727838
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780566079-0-0-47177f9de355d525e185b92d4b6498b4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Philippines vs Guam Island [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780551319-0-0-fc9fe8bc790fb405037d5752c63f6711
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780566079-0-0-09c58c31fbaa4ec610737187791dcb98
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Philippines vs Guam Island [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780551319-0-0-69464e81a575596432702c25fbe563c7
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780566079-0-0-1325b9f01402459a675d9bf126470226
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Netherlands vs Algeria [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780551319-0-0-6cc92c9e2f688f284c2b5073ad1efc2e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=ae2a1266a8a4ccc5bf6e38f79c8d392b&txTime=6a218ff7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Netherlands vs Algeria [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780551319-0-0-a2be806a5e63a1aa74815724b70e470e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=ee69907b55a88bc800ab6d569fe38114&txTime=6a218ff7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780551319-0-0-1011489ac6fbae77176016bac93f077b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780566439-0-0-5fa74fe7778852224734d11ae9c9d816
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780551319-0-0-bc8df72052e5e9af7e2f68b95eb06cc8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780566439-0-0-0267737a444d3dc1ab36cb9bc71939ba
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780551319-0-0-fcefe89052894bff4dfda76a46d0bf13
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780566439-0-0-653610e8b49ff89b116d4aa45454813d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780551319-0-0-4b2cbf7779f8a435c9419e2ba358e729
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780566439-0-0-b495f68e85bacb51e85af60e029c8cb4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780566439-0-0-506a5bed01283025a58c7fc6b9960bd0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Myanmar U19 vs Vietnam U19 [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780566439-0-0-974942f4f79093572cced2316c769766
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 04/06 Bay Hawks vs Nelson Giants [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780566439-0-0-e6b161ab7a3986da05d9baf5fc3f5eb1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 04/06 Bay Hawks vs Nelson Giants [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780566439-0-0-8ddc1f9f7a9ca84dffeca908e269dfa2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 04/06 Bay Hawks vs Nelson Giants [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780566439-0-0-699cf95ad729eb94852f3caddee66517
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 04/06 Bay Hawks vs Nelson Giants [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780566439-0-0-48215d0e367e06cc21465cf131c39329
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Van Hien University vs Khatoco Khanh Hoa [BLV A TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780566439-0-0-d90c4c782e026f3df72ddb0e31b221c9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 04/06 Van Hien University vs Khatoco Khanh Hoa [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780566439-0-0-21253547acdf8ffb0da9cd87b9e20346
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 04/06 Myanmar U19 vs Vietnam U19 (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 04/06 Myanmar U19 vs Vietnam U19 (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 04/06 Myanmar U19 vs Vietnam U19 (Hội Quán) FHD
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 04/06 Myanmar U19 vs Vietnam U19 (Hội Quán) SD
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 04/06 Myanmar U19 vs Vietnam U19 (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 04/06 Myanmar U19 vs Vietnam U19 (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 04/06 Bay Hawks vs Nelson Giants
+https://live05.msdht.app/live/87379114.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 04/06 Myanmar U19 vs Việt Nam U19
+https://live05.msdht.app/live/24561735.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 04/06 Đại học Văn Hiến vs Khánh Hòa
+https://live05.msdht.app/live/02456966.m3u8
 
