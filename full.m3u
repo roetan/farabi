@@ -14,14 +14,14 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",07:30 | San Antonio Spurs - New York Knicks
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/9.png",02:00 | Spain vs Iraq
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",02:10 | France vs Ivory Coast
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",02:10 | France vs Ivory Coast
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Belarus_%28variant%29.svg/250px-Flag_of_Belarus_%28variant%29.svg.png",23:00 | Belarus vs Syria
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/317.png",17:00 | Kamatamare Sanuki vs Parceiro Nagano
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
@@ -32,10 +32,7 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/9.png",Spain vs Iraq
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Ivory Coast
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/19147.png",Brunei U19 vs Malaysia U19
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1546.png",Singapore vs China
@@ -44,65 +41,35 @@ https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1564.png",Thailand vs Kuwait
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/19154.png",Singapore U19 vs Thailand U19
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1571.png",Indonesia vs Oman
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LEO m3u
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 05/06 Millonarios (W) vs Independiente Medellin (W) (Lương Sơn) BLV MAYBACH m3u
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LEO flv
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 05/06 Millonarios (W) vs Independiente Medellin (W) (Lương Sơn) BLV MAYBACH flv
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LỮ BỐ m3u
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 05/06 Millonarios (W) vs Independiente Medellin (W) (Lương Sơn) BLV LÝ ỨNG m3u
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LỮ BỐ flv
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 05/06 Millonarios (W) vs Independiente Medellin (W) (Lương Sơn) BLV LÝ ỨNG flv
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LƯU BỊ m3u
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 05/06 FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi (Lương Sơn) BLV QUAN VŨ m3u
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV LƯU BỊ flv
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 05/06 FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi (Lương Sơn) BLV QUAN VŨ flv
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV PHI HỔ m3u
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 05/06 FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi (Lương Sơn) BLV FERNANDO m3u
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Lương Sơn) BLV PHI HỔ flv
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 05/06 Hassania Agadir vs Union Touarga Sport Rabat (Lương Sơn) BLV GẤU KA m3u
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV VƯƠNG LUÂN flv
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV HÀN TÍN m3u
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV HÀN TÍN flv
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV PELE m3u
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV PELE flv
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV DƯƠNG CHÍ m3u
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Lương Sơn) BLV DƯƠNG CHÍ flv
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 Sao Luis MA vs Tupan MA (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 Sao Luis MA vs Tupan MA (Lương Sơn) BLV TRIỆU TỬ LONG flv
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 05/06 FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi (Lương Sơn) BLV FERNANDO flv
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -118,54 +85,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/max.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/ngokhong.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Ivory Coast (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h30 ngày 05/06 Turkey W vs Netherlands W (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
@@ -215,6 +134,18 @@ https://gckc0525.edgemaxcdn.org/live/caucahd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei U19 vs Malaysia U19 (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/caucahd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 05/06 Singapore vs China (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 05/06 Singapore vs China (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/max.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 05/06 Singapore vs China (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 05/06 Singapore vs China (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 
@@ -227,6 +158,30 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 05/06 Belarus vs Syria (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 05/06 Belarus vs Syria (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/ngokhong.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 05/06 Belarus vs Syria (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 05/06 Belarus vs Syria (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -236,185 +191,89 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV KEM] (Socolive) flv
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780603879-0-0-b30c7f825adcdbf7bef0f6b6e3662dcf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV KEM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780603879-0-0-c3719bf257429302e44c52757d2d6ecd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV KEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780603879-0-0-6f56bbf9947c5801f57f2c46dd4eef70
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV KEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780603879-0-0-5c284d2fffbf3bdf08d29afcefbad001
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) flv
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780603879-0-0-8c906672f6a2754de0490d30b122ac68
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780603879-0-0-84d8a8b606d4860659fab9916d3f5ba1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780603879-0-0-9aac762d4af7087373eb44d56c30c364
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780603879-0-0-d854fe9efb456287292f2b47c098dcc2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) flv
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780603879-0-0-b4083aea07a892b45453cbaf8b7416d5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780603879-0-0-13702ed3c6201d364cad025e718580a9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780603879-0-0-8003e28676eec6ed96f3303a9ce4f316
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780603879-0-0-aa511d7b16156bf3cb819a79dcd581e2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) flv
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1780604239-0-0-bd694c161ffdc8f0d4b12d5c12e2c239
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780604239-0-0-cb2e4f207726cb36e3b0c0bcc0b26c71
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780604239-0-0-b190ad6d3328e0adec4dbd0d90c035a3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [LOKA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780604239-0-0-7042f3600c9c2b9b7d23bfa1bed4601f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780604239-0-0-18ddb6f628926430641f65e12004e682
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780604239-0-0-edd1343cf8d13b4757373cbc96014612
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780604239-0-0-abaee681479020be3b8bad7a854af72e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780604239-0-0-c764cae195357f66233735b6ffa38e01
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780604239-0-0-ace1775740adf5d43da7c0c263d5f01b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780604239-0-0-c0c0a3def828e8653681a1039797b489
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780604239-0-0-456707f3ddbba7fb723811aa8a108eb4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780604239-0-0-422c4019ef54355ce83fc38e46bd0842
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) flv
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1780604239-0-0-0cc4210b2f4d88354c9e14acdccaa38f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780604239-0-0-b7c63b01b682846a5f2cb78f51ffc298
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780604239-0-0-8aa72088097860e5d6fb829ebd23654b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780604239-0-0-d0e095ef03fe4ed052b8b89981264042
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780604239-0-0-a3317310251133348cd736b43a5963bb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780604239-0-0-aebb763d7f6ccbb99d1897dcc4770e80
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780604239-0-0-c3c5cca03ab4b5491a5192ba5485b8a0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780604239-0-0-2bda252fcc7101bc02f836ee60383478
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [NGƯỜI CÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780604239-0-0-cd263904582f85debfcacd7020046a3c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [NGƯỜI CÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780604239-0-0-89f9572c83eabf6e25fe4c901955a9f7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780604239-0-0-fae937139dff6456ca3543fd8a68bc0c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780604239-0-0-d53924b5bf763b63e704f4a83bb83eec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1780604239-0-0-c906f2896420502e3718753ea6fade6d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780604239-0-0-76060eb2e319f390822af8fdbc31c98c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780604239-0-0-2d0c521f9953d0da640177edc59f12c6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 05/06 France vs Cote d'Ivoire [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780604239-0-0-0c11992320976912c3e340e6d4354ec8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780604239-0-0-7eb1a1edec8c6a137564abd9316da146
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780604239-0-0-c26688118708ef513fceae385f8872ec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780604239-0-0-df42aeb08bbb904b4d652295b4cd657f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780604239-0-0-d6e48749c3d0ec54fba3db5eb20cc8e2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) flv
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=0d8a7f18e6cb5566f2b20fd6cd05d7fa&txTime=6a222507
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=4b14041616299498cd90fd21560a7f47&txTime=6a222507
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=0d8a7f18e6cb5566f2b20fd6cd05d7fa&txTime=6a222507
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [VƯƠNG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=4b14041616299498cd90fd21560a7f47&txTime=6a222507
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) flv
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780604599-0-0-252e36f789adf1769960e40efde0e1c3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780604599-0-0-4acfa84457c52bdc726b458831d88909
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780604599-0-0-d581f5847f0623bb6cf4d69102236386
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 05/06 Spain vs Iraq [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780604599-0-0-fd4feace8a821179cd03904bbcf380b5
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780604599-0-0-314fb81fee2c86d80adec9f49f8d9519
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780612159-0-0-e6dd7e70dbc2e4d787681b6f0b43425e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780604599-0-0-7f748c9c3c108dd3917ec1fa7d2b2881
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780612159-0-0-fd32803cc40b5d248df76ee8a59d85c3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780604599-0-0-3011b4129d9ba4b2fa278f7ad2baf182
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780612159-0-0-b334c0af2e49369dfa65dd3c582ad67d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780604599-0-0-10a9329d8382f4a49cd00100892aacbb
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780612159-0-0-2e765bcc5a9d7c56a25c86a7dbc10e17
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 05/06 Spain vs Iraq (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) flv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1780612519-0-0-60ce1edc103e26f6edf10c297ad33894
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 05/06 Spain vs Iraq (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1780612519-0-0-e4447e79943c9114ef2a5c7b542a2b11
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 05/06 Spain vs Iraq (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780612519-0-0-073e3215782d49fb3eab633f75adc415
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 05/06 Spain vs Iraq (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780612519-0-0-8259aab05de97a03e6d1def4063a287d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Netherlands vs Algeria [Sóc mèo méo meo] (Socolive) flv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1780612519-0-0-c09f4b8f92593ee0ca7bc9c055015f5b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Netherlands vs Algeria [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1780612519-0-0-6ce36b828ff73765f037325b6bb5f7ff
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Netherlands vs Algeria [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780612519-0-0-ef4fa1e02bc951edf531a6ff78af63c7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Netherlands vs Algeria [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780612519-0-0-aba1c2629ccc626249ed75fd5d9868d5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1780612519-0-0-37407630bf3ef13c05acd3ac34321e7a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1780612519-0-0-8be70170dda9bdb3d27dc77ad4f19cac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780612519-0-0-afd187c96cfb642d982c336c257c321e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780612519-0-0-4e212dec81d25b50b2ba24d9fdd78e92
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 [Sóc trong rừng xà nu] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780612519-0-0-5cc9aabb6f611e25cd3d9b9fdc877f3f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 [Sóc trong rừng xà nu] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1780612519-0-0-85757544f9ad09f30a829fdc200a554c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780612519-0-0-215e6137f4041376ea0aecb29e95b6b2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780612519-0-0-c347a26b247cfdd11e2ab4df066191d2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Philippines vs Guam Island [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780612519-0-0-913e7d26ae4ea4a60204797484c61f53
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Philippines vs Guam Island [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780612519-0-0-53f9aee2bee010a87e13659c34aeae33
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Philippines vs Guam Island [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780612519-0-0-755389e54cf9bd75181b59cd56a3dd1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Philippines vs Guam Island [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780612519-0-0-acb7f81bb42d3df0de008ed97121b6a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780612879-0-0-0d980a5ac5b18fe302edce6c87a410ff
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780612879-0-0-d0edb2e8636eb2b9b18cec223fa5639c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780612879-0-0-f650ef30d8ae147f6da0fd8575fa97b2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780612879-0-0-dc544eed70f540c3244e99164b2e5843
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 05/06 France vs Ivory Coast (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
@@ -428,9 +287,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 05/06 France vs Ivory Coast (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 05/06 Tây Ban Nha vs Iraq
-https://live05.msdht.app/live/97312754.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 05/06 Pháp vs Bờ Biển Ngà
-https://live05.msdht.app/live/24561735.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 05/06 FAR Rabat vs Difaa El Jadidi
+https://live05.msdht.app/live/87547578.m3u8
 
