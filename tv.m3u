@@ -1,58 +1,52 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/330px-Flag_of_Lebanon.svg.png",11:00 | Liban vs Indonesia
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 05/06 Anapolis FC vs SC Paysandu Para (Lương Sơn) BLV KAKA m3u
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 05/06 Anapolis FC vs SC Paysandu Para (Lương Sơn) BLV LƯU BỊ m3u
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780617199-0-0-935c544509a3329aec99152d886f3747
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780617199-0-0-e7c8ad40df8e3e084e3f7cd79cc5fe56
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780617199-0-0-7d7bff817bfcf3ceca2e7cce34f37012
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780617199-0-0-454070cfb2e720d617b2f0b7f3053431
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780617199-0-0-4b1711081d1b1d8d6ec274abaeefde9f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780617199-0-0-e90ba79169fb532c2609185b9e60d46c
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",07:30 | San Antonio Spurs - New York Knicks
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780617199-0-0-d1551243aa77da48bf0c169cded0a898
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780635559-0-0-ecc0ce25c32aebb2e61ad0a5f91639cf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780617199-0-0-f3bb570f45ac75d5f71ff6d34dc8cfb1
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780635559-0-0-0a7034b271ec279c23f530c8f1df0530
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780617559-0-0-c81f5ecae9c1c3d72ea4bb4b4ac61d65
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: ASIAN CUP - Lebanon vs Yemen [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780635559-0-0-1c49921cd1a1c7839a5e1e613bfb0e59
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 05/06 Indiana Fever W vs Atlanta Dream W [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780617559-0-0-353d13b3c79904cda60797826a7543d9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: ASIAN CUP - Lebanon vs Yemen [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780635559-0-0-3160c776161ac22717650ef57f5f421d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780617919-0-0-f56dba5b09394a4870dfaa75a54c33f7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780635559-0-0-59ba1d45617832178ad81cd5f0d56597
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780617919-0-0-adc74932a1a6a999540c90c807a1b103
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780635559-0-0-88b7700fe6c142b13a812c73516d624c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 05/06 Brazil vs Cộng Hòa Dominicana (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780635559-0-0-ab391a68017e40caec8d56d7f1a05604
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 05/06 Brazil vs Cộng Hòa Dominicana (Hội Quán) SD
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780635559-0-0-9534e804dfa20b8a77e98c7fd78f3b8b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 05/06 Indiana Fever vs Atlanta Dream
-https://live05.msdht.app/live/87379114.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780635559-0-0-3a0d22dd06f7940e50fb01dbb9266969
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 05/06 Cuenca Juniors vs CLB Macara
-https://live05.msdht.app/live/99121525.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780635559-0-0-2da5f67b3cb321438026ffb1c9627032
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Timor Leste U19 vs Indonesia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780635559-0-0-3e204631ca9acf83dd643a50f57073de
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Timor Leste U19 vs Indonesia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780635559-0-0-e265a1086efe7689a788366b32e90727
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780635559-0-0-15df4935ef807b0fa5ca97d2f2c736ac
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780635559-0-0-9999f8299408653139a9afa8f96d87a2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 05/06 Đ (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 05/06 Đ (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
