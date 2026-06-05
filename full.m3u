@@ -47,11 +47,8 @@ https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1571.png",Indonesia vs Oman
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h13 ngày 05/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY m3u
-https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h13 ngày 05/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY flv
-https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h15 ngày 05/06 Bentleigh Greens (W) vs Boroondara Eagles (W) (Lương Sơn) BLV GẤU KA flv
+https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -68,18 +65,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 05/06 Belgium W vs Czech Republic W (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 05/06 Belgium W vs Czech Republic W (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 05/06 Belgium W vs Czech Republic W (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 05/06 Belgium W vs Czech Republic W (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei U19 vs Malaysia U19 (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/cauca/playlist.m3u8
 
@@ -91,6 +76,18 @@ https://gckc0525.edgemaxcdn.org/live/caucahd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei U19 vs Malaysia U19 (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/caucahd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 05/06 Serbia W vs Poland W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/cuchuoi/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 05/06 Serbia W vs Poland W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/cuchuoi.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 05/06 Serbia W vs Poland W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/cuchuoihd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 05/06 Serbia W vs Poland W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/cuchuoihd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 05/06 Singapore vs China (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
@@ -104,29 +101,65 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 05/06 Singapore vs China (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 05/06 Hong Kong vs Mongolia (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 05/06 Hong Kong vs Mongolia (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 05/06 Hong Kong vs Mongolia (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 05/06 Hong Kong vs Mongolia (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/troctru.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) HD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) HD2
 https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) FHD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) FHD1
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) FHD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 05/06 Thailand vs Kuwait (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Indonesia vs Oman (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Indonesia vs Oman (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Indonesia vs Oman (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Indonesia vs Oman (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Colombia U19 vs China PR U20 (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Colombia U19 vs China PR U20 (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Colombia U19 vs China PR U20 (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Colombia U19 vs China PR U20 (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 05/06 Singapore U19 vs Thailand U19 (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 05/06 Belarus vs Syria (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8
@@ -140,6 +173,30 @@ https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 05/06 Belarus vs Syria (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h30 ngày 06/06 Dominican Republic W vs Bulgaria W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/rockie/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h30 ngày 06/06 Dominican Republic W vs Bulgaria W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/rockie.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h30 ngày 06/06 Dominican Republic W vs Bulgaria W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/rockiehd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h30 ngày 06/06 Dominican Republic W vs Bulgaria W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/rockiehd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 06/06 Ukraine W vs Japan W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 06/06 Ukraine W vs Japan W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 06/06 Ukraine W vs Japan W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 06/06 Ukraine W vs Japan W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -149,93 +206,177 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) flv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780651759-0-0-0939f98ee6f040404117fb031b5fcb67
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780651759-0-0-4786a7e5087f8e5847573babae017f8f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780651759-0-0-fe1cc3bb2180e90250f90dfb2921f959
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780651759-0-0-b4890846115b553373027e8b48e766fc
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780635559-0-0-782513185a7a5b39b34ba4f42e329f67
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780651759-0-0-0a5906f1c9686cd0a2ef5f4e544396cf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780635559-0-0-37e600091e1cc73d256001b3a80e28b1
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780651759-0-0-e4725da4357c1e85d2f9e9764d660e78
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780635559-0-0-ecc0ce25c32aebb2e61ad0a5f91639cf
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780651759-0-0-0b496a3d4cd79b612bf0bab9c786568f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780635559-0-0-0a7034b271ec279c23f530c8f1df0530
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780651759-0-0-99719a58982481b10e35e71337df49a8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: ASIAN CUP - Lebanon vs Yemen [Sóc trong rừng xà nu] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780635559-0-0-d1cba25a9b572102acba8ec33d7dd094
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [CHAN SENA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780652119-0-0-ab3ef3122a783283473dda7c73096312
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: ASIAN CUP - Lebanon vs Yemen [Sóc trong rừng xà nu] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1780635559-0-0-5b55a478b31004a4871e33b47fa9e8fe
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780652119-0-0-1b0bdef7461b2806f6b425e548b4ce83
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: ASIAN CUP - Lebanon vs Yemen [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780635559-0-0-1c49921cd1a1c7839a5e1e613bfb0e59
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780652119-0-0-3e6fd45fc5f3d43db0378824fb129e8c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: ASIAN CUP - Lebanon vs Yemen [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780635559-0-0-3160c776161ac22717650ef57f5f421d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780652119-0-0-17ad254a0e7629b52ebb6f5daaba9221
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) flv
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1780635559-0-0-31c3de6074d488256b2809a52d298aa0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV TOMMY] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=b3b87745e43d738b9537b5ad7514cbac&txTime=6a22dea7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1780635559-0-0-25e066259471ca308807499e1abe338d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV TOMMY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=573e5c12481fbe4a1c59af2c22324f46&txTime=6a22dea7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780635559-0-0-59ba1d45617832178ad81cd5f0d56597
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=b3b87745e43d738b9537b5ad7514cbac&txTime=6a22dea7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Panama vs Dominican Republic [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780635559-0-0-88b7700fe6c142b13a812c73516d624c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=573e5c12481fbe4a1c59af2c22324f46&txTime=6a22dea7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) flv
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780635559-0-0-7f83f5b1e08113c70612dd967a8e6f03
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [DECO] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780652119-0-0-cd473f4e22ad137eb6dcb1ba73b5ae0d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780635559-0-0-17593fd0283a775cc56682b68d6312f9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780652119-0-0-ab1775a3251bb9d700697449db605102
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780635559-0-0-ab391a68017e40caec8d56d7f1a05604
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780652119-0-0-26ba00b16212fb7360a2284c3d797f8d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Luxembourg vs Italy [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780635559-0-0-9534e804dfa20b8a77e98c7fd78f3b8b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780652119-0-0-7d6f9a888dec3a4e754ff275fd46d6ed
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780635559-0-0-ee887f683cf46e97afddc22f2ce83934
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV PEWPEW] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780652119-0-0-3b5efdad4300e03716f6a7cbdbc26122
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780635559-0-0-02c063c581d50ce709513aa1ac3662f7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780652119-0-0-cbf02eb761c237a7958665328ff916bd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780635559-0-0-3a0d22dd06f7940e50fb01dbb9266969
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780652119-0-0-8945573614657cb1a8b13708c739df99
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - South Korea vs El Salvador [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780635559-0-0-2da5f67b3cb321438026ffb1c9627032
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780652119-0-0-6dbaf00c85726ce61dc8c7d6ac72100d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Timor Leste U19 vs Indonesia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1780635559-0-0-9c45b6c67fc5289663b9771282016918
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV ĐỐM] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780652119-0-0-ecacef5867add19dc61d1fc709742ab8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Timor Leste U19 vs Indonesia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1780635559-0-0-59037061599f4132432968cf6179a1c8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV ĐỐM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780652119-0-0-ae023312679f9526bbe951b429fcb0f5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Timor Leste U19 vs Indonesia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780635559-0-0-3e204631ca9acf83dd643a50f57073de
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1780652119-0-0-897e53c0163cbf597cf092ac62f7abab
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: AFF U19 - Timor Leste U19 vs Indonesia U19 [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780635559-0-0-e265a1086efe7689a788366b32e90727
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1780652119-0-0-c67a2d3f3fc58c0a44e122f36c1c0e1b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) flv
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1780635559-0-0-f7f254770d23d1b1864f9926d8f3074a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BLV HENRY] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780652119-0-0-d43964e150abe6ba280e929716a02a55
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1780635559-0-0-e66821f7aa59016dd87e505d739d93f7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780652119-0-0-7adbf7c62569ef6d8ee91d8d5b049bfa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780635559-0-0-15df4935ef807b0fa5ca97d2f2c736ac
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780652119-0-0-167ddbee3815ef3aa13b49f00266b6eb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Sweden vs Greece [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780635559-0-0-9999f8299408653139a9afa8f96d87a2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780652119-0-0-615bf39d8e414ee626529c4c9423026a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 05/06 Đ (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [KING] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780652119-0-0-c6dccb8628cca915da407e15f20e217a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [KING] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780652119-0-0-4f8fc2e9d4dbfc4365b29b9923ec0601
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780652119-0-0-b65e94002ae01cc7201bcf3322fe2469
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780652119-0-0-1f14a7c8c388788b601c90f1f1189027
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780652479-0-0-010f1278064b0cb287daeca283a6b997
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780652479-0-0-ceef0df5b789d666f1921008e0ac4d09
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780652479-0-0-1ad5c97c941bceceef80bb16f839016e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780652479-0-0-7ac9233f12a62dcd168bde96b662f0ad
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV COCA] (Socolive) flv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780652479-0-0-8d91bcb2a756923494a891ad0d6ca030
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780652479-0-0-8aeefb37ac53cdf2b023aa49bc13aae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780652479-0-0-231ea42641cd6f9ef4b24ef206e7f5fc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 05/06 Brunei Darussalam U19 vs Malaysia U19 [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780652479-0-0-99b06f1f7bfb6775401b0bcbd446c947
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780652479-0-0-de3e561f6b3fe40790b416af88a195c7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780652479-0-0-1aed510697d4b62081d9ca367525e07a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780652479-0-0-feb2b61970ca086335f74cc48cafa6a3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 ngày 05/06 Otago Nuggets vs Franklin Bulls [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780652479-0-0-04104962f3518fa0377e352bf979a242
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 Brunei U19 vs Malaysia U19 (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 Brunei U19 vs Malaysia U19 (Hội Quán) SD
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 TA (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 TA (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h30 05/06 Đ (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 05/06 Đ (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h30 05/06 Đ (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 05/06 Otago Nuggets vs Franklin Bulls
+https://live05.msdht.app/live/19919577.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 05/06 Brunei U19 vs Malaysia U19
+https://live05.msdht.app/live/14707124.m3u8
 
