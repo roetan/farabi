@@ -1,229 +1,169 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/250px-Flag_of_Georgia.svg.png",23:00 | Georgia vs Bahrain
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",14:00 | Iran vs Indonesia
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Belarus_%28variant%29.svg/250px-Flag_of_Belarus_%28variant%29.svg.png",23:00 | Belarus vs Syria
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/250px-Flag_of_Azerbaijan.svg.png",01:00 | Azerbaijan vs Malta
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1280px-Flag_of_Angola.svg.png",02:00 | Angola vs Mauritania
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsGYdVzScFGWPI8cMGqcXFqjPvNAD2L-Xyw&s",21:30 | Liquid vs Flyquest
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/769.png",Hungary vs Phần Lan
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1536.png",Tajikistan vs Ấn Độ
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1529.png",Angola vs Mauritania
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/773.png",Slovakia vs Montenegro
-https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 05/06 Tajikistan vs India (Lương Sơn) BLV TÔN LẬP m3u
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 05/06 Bosnia and Herzegovina (W) vs Lithuania (W) (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 05/06 Moldova (W) vs Romania (W) (Lương Sơn) BLV MAYBACH m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 06/06 Hungary vs Finland (Lương Sơn) BLV MAYBACH m3u
 https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 05/06 Paradou AC vs ES Setif (Lương Sơn) BLV LÝ ỨNG m3u
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 06/06 Azerbaijan vs Malta (Lương Sơn) BLV VƯƠNG LUÂN m3u
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 05/06 Tajikistan vs India [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780677679-0-0-3243b43559e07d7c75c27b1b328fedd4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 06/06 MC Alger vs ASO Chlef (Lương Sơn) BLV TÔN LẬP m3u
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 05/06 Tajikistan vs India [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780677679-0-0-775939694f1737f48fd29333f1b8d073
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 06/06 Hungary vs Finland [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780688479-0-0-4711ca23c4fd431b135479bc15b7ee71
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Georgia vs Bahrain [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780677679-0-0-1037cd3e77281382e24c86e4fa70ce81
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 06/06 Hungary vs Finland [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780688479-0-0-15536fbea0bc8beffb0e5b2f2abdac26
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Georgia vs Bahrain [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780677679-0-0-4c2e72c734439b6a83bb63ab7471923f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 06/06 Spain Women vs England Women [HẢI THANH] (Socolive) m3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780688479-0-0-3dddab14cd4aef7ffc8c9fa9815d0022
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 05/06 FC Haka vs JaPS [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=922f6cf50d22324604ddd9ab00fff22c&txTime=6a23427f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 06/06 Spain Women vs England Women [HẢI THANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780688479-0-0-9e076280aefbe50ebc12a01492094631
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 05/06 FC Haka vs JaPS [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=98669ec8a10c60bb45df30488c783b39&txTime=6a23427f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h35 ngày 06/06 Germany Women vs Norway Women [BLV LONG] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=59bc8ff70b3d179f80a0cbb9ac219718&txTime=6a236caf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Ukraine Women vs Iceland Women [QUỐC KHÁNH] (Socolive) m3u8
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780677679-0-0-a1dc9877dfb595fb38dbff69c7e82527
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Ukraine Women vs Iceland Women [QUỐC KHÁNH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780677679-0-0-bb3706ef6ccdcbc9fa893fe172231dd8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h35 ngày 06/06 Germany Women vs Norway Women [BLV LONG] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=138882dea1e02815b2f12270d722b4d1&txTime=6a236caf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780677679-0-0-a0c402c8fe1d78280dc5707e11b4e59f
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780688479-0-0-d283fa7a360a451dbe197891d9b4a77a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780677679-0-0-c447986a065aee7a16c42feacf21529f
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780688479-0-0-693b224283760e43a8301811480e2434
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 05/06 Tajikistan vs India [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780678039-0-0-e93119a73c663ba5589ef65cd54a4193
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 06/06 Hungary vs Finland [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780688839-0-0-2caf594845afcf8ff2fd6e933f84e192
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 05/06 Tajikistan vs India [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780678039-0-0-c0aecd1cceac8679b9b1547ae1912e5a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 06/06 Hungary vs Finland [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780688839-0-0-5cd17ce037ab0d78a319f66530c4968f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Poland Women vs France Women [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780678039-0-0-fa973cf6be691843153fc9efcdb0dcab
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 06/06 Russia vs Burkina Faso [CR Bưởi] (Socolive) m3u8
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780688839-0-0-2e31d8f96fdeb32db90073ad2ade087e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Poland Women vs France Women [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780678039-0-0-184c6146bdef11538cac7843eefd7033
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 06/06 Russia vs Burkina Faso [CR Bưởi] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780688839-0-0-3d23568e3a4259aade5a835a6915dde2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Poland Women vs France Women [BEN 10] (Socolive) m3u8
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780678039-0-0-2995c2dde93cacc939bacee354778231
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 06/06 Hungary vs Finland [CÔNG CHẤT] (Socolive) m3u8
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780688839-0-0-83f965f1c87963c7b8d5dbb646bcd687
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Poland Women vs France Women [BEN 10] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780678039-0-0-609b8a24cce14957e186dd13687ca3a0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 06/06 Hungary vs Finland [CÔNG CHẤT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780688839-0-0-f46b6237f076d39245e9525f2555b80e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Poland Women vs France Women [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=bbe17cd3b64a3ebb72789e697ef088d5&txTime=6a2343e7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 06/06 Ireland Women vs Netherlands Women [BLV HÚP] (Socolive) m3u8
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780688839-0-0-405eb6221c7a16112d5b68bee0390cf0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Poland Women vs France Women [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=93bd8a843913230230c3c0551e7fe3b2&txTime=6a2343e7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 06/06 Ireland Women vs Netherlands Women [BLV HÚP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780688839-0-0-4e1b77d13423e46c7c798a0439f5d57a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Giao hữu: Belarus vs Syria [CƠM CHÁY] (Socolive) m3u8
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780678039-0-0-a877d1ab9e0c808b654fbd0bb9439449
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 06/06 Spain Women vs England Women [BLV BÉO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=b6dd741234a3e343527a77dd9d98b76e&txTime=6a236e17
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Giao hữu: Belarus vs Syria [CƠM CHÁY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780678039-0-0-9ee01351056e5de0a502403f2d0c0903
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 06/06 Spain Women vs England Women [BLV BÉO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=11a3c655a8d37d142e8ab36a278218a1&txTime=6a236e17
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Italy Women vs Serbia Women [KÉP] (Socolive) m3u8
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780678039-0-0-c6320c525fb52ec52ef39582805235de
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 06/06 Azerbaijan vs Malta [BLV RAMBO] (Socolive) m3u8
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=1543e220f8f95f7dc7f09384d44eef7c&txTime=6a236e17
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Italy Women vs Serbia Women [KÉP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780678039-0-0-f45739fcb57b170c56b3d91125cd5f45
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 06/06 Azerbaijan vs Malta [BLV RAMBO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=142dbf55a63df0560f15bdd2254a64f4&txTime=6a236e17
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Belarus vs Syria [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780678399-0-0-0924038422e92e9e0fbd8ef717e0c26f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h15 ngày 06/06 Denmark Women vs Sweden Women [BLV CHIVAS] (Socolive) m3u8
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=3beb0b212695f11c8323f8b488ab8693&txTime=6a236e17
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Belarus vs Syria [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780678399-0-0-555099be1315d6ce00af354dd9eb4fca
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h15 ngày 06/06 Denmark Women vs Sweden Women [BLV CHIVAS] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2fd839b1cb10160d78a5a17d79001f70&txTime=6a236e17
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 05/06 Azerbaijan Women vs Hungary Women [BLV BÉO] (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=bfbfef690bdc3a2df74b9bd22c6be5af&txTime=6a23454f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 06/06 Hungary vs Finland [BLV AB] (Socolive) m3u8
+https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780688839-0-0-0998c4c4d860b0529ba8d71995046c1e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 05/06 Azerbaijan Women vs Hungary Women [BLV BÉO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=cd59dd47b0b54eec9b958cc4e44150c2&txTime=6a23454f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 06/06 Hungary vs Finland [BLV AB] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780688839-0-0-849471c5c9421c806d452193cf699d81
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Georgia vs Bahrain [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780678399-0-0-b744b9e1300992115590be07a36d114f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 06/06 Ireland Women vs Netherlands Women [BLV A WIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780688839-0-0-89ea298e3aa643aa6a0cc6aeb33207d1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Georgia vs Bahrain [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780678399-0-0-72f4916725e4418d1235cdf74870c2a2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 06/06 Ireland Women vs Netherlands Women [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780688839-0-0-27781f3b4988637f9b3a24950f443f70
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Georgia vs Bahrain [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780678399-0-0-8252713e413201eb4dc2289f00b6798b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 06/06 Spain Women vs England Women [BLV WUKONG] (Socolive) m3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780688839-0-0-a57ca71bf853d3e82ad43cea776027e8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Georgia vs Bahrain [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780678399-0-0-c64499953ededc7a06ca2cd8b49778d5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 06/06 Spain Women vs England Women [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780688839-0-0-d38ae1fe43561594cedd17d30c659ff7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Georgia vs Bahrain [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780678399-0-0-32c2d1b171a0c29ecd11c205444bafcd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 06/06 Spain Women vs England Women [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780689199-0-0-934aa708f1a3774cc8e9c27303c64092
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Georgia vs Bahrain [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780678399-0-0-be55e9db9f3ab39a68d9906ce393253f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 06/06 Spain Women vs England Women [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780689199-0-0-eb820bd2b9590baeba16577cdae5e3a1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 05/06 Tajikistan vs India [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780678399-0-0-4b56c1c680a6cf4c66e7b07f4e92331b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 06/06 Hungary vs Finland [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780689199-0-0-e99ec55e59cce11f5a5a7d33bf558991
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 05/06 Tajikistan vs India [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780678399-0-0-48eee4a3fe17ee4a168b215165f322bd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 06/06 Hungary vs Finland [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780689199-0-0-5db92636bd8cf341ad5954bc81d29e7b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 05/06 Armenia Women vs Kazakhstan Women [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780678399-0-0-ecb77ac6cdf3e7a468e2723b268ee706
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 06/06 Spain Women vs England Women [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780689199-0-0-25ce66c39b2accb8365b188f09b8d906
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 05/06 Armenia Women vs Kazakhstan Women [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780678399-0-0-55614aeebced2091f2cb61e8a782c6df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 06/06 Spain Women vs England Women [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780689199-0-0-06feef120616c9c49f94b3a88f3ebcc8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 05/06 Tajikistan vs India [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780678399-0-0-f4f09370089e60c0bcb2879f8eb9a7c0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 06/06 Azerbaijan vs Malta [CƠM CHÁY] (Socolive) m3u8
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780689199-0-0-8b58027864294ee601903a690f05fd40
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 05/06 Tajikistan vs India [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780678399-0-0-912585f852f37f349f58042547b90952
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 06/06 Azerbaijan vs Malta [CƠM CHÁY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780689199-0-0-f5bc53f0a67133d2d677bac4a60b8a9d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Georgia vs Bahrain [LOKA] (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780678399-0-0-c90d847a2c710b81e62d95f39083d092
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 06/06 Hungary vs Finland (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",INTERF: Georgia vs Bahrain [LOKA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780678399-0-0-b606ab04103610714dd2baa738640c69
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 06/06 Hungary vs Finland (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D2: Käpylän Pallo vs KTP Kotka [A PÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780678399-0-0-1063248048c6de8239df41bd882a8d30
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D2: Käpylän Pallo vs KTP Kotka [A PÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780678399-0-0-95cf6c4973499f756bdeca4e33154abf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 05/06 FC Haka vs JaPS [BLV LONG] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=80348b6942658797c7952302f52e45fc&txTime=6a23454f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 05/06 FC Haka vs JaPS [BLV LONG] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=31c7717d92e7b2dfcc1830182b2b6eb3&txTime=6a23454f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Austria Women vs Slovenia Women [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=53c7f9ccc019011349bdf18cb8ba8f4b&txTime=6a23454f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Austria Women vs Slovenia Women [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=3a6fbe37e65ce08a4ad7cf03fc2d3658&txTime=6a23454f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Austria Women vs Slovenia Women [BLV GÔN] (Socolive) m3u8
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=f062ea896478b3d33ac83cc8a61de482&txTime=6a23454f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Austria Women vs Slovenia Women [BLV GÔN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=6417f59dad3c073b971c3763668b475c&txTime=6a23454f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Poland Women vs France Women [BLV CÁP] (Socolive) m3u8
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780678399-0-0-6167454c312744ef769bea29dfdb9669
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Poland Women vs France Women [BLV CÁP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780678399-0-0-de7dbb94642555c373cec0c9126be3f3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Ukraine Women vs Iceland Women [BLV A TINH] (Socolive) m3u8
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=5d717b0660e2c548460e5eb34b1e8f09&txTime=6a23454f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Ukraine Women vs Iceland Women [BLV A TINH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=bb3029b5f04ceb7ac34f51d50013c091&txTime=6a23454f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D2: Käpylän Pallo vs KTP Kotka [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780678399-0-0-0cf93ee62a6dea6dcd97a2269763b5e6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",FIN D2: Käpylän Pallo vs KTP Kotka [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780678399-0-0-f85ceb55235ed36964872dff1a33d154
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Italy Women vs Serbia Women [TRÀ ĐÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780678399-0-0-14ff4a55981f053317d5b1b6666357cd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WWCPE: Italy Women vs Serbia Women [TRÀ ĐÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780678399-0-0-32922fcb3f7541fdbc11ad63b4974e7c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 05/06 Georgia vs Bahrain (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 05/06 Georgia vs Bahrain (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 05/06 Belarus vs Syria (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 06/06 Azerbaijan vs Malta (Hội Quán) FHD
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 05/06 Belarus vs Syria (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 06/06 Azerbaijan vs Malta (Hội Quán) SD
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 05/06 Liquid vs Flyquest (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 06/06 Angola vs Mauritania (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 06/06 Angola vs Mauritania (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 06/06  NRG vs BIG (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 05/06 Liquid vs Flyquest (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 06/06 Hungary vs Phần Lan
+https://live05.msdht.app/live/87547578.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 05/06 Bosnia & Herzegovina Nữ vs Lithuania Nữ
-https://live05.msdht.app/live/19919577.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 05/06 Georgia vs Bahrain
-https://live05.msdht.app/live/33982309.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 05/06 Belarus vs Syria
-https://live05.msdht.app/live/87379114.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 05/06 Ba Lan Nữ vs Pháp Nữ
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 06/06 Ireland Nữ vs Hà Lan Nữ
 https://live05.msdht.app/live/24561735.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h35 06/06 Đức Nữ vs Na Uy Nữ
+https://live05.msdht.app/live/08552895.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 06/06 Tây Ban Nha Nữ vs Anh Nữ
+https://live05.msdht.app/live/43612277.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 06/06 Bồ Đào Nha Nữ vs Latvia Nữ
+https://live05.msdht.app/live/33982309.m3u8
 
