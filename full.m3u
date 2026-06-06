@@ -11,11 +11,11 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",07:30 | San Antonio Spurs - New York Knicks
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1280px-Flag_of_Portugal_%28official%29.svg.png",22:00 | Portugal U19 vs Greece U19
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/27.png",00:45 | Portugal vs Chile
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2384.png",01:30 | USA vs Germany
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/10.png",03:00 | England vs New Zealand
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
@@ -38,7 +38,7 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10343.png",Bồ Đào Nha U19 vs Greece U19
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/27.png",Bồ Đào Nha vs Chile
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/27.png",Bồ Đào Nha vs Chile
@@ -56,41 +56,65 @@ https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://becamexhcmcity.com/wp-content/uploads/2025/03/logo0-242x300.png",Becamex TP.HCM vs Hoàng Anh Gia Lai
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 06/06 Croatia U21 vs Ireland U21 (Lương Sơn) BLV LÝ QUỲ m3u
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 06/06 Croatia U21 vs Ireland U21 (Lương Sơn) BLV LÝ QUỲ flv
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LEO flv
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 06/06 Croatia U21 vs Ireland U21 (Lương Sơn) BLV MAYBACH m3u
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV KAKA m3u
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 06/06 Croatia U21 vs Ireland U21 (Lương Sơn) BLV MAYBACH flv
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV KAKA flv
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Ukraine U17 vs Latvia U17 (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LỮ BỐ flv
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV KEVILL flv
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV LƯU BỊ flv
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV TÔN LẬP m3u
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Lương Sơn) BLV TÔN LẬP flv
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 07/06 MC Oran vs USM Alger (Lương Sơn) BLV QUAN VŨ m3u
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 07/06 MC Oran vs USM Alger (Lương Sơn) BLV QUAN VŨ flv
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales (Lương Sơn) BLV TRIỆU TỬ LONG flv
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Ivory Coast U23 (Lương Sơn) BLV HÀN TÍN m3u
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Ivory Coast U23 (Lương Sơn) BLV HÀN TÍN flv
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg (Lương Sơn) BLV VƯƠNG LUÂN m3u
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Ukraine U17 vs Latvia U17 (Lương Sơn) BLV VƯƠNG LUÂN flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg (Lương Sơn) BLV VƯƠNG LUÂN flv
 https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Ukraine U17 vs Latvia U17 (Lương Sơn) BLV HEINEKEN m3u
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Ukraine U17 vs Latvia U17 (Lương Sơn) BLV HEINEKEN flv
-https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 06/06 Olympique Akbou vs ES Ben Aknoun (Lương Sơn) BLV PHI HỔ m3u
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 06/06 Olympique Akbou vs ES Ben Aknoun (Lương Sơn) BLV PHI HỔ flv
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 06/06 Olympique Akbou vs ES Ben Aknoun (Lương Sơn) BLV PELE m3u
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 06/06 Olympique Akbou vs ES Ben Aknoun (Lương Sơn) BLV PELE flv
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -119,6 +143,12 @@ https://gckc0525.edgemaxcdn.org/live/caucahd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Côte d'Ivoire U20 (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/caucahd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 07/06 Gibraltar vs Cayman Islands (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 07/06 Gibraltar vs Cayman Islands (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 
@@ -142,6 +172,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
@@ -191,6 +233,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 07/06 Germany W vs Japan W (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 07/06 Da Nang vs Thanh Hóa (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 07/06 Da Nang vs Thanh Hóa (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/max.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 07/06 Da Nang vs Thanh Hóa (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 07/06 Da Nang vs Thanh Hóa (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -200,184 +254,286 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV KEM] (Socolive) flv
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780764800-0-0-802768711d613df419de95d9398b5094
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV CÁO] (Socolive) flv
+https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780772000-0-0-8ab3ca5ca0a40cebd78b574f43036507
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV KEM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780764800-0-0-4e9fd719277d563b92c9bac9e7bdb309
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV CÁO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780772000-0-0-90241bcc59c074162aac423cb7a03113
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV KEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780764800-0-0-e571b2e2f45240db44ccee61adf6457d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV CÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780772000-0-0-f27f8df60553a562c1d196a7df349aa6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV KEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780764800-0-0-b4c053e5831f277f5d8d22047840b72a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV CÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780772000-0-0-da7256f0ca86a9a7d2360cd123d32a74
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV A WIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1780764800-0-0-86846576033d5f14988825fa7d981ada
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV 7UP] (Socolive) flv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780772000-0-0-4804e4b2fa69d844c20a326551dd9e35
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV A WIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780764800-0-0-5d7cd4ace57ece2c75fd1cd52560c059
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV 7UP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780772000-0-0-37b97c76394a20b20f97188fce4d689a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780764800-0-0-0f3119976c7a6f383d53d3827fb03b5a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780772000-0-0-54763f6c6a3d79a304943da6f01ff7f7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780764800-0-0-4f90f0ec18b4275886f7f3f4b5ec9cb4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780772000-0-0-60606b72af8c882fa25b0b32506542b0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV COZY] (Socolive) flv
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1780764800-0-0-f4f2667afa580efd7f82da790800b0c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV ALEX] (Socolive) flv
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1780772000-0-0-14ec4d62b3c1ca6dc7d9c36c1a7f4cec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV COZY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780764800-0-0-bdeb058e12aab8d05e7e4a51c90c6c19
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV ALEX] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780772000-0-0-3dca538b52c4b220232f82b85ca4a1d2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780764800-0-0-7d30e27fb0944626e3f43fc1f25d1d0f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780772000-0-0-647d012d661c6c4c8d78a4bb8506a44e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780764800-0-0-5d5018b50750e038c1228ddaed93e226
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780772000-0-0-b2504f871c4e1db7354f82e8ccbcd201
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV HÚP] (Socolive) flv
-https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1780764800-0-0-05359dd5e7f622e4dd0f0b60dcc1d69b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [THẠCH TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1780772000-0-0-b074e26aca6baa5372ee9fe3b6dddab9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV HÚP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780764800-0-0-8bdceff96cf4350f9c051dfa1aebb196
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [THẠCH TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780772000-0-0-d78fae29108736cdb054c4f3ef7f9530
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV HÚP] (Socolive) m3u8
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780764800-0-0-affe863d2acd9421380b958c2f14b074
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [THẠCH TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1780772000-0-0-2f047efed0771de4fc83426355da890e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV HÚP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780764800-0-0-0776037c84d8d968145787032c799ebc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1780772000-0-0-98741a2c9b4a7db96d77a37262cf34ee
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV AB] (Socolive) flv
-https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1780764800-0-0-5716c2dea66d6511dbff4c4d3cf050fb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [ĐỖ TÚ TÀI] (Socolive) flv
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780772000-0-0-1d9bf5d4cff868f0ef81828b8389ec34
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV AB] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780764800-0-0-586c2d64e5626b756f829b2b9c422164
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [ĐỖ TÚ TÀI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780772000-0-0-d60f52fa2aa574d2ea1d94edf3c2c9bb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV AB] (Socolive) m3u8
-https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780764800-0-0-53661a838a7545348b2ddcb171d19b6f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780772000-0-0-de3cba95b835bec138434ef627f279df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV AB] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780764800-0-0-3133a5d546119823c786edfebafbe8ff
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780772000-0-0-58af7984a1a4995a103efe8bd726807c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV CÁP] (Socolive) flv
-https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1780764800-0-0-a959ea8b3247f8fb45142808940200b7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV WUKONG] (Socolive) flv
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780772000-0-0-153c5041ea5ee8711b1e450f743dbcfe
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV CÁP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780764800-0-0-c18ada64014ac5adbf07a08c1c646aa7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV WUKONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780772000-0-0-0f2159d9e9fdeb0341457ac5b51b0339
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV CÁP] (Socolive) m3u8
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780764800-0-0-5cc1320455751db2384649c3e0774a0b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV WUKONG] (Socolive) m3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780772000-0-0-4e868e9fbaa10b9d8efd49564b2fd817
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV CÁP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780764800-0-0-1aedf7ae45e210f7ab6cfbcd8190be4d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 06/06 Portugal U20 vs Cote d'Ivoire U23 [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780772000-0-0-77f7e6bd49a18b336c6c1bce28a5f34c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [BLV WUKONG] (Socolive) flv
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1780764800-0-0-1b5b9f9b6e4416fc42c23fb375bffdcc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [BLV CÁP] (Socolive) flv
+https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1780772000-0-0-a0faf8124d4c461dd62e17d1868646a0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [BLV WUKONG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780764800-0-0-44435d65e4ff4187988494c684cfe6ad
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [BLV CÁP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780772000-0-0-4a95bdaa253e071b97661146bd0de133
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780764800-0-0-aabc8289b2070ada24887412e11827cc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [BLV CÁP] (Socolive) m3u8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780772000-0-0-ba9421a30e595843be79334b25a7f908
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780764800-0-0-fe2d25168105ecf09ab62cd7067ecbd5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [BLV CÁP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780772000-0-0-43970fffe801136df4241f4d3ad6b979
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV RAMBO] (Socolive) flv
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=b0fb3c9907b6bc4a67ed8a0ed13d6af2&txTime=6a249838
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [BLV LONG] (Socolive) flv
+https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=d22e5d551566694c5f670ade4945ce2f&txTime=6a24b2ef
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV RAMBO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=f9ebe6f5a2c0dc732063ae0e0fea4a63&txTime=6a249838
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [BLV LONG] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=e6a6c4dd504ab46ea09b2fe925e4c8c5&txTime=6a24b2ef
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=b0fb3c9907b6bc4a67ed8a0ed13d6af2&txTime=6a249838
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [BLV LONG] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=d22e5d551566694c5f670ade4945ce2f&txTime=6a24b2ef
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Portugal U19 vs Greece U19 [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=f9ebe6f5a2c0dc732063ae0e0fea4a63&txTime=6a249838
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [BLV LONG] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=e6a6c4dd504ab46ea09b2fe925e4c8c5&txTime=6a24b2ef
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [NGƯỜI CÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1780765160-0-0-448f608fba30532f43143d78e3746c8e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg [BLV VIP] (Socolive) flv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=9ec75666484010057c7334c4137d0a1b&txTime=6a24b2f0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [NGƯỜI CÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780765160-0-0-5e0ad2749ef3ab62592c0bc055695f6c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg [BLV VIP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=60be0722a5c67f7fbc2e63a0a014d557&txTime=6a24b2f0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780765160-0-0-d4e78b6111d9f6231615c1787aaf9ae1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=9ec75666484010057c7334c4137d0a1b&txTime=6a24b2f0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780765160-0-0-8b9dad1381ea5e982064481efe441007
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=60be0722a5c67f7fbc2e63a0a014d557&txTime=6a24b2f0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [BLV CÁO] (Socolive) flv
-https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1780765162-0-0-0437f836cc8450c3884090ec3c1c0db5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg [TRÀ ĐÁ] (Socolive) flv
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1780772000-0-0-52957934d119cd966e96011c452d8a12
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [BLV CÁO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780765162-0-0-9c7e54ffba1a9168aaba79d7272163b4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg [TRÀ ĐÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780772000-0-0-2e940547b49999e8498b65581c49f625
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [BLV CÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780765162-0-0-07f6738f15080fc92254b862852f25dc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg [TRÀ ĐÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780772000-0-0-cb48cb7f4fd8a8d8f2e63e579fd2b30c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [BLV CÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780765162-0-0-c32f6687a84a535abca0f1ff794bfa6f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 07/06 Albania vs Luxembourg [TRÀ ĐÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780772000-0-0-cb0a2ffae9b4e70c136efeb9d034b6db
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1780772360-0-0-b642d297557a7f403e7fc5d559e9f06e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780772360-0-0-6f5be4ab64be368ec0905204ee014cbc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780772360-0-0-03a0c35802e4735f7d59f0c8b8a95f10
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780772360-0-0-f1b5c0d414954fda21cb085dcd2d6745
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1780772360-0-0-5e0ea63c83f1fb9ee3d91e584e2e9c61
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780772360-0-0-0b9c4f74ecd06ada2709d6eeea053c97
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780772360-0-0-bdb3f088cf6ba70bee1112df5c39d9fa
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780772360-0-0-4097bca58e07dd804cea4ac6f7430935
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV COCA] (Socolive) flv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1780772360-0-0-cacaa1f914c8820972c9172ecf5f37f3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780772360-0-0-f45d928e131a0372dde128fb79e07324
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780772360-0-0-b08877b0909027bf5a0c96790ea7fa02
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780772360-0-0-c5eaadd9a8e60f78d87a4310d97d8729
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [QUỐC KHÁNH] (Socolive) flv
+https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1780772360-0-0-96105143c5055defdf5463bccfd99c72
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [QUỐC KHÁNH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1780772360-0-0-94fdf2229964dc4c8e70594972dd97da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780772360-0-0-e7571311cb7de07072072cad1601d901
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Romania vs Wales [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780772360-0-0-01eca2f5b668423c00f0c4c4b22fb926
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [A BỆU] (Socolive) flv
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1780772360-0-0-527487b5a4c71133f69bf8f6802c6cd6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [A BỆU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780772360-0-0-26e3d52fafabde87f64a314d0ec6f512
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780772360-0-0-b3495bcca423d57bc6e0109df4c210d4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780772360-0-0-7732d0d314b1809a60e222c91eff1199
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV ENZO] (Socolive) flv
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1780772360-0-0-0d46dd2cb6e7cd840474be1d299b2b5e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV ENZO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780772360-0-0-2e49cbc8e7c43672ffeafff0547d3a38
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780772360-0-0-dcad89f754bca9d544c34a1e6c4d8642
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780772360-0-0-f6a1fe7766fc498b99e38406d2446176
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) flv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780772720-0-0-6068e32e826a707814657e6f6a884a5a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780772720-0-0-0a7bb2a71aac869054b350febff9350c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) m3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780772720-0-0-fb4976bc24680ae74d05e1a92e0aa367
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV ROBBEN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780772720-0-0-f508155dceb7720b9c01afdc62315efb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=52273ea79aa6add4929f1cd15e6d6960&txTime=6a24b5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=f5bb678913641730aa7458386280d42b&txTime=6a24b5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=52273ea79aa6add4929f1cd15e6d6960&txTime=6a24b5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f5bb678913641730aa7458386280d42b&txTime=6a24b5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) flv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1780772720-0-0-9564144c96bff514f0457d4b2f2a50be
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780772720-0-0-9ae04c82b4ca43f58cfdc19acdbee78e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780772720-0-0-1b49ac7f7fdfbbf6a2eb9eb56de81f85
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780772720-0-0-a0765625f9f34df40b36a7475440eed7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=0425decb01ad1dfa1d03cf8938330ba7&txTime=6a24b5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=d7281e9818ed4eae76e09101ad75d83b&txTime=6a24b5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=0425decb01ad1dfa1d03cf8938330ba7&txTime=6a24b5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 ngày 07/06 Portugal vs Chile [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d7281e9818ed4eae76e09101ad75d83b&txTime=6a24b5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) flv
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=c911f822127b795b06e34dc1ff7faaf8&txTime=6a24b5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=8a758766e078ef7eb222611d56e7e7f8&txTime=6a24b5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=c911f822127b795b06e34dc1ff7faaf8&txTime=6a24b5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 07/06 USA vs Germany [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=8a758766e078ef7eb222611d56e7e7f8&txTime=6a24b5c0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780765159-0-0-5c2f4429b7598e7433a36452dcc92915
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780772720-0-0-ba89d26d083eda9e20bd7c4317f22760
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780765159-0-0-49293c1295420af7213c0b858a428bc4
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780772720-0-0-20805cdef4b74b6ce3c1973850c2f527
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780765159-0-0-f51a2a7aefdf03a97d4eb5bdac24f988
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780772720-0-0-d5cdd093cebfbf98849078258f0f0271
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780765159-0-0-f029574ace351e7b679376c1dc308c68
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780772720-0-0-fc4f813274c18d738e96ffb7bf21c661
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV ROBBEN] (Socolive) flv
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1780765519-0-0-bed1bb1c1fffb93fad4921f0e2ff98ca
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 07/06 Ý vs Thổ Nhĩ Kỳ (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV ROBBEN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780765519-0-0-33a11da1744b41deee68a63b7d707e77
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 07/06 Ý vs Thổ Nhĩ Kỳ (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780765519-0-0-4e381993bc717bfdc9de59fd8c42a9f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 07/06 Portugal vs Chile (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780765519-0-0-32798249664400f072c66002350f2b56
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 07/06 Portugal vs Chile (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV LONG] (Socolive) flv
-https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=0bd3895bde40016393d5ee927ad33a74&txTime=6a24999f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV LONG] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=adf08eccf11084a1aa96a4b5dde2e9ad&txTime=6a24999f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV LONG] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=0bd3895bde40016393d5ee927ad33a74&txTime=6a24999f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 06/06 Estonia vs Faroe Islands [BLV LONG] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=adf08eccf11084a1aa96a4b5dde2e9ad&txTime=6a24999f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [ĐỖ TÚ TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1780765520-0-0-8e17165b7ea464866eb026cd2bd54861
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [ĐỖ TÚ TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780765520-0-0-cfed97c2a7b06f5ff7f2dd3c18d7f89b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [ĐỖ TÚ TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780765520-0-0-0278677b8e1f7c9c6a684f69169c95a9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Portugal U20 vs Cote d'Ivoire U23 [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780765520-0-0-ba4173086e79c719fddd776b25b5ad4b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 06/06 Kyrgyzstan vs Palestine (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 06/06 Kyrgyzstan vs Palestine (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 06/06 Portugal U19 vs Greece U19 (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 07/06 USA vs Germany (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 06/06 Portugal U19 vs Greece U19 (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 07/06 USA vs Germany (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 06/06 IEM Cologne Major 2026 (Hội Quán) FHD
@@ -386,18 +542,15 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 06/06 IEM Cologne Major 2026 (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 07/06 Bồ Đào Nha vs Chilê
+https://live05.msdht.app/live/97312754.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h45 07/06 Romania vs Wales
+https://live05.msdht.app/live/08552895.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 07/06 Đội tuyển QG Albania vs Luxembourg
+https://live05.msdht.app/live/87547578.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 06/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 06/06 Estonia vs Quần đảo Faroe
-https://live05.msdht.app/live/14707124.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 07/06 Mỹ vs Đức
+https://live05.msdht.app/live/24561735.m3u8
 
