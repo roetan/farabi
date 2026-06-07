@@ -1,202 +1,100 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/9167.png",18:00 | Phu Dong vs Hồng Lĩnh Hà Tĩnh
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s",18:00 | Trung Quốc vs Ba Lan
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 07/06 Vanraure Hachinohe FC vs Imabari FC (Lương Sơn) BLV SHIN m3u
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/3669.png",18:00 | Da Nang vs Thanh Hóa
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h15 ngày 07/06 Gold Coast United vs Wynnum Wolves (Lương Sơn) BLV KEVILL m3u
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",05:00 | Canada vs Nhật Bản
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h15 ngày 07/06 Gold Coast United vs Wynnum Wolves (Lương Sơn) BLV TÔN LẬP m3u
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Deep_Cross_Gaming_logo.png",16:00 | ffff
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Fukushima United FC vs FC Ryukyu (Lương Sơn) BLV HÀN TÍN m3u
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC (Youth) (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Zweigen Kanazawa FC vs Thespa Kusatsu (Lương Sơn) BLV LÝ QUỲ m3u
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 07/06 Changchun XIdu Football Club vs Qingdao Red Lions (Lương Sơn) BLV VƯƠNG LUÂN m3u
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Blaublitz Akita vs Kagoshima United (Lương Sơn) BLV MÃ SIÊU m3u
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [LÃO LÂM] (Socolive) m3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780826720-0-0-39e3086776143a6cb8f73f15f195d7a2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07/06 11:00 - JPN D2: Vanraure Hachinohe FC vs FC Imabari [A PÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780812680-0-0-94095e05424c7b2aa08ae233a24a70d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780826720-0-0-1e52fb263d4b835daba0ba3f79ed16b9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07/06 11:00 - JPN D2: Vanraure Hachinohe FC vs FC Imabari [A PÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780812680-0-0-b71898290bd7c76bb041c3a048714119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 07/06 Hanoi FC vs Cong An Ho Chi Minh City [TƯ MÃ Ý] (Socolive) m3u8
+https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780826720-0-0-3e7624dad4548612a067d602c7ba435e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Fukushima United FC vs FC Ryukyu Okinawa [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1780812680-0-0-230f98be617ff3a696368de86204ae6d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 07/06 Hanoi FC vs Cong An Ho Chi Minh City [TƯ MÃ Ý] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780826720-0-0-fb67a79d47060a460c768ffa369a6d10
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Fukushima United FC vs FC Ryukyu Okinawa [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1780812680-0-0-d05ea0c31c979eb55623a920e27bb405
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=d38fadb34f5326b2360701c6c25131f7&txTime=6a2588b0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",JPN D2: Zweigen Kanazawa FC vs Thespa Kusatsu Gunmav [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780812680-0-0-4c5adb39ea1af238a04654ccb4db4a63
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=98dc206fe02b36f258cd4efb106215e1&txTime=6a2588b0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",JPN D2: Zweigen Kanazawa FC vs Thespa Kusatsu Gunmav [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780812680-0-0-7058b96515cee5a096bd8224dd0c5913
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 07/06 Taoyuan Pauian Pilots vs Fubon Braves [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780827080-0-0-5eb5a2e8f8ba1a1ad8deb79e5590051b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Fukushima United FC vs FC Ryukyu Okinawa [TƯ MÃ Ý] (Socolive) m3u8
-https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1780812680-0-0-a73679831bb4cd9822814c3857c04fab
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 07/06 Taoyuan Pauian Pilots vs Fubon Braves [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780827080-0-0-e296e684cd0b7c03ec9e59df5c711edb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Fukushima United FC vs FC Ryukyu Okinawa [TƯ MÃ Ý] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1780812680-0-0-fece92bc39051f94761446e514bed856
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 07/06 Taoyuan Pauian Pilots vs Fubon Braves [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780827080-0-0-d49e4ea6224ba887ce021c462386f709
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07/06 12:00 - JPN D2: Tochigi SC vs Giravanz Kitakyushu [QUÂN JK] (Socolive) m3u8
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1780812680-0-0-047d4d1d0a670791e833eef27e01d6eb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 07/06 Taoyuan Pauian Pilots vs Fubon Braves [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780827080-0-0-87d9fe7d98bf4c90543fb0ee4ae8ff19
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07/06 12:00 - JPN D2: Tochigi SC vs Giravanz Kitakyushu [QUÂN JK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780812680-0-0-01d4a9431686daf4c8ceeb835ddf9673
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [BLV CHIVAS] (Socolive) m3u8
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=17417f031a7b442756e5216286f7ca5c&txTime=6a258b80
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Tochigi SC vs Giravanz Kitakyushu [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780812680-0-0-38356d4fe79c5809489c28e84bdcb1f3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [BLV CHIVAS] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=24e488f2b91b2f07ca5af0a81f7da50d&txTime=6a258b80
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Tochigi SC vs Giravanz Kitakyushu [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780812680-0-0-06de7bc86f096b12d2af4e5db14af53c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780827440-0-0-e3cb0654bad00862accf66db55587470
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h15 ngày 07/06 Gold Coast United vs Brisbane Wolves [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=2821d2eb5f1e7928b8688ebf2cb525b5&txTime=6a2551d8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780827440-0-0-bf7f88e97898cf76b290082fb3db0f07
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h15 ngày 07/06 Gold Coast United vs Brisbane Wolves [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=d93ac858970dcb97f863a2a931aa2ecb&txTime=6a2551d8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780827440-0-0-525bb0e3eecec640569a6d5a59712763
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Marconi Stallions vs Wollongong Wolves [BLV AB] (Socolive) m3u8
-https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780812680-0-0-1eb18e0a9cd2e46e5eaf3c5863630716
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780827440-0-0-5378ec2c64ad62d742f8f28f3c5235c9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Marconi Stallions vs Wollongong Wolves [BLV AB] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780812680-0-0-159f4ec2ad9880c5b47ebe8fc3f6c3ff
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=00f7a6bb11e2f8983a46fe234a73f7ba&txTime=6a258b80
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Blacktown City Demons vs Rockdale City Suns [KÉP] (Socolive) m3u8
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780812680-0-0-59adafc15111542cbca463e831dcfdd3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Blacktown City Demons vs Rockdale City Suns [KÉP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780812680-0-0-0040265a1fa45fae5fc6f1c070ff8404
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Blaublitz Akita vs Kagoshima United [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780813040-0-0-040370dcb2df153fc268a88d8f90a89a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Blaublitz Akita vs Kagoshima United [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780813040-0-0-f22efa2c270d030cd075d4c3b8b2894c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Blaublitz Akita vs Kagoshima United [BLV VOI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780813040-0-0-cb7b8358a413dc6bdc17677271fd51ec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Blaublitz Akita vs Kagoshima United [BLV VOI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780813040-0-0-9a647ad6a56c990adf9596e92f97d073
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 07/06 Vanraure Hachinohe FC vs FC Imabari [BLV HÚP] (Socolive) m3u8
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780813040-0-0-e2d819e3f3ad1278fee9304d34c8c603
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 07/06 Vanraure Hachinohe FC vs FC Imabari [BLV HÚP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780813040-0-0-249de19b2e982f343f9859de898bdb1f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 07/06 Vanraure Hachinohe FC vs FC Imabari [BLV RÔSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=fb5f940eef164b7411eb75372ac21698&txTime=6a255340
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 07/06 Vanraure Hachinohe FC vs FC Imabari [BLV RÔSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=8a314950662188032f9d20883b0a4782&txTime=6a255340
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Marconi Stallions vs Wollongong Wolves [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780813040-0-0-0e64e119c9a096411b907ee936f0603a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Marconi Stallions vs Wollongong Wolves [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780813040-0-0-d09394f0ad5889f69a49dda88c2ad504
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 07/06 South Melbourne vs Altona Magic [LOKA] (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780813040-0-0-52c56ac1fe106692ae336e01aa250a43
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 07/06 South Melbourne vs Altona Magic [LOKA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780813040-0-0-9d065ea2ffb5d9f68f4ab476e42abd58
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 07/06 South Melbourne vs Altona Magic [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780813040-0-0-2295817c70eb73d1b46cb8ca6727c9d8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 07/06 South Melbourne vs Altona Magic [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780813040-0-0-303b30992d7533027cc0bb5151c135ba
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Zweigen Kanazawa FC vs Thespa Kusatsu Gunma [BLV YONE] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780813040-0-0-9ab15dc104fac1afaea0ffd22221d35b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Zweigen Kanazawa FC vs Thespa Kusatsu Gunma [BLV YONE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780813040-0-0-8bef5814e710635e35f5170437a76637
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h15 ngày 07/06 Gold Coast United vs Brisbane Wolves [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780813040-0-0-371e693bd3763bb050ed8551056407d6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h15 ngày 07/06 Gold Coast United vs Brisbane Wolves [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780813040-0-0-73da0ac05d75e6c48c1025e0dc543116
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 07/06 West Adelaide SC vs Adelaide United FC Youth [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=e60bffef7ac0b53c3e8706ae7ebcb651&txTime=6a258b80
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780813040-0-0-41a3c0a2d2e52c1962936d63325cdc32
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780827440-0-0-c34bbe8062f2a6d4208607b2edeb0cf4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780813040-0-0-687c1e9a8a1318c5b3367938fc009b91
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780827440-0-0-8166c856ae9639248c71517c40eb51b3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Tochigi SC vs Giravanz Kitakyushu [LÃO LÂM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780813400-0-0-68b513a302d07558e00e18475e78250c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 07/06 DK vs KT Rolster (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Tochigi SC vs Giravanz Kitakyushu [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780813400-0-0-f1f7319453ec05214f7722bd53dc489e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 07/06 DK vs KT Rolster (Hội Quán) SD
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 07/06 Vanraure Hachinohe FC vs FC Imabari [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780813400-0-0-2a18edf0fcbef83c7241ec190e7148fa
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 07/06 ffff (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 07/06 Vanraure Hachinohe FC vs FC Imabari [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780813400-0-0-104f567b03f101aaff8056223972383e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 07/06 ffff (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h05 ngày 07/06 Tokushima Vortis vs Iwaki FC [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780813400-0-0-30cacf8b59b6d461eeb256419bccd474
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 07/06 LIU Sheng Shu/TAN Ning vs Yuki FUKUSHIMA/Mayu MATSUMOTO (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h05 ngày 07/06 Tokushima Vortis vs Iwaki FC [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780813400-0-0-13c740b26d494df8b6866747cc483255
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 07/06 LIU Sheng Shu/TAN Ning vs Yuki FUKUSHIMA/Mayu MATSUMOTO (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 07/06 South Melbourne vs Altona Magic [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780813400-0-0-dcb80d11ee3a181f922ca36f2e7b6588
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 07/06 South Melbourne vs Altona Magic [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780813400-0-0-8a1aa4683d617433ae9a841bb77f9c9a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h05 ngày 07/06 Tokushima Vortis vs Iwaki FC [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780813400-0-0-829e918d41e20ab9bc5e45774d08050d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h05 ngày 07/06 Tokushima Vortis vs Iwaki FC [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780813400-0-0-2f0ed8e49c9b3ca086f4e160afdaa94d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h05 ngày 07/06 Tokushima Vortis vs Iwaki FC [BEN 10] (Socolive) m3u8
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780813400-0-0-2b957038f972b08c3cb65ed6b99b58d2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h05 ngày 07/06 Tokushima Vortis vs Iwaki FC [BEN 10] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780813400-0-0-fc4e2accbb0703361d2122f2041d122d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h05 ngày 07/06 Tokushima Vortis vs Iwaki FC [CƠM CHÁY] (Socolive) m3u8
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780813400-0-0-ffd0ee3d3aff7b31e75f50151b262350
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h05 ngày 07/06 Tokushima Vortis vs Iwaki FC [CƠM CHÁY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780813400-0-0-5c0c7475d2b95a7afd194052d367c2b2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 07/06 Southland Sharks vs Franklin Bulls [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780813400-0-0-1cbcacc6f6a3dd78b0679ffbb0267b5c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 07/06 Southland Sharks vs Franklin Bulls [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780813400-0-0-df367eb3011579502fe0d9c3e0ff43ca
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Blacktown City Demons vs Rockdale City Suns [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780813400-0-0-3bcbab43e1eb971c8dd5168cd6c8a727
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 07/06 Blacktown City Demons vs Rockdale City Suns [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780813400-0-0-1cd989c53962a35d9e56c38ac5dbc466
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h05 07/06 Tokushima Vortis vs Iwaki (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h05 07/06 Tokushima Vortis vs Iwaki (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h05 07/06 Tokushima vs Iwaki FC
-https://live05.msdht.app/live/02456966.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 07/06 South Melbourne vs Altona Magic
-https://live05.msdht.app/live/08552895.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 07/06 South Melbourne vs Adelaide U21
+https://live05.msdht.app/live/99121525.m3u8
 
