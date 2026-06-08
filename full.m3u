@@ -5,17 +5,17 @@ https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",17:00 | Việt Nam vs Indonesia
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",11:00 | Kazakhstan vs Iran
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r0k1Lgj9INFJXffXF2kk8So8HKDYQMeJfw&s",20:00 | Đài Loan vs Úc 
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png",19:00 | Uganda vs Madagascar
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://vcdn1-dulich.vnecdn.net/2018/01/25/Uzbekistan-9909-1516848403.png?w=680&h=0&q=100&dpr=2&fit=crop&s=tdzF4zH_kBQ4H9NlhvHzUA",11:00 | Uzbekistan vs Úc
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/19155.png",20:00 | Thailand U19 vs Malaysia U19
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1118.png",01:45 | Netherlands vs Uzbekistan
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/3840px-Flag_of_Peru_%28state%29.svg.png",09:00 | Peru vs Spain
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
@@ -41,9 +41,6 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",Việt Nam W vs Indonesia W
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/G8TPGWBr-pWJEuGxm.png",North Macedonia U21 vs Mỹ U20
-https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/19155.png",Thái Lan U19 vs Malaysia U19
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
@@ -56,23 +53,8 @@ https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/30.png",Peru vs Spain
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Chongqing Runqi Football Club vs Guizhou Feiying (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Chongqing Runqi Football Club vs Guizhou Feiying (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City (Lương Sơn) BLV LƯU BỊ m3u
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City (Lương Sơn) BLV LƯU BỊ flv
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City (Lương Sơn) BLV KEVILL m3u
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City (Lương Sơn) BLV KEVILL flv
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/22591.png",Australia U19 vs Cambodia U19
+https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -89,29 +71,17 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 08/06 Kazakhstan W vs Iran W (Chuối Chiên) HD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Vietnam W vs Indonesia W (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 08/06 Kazakhstan W vs Iran W (Chuối Chiên) HD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Vietnam W vs Indonesia W (Chuối Chiên) HD2
 https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 08/06 Kazakhstan W vs Iran W (Chuối Chiên) FHD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Vietnam W vs Indonesia W (Chuối Chiên) FHD1
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 08/06 Kazakhstan W vs Iran W (Chuối Chiên) FHD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Vietnam W vs Indonesia W (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 08/06 Côte d'Ivoire U20 vs Canada U20 (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
@@ -218,96 +188,105 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780900880-0-0-03da1959ee94f5313ca110be0ce2048c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780920320-0-0-8c74deed41d7f41eaeb05224b784e9f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780900880-0-0-7270e667dde49cf0a1291a0658d338c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780920320-0-0-ef920178a1497aadfd780bddc9b40a96
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780900880-0-0-be8d0e316f5a433b8ea833e4e5040fdb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780920320-0-0-57aa24bd8c643821a4d6f6bf71ed2a82
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780900880-0-0-19628aa099aeca87558bacc86a70c2c7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780920320-0-0-63071268d2c39fafd98dd3cca0df6a51
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [KÉP] (Socolive) flv
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1780900880-0-0-910438fb177f5497fdd571c9a1267714
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BLV HENRY] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780920320-0-0-86b5bb4d3ace0d9607bb763b718be416
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [KÉP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780900880-0-0-d7c7a30ccf93151a06b30bbbb119bb2e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780920320-0-0-e85267cf2a35a29e9bdf946f670f04f7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [KÉP] (Socolive) m3u8
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780900880-0-0-1c0a97ebe760a8bfce08a13cd9775478
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780920320-0-0-65087d61731858bfa1eee6821ad924a7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [KÉP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780900880-0-0-9a5259ac54abb6433811666df3371fed
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780920320-0-0-6e678fa3def959837a8f41153c718560
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [CHAN SENA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780920320-0-0-f7bce90402a0f15e7527ae2fd32b729b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780920320-0-0-5f1c148e7bdd41864347bb7b7a9b6ee8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780920320-0-0-dc42c7c29b60f32017f4e51d4a8f21f6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780920320-0-0-ad3c85914ca04be872b5ec05f03ea298
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [A CHÈ] (Socolive) flv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780920320-0-0-41b3c0571b29d6d706ee76268072febb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780920320-0-0-4ab06a5fcadae8ee0fcf024da5c87e18
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780920320-0-0-49794a1a34f90a0951de709758305272
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780920320-0-0-fb078b3868172564e84f1d6a5a11ef60
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780920320-0-0-8784a58ef5e17275e68da22eee3e7740
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780920320-0-0-bdd223af74d279890a416bc99fd67f41
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780920320-0-0-85a253b02222628d46a7b3df46ac5641
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780920320-0-0-6ddfc1c0144606192a9655b1ca4d9cb0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [KING] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1780920320-0-0-2ff06913e94d3f02def6092d6d434feb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [KING] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780920320-0-0-115b155197d970d374d196645475629d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780920320-0-0-4a2ef40a932c5b4b4c9940ecf41db892
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780920320-0-0-be95b01aaa80d003b9bd9c5e7b3e3f1c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780900880-0-0-dea57360f8f30bc39592af0587d80c91
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780920320-0-0-24eee20c4447e8676b2df92349385ca5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780900880-0-0-9fb15f30475ef1b565480a49cd580080
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780920320-0-0-e215ce861053efdc76f34a402fef6dc7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780900880-0-0-f24c35c56a423a5f56586ac47e04167f
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780920320-0-0-77d390ec20a794bb4d6e4f84ff535f81
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780900880-0-0-165d90d534e1d2ed311c1d53ed3892af
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780920320-0-0-f9ad9f4f72978d886d29dc0f3c81cfa4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV MESSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780901240-0-0-044a0bc1221f1b889ff8eec32693081a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 08/06 Việt Nam vs Indonesia (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV MESSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780901240-0-0-2d05a5bed2a70cf786ab51dd25ee6e8a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 08/06 Việt Nam vs Indonesia (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780901240-0-0-461a73ec47ec5202efee4732e7f01b07
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780901240-0-0-9d722664858e3349da3b4f6087feb2cc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TAP] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1780901600-0-0-38dd32ccb8267985c0f8817e285c7c80
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TAP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780901600-0-0-5aa01e349be9fbc3e50f815bf8819654
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TAP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1780901600-0-0-86b6832d0a22f2dcc18cf6cb023ba630
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TAP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1780901600-0-0-b2804f743320b6add2ad3ac6670ab0c3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMMY] (Socolive) flv
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=d046919f0564875854b7cc7c7e8a6b53&txTime=6a26ad30
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMMY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=98be64c0ef8d5397be9919bbac595a55&txTime=6a26ad30
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=d046919f0564875854b7cc7c7e8a6b53&txTime=6a26ad30
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=98be64c0ef8d5397be9919bbac595a55&txTime=6a26ad30
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMIA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1780901600-0-0-79d0e2ae296e16b5ba53e81da9ce1c39
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMIA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780901600-0-0-d9d354b4e7954b0d2efc1f72fc127490
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780901600-0-0-8af597c6aa9d6964c7ec8c2ed88e4dd1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780901600-0-0-c2869384ffc855b1fd16df99ecf4deae
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 08/06 Kazakhstan vs Iran (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 08/06 Anyone's Legend vs Bilibili Gaming (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 08/06 Kazakhstan vs Iran (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 08/06 Anyone's Legend vs Bilibili Gaming (Hội Quán) SD
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 08/06 Kingborough Lions vs Devonport City
-https://live05.msdht.app/live/90865415.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 08/06 Alejandro Davidovich Fokina vs Mattia Bellucci (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 08/06 Alejandro Davidovich Fokina vs Mattia Bellucci (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
