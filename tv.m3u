@@ -1,121 +1,199 @@
 #EXTM3U
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1118.png",01:45 | Netherlands vs Uzbekistan
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Niger_FF_%28logo%29.png",02:00 | Niger vs Mauritania
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",02:10 | France vs Northern Ireland
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png",Netherlands vs Uzbekistan
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903",19:00 | Gamingccc
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Northern Ireland
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://www.datocms-assets.com/110926/1770148201-20-paul_full_2024.png?auto=format%2Ccompress&fit=crop&h=470&w=0&ixlib=react-9.8.1",21:00 | Tommy Paul vs Giovanni Mpetshi Perricard
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/8201.png",Ý U21 vs Albania U21
-https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 Baghdad vs Karbalaa (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 08/06 Belarus U21 vs Kazakhstan U21 (Lương Sơn) BLV PHI HỔ m3u
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 08/06 Belarus U21 vs Kazakhstan U21 (Lương Sơn) BLV QUAN VŨ m3u
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 08/06 Wadi Degla SC vs ZED FC (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 09/06 Niger vs Mauritania (Lương Sơn) BLV LÝ ỨNG m3u
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 08/06 Wadi Degla SC vs ZED FC (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 09/06 Niger vs Mauritania (Lương Sơn) BLV VƯƠNG LUÂN m3u
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 09/06 Columbus Crew B vs Connecticut United FC (Lương Sơn) BLV GẤU KA m3u
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry (Lương Sơn) BLV HÀN TÍN m3u
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan (Lương Sơn) BLV NGƯỜI THÉP m3u
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan (Lương Sơn) BLV DƯƠNG CHÍ m3u
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 09/06 Colorado Storm vs Flatirons Rush (Lương Sơn) BLV LÝ QUỲ m3u
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 09/06 Colorado Storm vs Flatirons Rush (Lương Sơn) BLV MAYBACH m3u
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 09/06 Racing Club Reserves vs Banfield Reserves (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780937240-0-0-cb1cf4b691aa0247c76184037df2072c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 09/06 Union Santa Fe Reserves vs Atletico Tucuman Reserve (Lương Sơn) BLV PHI HỔ m3u
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780937240-0-0-80c15c74e6e10ead37969993f67e1fde
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [NGƯỜI CÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780949120-0-0-ed5220e2931db1bfd9b9b63bc851974c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV HÚP] (Socolive) m3u8
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780937240-0-0-2444f4dc2bbce2855a5eebd5177d5e58
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780949120-0-0-8051fb31f3feefca7720023b757d5eaf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV HÚP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780937240-0-0-501eb3c5216f1821be7b08b3c3d973a2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780949120-0-0-635d9edd909259045e97ac135570ed86
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780937240-0-0-10c20c913ec4ad7ba8ea90ebdba5c406
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780949120-0-0-667b91938ae1f63333451d0547819b67
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780937240-0-0-b0e73bba30a439381479d1523bbc9cc6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [BLV A WIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780949120-0-0-2fabbd1e6b240b3584c37c57b49a2311
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780937300-0-0-0c28587fb8ad1c97679af111d0d39fad
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780949120-0-0-f68f12302b79a53f18469b2044b2ae11
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780937300-0-0-36af6e8121ef0ad8b423d1fb20cbb319
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h50 ngày 09/06 Maccabi Tel Aviv vs Hapoel Holon [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780949120-0-0-ccfd98fe79936e5f42175bdc467d859f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV CÁP] (Socolive) m3u8
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780937300-0-0-1ed9043221032ea15dd91b59e57639da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV CÁP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780937300-0-0-10adaf263063698e185037c9df2f12d6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: Unics Kazan vs CSKA Moscow [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780937300-0-0-d6bcb9743bc234e807b677f342c319fa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: Unics Kazan vs CSKA Moscow [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780937300-0-0-6503a37d889552b64185fd6f814933da
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h50 ngày 09/06 Maccabi Tel Aviv vs Hapoel Holon [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780949120-0-0-cd1e98ef26785b391bd9a26120877b6a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780937300-0-0-574804608638c17547b19e31c786b306
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780949120-0-0-14e1e5f8c4c81c42aa9fb19fe9526d89
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780937300-0-0-47fb63017d95cbeec2265df9e1807483
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780949120-0-0-3029d79f740a07c33d1941cf2bd2f643
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) m3u8
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780937600-0-0-1cefd33982b809f0b179f912ca2384eb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland [CƠM CHÁY] (Socolive) m3u8
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780949480-0-0-17cef04a4cdfe7f4c662af3c078d5be2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780937600-0-0-d19e9e17bcb90922e84111b298f126d6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland [CƠM CHÁY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780949480-0-0-4eead04cefd0a2cff8aa1db69ee44263
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV RÔSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=a4ae8dc4b2cff89d219926853b10fd59&txTime=6a273b38
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [HẢI THANH] (Socolive) m3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780949480-0-0-5efd0efc52ef35322a2b38b52ec4f3dd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV RÔSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ee62b3a27272fa9f9a87e60ec32cbf1a&txTime=6a273b38
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [HẢI THANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780949480-0-0-4ffbd144f5a716478718f0cf13c5d6ee
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [PINKMAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=43546f427c639307f65ae0d2a03d6368&txTime=6a273b38
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780949480-0-0-e19ef25a1fa9a1b5d09ac8078ead10ca
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [PINKMAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=2425bdf4492d835e17a3b4b8c3e1b493&txTime=6a273b38
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780949480-0-0-160a6e05a2716215c42c016dab0c80cd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [Casting] (Socolive) m3u8
-https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1780937960-0-0-f80414cae6c2016b44f6a40125a32c7a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [BLV CÁP] (Socolive) m3u8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780949480-0-0-faed2f98ebd8a6842814d65eb90aa697
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [Casting] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1780937960-0-0-953b7739459e8ad114c8d8d8323e0999
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [BLV CÁP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780949480-0-0-84f67df5055e81a49b7f7558d20a6b49
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 08/06 Gamingccc (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780949480-0-0-876712b5425611f6c2b8167720292950
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 08/06 Gamingccc (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780949480-0-0-14282f5fb5eb82a051e84e932d54a113
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 08/06 Tommy Paul vs Giovanni Mpetshi Perricard (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [HÀ DUY KIÊN] (Socolive) m3u8
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780949480-0-0-4317362a989a41f185a8a6c8edb09257
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 08/06 Tommy Paul vs Giovanni Mpetshi Perricard (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [HÀ DUY KIÊN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1780949480-0-0-0fa4bd4b9702b9a70392f176b768a218
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 08/06 Venezuela U20 vs Portugal U20 (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780949480-0-0-627b7cc57acba220ce7cf2f20bbf90e0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780949480-0-0-23a29cf08018e1eab6685f0522ffe415
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=3db96ef2069c46bdf3eeac5f04d71c05&txTime=6a276838
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 09/06 Enppi vs Al Masry [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=93fa7b31059aa7613c29696665674a0b&txTime=6a276838
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland [BLV KEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780949840-0-0-306bed3e679581461f493e466dd30161
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780949840-0-0-118ef10f787cca1ae55509da8d59ab8f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [LÃO LÂM] (Socolive) m3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780949840-0-0-bc1ac54fd975336230f57b50e8286aaf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780949840-0-0-8fc276612678651acff524d8ad13fc60
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland [CÔNG CHẤT] (Socolive) m3u8
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780949840-0-0-15019e6d81fce4c81b99878ce43a1e8f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland [CÔNG CHẤT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780949840-0-0-0584ad5dd1a1d109166f5dec986deacd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [BLV HÚP] (Socolive) m3u8
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780949840-0-0-61384dc2457bbda5111dfd90e924f302
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [BLV HÚP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780949840-0-0-277c6f59ac71bac41b4c5b51982de594
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [BLV BÉO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=a037859a192cb8ad0e812bba08686980&txTime=6a2769a0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 09/06 Netherlands vs Uzbekistan [BLV BÉO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ba1b1dd23d7a11bc911fcf4783904837&txTime=6a2769a0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780949840-0-0-b841d9e6e9c2c68d0ae47eaa1e9d6353
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 ngày 09/06 France vs Northern Ireland [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780949840-0-0-627e4ed2ccc880d60dc87467ff268594
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 09/06 Netherlands vs Uzbekistan (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 09/06 Netherlands vs Uzbekistan (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 09/06 Niger vs Mauritania (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 08/06 Venezuela U20 vs Portugal U20 (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 09/06 Niger vs Mauritania (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 08/06 KTP Kotka vs Haka
-https://live05.msdht.app/live/14707124.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 09/06 France vs Northern Ireland (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h10 09/06 Pháp vs Bắc Ireland
+https://live05.msdht.app/live/97312754.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 09/06 Hà Lan vs Uzbekistan
+https://live05.msdht.app/live/24561735.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 09/06 Niger vs Mauritania
+https://live05.msdht.app/live/08552895.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 09/06 Enppi vs El Masry
+https://live05.msdht.app/live/87547578.m3u8
 
