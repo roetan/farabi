@@ -2,16 +2,13 @@
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",07:30 | San Antonio Spurs - New York Knicks
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",05:00 | Canada vs Nhật Bản
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",17:00 | Việt Nam vs Indonesia
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg",11:00 | Hồng Kông  Nữ vs Iran
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",11:00 | Kazakhstan vs Iran
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/330px-Flag_of_Lebanon.svg.png",14:00 | Liban vs Kazakhstan
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1r0k1Lgj9INFJXffXF2kk8So8HKDYQMeJfw&s",20:00 | Đài Loan vs Úc 
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/250px-Flag_of_Uganda.svg.png",19:00 | Uganda vs Madagascar
@@ -25,6 +22,9 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1137.png",05:00 | Atletico Nacional vs Junior
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg",17:00 | Hồng Kông vs Indonesia
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903",19:00 | Gamingccc
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
@@ -53,29 +53,26 @@ https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/8201.png",Ý U21 vs Albania U21
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV SHIN m3u
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/30.png",Peru vs Spain
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV SHIN flv
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Chongqing Runqi Football Club vs Guizhou Feiying (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV LƯU BỊ m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Chongqing Runqi Football Club vs Guizhou Feiying (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City (Lương Sơn) BLV LƯU BỊ m3u
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV LƯU BỊ flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City (Lương Sơn) BLV LƯU BỊ flv
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV HEINEKEN m3u
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan (Lương Sơn) BLV HEINEKEN flv
-https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs (Lương Sơn) BLV MÃ SIÊU m3u
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs (Lương Sơn) BLV MÃ SIÊU flv
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City (Lương Sơn) BLV KEVILL flv
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -92,42 +89,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 08/06 Canada W vs Japan W (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 08/06 Canada W vs Japan W (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 08/06 Canada W vs Japan W (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 08/06 Canada W vs Japan W (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 08/06 Lebanon W vs Hong Kong W (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 08/06 Lebanon W vs Hong Kong W (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 08/06 Lebanon W vs Hong Kong W (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 08/06 Lebanon W vs Hong Kong W (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 08/06 Kazakhstan W vs Iran W (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 
@@ -139,6 +100,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 08/06 Kazakhstan W vs Iran W (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 08/06 Philippines W vs Kyrgyzstan W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 08/06 Côte d'Ivoire U20 vs Canada U20 (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
@@ -188,6 +161,18 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 08/06 Thailand U19 vs Malaysia U19 (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 08/06 Chinese Taipei W vs Australia W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 08/06 Chinese Taipei W vs Australia W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 08/06 Chinese Taipei W vs Australia W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 08/06 Chinese Taipei W vs Australia W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 08/06 Masr vs Wadi Degla (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 
@@ -212,6 +197,18 @@ https://gckc0525.edgemaxcdn.org/live/caucahd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 08/06 Venezuela U20 vs Portugal U20 (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/caucahd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 09/06 Peru vs Spain (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -221,243 +218,96 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Orlando City B vs Carolina Core [BLV RAMBO] (Socolive) flv
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=ddd3cdedace3ec0765742aec0bf96e6c&txTime=6a265a38
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780900880-0-0-03da1959ee94f5313ca110be0ce2048c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Orlando City B vs Carolina Core [BLV RAMBO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=93c3bb7dbf557a3397d4ea6ffe02e4b1&txTime=6a265a38
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780900880-0-0-7270e667dde49cf0a1291a0658d338c9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Orlando City B vs Carolina Core [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ddd3cdedace3ec0765742aec0bf96e6c&txTime=6a265a38
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780900880-0-0-be8d0e316f5a433b8ea833e4e5040fdb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Orlando City B vs Carolina Core [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=93c3bb7dbf557a3397d4ea6ffe02e4b1&txTime=6a265a38
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1780900880-0-0-19628aa099aeca87558bacc86a70c2c7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [LOGAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1780880360-0-0-5b5d69dfcb0368d04a9cd49621255c8b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [KÉP] (Socolive) flv
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1780900880-0-0-910438fb177f5497fdd571c9a1267714
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [LOGAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780880360-0-0-b376a741ce13e07b5f0626eb597aae61
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [KÉP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780900880-0-0-d7c7a30ccf93151a06b30bbbb119bb2e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [LOGAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1780880360-0-0-8b770e9f88a0c81e945c1779aa26befe
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [KÉP] (Socolive) m3u8
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780900880-0-0-1c0a97ebe760a8bfce08a13cd9775478
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [LOGAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1780880360-0-0-0e9a8e0bda7acb07c5c441fba7212d35
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV A TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1780880360-0-0-5fd1b0471f25051eeb262d859858c0f0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV A TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780880360-0-0-42de17fc902317c1c82a9e558da6b59e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780880360-0-0-dec84ffdc39dca0e0c357ca9fa453da7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780880360-0-0-250e3ecd29abccac706351bafef314d6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) flv
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=d92c3351c2a4719d85879eb3bc8b80e2&txTime=6a265a38
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=e17753e2df4e4735d929964f2a28482e&txTime=6a265a38
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=d92c3351c2a4719d85879eb3bc8b80e2&txTime=6a265a38
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV BÉO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=e17753e2df4e4735d929964f2a28482e&txTime=6a265a38
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BRIAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1780880360-0-0-40cd33b558a698d86386f96a6295f02d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BRIAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780880360-0-0-4f9f1d1103a7350ced6f4a07ec261eef
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780880360-0-0-0aa4c2628a16e111650ce5055baacb63
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780880360-0-0-3d160dbadb09bd688da76539500b5504
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [HUNTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780880360-0-0-5ba2dd2607ec45c1c13c0f3eaafd711c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [HUNTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780880360-0-0-6abb09a97e361beb0468ef64bcb1d55a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780880360-0-0-a53f7c025da6d70ee818b69867656247
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780880360-0-0-cba570cca5c597e65de21f709695431b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [A CHÈ] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1780880360-0-0-8cd066b9b185956394ea71191498a437
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [A CHÈ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780880360-0-0-cc2677122c5f400d5171aa4f81e7462c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780880360-0-0-42c2005c144efa59c12f65c12b5ac671
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780880360-0-0-fc526e47bbc2a0b1d0f77c3803e19c44
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [KÉP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780900880-0-0-9a5259ac54abb6433811666df3371fed
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780880360-0-0-d02312d8cd12349df532e6ebaff53dd1
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780900880-0-0-dea57360f8f30bc39592af0587d80c91
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780880360-0-0-0e5aa6fb30db0d8d1ac04ffdc062853b
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780900880-0-0-9fb15f30475ef1b565480a49cd580080
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780880360-0-0-6195142a2a49202be7292b330ec9fdbd
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780900880-0-0-f24c35c56a423a5f56586ac47e04167f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780880360-0-0-01b1f0178abc7e075021ab6e16c47d3f
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780900880-0-0-165d90d534e1d2ed311c1d53ed3892af
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV TOMIA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1780880720-0-0-7e5d4c6a93e379e1a2beeee5f287fe90
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV MESSI] (Socolive) flv
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780901240-0-0-044a0bc1221f1b889ff8eec32693081a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV TOMIA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780880720-0-0-b0523039c3a625ebb165c71a0db55b3a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV MESSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780901240-0-0-2d05a5bed2a70cf786ab51dd25ee6e8a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780880720-0-0-ce6688907b07622d0696e4d98f1ab944
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780901240-0-0-461a73ec47ec5202efee4732e7f01b07
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780880720-0-0-1b543fb8ec26fe538e16314f2e0cc794
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780901240-0-0-9d722664858e3349da3b4f6087feb2cc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV CUỘI] (Socolive) flv
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1780880720-0-0-3ae3d02ac0da9314d5dbb445ced28748
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TAP] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1780901600-0-0-38dd32ccb8267985c0f8817e285c7c80
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV CUỘI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780880720-0-0-afa6b09939b402dee272ad275e0309e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TAP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780901600-0-0-5aa01e349be9fbc3e50f815bf8819654
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1780880720-0-0-fddf481a2cc342f1e4c067ec3beafead
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TAP] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1780901600-0-0-86b6832d0a22f2dcc18cf6cb023ba630
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1780880720-0-0-9dbd4d6b492560d7e8cb1f440a4f31fd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TAP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1780901600-0-0-b2804f743320b6add2ad3ac6670ab0c3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1780880720-0-0-28fc2ce77fca0a9e44aacc6b015cc9c5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMMY] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=d046919f0564875854b7cc7c7e8a6b53&txTime=6a26ad30
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780880720-0-0-5c79b05d7b0108fd13c4309b42fa4d07
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMMY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=98be64c0ef8d5397be9919bbac595a55&txTime=6a26ad30
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780880720-0-0-28451093dd3d63d25369465ec7e14a37
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=d046919f0564875854b7cc7c7e8a6b53&txTime=6a26ad30
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780880720-0-0-9eb73bc296ea19e32fdd6e1b26ab14eb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=98be64c0ef8d5397be9919bbac595a55&txTime=6a26ad30
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1780880720-0-0-619b1b9b0d23eb822d0602fc7822c633
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMIA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1780901600-0-0-79d0e2ae296e16b5ba53e81da9ce1c39
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780880720-0-0-f5e684d79c93575799870f693e8f30dc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMIA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780901600-0-0-d9d354b4e7954b0d2efc1f72fc127490
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780880720-0-0-fad1f8838cebfa940d98c9942513b659
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMIA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1780901600-0-0-8af597c6aa9d6964c7ec8c2ed88e4dd1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Los Angeles Sparks W vs Portland Fire W [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780880720-0-0-0d18a7f9da845dee5a264253b7d8a161
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 08/06 Kingborough Lions vs Devonport City [BLV TOMIA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1780901600-0-0-c2869384ffc855b1fd16df99ecf4deae
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1780880720-0-0-f8d87f239197825908d240db51b098e3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780880720-0-0-aa26343f6bac0a73ba5be67a4f841854
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780880720-0-0-3ec8a7fd28f4637adbf109a18c522e5e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780880720-0-0-c5db032c281cfc84b6b022b11923c0eb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) flv
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=e9e1a2646fbf2f7ac6c4fa696ae560d4&txTime=6a265ba0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=ffc6af25cf906f7a10ba0a7c27356cfb&txTime=6a265ba0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=e9e1a2646fbf2f7ac6c4fa696ae560d4&txTime=6a265ba0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 08/06 Austin FC II vs Los Angeles FC II [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=ffc6af25cf906f7a10ba0a7c27356cfb&txTime=6a265ba0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV MESSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780880763-0-0-91667c56925c32509b7ae0545f1d51ac
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV MESSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780880763-0-0-cb5b02fea51a43d994ed2347649bf71f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780880763-0-0-42cb365979821ca5c96944c43ee11941
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 08/06 Colombia vs Jordan [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780880763-0-0-3bc472b50415d599c63a5cace0462475
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) flv
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780880720-0-0-fe794251743b10835d17bf3c7fad0c85
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780880720-0-0-bc8b06e017d73e332c299f14a1fba1ae
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780880720-0-0-b3edb2693920e5698e42bf0854e5ad6c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780880720-0-0-6ed7752ca8f06e699cd7f2bb9a1361e6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) flv
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1780880720-0-0-f071b6f4e59288c678ab9829ea66a45b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780880720-0-0-c7d9e92e1ef580ca2bf22143696e9cce
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780880720-0-0-d3a907557c6e9a78c8ce5a3127a6d250
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780880720-0-0-089c39bc9dccfa150845dabcfd904609
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1780881080-0-0-ed171743a5cbd35b0203b3c066a8aa05
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780881080-0-0-a424e1bda1ee081ea37aaa1846ce04e5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1780881080-0-0-4ffa42a1b7a9a8ccd0a1ef5863279e87
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 08/06 San Jose Earthquakes Reserve vs Real Monarchs [BLV TAP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1780881080-0-0-efcdae1192eeaf179e47adccba4370ad
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 08/06 Canada vs Nhật Bản (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 08/06 Canada vs Nhật Bản (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 08/06 Colombia vs Jordan (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 08/06 Kazakhstan vs Iran (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 08/06 Colombia vs Jordan (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 08/06 Kazakhstan vs Iran (Hội Quán) SD
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 08/06 Colombia vs Jordan
-https://live05.msdht.app/live/90725470.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 08/06 Los Angeles Sparks vs Portland Fire
-https://live05.msdht.app/live/19919577.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 08/06 Khu bảo tồn động đất San Jose vs Real Monarchs
-https://live05.msdht.app/live/14707124.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 08/06 Austin FC II vs Los Angeles FC II
-https://live05.msdht.app/live/99121525.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 08/06 Kingborough Lions vs Devonport City
+https://live05.msdht.app/live/90865415.m3u8
 
