@@ -1,64 +1,121 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/250px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png",17:00 | Việt Nam vs Indonesia
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Niger_FF_%28logo%29.png",02:00 | Niger vs Mauritania
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://vcdn1-dulich.vnecdn.net/2018/01/25/Uzbekistan-9909-1516848403.png?w=680&h=0&q=100&dpr=2&fit=crop&s=tdzF4zH_kBQ4H9NlhvHzUA",11:00 | Uzbekistan vs Úc
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",02:10 | France vs Northern Ireland
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",Việt Nam W vs Indonesia W
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903",19:00 | Gamingccc
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1780920320-0-0-57aa24bd8c643821a4d6f6bf71ed2a82
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://www.datocms-assets.com/110926/1770148201-20-paul_full_2024.png?auto=format%2Ccompress&fit=crop&h=470&w=0&ixlib=react-9.8.1",21:00 | Tommy Paul vs Giovanni Mpetshi Perricard
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1780920320-0-0-63071268d2c39fafd98dd3cca0df6a51
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/8201.png",Ý U21 vs Albania U21
+https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1780920320-0-0-65087d61731858bfa1eee6821ad924a7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 Baghdad vs Karbalaa (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1780920320-0-0-6e678fa3def959837a8f41153c718560
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 08/06 Belarus U21 vs Kazakhstan U21 (Lương Sơn) BLV PHI HỔ m3u
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1780920320-0-0-dc42c7c29b60f32017f4e51d4a8f21f6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 08/06 Belarus U21 vs Kazakhstan U21 (Lương Sơn) BLV QUAN VŨ m3u
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1780920320-0-0-ad3c85914ca04be872b5ec05f03ea298
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 08/06 Wadi Degla SC vs ZED FC (Lương Sơn) BLV LÝ ỨNG m3u
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1780920320-0-0-49794a1a34f90a0951de709758305272
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 08/06 Wadi Degla SC vs ZED FC (Lương Sơn) BLV LÝ QUỲ m3u
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1780920320-0-0-fb078b3868172564e84f1d6a5a11ef60
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1780920320-0-0-85a253b02222628d46a7b3df46ac5641
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780937240-0-0-cb1cf4b691aa0247c76184037df2072c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1780920320-0-0-6ddfc1c0144606192a9655b1ca4d9cb0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780937240-0-0-80c15c74e6e10ead37969993f67e1fde
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780920320-0-0-4a2ef40a932c5b4b4c9940ecf41db892
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV HÚP] (Socolive) m3u8
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780937240-0-0-2444f4dc2bbce2855a5eebd5177d5e58
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 08/06 Zamboanga Sikat vs Imus Braderhood [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780920320-0-0-be95b01aaa80d003b9bd9c5e7b3e3f1c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV HÚP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780937240-0-0-501eb3c5216f1821be7b08b3c3d973a2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780937240-0-0-10c20c913ec4ad7ba8ea90ebdba5c406
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780937240-0-0-b0e73bba30a439381479d1523bbc9cc6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [HẢI THANH] (Socolive) m3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780937300-0-0-0c28587fb8ad1c97679af111d0d39fad
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [HẢI THANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780937300-0-0-36af6e8121ef0ad8b423d1fb20cbb319
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV CÁP] (Socolive) m3u8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780937300-0-0-1ed9043221032ea15dd91b59e57639da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV CÁP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780937300-0-0-10adaf263063698e185037c9df2f12d6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: Unics Kazan vs CSKA Moscow [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1780937300-0-0-d6bcb9743bc234e807b677f342c319fa
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",VTBUL: Unics Kazan vs CSKA Moscow [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1780937300-0-0-6503a37d889552b64185fd6f814933da
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780920320-0-0-77d390ec20a794bb4d6e4f84ff535f81
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780937300-0-0-574804608638c17547b19e31c786b306
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780920320-0-0-f9ad9f4f72978d886d29dc0f3c81cfa4
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780937300-0-0-47fb63017d95cbeec2265df9e1807483
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 08/06 Việt Nam vs Indonesia (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) m3u8
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780937600-0-0-1cefd33982b809f0b179f912ca2384eb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [CƠM CHÁY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780937600-0-0-d19e9e17bcb90922e84111b298f126d6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV RÔSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=a4ae8dc4b2cff89d219926853b10fd59&txTime=6a273b38
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 08/06 KTP Kotka vs FC Haka [BLV RÔSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ee62b3a27272fa9f9a87e60ec32cbf1a&txTime=6a273b38
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [PINKMAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=43546f427c639307f65ae0d2a03d6368&txTime=6a273b38
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [PINKMAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=2425bdf4492d835e17a3b4b8c3e1b493&txTime=6a273b38
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [Casting] (Socolive) m3u8
+https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1780937960-0-0-f80414cae6c2016b44f6a40125a32c7a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",TOUT: Venezuela U20 vs Portugal U20 [Casting] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1780937960-0-0-953b7739459e8ad114c8d8d8323e0999
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 08/06 Gamingccc (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 08/06 Gamingccc (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 08/06 Tommy Paul vs Giovanni Mpetshi Perricard (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 08/06 Tommy Paul vs Giovanni Mpetshi Perricard (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 08/06 Venezuela U20 vs Portugal U20 (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 08/06 Việt Nam vs Indonesia (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 08/06 Venezuela U20 vs Portugal U20 (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 08/06 Anyone's Legend vs Bilibili Gaming (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 08/06 Anyone's Legend vs Bilibili Gaming (Hội Quán) SD
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 08/06 KTP Kotka vs Haka
+https://live05.msdht.app/live/14707124.m3u8
 
