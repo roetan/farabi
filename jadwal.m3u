@@ -1,10 +1,76 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781072229.png",13:16 WIB 10/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6661_1grcyn2cdt2s.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781072229.png",13:16 WIB 10/06 Paris Saint-Germain vs Arsenal (Lương Sơn) BLV KEVILL REPLAY flv
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6661_1grcyn2cdt2s.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6661_1grcyn2cdt2s.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC (Lương Sơn) BLV PELE m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6661_1grcyn2cdt2s.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC (Lương Sơn) BLV PELE flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8663_1h6z210pq43.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City (Lương Sơn) BLV GẤU KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/8663_1h6z210pq43.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City (Lương Sơn) BLV GẤU KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12207_1hx8jh5m0e5.png",16:45 WIB 10/06 Cumberland United FC vs Adelaide Cobras FC (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12207_1hx8jh5m0e5.png",16:45 WIB 10/06 Cumberland United FC vs Adelaide Cobras FC (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12207_1hx8jh5m0e5.png",16:45 WIB 10/06 Cumberland United FC vs Adelaide Cobras FC (Lương Sơn) BLV PHI HỔ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12207_1hx8jh5m0e5.png",16:45 WIB 10/06 Cumberland United FC vs Adelaide Cobras FC (Lương Sơn) BLV PHI HỔ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/49563_1h0y004e31a.png",17:00 WIB 10/06 New Lambton FC (W) vs Broadmeadow Magic (W) (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/49563_1h0y004e31a.png",17:00 WIB 10/06 New Lambton FC (W) vs Broadmeadow Magic (W) (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12663_1jqwjxjs0w1a.png",16:30 WIB 10/06 Tuggeranong United vs Monaro Panthers (Lương Sơn) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12663_1jqwjxjs0w1a.png",16:30 WIB 10/06 Tuggeranong United vs Monaro Panthers (Lương Sơn) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68801_1jna6f8y4k23.png",17:00 WIB 10/06 Lake Macquarie (W) vs Charlestown Azzuri (W) (Lương Sơn) BLV SHIN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68801_1jna6f8y4k23.png",17:00 WIB 10/06 Lake Macquarie (W) vs Charlestown Azzuri (W) (Lương Sơn) BLV SHIN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68801_1jna6f8y4k23.png",17:00 WIB 10/06 Lake Macquarie (W) vs Charlestown Azzuri (W) (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68801_1jna6f8y4k23.png",17:00 WIB 10/06 Lake Macquarie (W) vs Charlestown Azzuri (W) (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/49563_1h0y004e31a.png",17:00 WIB 10/06 New Lambton FC (W) vs Broadmeadow Magic (W) (Lương Sơn) BLV PHI HỔ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/49563_1h0y004e31a.png",17:00 WIB 10/06 New Lambton FC (W) vs Broadmeadow Magic (W) (Lương Sơn) BLV PHI HỔ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34083_1gvpm1gapha.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34083_1gvpm1gapha.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34083_1gvpm1gapha.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers (Lương Sơn) BLV FERNANDO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34083_1gvpm1gapha.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers (Lương Sơn) BLV FERNANDO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -25,22 +91,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143114_ede472a3.png",12:00 WIB 10/06 Cuba vs Poland (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143114_ede472a3.png",12:00 WIB 10/06 Cuba vs Poland (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143114_ede472a3.png",12:00 WIB 10/06 Cuba vs Poland (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143114_ede472a3.png",12:00 WIB 10/06 Cuba vs Poland (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123052_d31bb816.png",15:30 WIB 10/06 China vs Slovenia (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -321,51 +371,285 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",12:00 WIB 10/06 Cuba vs Ba Lan (Hội Quán) FHD 
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=ad25d6d2029b1d6310153b6709b275ad&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=efd53789134a75a3946ce7d16fe6089a&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=ad25d6d2029b1d6310153b6709b275ad&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=efd53789134a75a3946ce7d16fe6089a&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=46323fe8d227a21a7be8edd6e89ce41f&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=b7881269abe6c139278bacc9f8d22ca3&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=46323fe8d227a21a7be8edd6e89ce41f&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=b7881269abe6c139278bacc9f8d22ca3&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BLV CÒ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1781090240-0-0-292eb182e3a60d87e3ab4df7ea739f8d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BLV CÒ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781090240-0-0-32607ef942e388cae2e7cfd0cc770480
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BLV CÒ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781090240-0-0-afcacbfb33c4e196dd09857a9b339ebb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BLV CÒ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781090240-0-0-89e59186e846bc4167a49db730dd926b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1781090240-0-0-8c2c1da7b7e47fbdbc00f2e0c0728beb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781090240-0-0-b53dd30cac16657c52d8cabd331a8861
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781090240-0-0-9e1850e3e92f26ce00b20adc5544e8b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781090240-0-0-8c618bd40a36ca052bdddee87df36f2c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b60139b24c39f5fa07d11ae43958c423.png",16:30 WIB 10/06 Tuggeranong United vs Monaro Panthers [BLV KAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=fafc447dfc27f5da97001cf8a2b87edb&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b60139b24c39f5fa07d11ae43958c423.png",16:30 WIB 10/06 Tuggeranong United vs Monaro Panthers [BLV KAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=be150c8543073c82970e2d776630c185&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b60139b24c39f5fa07d11ae43958c423.png",16:30 WIB 10/06 Tuggeranong United vs Monaro Panthers [BLV KAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=fafc447dfc27f5da97001cf8a2b87edb&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b60139b24c39f5fa07d11ae43958c423.png",16:30 WIB 10/06 Tuggeranong United vs Monaro Panthers [BLV KAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=be150c8543073c82970e2d776630c185&txTime=6a298e10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b60139b24c39f5fa07d11ae43958c423.png",16:30 WIB 10/06 Tuggeranong United vs Monaro Panthers [CHÍ PHÈO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781090240-0-0-8ae9b0cbbae46e8ff3ecd7ce40fd3a84
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b60139b24c39f5fa07d11ae43958c423.png",16:30 WIB 10/06 Tuggeranong United vs Monaro Panthers [CHÍ PHÈO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781090240-0-0-70521758320dda27d97d1b9a652fe273
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b60139b24c39f5fa07d11ae43958c423.png",16:30 WIB 10/06 Tuggeranong United vs Monaro Panthers [CHÍ PHÈO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781090240-0-0-51f2a0ccba7d3c955fdf135a26085eff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b60139b24c39f5fa07d11ae43958c423.png",16:30 WIB 10/06 Tuggeranong United vs Monaro Panthers [CHÍ PHÈO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781090240-0-0-c052822605ebfe510d622c341c36e4dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/b4819c1712c0c3393e776651dc1d51ba.png",18:00 WIB 10/06 Fubon Braves vs Taoyuan Pauian Pilots [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781090240-0-0-e567bd0938ba1a9d3fe34581519d5bd6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/b4819c1712c0c3393e776651dc1d51ba.png",18:00 WIB 10/06 Fubon Braves vs Taoyuan Pauian Pilots [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781090240-0-0-89fc34e9563bea810f8a9c3988679547
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/b4819c1712c0c3393e776651dc1d51ba.png",18:00 WIB 10/06 Fubon Braves vs Taoyuan Pauian Pilots [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781090240-0-0-3440eb667dafef953188b42d35496b02
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/b4819c1712c0c3393e776651dc1d51ba.png",18:00 WIB 10/06 Fubon Braves vs Taoyuan Pauian Pilots [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781090240-0-0-cbc460d796c459038ac7317c1208c6cb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781090600-0-0-5261a762aacdef0122d9f9980f7e5687
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781090600-0-0-8ce2c8e3ad1b4788e7f411967f43c134
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781090600-0-0-7b75692d5b9691405d875a473f4a44aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781090600-0-0-fef976255c7df23ff9a28d015fd0af93
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781090600-0-0-65fce482f4b40c342ef2943200df824a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781090600-0-0-ee628a39791536f7f4afde9ebd5cd241
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781090600-0-0-311ed69059b87aaad08a5f662656d0cb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781090600-0-0-2d500eabe7abbb997e2dcb7c74c2725d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f86584d5c700beed6c5976534b61543c.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781090600-0-0-feabf17d8315c231ea630ccc7dae7f3c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f86584d5c700beed6c5976534b61543c.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781090600-0-0-05f4e1f9d4a5d733a484c6fa9dd85512
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f86584d5c700beed6c5976534b61543c.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781090600-0-0-dd8381c31631c8e6b4f5c7ab6266eb6b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f86584d5c700beed6c5976534b61543c.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781090600-0-0-9b2daeb1536c983ceb3cc7b751f46889
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV VOI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781090600-0-0-bf3b1e4485af2f3ef59d78bbac0c8db6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV VOI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781090600-0-0-37c379c351ec985f82e66c2827f0fa3f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV VOI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781090600-0-0-64fbbd6943146f37ee80fb477b202b13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV VOI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781090600-0-0-62d22e5b0d8637f137debfb11260a1ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f342d18ed94ac975311c08f940e47f46.png",17:00 WIB 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [CHAN SENA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781090600-0-0-37cfaa35bcf844b415c62f769de4100b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f342d18ed94ac975311c08f940e47f46.png",17:00 WIB 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [CHAN SENA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781090600-0-0-a094cd587d72785cd7d0c664a33c5cbf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f342d18ed94ac975311c08f940e47f46.png",17:00 WIB 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [CHAN SENA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781090600-0-0-a43284f293dc947dca3545ca77cd01bc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f342d18ed94ac975311c08f940e47f46.png",17:00 WIB 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [CHAN SENA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781090600-0-0-148aa83359a838d546e8085fb90bdb32
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f86584d5c700beed6c5976534b61543c.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers [TRÀ ĐÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1781090960-0-0-236df12c2ef5ba933644b3be78434d41
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f86584d5c700beed6c5976534b61543c.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers [TRÀ ĐÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781090960-0-0-1889901e3d7d95639655ebbd775168dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f86584d5c700beed6c5976534b61543c.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers [TRÀ ĐÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781090960-0-0-45dba2f47df6f46a69197c1769050c4b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f86584d5c700beed6c5976534b61543c.png",16:30 WIB 10/06 OConnor Knights vs Cooma Tigers [TRÀ ĐÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781090960-0-0-d3026aa464ef7dd4c2e4b6aedf48e1cc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BEN 10] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1781090960-0-0-368b28ce5469392dc125739f8ddc74b9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BEN 10] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1781090960-0-0-aad1c34312675064d9850aaac9776970
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BEN 10] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781090960-0-0-071b157dadb07319b2f5dbbec102cbca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BEN 10] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781090960-0-0-1ad93591284cbbfa7e6b3136f8795d49
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1781090960-0-0-5738ed3c86537ac7101172b4769eb42c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781090960-0-0-39e56b2d148cc2945ed0c8bb9eac3b3c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781090960-0-0-79b4e6df48f20b72826d7bd91cc72a3b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/b5a50c3f11f97d69eff8c774c8773e61.png",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781090960-0-0-2f55120ed2cb4d852c0f3e34c573e395
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BLV GÔN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1781090960-0-0-741f932eb99dfabcc585080f98c1ef76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BLV GÔN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1781090960-0-0-9450bd16757bd33b2ac8638da3acad23
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BLV GÔN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781090960-0-0-b6d26a667a05d24d4643bfc7813c94ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/adabaef876afd3733e0297397cbb627b.png",16:30 WIB 10/06 Canberra FC vs Queanbeyan City [BLV GÔN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781090960-0-0-08e2df3abf213f2167a559f9947ab623
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f342d18ed94ac975311c08f940e47f46.png",17:00 WIB 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781090960-0-0-e297f875b001c3f46b2a80f661089b8e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f342d18ed94ac975311c08f940e47f46.png",17:00 WIB 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781090960-0-0-0a47eadb7481dbf1b1eaa09ac610457c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f342d18ed94ac975311c08f940e47f46.png",17:00 WIB 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781090960-0-0-f6cad1176483a536ae9494bed65fdfa2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f342d18ed94ac975311c08f940e47f46.png",17:00 WIB 10/06 Pasay Voyagers vs Valenzuela City Darkhorse [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781090960-0-0-b32e062e04443f4753688cf1a811ba42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/821279e2aa4daf8cc27089ad3b004ec3.png",16:30 WIB 10/06 Canberra Olympic vs Canberra Juventus [TƯ MÃ Ý] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611377_lsd.flv?auth_key=1781090960-0-0-1dfce7d7a60ad1088305e4649dff52e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/821279e2aa4daf8cc27089ad3b004ec3.png",16:30 WIB 10/06 Canberra Olympic vs Canberra Juventus [TƯ MÃ Ý] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1781090960-0-0-5b3a26df030a406d64c0f85872a90dc4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/821279e2aa4daf8cc27089ad3b004ec3.png",16:30 WIB 10/06 Canberra Olympic vs Canberra Juventus [TƯ MÃ Ý] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1781090960-0-0-5087c1c9fe8c93197349669bc149cf04
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/821279e2aa4daf8cc27089ad3b004ec3.png",16:30 WIB 10/06 Canberra Olympic vs Canberra Juventus [TƯ MÃ Ý] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1781090960-0-0-56875689a41177d136fc51dcca871255
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV RYO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1781090960-0-0-85b323381cfb8a78c920140ebfd2b12a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV RYO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1781090960-0-0-c8dbd5c9139592731894216f71d522f5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV RYO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781090960-0-0-d2c55ea7471ac7a57cefe6a64e3afbc4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV RYO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781090960-0-0-9cca5d11c8080c06152e4576de734a99
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781090960-0-0-612d3f520aaf17810e219d3485e4db89
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781090960-0-0-21507d4b69d72322f94907fb1c6ad570
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781090960-0-0-a65ccc8f543fd6702c045b96c323d6d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260607/f807faf05226198b1ffafdf3448ce43a.png",16:30 WIB 10/06 Belconnen United vs Canberra White Eagles [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781090960-0-0-25d46fb6cd073150ca2adfdfc5d64d70
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s",15:00 WIB 10/06 Trung Quốc vs Slovenia (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",12:00 WIB 10/06 Cuba vs Ba Lan (Hội Quán) HD 
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s",15:00 WIB 10/06 Trung Quốc vs Slovenia (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",12:00 WIB 10/06 Cuba vs Ba Lan (Hội Quán) SD 
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s",15:00 WIB 10/06 Trung Quốc vs Slovenia (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",06:00 WIB 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",06:00 WIB 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",06:00 WIB 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",11:00 WIB 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",11:00 WIB 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/O2nuZwRp-vaAM5VhK.png",11:00 WIB 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media-cdn-v2.laodong.vn/storage/newsportal/2024/3/13/1314506/Hai-Dang-1.jpg?w=800&h=496&crop=auto&scale=both",11:00 WIB 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD 
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/960px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",16:00 WIB 10/06 Mattia Bellucci vs Yannick Hanfmann (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media-cdn-v2.laodong.vn/storage/newsportal/2024/3/13/1314506/Hai-Dang-1.jpg?w=800&h=496&crop=auto&scale=both",11:00 WIB 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/960px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",16:00 WIB 10/06 Mattia Bellucci vs Yannick Hanfmann (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media-cdn-v2.laodong.vn/storage/newsportal/2024/3/13/1314506/Hai-Dang-1.jpg?w=800&h=496&crop=auto&scale=both",11:00 WIB 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/960px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",16:00 WIB 10/06 Mattia Bellucci vs Yannick Hanfmann (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVNOI6NxwTwLAy8bBwn3Rf0BtrYlb7phVRQ&s",16:00 WIB 10/06 Anastasia Potapova vs Suzan Lamens (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVNOI6NxwTwLAy8bBwn3Rf0BtrYlb7phVRQ&s",16:00 WIB 10/06 Anastasia Potapova vs Suzan Lamens (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVNOI6NxwTwLAy8bBwn3Rf0BtrYlb7phVRQ&s",16:00 WIB 10/06 Anastasia Potapova vs Suzan Lamens (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/d4a819a35678fd3d1c1f3e45c16f00b5.png!w80",16:30 WIB 10/06 Sydney Olympic vs SD Raiders FC
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/99121525.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/9c5d8aed0ea026342914defad5a9a782.png!w80",16:30 WIB 10/06 Hiệp sĩ OConnor vs Tigers FC
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/78905744.m3u8
