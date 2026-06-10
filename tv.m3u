@@ -1,181 +1,67 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/755.png",05:00 | Nautico Recife vs Fortaleza EC
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Escudo_de_Bolivia.svg",03:00 | Bolivia vs Algeria
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2697.png",20:00 | Cape Town City vs Magesi
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",22:00 | Thổ Nhĩ Kỳ vs Mỹ
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Nautico (PE) vs Fortaleza (Lương Sơn) BLV SHIN m3u
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Saudi Arabia vs Senegal (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Ponte Preta vs Cuiaba (Lương Sơn) BLV PELE m3u
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781049920-0-0-0bf68ac0a18d817209c06c81a6d8948a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781049920-0-0-2d2251231602ad2576a8fb267c882fa6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781049920-0-0-d67999f39c60e4c4d93a3112d6b5d8f1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781049920-0-0-68071ea8f92045ffa5e7393a75a63487
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Nautico (PE) vs Fortaleza [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781049920-0-0-af49fc571052a94484987243de700660
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Nautico (PE) vs Fortaleza [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781049920-0-0-da422df6b565458c4888c4423188c1ea
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Nautico (PE) vs Fortaleza [BLV YONE] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781049920-0-0-fc255e6885e53dd0ffb1f36531abf6d1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Nautico (PE) vs Fortaleza [BLV YONE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781049920-0-0-3bab41fa39238761f4737350292d1c12
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Peru Women vs Bolivia Women [TRÀ ĐÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781049920-0-0-079e28a3e6f7f3ba91c46c60ea98b32a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Peru Women vs Bolivia Women [TRÀ ĐÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781049920-0-0-b51d3fa51b630dae5dba1551b5c7ebfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Peru Women vs Bolivia Women [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781049920-0-0-9b2b985457408ae77cba653d03f30c27
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Peru Women vs Bolivia Women [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781049920-0-0-8e0309db02b2ff450651caeaee22554e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Uruguay Women vs Venezuela Women [TƯ MÃ Ý] (Socolive) m3u8
-https://pull.niues.live/live/stream-611377_lsd.m3u8?auth_key=1781049920-0-0-ffc81ac097eed7ef8e47056a584f2ad3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Uruguay Women vs Venezuela Women [TƯ MÃ Ý] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611377_lhd.m3u8?auth_key=1781049920-0-0-31b7ba6584f9c9ec025c36fbe92e24a2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Saudi Arabia vs Senegal [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781050280-0-0-b2a8bf8ff0d8660b5d876fb03fa293f0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Saudi Arabia vs Senegal [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781050280-0-0-aca24baf7e3fc44ab55375a22a0bb4cd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781050280-0-0-ccdb17ad0f442e5b3ebf8a3038441e84
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781050280-0-0-a7acd2e96ac6d9b9a47738697e2e0a8e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [BLV RÔSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=e1a85f9a5e2f40c6ab4825eb48ff7646&txTime=6a28f1f8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [BLV RÔSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a1062c3e4b1ddbc472dcc4250b62a603&txTime=6a28f1f8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [A PÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781050280-0-0-09c7297331b87ce37d788da42af7045f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [A PÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781050280-0-0-7db10ab9bff777824fe92de258590b97
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Ecuador Women vs Argentina Women [BLV GIÓ] (Socolive) m3u8
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781050280-0-0-5be672511cff1caf509d84f9af52473a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Ecuador Women vs Argentina Women [BLV GIÓ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781050280-0-0-f26256893d1c50b39d1d5a3c8b2229ee
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781050280-0-0-b02219b6d128c997b9856519a71eef51
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781050280-0-0-b54dfaf3fef4023427f1b6fdf1197cd6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781050280-0-0-fc4ef8367013b97021552f26cf902363
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Saudi Arabia vs Senegal [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781050280-0-0-b55bc8c72e2055acfe315643cf808037
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [QUÂN JK] (Socolive) m3u8
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781050280-0-0-b9afd86e69e950c2eeaa58effc429d76
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Atletico Ottawa vs Supra Du Quebec [QUÂN JK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781050280-0-0-c6c0314f114445d5cdb940b21e4bda97
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Chicago Sky W vs Atlanta Dream W [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781050280-0-0-4f279cba4e22cb4823d2eb80c62aa4f7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Chicago Sky W vs Atlanta Dream W [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781050280-0-0-5c5ab35703f41b2a61730cd29c7a2f65
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 10/06 Golden State Valkyries (W) vs Phoenix Mercury (W) (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781050280-0-0-b1eef8a9c9b26728498453581bd42879
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781067560-0-0-b8510a21a9ac1f47c6c57893a607cbf8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781050280-0-0-1b1c443e7f201c96f2673c6d46ccf310
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781067560-0-0-f8f20ad9532b494e24c631f33935cf84
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Ecuador Women vs Argentina Women [BLV VOI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781050640-0-0-76438ffe0dd2f289878d0a73fde894e5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781067560-0-0-dba88ce430eb47fa4f2d7f67731f5029
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Ecuador Women vs Argentina Women [BLV VOI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781050640-0-0-4c3b86dc8de8285784f3fb2365ca31ab
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781067560-0-0-7b0e7ee7345167a1ed0e9a13a7805b4c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781050640-0-0-3142ff92d04c5a0515e97de13327e0dd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781067560-0-0-9508276040736c85133d0c7a5b05b6c0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781050640-0-0-0ce2d83d4ddbe3dad98f32956005b772
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781067560-0-0-e09ae9a605ea4eca916c9c631878def4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Chicago Sky W vs Atlanta Dream W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781050640-0-0-6a6835aed24c17035da716e15906ed52
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781067560-0-0-14689d1397b0ad586093beaf83e5d15f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Chicago Sky W vs Atlanta Dream W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781050640-0-0-d7c19989b4beb8b25cd9b5456108bbbb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781067560-0-0-dcf0491fda7267d9d9749e98150bfe52
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Ponte Preta vs Cuiaba [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=6f4b6d8324f1e2eed4e969c24d23daef&txTime=6a28f360
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781067560-0-0-dc72a7bf679d65f943865b458f971f9f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Ponte Preta vs Cuiaba [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=6d5eb58a86355bc8ff33ea383e8e204c&txTime=6a28f360
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781067560-0-0-21021206c57b81542e9d553d997a61e4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781050640-0-0-f2c4caee86f9e0bcffe8a3d2cbb193bd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781067560-0-0-2a05cc5ad9a7c732016afebae97a7d7e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 10/06 Ponte Preta vs Cuiaba [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781050640-0-0-85fa50f1f3bf9dc8efae38efa275d0e7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781067560-0-0-581958a0b15ce0c9c136577ac47edaf7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Paraguay Women vs Colombia Women [BEN 10] (Socolive) m3u8
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781050640-0-0-44bf7471888c1765d35a15e4392c5cb6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781067560-0-0-80443a6380c37b72a15245c1423f86cb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Paraguay Women vs Colombia Women [BEN 10] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781050640-0-0-58a51780cc63a9aba54bc9d1ee71803c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Uruguay Women vs Venezuela Women [BLV PICK] (Socolive) m3u8
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781050640-0-0-bf8b44f447964980283adfbf643a1504
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 10/06 Uruguay Women vs Venezuela Women [BLV PICK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781050640-0-0-80f6c1750b6afed507fc6d5bfeaf5eee
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 10/06 Nautico Recife vs Fortaleza EC (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 10/06 Nautico Recife vs Fortaleza EC (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781067560-0-0-0481fe490f861448dde515cc0a6b9e2e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 10/06 Ả Rập Saudi vs Senegal
-https://live05.msdht.app/live/90725470.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 10/06 Ponte Preta vs Cuiaba
-https://live05.msdht.app/live/78905744.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 10/06 Chicago Sky vs Atlanta Dream
-https://live05.msdht.app/live/19919577.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
