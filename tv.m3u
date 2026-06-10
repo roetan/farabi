@@ -1,67 +1,106 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Escudo_de_Bolivia.svg",03:00 | Bolivia vs Algeria
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",07:30 | San Antonio Spurs - New York Knicks
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/22932.png",23:00 | Falu BS vs Gefle IF
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",22:00 | Thổ Nhĩ Kỳ vs Mỹ
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 10/06 Golden State Valkyries (W) vs Phoenix Mercury (W) (Lương Sơn) BLV YẾN THANH m3u
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://images.volleyballworld.com/image/upload/f_png/t_flag/assets/flags/flag_chn",Trung Quốc – Slovenia
+https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Cebu Greats vs Paranaque Patriots (Lương Sơn) BLV VÕ TÒNG m3u
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Edo Queens (W) vs Abia Angels FC (W) (Lương Sơn) BLV MAYBACH m3u
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Cebu Greats vs Paranaque Patriots [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781084120-0-0-3a1e713fc28580aab7ceb6e35aea8424
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Cebu Greats vs Paranaque Patriots [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781084120-0-0-5fd697876dc94749e796305a74163773
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Cebu Greats vs Paranaque Patriots [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781084120-0-0-3af3f3fd423a4adc1346bc13d966fd9c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Cebu Greats vs Paranaque Patriots [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781084120-0-0-5aab149666785679b8a503afa0a3c7b3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781067560-0-0-b8510a21a9ac1f47c6c57893a607cbf8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781084120-0-0-188e0ce593b3da6fceda2958044f6112
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781067560-0-0-f8f20ad9532b494e24c631f33935cf84
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781067560-0-0-dba88ce430eb47fa4f2d7f67731f5029
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781067560-0-0-7b0e7ee7345167a1ed0e9a13a7805b4c
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781084120-0-0-7d1ace053985f14e236e3acf97037ae2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781067560-0-0-9508276040736c85133d0c7a5b05b6c0
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781084120-0-0-ed49f90de05857e60f6b5ca3468429a7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - France vs Northern Ireland [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781067560-0-0-e09ae9a605ea4eca916c9c631878def4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781067560-0-0-14689d1397b0ad586093beaf83e5d15f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781067560-0-0-dcf0491fda7267d9d9749e98150bfe52
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781067560-0-0-dc72a7bf679d65f943865b458f971f9f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781067560-0-0-21021206c57b81542e9d553d997a61e4
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781084120-0-0-47c5583840a739f895aa6131c841327e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781067560-0-0-2a05cc5ad9a7c732016afebae97a7d7e
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781084120-0-0-cf3a9edd2140850c0d54a8f04376cf12
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Australia w vs Mexico w [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781067560-0-0-581958a0b15ce0c9c136577ac47edaf7
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781084120-0-0-85a357d3fec3409c058f87a314f1be9f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781084120-0-0-4f3361b5cffbcb503fbf1520b72fc593
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Peru vs Spain [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781084120-0-0-fa7b050e0336b7f7bd6de30219e4f9a3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781084120-0-0-e035f60b836d967ff24bea2dd194f296
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Japan W vs South Africa W [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781084120-0-0-b6b969dee475d4660c038ba9c9e3b70f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781084120-0-0-aca1c96d3fa8804e922e76559fad307d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Hungary vs Kazakhstan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781084120-0-0-8c2cab801f8bc358ac68bdf6b63a621c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781067560-0-0-80443a6380c37b72a15245c1423f86cb
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781084120-0-0-0c28028b77e60fe311077d3b34d06035
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Democratic Republic of the Congo vs Chile [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781067560-0-0-0481fe490f861448dde515cc0a6b9e2e
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781084120-0-0-44243ee23d24b2ee964501fc5913a259
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 10/06 Canberra FC vs Queanbeyan City [BLV GÔN] (Socolive) m3u8
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781084480-0-0-a8f1d84483645420db541b49b47fe242
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 10/06 Canberra FC vs Queanbeyan City [BLV GÔN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781084480-0-0-cfa60104818169e764598b311bc047c5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Cebu Greats vs Paranaque Patriots [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781084480-0-0-84f73796f162f7873b0e337192bc39ab
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Cebu Greats vs Paranaque Patriots [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781084480-0-0-53649af439bb868643802490c88fe911
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 10/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Cebu Greats vs Paranaque Patriots [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781084840-0-0-d2820430c2ecb2a7753c6e259e4154cb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Cebu Greats vs Paranaque Patriots [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781084840-0-0-58be7e10f6183522c2d1bca6ae0ba65c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Cebu Greats vs Paranaque Patriots [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781084840-0-0-c42afd6a8c52d1f9715062dc06ab939b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 10/06 Cebu Greats vs Paranaque Patriots [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781084840-0-0-d3066f84d132a3115f8c053e7294fa10
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 10/06 Trung Quốc vs Slovenia (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 10/06 Trung Quốc vs Slovenia (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h30 10/06 Belconnen United U23 vs Canberra White Eagles U23
+https://live05.msdht.app/live/87379114.m3u8
 
