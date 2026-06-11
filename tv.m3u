@@ -1,58 +1,214 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_FEDFYlz0iqDsW-Whjs9-ZTVJk4o-dXyzNg&s",16:00 | Rinky Hijikata vs Frances Tiafoe
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/3674.png",18:00 | Nam Dinh vs Ho Chi Minh
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3d/Logo_CLB_Ninh_B%C3%ACnh.png",18:00 | Phu Dong vs Viettel
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/9190.png",22:30 | Tampere United vs OLS
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3IKAmkvIcIyX5_cPP_OEmEMtdVHUdhxLBQ&s",18:00 | Sho Shimabukuro vs Nick Kyrgios
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/19155.png",16:00 | Thái Lan U19 vs Campuchia U19
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h50 ngày 11/06 Anh vs Costa Rica (Lương Sơn) HEINEKEN REPLAY m3u
-https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://i.pinimg.com/736x/85/ba/b2/85bab22e99b269b9c032d7b8d5cc77ea.jpg",16:00 | The Mongolz vs BetBoom
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - France vs Northern Ireland [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781160440-0-0-54265169deb1af2c3dd001f7f8c97520
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/ykL8C5VrRxNAEm92JYv5Tg_96x96.png",Phù Đổng Ninh Bình vs Thể Công Viettel
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - France vs Northern Ireland [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781160440-0-0-bc24fd72ba2e58b602dab0caa1a8609d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 11/06 Thailand U19 vs Cambodia U19 (Lương Sơn) BLV TÔN LẬP m3u
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Netherlands vs Uzbekistan [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781160440-0-0-30dacbab3c674cde3b15063eb209a844
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 11/06 Thailand U19 vs Cambodia U19 (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Netherlands vs Uzbekistan [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781160440-0-0-f31e6f5544138a81740e2fb1a155ddd4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 11/06 Thailand U19 vs Cambodia U19 (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Argentina vs Iceland [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781160440-0-0-a64f3df29a55767b276bdc124a942b47
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781177720-0-0-c279db59fc90620ae33ae2c8c66ac934
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Argentina vs Iceland [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781160440-0-0-9e283b4f6ad658d26919ae654ecf8e64
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781177720-0-0-c92b911d4eb360fb3170df8838352907
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Saudi Arabia vs Senegal [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781160440-0-0-9599233b9f50d6d5fe4c987254f3d154
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=733b0c5e2980d17cab2a378861a2eb97&txTime=6a2ae3c8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Saudi Arabia vs Senegal [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781160440-0-0-18e095c574c37e00e8c2a0c37414c47c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=c19eef3b8d5b1eb6cca9550aeda56af4&txTime=6a2ae3c8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - England vs Costa Rica [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781160440-0-0-fe5b7625d4eddf2c00a32e0ba8507006
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19: Thailand U19 vs Cambodia U19 [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781177720-0-0-8b5cd1bf8759684113a6dccab59434db
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - England vs Costa Rica [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781160440-0-0-0eb71eacadc1fd869bad53ce4b1c3d06
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19: Thailand U19 vs Cambodia U19 [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781177720-0-0-699f6ac1acd8eb330513661ad548d3a8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Portugal vs Nigeria [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781160440-0-0-366784a2ceeb67d51499d1767a481f94
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19: Thailand U19 vs Cambodia U19 [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781177720-0-0-109cbf8708a422f639c0490353e5ba4c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: INTERF - Portugal vs Nigeria [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781160440-0-0-dcc8bb54d663579e043e5fa012d420b0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19: Thailand U19 vs Cambodia U19 [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781177720-0-0-4516f2e3e4207206a3336227b2cfad58
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV BÉO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=98178c630430b19fbb164f6f4c2bc4bb&txTime=6a2ae3c8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV BÉO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f6b27e338d5ab1f9ca2647cab72a58fc&txTime=6a2ae3c8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781177720-0-0-bfc1bc7c06cf2c20a818dfdef3761d9a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781177720-0-0-3390afe43c15fcb0bb3bb650e0ab4ec6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781177720-0-0-e8c63b11b114ebf84f5eeab6d95d0b41
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781177720-0-0-5597c947bc52039dbe0f79172abaa161
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 11/06 Bataan Risers vs Bacolod Masskara [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781177720-0-0-da9a8f3471905eedd6eb18a8b44db3d4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 11/06 Bataan Risers vs Bacolod Masskara [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781177720-0-0-b4de220aae46b443fa987e495cc5bf4e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 11/06 Bataan Risers vs Bacolod Masskara [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781177720-0-0-828a1ffc6eb58b6fd70f4afc13ecfeeb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 11/06 Bataan Risers vs Bacolod Masskara [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781177720-0-0-39007a2e69b2577f7f56bfc95ccce508
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781178080-0-0-621df04d36c549c445bd09fc903aeb65
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781178080-0-0-69bc3ad3ddd12b52e11acb29eb1784c7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [THẠCH TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781178440-0-0-a2b3e8ef4dc24c58eb5f002b55419a0c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781178440-0-0-9c7a46cff0e0a01134f04b175bb52158
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 11/06 Venezuela U20 vs Japan U19 [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781178440-0-0-56efba986412483480c2d2b73ba55622
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 11/06 Venezuela U20 vs Japan U19 [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781178440-0-0-8c073c6b687884c2c13dff4a058588a3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19: Thailand U19 vs Cambodia U19 [BLV KEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781178440-0-0-ca60ff9cc03c829ce1253051bc71c0ef
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19: Thailand U19 vs Cambodia U19 [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781178440-0-0-db0a599e70fd9cd2270a65d26cd67a70
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781178440-0-0-6184b0b452ba9f0d029c342350726c31
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781178440-0-0-7c223924cdbdbf05d80102da30161afc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 11/06 Venezuela U20 vs Japan U19 [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=5f8d6ff4bd1d3c684e88a2cf6f49d1db&txTime=6a2ae698
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 11/06 Venezuela U20 vs Japan U19 [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=22f6d25eb29280f842718a817bdf6e9b&txTime=6a2ae698
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781178440-0-0-b35755ad3a79cd3cc62523b826ca39b8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781178440-0-0-c6feec4e07006826510f5b0a15124a85
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=b0834fbe9d2cf5afafd2987aba76c948&txTime=6a2ae698
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d3e6514a913252f81a84228e356c8b71&txTime=6a2ae698
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV TAP] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781178440-0-0-54da7d0153e693d5a5381331fb5a75fa
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 11/06 Ninh Binh FC vs The Cong Viettel [BLV TAP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781178440-0-0-711f851535dbbf6c65a79ac0f724d4cb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19: Thailand U19 vs Cambodia U19 [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781178440-0-0-c2a3cd6118142e4532d61dba94e4b575
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19: Thailand U19 vs Cambodia U19 [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781178440-0-0-c53ccb1d23f3faaab8985f4aa0fbfb49
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19:   Thailand U19 vs  Cambodia U19 [BLV RÔSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=d2876a67079f1e41833e4f85e966a984&txTime=6a2ae698
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19:   Thailand U19 vs  Cambodia U19 [BLV RÔSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=62ed1b76f9c98287e9518ca4defd0caa&txTime=6a2ae698
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19: Thailand U19 vs Cambodia U19 [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781178440-0-0-b7d73f1fbf77ad95d4ef556c728414c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AFF U19: Thailand U19 vs Cambodia U19 [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781178440-0-0-442514bd780b95432a9c4af1b798e791
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 11/06 Venezuela U20 vs Japan U19 [NGƯỜI CÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781178440-0-0-30e177c66f91004ac0c8d6efe7af2c69
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 11/06 Venezuela U20 vs Japan U19 [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781178440-0-0-dcdbe82aad7e30356fe0cc8c5beeb078
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781160800-0-0-2eb5e193b34ad8f748c2b0d4c5941e80
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781178440-0-0-20651131bc9b33202bac8bafeb198ca5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781160800-0-0-56ab3d9691388fb3658b9062b5678cb9
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781178440-0-0-2f05493579f08235ffaf2448e2f9f919
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 11/06 CHOU Tien Chen vs DONG Tian Yao (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 11/06 Nam Dinh vs Ho Chi Minh (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 11/06 Nam Dinh vs Ho Chi Minh (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 11/06 Phu Dong vs Viettel (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 11/06 Phu Dong vs Viettel (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 11/06 Sho Shimabukuro vs Nick Kyrgios (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 11/06 Sho Shimabukuro vs Nick Kyrgios (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 11/06 Thái Lan U19 vs Campuchia U19 (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 11/06 CHOU Tien Chen vs DONG Tian Yao (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 11/06 Thái Lan U19 vs Campuchia U19 (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h10 11/06 Akane YAMAGUCHI vs PAI Yu Po (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 11/06 The Mongolz vs BetBoom (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 11/06 The Mongolz vs BetBoom (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 11/06 Hàn Quốc vs Úc (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 11/06 Hàn Quốc vs Úc (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 11/06 Thái Lan U19 vs Campuchia U19
+https://live05.msdht.app/live/08552895.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 11/06 Nam Định vs Thành phố Hồ Chí Minh
+https://live05.msdht.app/live/24561735.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 11/06 Phu Dong Ninh Binh vs Thể Công - Viettel
+https://live05.msdht.app/live/14830711.m3u8
 
