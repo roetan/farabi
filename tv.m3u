@@ -2,177 +2,363 @@
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",02:00 | Canada vs Bosnia & Herzegovina
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png",03:30 | Đức vs Mỹ
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/3384.png",23:00 | Belshina vs Bate Borisov
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",19:00 | Cuba vs Slovenia
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png",Ba Lan vs Nhật Bản
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/3502.png",Saburtalo vs Spaeri
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Ekibastuzets vs FK Arys (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/586.png",FK Zalgiris Vilnius vs FK Trakai
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Kairat Almaty II vs Tobol Kostanai B (Lương Sơn) BLV HÀN TÍN m3u
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 Al Abbasieh FC vs Al-Hikma (Lương Sơn) BLV KAKA m3u
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 Al Abbasieh FC vs Al-Hikma (Lương Sơn) BLV NGƯỜI THÉP m3u
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 Al Abbasieh FC vs Al-Hikma (Lương Sơn) BLV TÔN LẬP m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 JaPS vs PK-35 Vantaa (Lương Sơn) BLV TÔN LẬP m3u
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 12/06 PVF-CAND vs Bac Ninh [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781273480-0-0-5ea0f0a24d88fd293831057b2c0b4442
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 JaPS vs PK-35 Vantaa (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 12/06 PVF-CAND vs Bac Ninh [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781273480-0-0-eef5bbedce3f2898181b77983e112d8d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 JaPS vs PK-35 Vantaa (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Meycauayan vs Abra Weavers [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781273480-0-0-e5080c75f6bb2edc15c58505ca40ca40
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 KTP Kotka vs Ekenas IF Fotboll (Lương Sơn) BLV VƯƠNG LUÂN m3u
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Meycauayan vs Abra Weavers [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781273480-0-0-2452e843382e75a8462d68b85188a7d0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 KTP Kotka vs Ekenas IF Fotboll (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Ekibastuzets vs FK Arys [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781273840-0-0-a1d99c3259026c6e2de72679d5613fc4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 KTP Kotka vs Ekenas IF Fotboll (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Ekibastuzets vs FK Arys [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781273840-0-0-b11750612fb5abf8d05a47a0bb4df2fa
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC (Lương Sơn) BLV LIO m3u
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781273840-0-0-0298db0ced194a91becd8610cdb0830d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 12/06 FC Belshina Babruisk vs BATE Borisov (Lương Sơn) BLV HÀN TÍN m3u
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781273840-0-0-f69d5ceedb40c0541de9168540a3e92d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 12/06 FC Belshina Babruisk vs BATE Borisov (Lương Sơn) BLV HEINEKEN m3u
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Ekibastuzets vs FK Arys [KÉP] (Socolive) m3u8
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781273840-0-0-aacedb4b90ab736a9848714a7f6625ef
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 12/06 FC Belshina Babruisk vs BATE Borisov (Lương Sơn) BLV QUAN VŨ m3u
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Ekibastuzets vs FK Arys [KÉP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781273840-0-0-e09ee82e862281cc0c49c6d295374c7a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 12/06 FK Liepaja vs Super Nova (Lương Sơn) BLV FERNANDO m3u
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781273840-0-0-3b555d035f8ce3139c6250f0c1d3563f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 12/06 FK Liepaja vs Super Nova (Lương Sơn) BLV LÃO HẠC m3u
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781273840-0-0-33e10d69715040ea490fe3294f9606b2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 12/06 FK Liepaja vs Super Nova (Lương Sơn) BLV KAKA m3u
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC (Lương Sơn) BLV LÝ QUỲ m3u
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC (Lương Sơn) BLV GẤU KA m3u
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [BLV TOMIA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781285360-0-0-5b7ba4e186535abf4856996d1b0299f7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [BLV TOMIA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781285360-0-0-6f944d94b79925e95f2c7d5ba71b17d4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [LOGAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=690d51a16be62d6a312279883fc96008&txTime=6a2c8840
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [LOGAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=642926eb61b637d05dabd57d88f7706f&txTime=6a2c8840
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [NGƯỜI CÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781285360-0-0-652b6531eb802ce84b67e0f0ad3cbe16
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781285360-0-0-660d47216b0be6979f8fee6c12dc2ea4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781285360-0-0-d4f7efad83d3b8312498f1f0cc469b48
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781285360-0-0-c4af5115ac964b761c03b5a9ac123101
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [LÃO LÂM] (Socolive) m3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781285360-0-0-1ca150c7be19ac16858387a2333b75d6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781285360-0-0-95c666d21bae791adcca89eac50d5a16
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781285360-0-0-96cf31e3a22e868eeaffa8eb3c7429b4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781285360-0-0-20822c464c25f3c2e7e2d440446ab602
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781285360-0-0-715d93631a377511af1d3a6b0d2d4ecf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LAT D1: FK Liepaja vs Super Nova [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781285360-0-0-17afa382a22572fa6007d44226bbcba2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [BLV VOI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781285360-0-0-f364ac701a2476ab7eeb7efa7e80fa55
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781285360-0-0-9c31672e7318d9189789e513b025b65e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781285360-0-0-4c16442a69e879abd8221401f1328919
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781285360-0-0-c215619bac30d3dcb3ebdc44c0f8b9a9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 JaPS vs PK-35 Vantaa [BLV VITAMIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781285360-0-0-c3b965be8249d8e2141df22505ad1e2f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 JaPS vs PK-35 Vantaa [BLV VITAMIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781285360-0-0-3a12f5ea68f55ea31da7cac508630a69
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 JaPS vs PK-35 Vantaa [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781285360-0-0-246f3b89af370dea57e4d6fc1b363f5d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 JaPS vs PK-35 Vantaa [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781285360-0-0-350c5595ddb0cd452e41ff89b6f2cd87
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BLR PL: FC Belshina Babruisk vs BATE Borisov [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781285360-0-0-f8ec17031d2c933c89863f5f71b16335
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BLR PL: FC Belshina Babruisk vs BATE Borisov [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781285360-0-0-195dbb5153f333b34f4178d8458d40be
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BLR PL: FC Belshina Babruisk vs BATE Borisov [CHÍ PHÈO] (Socolive) m3u8
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781285360-0-0-00eca67a008109dddcc997150c44074e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BLR PL: FC Belshina Babruisk vs BATE Borisov [CHÍ PHÈO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781285360-0-0-a62a35fde8beb207bfc646c6280a1bc3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LIT D1: Dziugas Telsiai vs Siauliai [KÉP] (Socolive) m3u8
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781285360-0-0-cb4f511a3e6e8a1222377d28ea14b563
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LIT D1: Dziugas Telsiai vs Siauliai [KÉP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781285360-0-0-6484fab57ecbbf8fc98ebda7cf779e57
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [BLV ROBBEN] (Socolive) m3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781285720-0-0-7b41b57f8886a2a1da7a99589f345652
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [BLV ROBBEN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781285720-0-0-d84776d20a97086a5b678d5d362ac13d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=bb2b42efc05cf10b55490552af8f60ed&txTime=6a2c89a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=90278acc578f2473597401b885d6f86a&txTime=6a2c89a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [BLV BÉO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=16e4ac90c70890ce391999d7f23a2778&txTime=6a2c89a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [BLV BÉO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=a4b1a35f11d7bba4ab3f66b06c727a9e&txTime=6a2c89a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [BLV RÔSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=1c12cdbfd6d736b738d708cd51269eb4&txTime=6a2c89a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [BLV RÔSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4743beb4b5f283333420420afd26592c&txTime=6a2c89a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 KTP Kotka vs Ekenas IF [TRÀ ĐÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781285720-0-0-aac587e192af22e26d876798eaf78827
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 KTP Kotka vs Ekenas IF [TRÀ ĐÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781285720-0-0-bb16c0d84ad9b7a4515907bf69067bfb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV WUKONG] (Socolive) m3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781285720-0-0-0c47eae06696b4ddbd1c56f9ba17bb81
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781285720-0-0-5b29bae7e3a8128ef0904df92274aa09
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BLR PL: FC Belshina Babruisk vs BATE Borisov [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781285720-0-0-25f3698b121a9b816c7ab1566b2784b9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BLR PL: FC Belshina Babruisk vs BATE Borisov [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781285720-0-0-ad1adc13c394ef8c9a88405e1cc0bec9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV ANH TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781285720-0-0-6a8c6690dbcdcbdad48d30ae08093c37
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV ANH TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781285720-0-0-c7e976f12bd5dfe32e19f107934845bc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 FK Panevezys vs Transinvest [BLV CHIVAS] (Socolive) m3u8
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=754a029dd732b956d8de93181567edc6&txTime=6a2c89a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 FK Panevezys vs Transinvest [BLV CHIVAS] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6bd9f01261d271e0e52635358bd03a0b&txTime=6a2c89a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LIT D1: Dziugas Telsiai vs Siauliai [BLV A WIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781285720-0-0-be857cbf2fef6ded13ea0b02caddca17
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LIT D1: Dziugas Telsiai vs Siauliai [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781285720-0-0-211577e7747752adb5f057ed450bdcfd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BLR PL: FC Belshina Babruisk vs BATE Borisov [BLV 24H] (Socolive) m3u8
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781285720-0-0-78ca5f280f76d60a7064dfef755951b8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BLR PL: FC Belshina Babruisk vs BATE Borisov [BLV 24H] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781285720-0-0-a7c4b5e6c4bbc1ff7ce56ada9f94d1fb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",GEO D1: Dinamo Batumi vs Dila Gori [BLV GIÓ] (Socolive) m3u8
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781285720-0-0-aa7811866f79432493e1c2979ceff796
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",GEO D1: Dinamo Batumi vs Dila Gori [BLV GIÓ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781285720-0-0-d7be316bc0e5c51a2d56bc9563f81acd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LIT D1: FK Zalgiris Vilnius vs FK Riteriai [BLV CÁP] (Socolive) m3u8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781285720-0-0-4cd101b6f8297760cc236dc6b8faa9bf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",LIT D1: FK Zalgiris Vilnius vs FK Riteriai [BLV CÁP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781285720-0-0-98b31518d36882716e2bdd4f27969218
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781273840-0-0-1e0d0e9af8792d7cf903c4b5f053e869
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781285720-0-0-98eede0afbcccc7ce42f521df2cd7050
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781273840-0-0-ac0fea6567703c5da5731e97912b653f
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781285720-0-0-1c851aed65686c76d9f489d4eaa2917c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781273840-0-0-bc1836406dd608e5fa2b36ac958fd03c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781285720-0-0-a18af31ca7d941611a665dcdab6d27db
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781273840-0-0-628f22b06ba5368cc9f55b3e6ef7bc66
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781273840-0-0-a48d4e32ca76e5dcef943d20c183b6fc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781273840-0-0-fb97a93d077ceef05c145ea1ad8f1295
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781285720-0-0-f8a1d61b2334eff046a9de8867ecc40c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781273840-0-0-a2c1c810f7e6c7f44431c090c8cdfe84
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781285720-0-0-7de8ba140e31015f7f8b356531bee2fe
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781273840-0-0-f4020f24e21e92e82a14af2978565d19
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781285720-0-0-c2d52f2db9d8257f99b7807fcdb00895
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781273840-0-0-f0753a3bf4200a8925a27d54438ea634
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781285720-0-0-1c585c3e1977e6c096a66d82ced48f6e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781273840-0-0-2132be1322fb68698c3473ca1aac720b
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781285720-0-0-75259843a4eaa9e85d919c2cb3e3bd4f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781273840-0-0-fb76b3cd1940fdbb9998a3de18d9364b
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781285720-0-0-91562025bdcd1b19c2d11e24a804717a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781273840-0-0-16fef07658ff2b1166e665195da3a71a
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781285720-0-0-4bae2c7c99672ef13914ddf04199fffd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Ekibastuzets vs FK Arys [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781274200-0-0-b4dc73678ab07de91e8cd997a28451a8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781285720-0-0-b4471355e58034335a4df9336b1ee668
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Ekibastuzets vs FK Arys [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781274200-0-0-2932052f8c45f28ccfdadf135f9dae3e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781285720-0-0-4add5bee6fbfdd3328df298b4e9e8d6d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Kairat Almaty II vs Tobol Kostanai B [QUÂN JK] (Socolive) m3u8
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781274200-0-0-7975ca4e93c2d99052bc00ff903a6529
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781285720-0-0-24cdd9cbbf5c8794311359b23dc066ad
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Kairat Almaty II vs Tobol Kostanai B [QUÂN JK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781274200-0-0-50480f9435e6e0d32eff3925e58aba2b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781285720-0-0-ae922e4533ec50d0000c41b76aa2271b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Maccabi Tel Aviv vs Hapoel Holon [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781274200-0-0-9af08e7e440122c906bd9143ba23f1c0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [BLV COZY] (Socolive) m3u8
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781286080-0-0-8d61559a5d814f320be620cc8ca6ad78
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Maccabi Tel Aviv vs Hapoel Holon [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781274200-0-0-321f6f73f22ed44fa222327fff04faae
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781286080-0-0-ea231e402a3d6f4218dde0d12b2aa1b6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV LONG] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=a12a9295f8d3f5c1fa5dc3188af97de9&txTime=6a2c5ca8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781286080-0-0-171e7c97436734992c073bd3a9d336cc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV LONG] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=1003774737e25023e944a7d94994b6b0&txTime=6a2c5ca8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 Tukums-2000 vs BFC Daugavpils [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781286080-0-0-4e2badce59d5bd9b4668b3dcb9a463fd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Kairat Almaty II vs Tobol Kostanai B [QUỐC KHÁNH] (Socolive) m3u8
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781274200-0-0-9ac57673685d1a00ac50590578a2e868
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781286080-0-0-df7faab6558c6c9f37aaf12b5f4f2f45
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Kairat Almaty II vs Tobol Kostanai B [QUỐC KHÁNH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781274200-0-0-e7aa207267d83ce4fbbdf488021384fc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781286080-0-0-3fff66f327b57be8c5badcc793d300cb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Ekibastuzets vs FK Arys [BLV THÓC] (Socolive) m3u8
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781274200-0-0-749cc2aaddcd65f528faa983ddc3a53f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [LOKA] (Socolive) m3u8
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781286080-0-0-7b62ff03ac913866f29d37c1afaf5142
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Ekibastuzets vs FK Arys [BLV THÓC] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781274200-0-0-84c5807a55be25f457b2d369c5ba3128
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [LOKA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781286080-0-0-9a44c148dccb516bc6ab0d87ca7a6182
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Maccabi Tel Aviv vs Hapoel Holon [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781274200-0-0-f672c67be4d3936df4b37a6cd08fa081
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [HẢI THANH] (Socolive) m3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781286080-0-0-1b8acac1c18c2c9681960d14ca9ec890
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Maccabi Tel Aviv vs Hapoel Holon [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781274200-0-0-c04c3e4210a9d2b706d8ae065f6dca7a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 12/06 FK Kaspiy Aktau B vs Turan [HẢI THANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781286080-0-0-fb3c21d42a5201595f3c17b1460a549f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=42c8ca5ccc5dffdcba2f265bcf21927d&txTime=6a2c5ca8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 KTP Kotka vs Ekenas IF [BLV LUCAS] (Socolive) m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781286080-0-0-416c73c7083ff6128b49e4952cd6f50a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0fae0cc8e1416359d630d9cd39604fc7&txTime=6a2c5ca8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 KTP Kotka vs Ekenas IF [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781286080-0-0-549079a652db341597a86b227e6a3ef7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=cb6edcb00740594c7c5ddca3a9bf1f72&txTime=6a2c5ca8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 KTP Kotka vs Ekenas IF [CƠM CHÁY] (Socolive) m3u8
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781286080-0-0-0d0f6bdad479e378a77a1abb84a4939a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=f317260ecc25bb4f79910f4884acf0c5&txTime=6a2c5ca8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 KTP Kotka vs Ekenas IF [CƠM CHÁY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781286080-0-0-8ccae1b85ef9bd095de5d7a87a0be254
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 12/06 Nhật Bản vs Ba Lan (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 JaPS vs PK-35 Vantaa [PINKMAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=3238a551e2a01c009e67a9cb0a1ae592&txTime=6a2c8b10
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 JaPS vs PK-35 Vantaa [PINKMAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=36de427226e554983d2a0eedd4954348&txTime=6a2c8b10
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV AB] (Socolive) m3u8
+https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1781286080-0-0-a6a87143851358c02f753d47a2fc33ea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV AB] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1781286080-0-0-b1b44171f826d9bbf41112c2395aec38
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 FK Panevezys vs Transinvest [BLV A TINH] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=5c5b20838fbe547bc902c6f840d86f93&txTime=6a2c8b10
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 12/06 FK Panevezys vs Transinvest [BLV A TINH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=6d08f1796cff03b3828ecb167ea50461&txTime=6a2c8b10
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",GEO D1: Dinamo Batumi vs Dila Gori [BLV CÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781286080-0-0-c33be72dbf05901706ffcc9739a934b4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",GEO D1: Dinamo Batumi vs Dila Gori [BLV CÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781286080-0-0-a900ef5ebf15022160038c2d661e1f3f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 12/06 Belshina vs Bate Borisov (Hội Quán) FHD
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 12/06 Benjamin Bonzi vs Alex de Minaur (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 12/06 Belshina vs Bate Borisov (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 12/06 Benjamin Bonzi vs Alex de Minaur (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 12/06 FUT vs G2 (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 12/06 Aurora vs Team Spirit (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 12/06 Hàn Quốc vs Đài Loan (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 12/06 Mattia Bellucci (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 12/06 Ekibastuz vs Arys (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 12/06 Mattia Bellucci (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 12/06 Ekibastuz vs Arys (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 12/06 KTP Kotka vs Ekenas
+https://live05.msdht.app/live/08552895.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 12/06 Barangay Ginebra San Miguel vs TNT Tropang Giga
-https://live05.msdht.app/live/82054853.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 12/06 JaPS vs PK-35 Vantaa
+https://live05.msdht.app/live/02456966.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 12/06 Kairat Almaty II vs Tobol Kostanai B
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 12/06 Saburtalo Tbilisi vs FC Spaeri
 https://live05.msdht.app/live/90865415.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 12/06 Tukums-2000 vs BFC Daugavpils
+https://live05.msdht.app/live/99121525.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 12/06 FK Kaspiy Aktau B vs FC Turan
+https://live05.msdht.app/live/87547578.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 12/06 Liepaja vs Super Nova
+https://live05.msdht.app/live/82054853.m3u8
 
