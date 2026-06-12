@@ -1,87 +1,114 @@
 #EXTM3U
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 13/06 Mexico vs Nam Phi (Lương Sơn) BLV LỮ BỐ REPLAY m3u
-https://hls.cdnfaster-a.live/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2384.png",08:00 | USA vs Paraguay
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 13/06 Defensores de Cambaceres vs Berazategui (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MvVdDNqd7YpAG6Kvc/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/144.png",05:00 | Atletico Goianiense vs CRB
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781303720-0-0-3dae14dcf48c2bd40c12257aee9f335c
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlfhmJARhzPrVKMwuFLSrBIsvCgKqClnx0w&s",14:30 | Changchun Yatai vs Dalian Huayi
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781303720-0-0-6d7089cc2501d9c89903c01182148588
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781303720-0-0-b0cbaf8094f74e7b0c5d42cf578f8b46
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781303720-0-0-e4c77d66b4ddfcd67852396284d63fa4
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026.31d2489d.png",World Cup
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [BLV YONE] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781303720-0-0-eb9d4bf7234e644eec80735818f5fef6
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781309120-0-0-80c3255b6e2816e15b33ed702ef21797
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [BLV YONE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781303720-0-0-1c5e24cb225a064cbce470e1565d64ff
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781309120-0-0-718448f8b96fa12d63c03a56dd8d8f1b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [BLV NẤM] (Socolive) m3u8
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781309120-0-0-4556dc5a7ed14ccbfa080590c6036b56
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [BLV NẤM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781309120-0-0-46f8f45afcdb06233475449b485965d8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [HÀ DUY KIÊN] (Socolive) m3u8
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781309120-0-0-5531cf8bf696d483ffa1c9b144922fd4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [HÀ DUY KIÊN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781309120-0-0-eab9b4783e53f3860ed3762b96c3c864
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781303720-0-0-be78e895332226ef660ed5a856a30567
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781309120-0-0-04f0610f7478f54f122414dd58407daf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781303720-0-0-5fade790881a6cef60fc4982299064c6
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781309120-0-0-aa16297957b9a76d9ef8d2fed70401c3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781303720-0-0-9d3743175e0819021863fc6fc819ac16
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781309120-0-0-61e25fbee1a673907d9195588c1d5fa6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781303720-0-0-dc60115645f957bf851f6f597e96f09c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781303720-0-0-ab1696abf3a2229655478674ae3dcaca
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781303720-0-0-8c7ea91521d9ff1457a8378b5aba0ca1
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781309120-0-0-501283b0de1c049eb5310694f69bca1e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781303720-0-0-f401b4f7e731f03d54d0b6d20ecb09f1
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781309120-0-0-9f299b843112b54519b77b4724ee3399
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Africa [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781303720-0-0-6a91b5ac54a68396a2f2f7a62607950f
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781309120-0-0-c60a60247a029c55e2a34eb30e866b62
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781309120-0-0-d1003aeb2a8c8459fbac80dc93f85553
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Korea vs Czechia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781309120-0-0-2e42927f6a67a575384d65c77b66b519
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781303720-0-0-55942f324c3daf75079a134211139819
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781309120-0-0-17b41d9b54731f0e1ca75bf7c4d30bb3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781303720-0-0-d4d8ab0bcde1342d026e5a2aed409b72
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781309120-0-0-46c2be9bc43e27beea40c90e2d024e4f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781304080-0-0-362964423099899636e60d79d42d724a
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781309480-0-0-ca96daccec30c27d1d38c80aa5bd5631
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781304080-0-0-8e807058107641e3bb4761888ccbb9a3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=5912c5a624cef26b38d95cfe56dc45f4&txTime=6a2cd2c8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=da2ac12f031b80f3a911f8245c8bea39&txTime=6a2cd2c8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781309480-0-0-cd2c872f4d54e4a14aa8e75df86a6f61
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781304440-0-0-51cc998d4d9b9b4bc03a70a71aee2922
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781309840-0-0-b4a2f7394b862c1fbe3d7879a2fb7891
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781304440-0-0-bfb05242b734433dc9622c9e6935a5e0
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781309840-0-0-022813f56cc6304da902725d8d23dc8b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [BLV THÓC] (Socolive) m3u8
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781304440-0-0-e76dd2fdc8145effa20f18f2eb4a8e73
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781309840-0-0-35b32b3700e0c57b9831b20cd220fb95
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [BLV THÓC] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781304440-0-0-7865bf7ac31c216ffd8f5552ca8cfc71
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781309840-0-0-3546d26d1f52a76b98edd078e1500b79
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [XUÂN SON] (Socolive) m3u8
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=9f47d056de28d2061371b0cb2b0cabf9&txTime=6a2ce7e0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 13/06 Atletico Clube Goianiense vs CRB AL [XUÂN SON] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=790d93573d8f804fa7057581642a7451&txTime=6a2ce7e0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781304440-0-0-1ddcde92d8ea7b67d4c5904fbea1c2cd
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781309840-0-0-b8f9619c4f800be216b5549ef4e2bba7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781304440-0-0-40d76d1d334090d13cf49ad986e7d022
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781309840-0-0-292c2f354116ee6c04dc8e5e443d9873
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 13/06 Atletico Goianiense vs CRB (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 13/06 Atletico Goianiense vs CRB (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 13/06 Iran vs Argentina (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 13/06 Thổ Nhĩ Kỳ vs Pháp (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 13/06 Thổ Nhĩ Kỳ vs Pháp (Hội Quán) SD
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 13/06 Khai Mạc WC (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 13/06 Khai Mạc WC (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 13/06 Atletico Clube Goianiense vs CRB
 https://live05.msdht.app/live/99121525.m3u8
