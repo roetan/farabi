@@ -1,76 +1,58 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34477_1hrr4bsqf92k.png",18:00 WIB 12/06 PVF-CAND vs TDTT Bac Ninh (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34477_1hrr4bsqf92k.png",18:00 WIB 12/06 PVF-CAND vs TDTT Bac Ninh (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19058_1gyvjqyd801f.png",17:15 WIB 12/06 Eastern United vs Adelaide Olympic (Lương Sơn) BLV LỮ BỐ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19058_1gyvjqyd801f.png",17:15 WIB 12/06 Eastern United vs Adelaide Olympic (Lương Sơn) BLV LỮ BỐ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6668_1jwmg8p85c2b.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC (Youth) (Lương Sơn) BLV PHI HỔ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/57342_1j08b7ahe42z.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy (Lương Sơn) BLV PHI HỔ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6668_1jwmg8p85c2b.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC (Youth) (Lương Sơn) BLV PHI HỔ flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/57342_1j08b7ahe42z.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy (Lương Sơn) BLV PHI HỔ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6668_1jwmg8p85c2b.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC (Youth) (Lương Sơn) BLV LIO m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19599_1j1e9frnyg16.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19599_1j1e9frnyg16.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19599_1j1e9frnyg16.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC (Lương Sơn) BLV LIO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/6668_1jwmg8p85c2b.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC (Youth) (Lương Sơn) BLV LIO flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19599_1j1e9frnyg16.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC (Lương Sơn) BLV LIO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34477_1hrr4bsqf92k.png",18:00 WIB 12/06 PVF-CAND vs TDTT Bac Ninh (Lương Sơn) BLV PELE m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19599_1j1e9frnyg16.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC (Lương Sơn) BLV GẤU KA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34477_1hrr4bsqf92k.png",18:00 WIB 12/06 PVF-CAND vs TDTT Bac Ninh (Lương Sơn) BLV PELE flv
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19599_1j1e9frnyg16.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC (Lương Sơn) BLV GẤU KA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34477_1hrr4bsqf92k.png",18:00 WIB 12/06 PVF-CAND vs TDTT Bac Ninh (Lương Sơn) BLV DƯƠNG CHÍ m3u
+ https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12850_1h5btqv04m1k.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolock (Lương Sơn) BLV MAYBACH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/34477_1hrr4bsqf92k.png",18:00 WIB 12/06 PVF-CAND vs TDTT Bac Ninh (Lương Sơn) BLV DƯƠNG CHÍ flv
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12850_1h5btqv04m1k.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolock (Lương Sơn) BLV MAYBACH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12774_1gsh36afdg1c.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12850_1h5btqv04m1k.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolock (Lương Sơn) BLV LỮ BỐ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12774_1gsh36afdg1c.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12850_1h5btqv04m1k.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolock (Lương Sơn) BLV LỮ BỐ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12774_1gsh36afdg1c.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC (Lương Sơn) BLV YẾN THANH m3u
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12850_1h5btqv04m1k.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolock (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12774_1gsh36afdg1c.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC (Lương Sơn) BLV YẾN THANH flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12850_1h5btqv04m1k.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolock (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19058_1gyvjqyd801f.png",17:15 WIB 12/06 Eastern United vs Adelaide Olympic (Lương Sơn) BLV KAKA m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/57342_1j08b7ahe42z.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy (Lương Sơn) BLV LÝ ỨNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/19058_1gyvjqyd801f.png",17:15 WIB 12/06 Eastern United vs Adelaide Olympic (Lương Sơn) BLV KAKA flv
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/57342_1j08b7ahe42z.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy (Lương Sơn) BLV LÝ ỨNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12204_1h8n2qpmzhb.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla (Lương Sơn) BLV MÃ SIÊU m3u
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/57342_1j08b7ahe42z.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy (Lương Sơn) BLV DƯƠNG CHÍ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12204_1h8n2qpmzhb.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla (Lương Sơn) BLV MÃ SIÊU flv
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/57342_1j08b7ahe42z.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy (Lương Sơn) BLV DƯƠNG CHÍ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12719_1grd77tc8x1.png",17:15 WIB 12/06 Blacktown Spartans vs Bankstown City Lions (Lương Sơn) BLV FERNANDO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12719_1grd77tc8x1.png",17:15 WIB 12/06 Blacktown Spartans vs Bankstown City Lions (Lương Sơn) BLV FERNANDO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9400_1gwbdv1r9x2w.PNG",17:00 WIB 12/06 Suwon FMC (W) vs Sejong Gumi Sportstoto (W) (Lương Sơn) BLV QUAN VŨ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/9400_1gwbdv1r9x2w.PNG",17:00 WIB 12/06 Suwon FMC (W) vs Sejong Gumi Sportstoto (W) (Lương Sơn) BLV QUAN VŨ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -91,54 +73,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143038_72f0bbb2.png",17:00 WIB 12/06 Suwon FMC vs Gumi Sportstoto (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143038_72f0bbb2.png",17:00 WIB 12/06 Suwon FMC vs Gumi Sportstoto (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/max.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143038_72f0bbb2.png",17:00 WIB 12/06 Suwon FMC vs Gumi Sportstoto (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143038_72f0bbb2.png",17:00 WIB 12/06 Suwon FMC vs Gumi Sportstoto (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250817_040457_e299eb36.png",18:00 WIB 12/06 PVF-CAND vs Bắc Ninh (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250817_040457_e299eb36.png",18:00 WIB 12/06 PVF-CAND vs Bắc Ninh (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250817_040457_e299eb36.png",18:00 WIB 12/06 PVF-CAND vs Bắc Ninh (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250817_040457_e299eb36.png",18:00 WIB 12/06 PVF-CAND vs Bắc Ninh (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123036_f7c8e720.png",19:00 WIB 12/06 Japan vs Poland (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123036_f7c8e720.png",19:00 WIB 12/06 Japan vs Poland (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123036_f7c8e720.png",19:00 WIB 12/06 Japan vs Poland (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123036_f7c8e720.png",19:00 WIB 12/06 Japan vs Poland (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142849_e7f6fab3.png",20:00 WIB 12/06 Chinese Taipei W vs South Korea W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -171,22 +105,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132454_0cef7ae7.png",22:00 WIB 12/06 Turan Turkistan vs Kaspij Aktau 2 (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/ngokhong/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132454_0cef7ae7.png",22:00 WIB 12/06 Turan Turkistan vs Kaspij Aktau 2 (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/ngokhong.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132454_0cef7ae7.png",22:00 WIB 12/06 Turan Turkistan vs Kaspij Aktau 2 (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/ngokhonghd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132454_0cef7ae7.png",22:00 WIB 12/06 Turan Turkistan vs Kaspij Aktau 2 (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/ngokhonghd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132552_a8ccfa99.png",22:00 WIB 12/06 Tukums vs BFC Daugavpils (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -267,6 +185,38 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",00:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Canada (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",00:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Canada (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",00:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Canada (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",00:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Canada (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",00:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Canada (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",00:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Canada (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",00:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Canada (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",00:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Canada (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132742_666d88b2.png",02:00 WIB 13/06 Canada vs Bosnia & Herzegovina (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -363,6 +313,38 @@ https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",06:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Mỹ (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",06:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Mỹ (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",06:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Mỹ (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",06:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Mỹ (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",06:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Mỹ (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",06:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Mỹ (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",06:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Mỹ (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260611_150631_e318bd55.webp",06:30 WIB 13/06 LỄ KHAI MẠC vs World Cup 2026 tại Mỹ (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132739_e67768f5.png",08:00 WIB 13/06 USA vs Paraguay (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -419,579 +401,534 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [VƯƠNG ANH] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [LOKA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=e83b1e060e53f6bdc0a964ff9916a060&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [VƯƠNG ANH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1781280680-0-0-81c935f7af852d0eb84c8282f53cf8d8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [LOKA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=415d499234b38633f662a7c1b5ce966a&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [VƯƠNG ANH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781280680-0-0-8837efa2e81f8518b0ec2ab2d5a4900d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [LOKA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=e83b1e060e53f6bdc0a964ff9916a060&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781280680-0-0-1de5ed0adcb835fef7e516c9a8cafda3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [LOKA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=415d499234b38633f662a7c1b5ce966a&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [BLV TOMIA] (Socolive) flv
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781280680-0-0-f856a1e128ad280e0dcfe7854013c82e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781268080-0-0-36b99682d7cd7282b1657a4cf861abe4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [BLV TOMIA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781280680-0-0-5a873bb0e8cb91350f0913dfc71c6be1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781268080-0-0-b4d2e3d5efecdf4683e48cb5672ef239
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [BLV TOMIA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781280680-0-0-1b5e58ef900f94402e73788ae84c2547
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781268080-0-0-322fc3738ac76ec9a93e7a052de8b6a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [BLV TOMIA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781280680-0-0-6828b9b26117b89923764e16ddc27e0f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781268080-0-0-54d749e7b853c083d81fa45cd0837c05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [BLV CUỘI] (Socolive) flv
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781280680-0-0-ba36f57b538ddaec0b85d6c7ec34b299
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV KEM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1781268080-0-0-d5ff79234fe74df76d2a5534d34c4606
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [BLV CUỘI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1781280680-0-0-5f4ba0c0b241dbe71e95dc4fb30940af
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV KEM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1781268080-0-0-35eb5ed38ffcb9bfd6288538e452a11a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [BLV CUỘI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781280680-0-0-e21ada2bef57ed97675064e0fa737ca2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV KEM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781268080-0-0-1aeb05cfe57416d240681b89ca6691ba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [BLV CUỘI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781280680-0-0-a4fe7713f701a3f2ce64f15ad66b4e25
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV KEM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781268080-0-0-93dc0931481df38d9556ad8810840828
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [LÃO LÂM] (Socolive) flv
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781280680-0-0-8c405710f303d9d27e489f3939b6ff33
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV COZY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781268080-0-0-0f52dec7afea42dbd4d1f1fecb3f7e3e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [LÃO LÂM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1781280680-0-0-4d86f87854592af1f309d550fbf04d08
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV COZY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781268080-0-0-480f6e4d6034f80b6ca00af96c46cc93
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [LÃO LÂM] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1781280680-0-0-ea89c458de52eb3e34556cf20906c6d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV COZY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781268080-0-0-cd273f7cbff2565c44b942c460242065
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781280680-0-0-d5887fa0d38be80159330eaec1b88aef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV COZY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781268080-0-0-221dbb592375eda7507a0a15557ed211
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [XUÂN SON] (Socolive) flv
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781280680-0-0-0b1f853a2b1ee81d3db57161605e7734
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=87c440ef9d606e79c7da3da6518c8637&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [XUÂN SON] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1781280680-0-0-a1b5f6a30cb6c96efdcd67ad5389d756
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [A PÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=f55f4667cae1fdfa3f9161d35527b5fb&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [XUÂN SON] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781280680-0-0-71a66cb5d862e43b807e238b5a2482d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [A PÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=87c440ef9d606e79c7da3da6518c8637&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [XUÂN SON] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781280680-0-0-5555d603e124d61096a853408be3f7ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=f55f4667cae1fdfa3f9161d35527b5fb&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV A TÚ] (Socolive) flv
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781280680-0-0-d629bab32ad7830505835b6b404cc297
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [HẢI THANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781268080-0-0-14552d08a2b213665403701f605a3a97
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV A TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1781280680-0-0-d113b4c50f6b9ee14428d326b64300e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [HẢI THANH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781268080-0-0-9ceff7f16060b90ccc30b8954bba5583
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV A TÚ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781280680-0-0-df71a005cf3f53ffea46d208d392d0ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [HẢI THANH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781268080-0-0-6f9a1f8e1a2d235fb4af041f0d8dfe47
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781280680-0-0-23f913e9fd246c8d96c50de8b9ec122a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [HẢI THANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781268080-0-0-2bb2602a09cb2db687d559a298789085
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [TRÀ ĐÁ] (Socolive) flv
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781280680-0-0-b183930a57435b068b061f580ecdc42f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV VIP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1781268080-0-0-499ce6292bb5f64eb6837ad012b8209b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [TRÀ ĐÁ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=7cbb30ca0c7aa56ed4d1de4def7769fe&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV VIP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781268080-0-0-29e3617190be9c78293e475157422254
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [TRÀ ĐÁ] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=4e6e36a63968c3673be2fa6271a9529a&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV VIP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781268080-0-0-af9157a3f9a8c0e5f085c7eeca3625c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [TRÀ ĐÁ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=7cbb30ca0c7aa56ed4d1de4def7769fe&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV VIP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781268080-0-0-1d3bb4c123c9ce8875c632cc3db55b34
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/08f3264c71f34afdd2bf40b967731fd5.png",17:00 WIB 12/06 Zenit Petersburg vs Lokomotiv Kuban [A CHÈ] (Socolive) flv
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=4e6e36a63968c3673be2fa6271a9529a&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV AB] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1781268080-0-0-2fa899e8d37f44a1b64c375d535d6c95
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/08f3264c71f34afdd2bf40b967731fd5.png",17:00 WIB 12/06 Zenit Petersburg vs Lokomotiv Kuban [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-612980_lsd.flv?auth_key=1781280680-0-0-51039ff487ab94b7d0cb6458284bd325
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV AB] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781268080-0-0-108f0612090d96633b2fdecd9be51738
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/08f3264c71f34afdd2bf40b967731fd5.png",17:00 WIB 12/06 Zenit Petersburg vs Lokomotiv Kuban [A CHÈ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1781280680-0-0-223daa54d0578a8176524fc0ea6ff848
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV AB] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781268080-0-0-b7302b3423dc54929c75c4196b448da8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/08f3264c71f34afdd2bf40b967731fd5.png",17:00 WIB 12/06 Zenit Petersburg vs Lokomotiv Kuban [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1781280680-0-0-aa81185be5ebe53bf89fa63cdaea8536
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV AB] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781268080-0-0-bb29c1e255eea006d44cc3ea034ffefc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV CHIVAS] (Socolive) flv
+https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1781280680-0-0-5fd826966e098ac0a8f470884a43a183
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [CƠM CHÁY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=7808159c6c918772bf0fb824cd1620dd&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV CHIVAS] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1781280680-0-0-a825a41f604e44aeea6d45967433d269
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [CƠM CHÁY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=8106c1b7810b40f5f41aac54454bf04c&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV CHIVAS] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1781280680-0-0-42737fec4ab0c4331d21d698628fba12
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [CƠM CHÁY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=7808159c6c918772bf0fb824cd1620dd&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV CHIVAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781280680-0-0-9820fb72fe1ea0c577794ed89e1b623a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [CƠM CHÁY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=8106c1b7810b40f5f41aac54454bf04c&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV KAN] (Socolive) flv
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781280680-0-0-7d70a2b692841168cb8fd2a90789e696
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [BLV LUCAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=781ae4d3550abd1b35dead8fcb8628c4&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV KAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781280680-0-0-a54d8599abe816399fb2c8f052f41dec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [BLV LUCAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=e54e90f7fd09caa31940d1494fad10a3&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV KAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781280680-0-0-7532760a5d9ad6b5c22f3c461843e373
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [BLV LUCAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=781ae4d3550abd1b35dead8fcb8628c4&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV KAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781280680-0-0-2fa22c746e2902ebe29c3e11f32c84b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [BLV LUCAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e54e90f7fd09caa31940d1494fad10a3&txTime=6a2c44c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BEN 10] (Socolive) flv
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781280680-0-0-022262d518409864da5f992b02537a65
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f7706ddd8a0e2bc1ff9c9d8943e00466.png",22:30 WIB 12/06 FK Panevezys vs Transinvest [BLV A TINH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1781268080-0-0-40f2f1c8ee89feb7f6263f813207745b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BEN 10] (Socolive) hdFlv
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=fc4ecce0464af4a0f8f5c00be0194dad&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f7706ddd8a0e2bc1ff9c9d8943e00466.png",22:30 WIB 12/06 FK Panevezys vs Transinvest [BLV A TINH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1781268080-0-0-4624fedc4440a88f102cd9a6bc5cd03b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BEN 10] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=e65ced6618905c80e1bfa1cef33595c8&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f7706ddd8a0e2bc1ff9c9d8943e00466.png",22:30 WIB 12/06 FK Panevezys vs Transinvest [BLV A TINH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781268080-0-0-fc06a98000459731a46f1cf53723fa2a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BEN 10] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=fc4ecce0464af4a0f8f5c00be0194dad&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f7706ddd8a0e2bc1ff9c9d8943e00466.png",22:30 WIB 12/06 FK Panevezys vs Transinvest [BLV A TINH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781268080-0-0-358311919f922cd9e267c0aea28b1fb3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/61e800d67b457f8923f382dc3999ea8e.png",17:00 WIB 12/06 Suwon FC Women vs Sejong Sportstoto WFC [CHÍ PHÈO] (Socolive) flv
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=e65ced6618905c80e1bfa1cef33595c8&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [PINKMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781268080-0-0-93394bba7a1080c603ce8dcdd1c19a72
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/61e800d67b457f8923f382dc3999ea8e.png",17:00 WIB 12/06 Suwon FC Women vs Sejong Sportstoto WFC [CHÍ PHÈO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=d91855a32f302f55ac1fc37bbb41b8ff&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [PINKMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781268080-0-0-0dbbe6448a6331ce682919a8c87f8438
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/61e800d67b457f8923f382dc3999ea8e.png",17:00 WIB 12/06 Suwon FC Women vs Sejong Sportstoto WFC [CHÍ PHÈO] (Socolive) m3u8
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=990b825e11771205338f08c1ce510df0&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [PINKMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781268080-0-0-0c299e5a8e88daf580355160f880f8f7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/61e800d67b457f8923f382dc3999ea8e.png",17:00 WIB 12/06 Suwon FC Women vs Sejong Sportstoto WFC [CHÍ PHÈO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=d91855a32f302f55ac1fc37bbb41b8ff&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [PINKMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781268080-0-0-91db0a163fa80a27c0f3dd327bddb98d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/689e4e56b8ca629f05075ced888bdc98.png",19:00 WIB 12/06 Meycauayan vs Abra Weavers [KING] (Socolive) flv
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=990b825e11771205338f08c1ce510df0&txTime=6a2c75f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CUỘI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1781268080-0-0-0503d3b1b315ed52a5f9de37c80e4071
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/689e4e56b8ca629f05075ced888bdc98.png",19:00 WIB 12/06 Meycauayan vs Abra Weavers [KING] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1781281040-0-0-759eddba28a1eb43a065b46d966ddc1c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CUỘI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1781268080-0-0-036e42335049e5224db860e50cb0efa0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/689e4e56b8ca629f05075ced888bdc98.png",19:00 WIB 12/06 Meycauayan vs Abra Weavers [KING] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1781281040-0-0-bd64d8092f8abe22c20d96faea7943a7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CUỘI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781268080-0-0-ae21488f0edb57cc21da9dba0be18028
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/689e4e56b8ca629f05075ced888bdc98.png",19:00 WIB 12/06 Meycauayan vs Abra Weavers [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781281040-0-0-f4ba7fff05ffd512772f408dfa7d974b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CUỘI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781268080-0-0-b20153222936da656dd5633ca403b571
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV COZY] (Socolive) flv
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781281040-0-0-3727988b36d083d4f63a9d23d92efb3a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV FIREMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1781268440-0-0-5b24e92abaf3c8e929d4d6b3f75e9a69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV COZY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781281040-0-0-b9a5ac43cc5968c714ff642d21c7b642
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV FIREMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1781268440-0-0-0063e4766c0d91d6dff433357acaea31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV COZY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781281040-0-0-02e2f9d2423af730498f04f80ff2bfd1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV FIREMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781268440-0-0-730deceee78033c5f77c109b1969db93
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781281040-0-0-9ef21bed77048832077c0f9e2b307775
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781268440-0-0-1548f5e92f5052422c1c7519a9b53ae3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [A BỆU] (Socolive) flv
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781281040-0-0-b347c2937e41fb26dd497f959da467c9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV ALEX] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781268440-0-0-2e3a348ffbf329e4e621a68560e08529
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [A BỆU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781281040-0-0-5aac6bdce3109f8313fb793748840388
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV ALEX] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781268440-0-0-8b37537de3c21205782fdfa017cdab1f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [A BỆU] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781281040-0-0-98960e3ef6a5d844dee8c5deecb349ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV ALEX] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781268440-0-0-90f789a06c3c707aab0a083b67b1a4ea
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781281040-0-0-19ac217750544b06a461741b0ca86ceb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV ALEX] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781268440-0-0-e31211e479276980d4810b2aebfdf40f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [SAO LA] (Socolive) flv
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781281040-0-0-6f4dd005dc60fa0d0535baac042ca849
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV HÚP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=516aa5c3f182965fd6b3589392da09d1&txTime=6a2c4628
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [SAO LA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1781281040-0-0-e32122c6c85dacac4783e3f78ac15f6d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV HÚP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=853b3c3abe24136be035b28d7240c09a&txTime=6a2c4628
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [SAO LA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781281040-0-0-5414cea3392cd20b84e36972c247c805
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV HÚP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=516aa5c3f182965fd6b3589392da09d1&txTime=6a2c4628
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260611/d24942e09591e2737661e660a0d34c7d.png",18:00 WIB 12/06 PVF-CAND vs Bac Ninh [SAO LA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781281040-0-0-04d9a95d9445c314cdbb4d7d0860f590
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV HÚP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=853b3c3abe24136be035b28d7240c09a&txTime=6a2c4628
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV RYO] (Socolive) flv
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781281040-0-0-3aefa642502dca98c26ee5c32a631f9e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV VOI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1781268440-0-0-81c4186bdeb1560721693a247fb7b533
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV RYO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781281040-0-0-55fe2c20092bb8126aab04d9d45742fb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV VOI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1781268440-0-0-0821320a53def1564b916da1b29314bc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV RYO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781281040-0-0-9a02427bbd942d351b3dd770fe4ed03a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV VOI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781268440-0-0-cd75bfd1b8a907991e64259aeeb862b3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV RYO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781281040-0-0-2c71e1ab2934c242575ebcd8290c1ea6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV VOI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781268440-0-0-d4c44d493fd0242e25e87f3a470d18aa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [KÉP] (Socolive) flv
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781281040-0-0-5c9ce5a917fe73e6145f76fbb75b6dab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [NGƯỜI CÁ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1781268440-0-0-964f5f4c7cc61b3a3c35338d06a87ded
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [KÉP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1781281040-0-0-00ed1e2f1b2cda5a344de20f1170d135
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [NGƯỜI CÁ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1781268440-0-0-2109d80e45b736b3731f2f43792916e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [KÉP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781281040-0-0-5c19b16ebf8b67c0ac7770c081d8422c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [NGƯỜI CÁ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781268440-0-0-d36e167925debfa0954dd838f3c7168c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [KÉP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781281040-0-0-080172552c5e933a3ac47e066dec095f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [NGƯỜI CÁ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781268440-0-0-3161e922013e0db081cb9ec3897edf25
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [BLV ANH TÀI] (Socolive) flv
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781281040-0-0-3338ccc32d261ef53dbf9639e0476f9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781268440-0-0-fc6051f202ca13c7fdb6185775650a91
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [BLV ANH TÀI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781281040-0-0-347916b0665c8fbf7d6542b640b5a93d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [BLV TOMIA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781268440-0-0-7108a29c24842dc4408d3ff6e3970dac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [BLV ANH TÀI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781281040-0-0-a05a10c2b073b80fb1f0d44d6aee6e08
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [BLV TOMIA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781268440-0-0-1f4278730f1957876e9b62e30061c8c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [BLV ANH TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781281040-0-0-a5b247f2ccff8135cd8582bbcd64e3ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781268440-0-0-da5cf1484961f2c7cb2f4ad4e4bb3a31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV ROBBEN] (Socolive) flv
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781281040-0-0-a2e0737c02dae52ff1d4d4695395a98b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781268800-0-0-7cca9868175d01651ee64a9d3ec067c7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV ROBBEN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-552832_lsd.flv?txSecret=aa0b28d9ee13b5585c38d7f99da56ec8&txTime=6a2c7760
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781268800-0-0-007ca4e98689366cff99c851bf22cba1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV ROBBEN] (Socolive) m3u8
+https://pull.niur.live/live/stream-552832_lhd.flv?txSecret=dbfe753e487002aebe1bec07d537ff07&txTime=6a2c7760
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781268800-0-0-9596e573c59f17633c27591cae61061f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV ROBBEN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=aa0b28d9ee13b5585c38d7f99da56ec8&txTime=6a2c7760
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LAT D1: FK Liepaja vs Super Nova [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781268800-0-0-58b88dc2df848e72b9b1f2ced4022c70
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/61e800d67b457f8923f382dc3999ea8e.png",17:00 WIB 12/06 Suwon FC Women vs Sejong Sportstoto WFC [BLV PEWPEW] (Socolive) flv
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=dbfe753e487002aebe1bec07d537ff07&txTime=6a2c7760
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV GIÓ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781268800-0-0-7fbe5f74afc7439cf2956991681d36d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/61e800d67b457f8923f382dc3999ea8e.png",17:00 WIB 12/06 Suwon FC Women vs Sejong Sportstoto WFC [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1781281040-0-0-b4ab0db1376823fe7564d73b529c0bce
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV GIÓ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781268800-0-0-0aa711fb74024a5132a7044ff753c821
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/61e800d67b457f8923f382dc3999ea8e.png",17:00 WIB 12/06 Suwon FC Women vs Sejong Sportstoto WFC [BLV PEWPEW] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1781281040-0-0-d1f63d8c773fe135f57d7a0def172f40
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV GIÓ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781268800-0-0-5759edfdebb56751b05a215f1c5e61ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/61e800d67b457f8923f382dc3999ea8e.png",17:00 WIB 12/06 Suwon FC Women vs Sejong Sportstoto WFC [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781281040-0-0-9ccf6a497b9ae4eba159ec7d02006f6b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV GIÓ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781268800-0-0-b20218d60a5207d5af1e5000bb999e08
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [NGƯỜI CÁ] (Socolive) flv
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781281040-0-0-478899c042544ddae7e941f0bec7736d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CÁP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1781268800-0-0-c98eef3e2b1e56563ad33e10a15046d3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [NGƯỜI CÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1781281040-0-0-a71e23eb276ef822571ba746417706b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CÁP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781268800-0-0-0cf22273250ff1dbc9f6bb2e1de11368
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [NGƯỜI CÁ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1781281040-0-0-6b3e60e5e47db426e3b6e1981a181f85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CÁP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781268800-0-0-b0e0e1ce3c0bda5f5a691350c446d1b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781281040-0-0-3ad775ac3166fca0c9e3b483bb60189a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CÁP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781268800-0-0-e364df58daf80ae4c6d26bb245862b5a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV VOI] (Socolive) flv
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781281040-0-0-d9ea0fcd8b9a242df9e12f329649f0b4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [BLV VITAMIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781268800-0-0-41587324221d6e0fa289ab2865ed1a10
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV VOI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1781281040-0-0-f6cf651819bbf0d46ab1d381dbc38855
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [BLV VITAMIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781268800-0-0-04eec0a70a1d8ec9caf35ccd552e8ad0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV VOI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781281040-0-0-ed8a2b206d5b9b4cf1320409e36e5738
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [BLV VITAMIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781268800-0-0-b9db9ad6a62eed3ec8dfa4e1ca635677
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781281040-0-0-bb106b7f8df2ec72bd7c9de00e58c968
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [BLV VITAMIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781268800-0-0-dbb2f649365fdbc51adfdd02300b07ed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV CÒ] (Socolive) flv
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781281040-0-0-44be6364cf6aaa173ce2dfe4543c600d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1781268800-0-0-06748e9766d95f13d211637bcdf9aff5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1781281040-0-0-3fc32ce2caea5c401df08921ea1ef381
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781268800-0-0-242abb42e983287940be07c55602e519
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV CÒ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781281040-0-0-7c90b6ff712e2ca4ad9dc9b4cedbcf36
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781268800-0-0-3671a90c7db7dca91c2e54ae074025e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/92bad0ebab0733497dbe2b4159fccefe.png",17:00 WIB 12/06 Campbelltown City SC vs West Torrens Birkalla [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781281040-0-0-69bad9f8734bb2c79a034fa3e5b229d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/d0824107c10fded9c16ee2c8eed53378.png",22:30 WIB 12/06 JaPS vs PK-35 Vantaa [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781268800-0-0-d4c3ed3992691571ac87e8f211802413
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV GÔN] (Socolive) flv
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781281040-0-0-78880da8c503afa6709f9befb211ca99
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LIT D1: Dziugas Telsiai vs Siauliai [KÉP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lsd.flv?auth_key=1781268800-0-0-275c94283bed831d5794884d7b2aca17
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV GÔN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1781281040-0-0-217acf035f0402a94dfecb57c21bd855
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LIT D1: Dziugas Telsiai vs Siauliai [KÉP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1781268800-0-0-1a3f31690a53930235015a96698a5a6f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV GÔN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1781281040-0-0-41d6c1679102dee0a313dcc08ce971aa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LIT D1: Dziugas Telsiai vs Siauliai [KÉP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781268800-0-0-5639743a6243abf68bf4e3c7a528fd76
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV GÔN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781281040-0-0-40f679044d1e4099ba56dc5d5a8db42f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LIT D1: Dziugas Telsiai vs Siauliai [KÉP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781268800-0-0-cd77962efe83ba7321cfc687b83f4273
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV NẤM] (Socolive) flv
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781281040-0-0-5c461afed30028825103cf192c31bfdd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1781268800-0-0-0f2b246f88e60cdbabf66ac09bbc47ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV NẤM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781281400-0-0-b2ae858f3fcf5a71a16e171af057c4eb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781268800-0-0-d6b06c838bc2b1daa3746769d1363cc7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV NẤM] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781281400-0-0-0d72acb9f2a25bb5b5f19a758436e59a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781268800-0-0-2cb44346fc758313fbc91529d7a07658
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/2b1c4f26e21e88aa4d40c44d9bf7e116.png",17:00 WIB 12/06 Marconi Stallions vs Sydney FC Youth [BLV NẤM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781281400-0-0-acb099c2082706bfaf14cb709a92b9ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781268800-0-0-4a1e9ba9d9049a24baa0187c10ea1832
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/08f3264c71f34afdd2bf40b967731fd5.png",17:00 WIB 12/06 Zenit Petersburg vs Lokomotiv Kuban [HUNTER] (Socolive) flv
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781281400-0-0-2d70a56c9ac974116be0c5124c1ee377
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [CÔNG CHẤT] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781268800-0-0-4c2a409ea9fcb7c2e42c2acbcefa21ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/08f3264c71f34afdd2bf40b967731fd5.png",17:00 WIB 12/06 Zenit Petersburg vs Lokomotiv Kuban [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1781281400-0-0-f8cf6359e750e5c6ce4c4b3af3738bd9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [CÔNG CHẤT] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781268800-0-0-364610950383c491fb7cfe653fbf7f44
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/08f3264c71f34afdd2bf40b967731fd5.png",17:00 WIB 12/06 Zenit Petersburg vs Lokomotiv Kuban [HUNTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781281400-0-0-232576277d1648d2d9a20aefbe168344
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [CÔNG CHẤT] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781268800-0-0-8e51328468d6dfdeac42da91025ea23d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/08f3264c71f34afdd2bf40b967731fd5.png",17:00 WIB 12/06 Zenit Petersburg vs Lokomotiv Kuban [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781281400-0-0-766cfdceb154dfd529a4d4e30579c1ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [CÔNG CHẤT] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781268800-0-0-d34e54f54e75bb2890f42e64c7a56343
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV LUCAS] (Socolive) flv
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781281400-0-0-4f6bdcacd81b653c6138514b411e848b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [VƯƠNG ANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781268800-0-0-9b3b59666499be3aad4381f960412113
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV LUCAS] (Socolive) hdFlv
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=98b65ed4da75b5cce53c5ed4f6ed9847&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [VƯƠNG ANH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781268800-0-0-c469a19af7c086c53b9b9ed5d44ddbed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV LUCAS] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=aaec74a50a0f564657be4fc2560e0a45&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [VƯƠNG ANH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781268800-0-0-b8f819a2f138396fbc34857930d6e94a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=98b65ed4da75b5cce53c5ed4f6ed9847&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [VƯƠNG ANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781268800-0-0-906dd82ca4b501c7cf39c1f4c2917d20
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV A TINH] (Socolive) flv
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=aaec74a50a0f564657be4fc2560e0a45&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=f6a429b73be6405e375f2de205203ec8&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV A TINH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1781281400-0-0-d47ebf78fbf46ba5adf4b404dc2ac689
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CÒ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=20b921081273b136b2e70dd1a735a0ed&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV A TINH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781281400-0-0-7dbf0b59d8665906589648c6d98fe3bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CÒ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=f6a429b73be6405e375f2de205203ec8&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/591ecd44e0bc66755e9b535519862b3e.png",18:00 WIB 12/06 Adelaide Comets FC vs West Adelaide SC [BLV A TINH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781281400-0-0-5135b005d2e3195a51a44476f76bc69b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/51b0f15e92329a43898c15194f788eb8.png",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolotsk [BLV CÒ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=20b921081273b136b2e70dd1a735a0ed&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV RAMBO] (Socolive) flv
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781281400-0-0-878bca575c7457964c64364bf735ad77
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV BÉO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=5ed0bb0d8256c6e3bf0df7987159178f&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV RAMBO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=c92437a09fb5868f1d5614085fc2accb&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV BÉO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=bf6d8adaa4f7b2772e846fc182494e2c&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV RAMBO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=b1c3311e31e2da73d15601840123976a&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV BÉO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=5ed0bb0d8256c6e3bf0df7987159178f&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV RAMBO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=c92437a09fb5868f1d5614085fc2accb&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/246d68095129540b6f92ac3a22f4efd8.png",20:00 WIB 12/06 FK Kaspiy Aktau B vs Turan [BLV BÉO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=bf6d8adaa4f7b2772e846fc182494e2c&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [QUỐC KHÁNH] (Socolive) flv
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=b1c3311e31e2da73d15601840123976a&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV RÔSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1781268800-0-0-41ffbc52c8b513ed3828c4207cfea6a5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [QUỐC KHÁNH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=2abaf1b6ac025e1fd9484d00f04f8c14&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV RÔSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781268800-0-0-bcf2a8af0868892e5f426add81ecea5a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=1ed1652ce14eb90055e7e5b79b6dcdd2&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV RÔSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781268800-0-0-2ade8c5e56496765432ffd365b9cdaa3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=2abaf1b6ac025e1fd9484d00f04f8c14&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/cb97625987380f32d5112f51f6b733c1.png",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils [BLV RÔSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781268800-0-0-0aaedb4cb44bb4d3d7266e27a046be23
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [BLV THÓC] (Socolive) flv
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=1ed1652ce14eb90055e7e5b79b6dcdd2&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV YONE] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1781268800-0-0-112f0f64a62b57d382e1d03ad77b38b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [BLV THÓC] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1781281400-0-0-7d80509147adfa8b014644726c39c590
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV YONE] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1781268800-0-0-e3041a213e8e0b06bb087905c9e95177
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [BLV THÓC] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1781281400-0-0-af2df6fdcac8822a5391f4a0305f7f80
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV YONE] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781268800-0-0-32d4c59accdd884cb298b81a19741505
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [BLV THÓC] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781281400-0-0-cba50aeb9cfeb52247ab33cca121b7e2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f4d843692e3a975dcf17bbc71113852d.png",21:00 WIB 12/06 Khan Tengri FC vs FC Shakhtyor Karagandy [BLV YONE] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781268800-0-0-2e3af324da9ff5d72e40b4427ae19a4d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV LONG] (Socolive) flv
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781281400-0-0-a443c62fed1ace2c533c598a8dbbab69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV WUKONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=bfbe2c2ee0e4825bf2f15b66b0684463&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV LONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781281400-0-0-2ee550b19963386c7866af58dcf8bb5d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV WUKONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=2a42d51996267b01d325f132bfe571c5&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV LONG] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781281400-0-0-fa1b238b7a68f35a6e803b4febf9c51c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV WUKONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=bfbe2c2ee0e4825bf2f15b66b0684463&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [BLV LONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781281400-0-0-c087263b6c9f2866c865ce49e3f42391
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=2a42d51996267b01d325f132bfe571c5&txTime=6a2c4790
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [HÀ DUY KIÊN] (Socolive) flv
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781281400-0-0-cc912515510eb52224846fee0382dbac
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV ANH TÀI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1781268800-0-0-70c87ed9d2e615fc6fa520b95c1fe7c9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [HÀ DUY KIÊN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781281400-0-0-e5625956f28e7943490ac3c855b38e5d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV ANH TÀI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1781268800-0-0-e3c1312c213ff96ae0f88b96c1b7e35c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [HÀ DUY KIÊN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781281400-0-0-717fa6bf21ee661ce27d2ebd6f904573
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV ANH TÀI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781268800-0-0-7b3d2efa94730025f00e8cfd1943371c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/58d16c760f326ecff8f6ff52d9353d6c.png",19:00 WIB 12/06 Ekibastuzets vs FK Arys [HÀ DUY KIÊN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781281400-0-0-4cd516f2d260d452b3df7ed9c114b395
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/8696e1986e876b5d814996cd9810ecd2.png",22:00 WIB 12/06 FC Iberia 1999 Tbilisi vs Spaeri FC [BLV ANH TÀI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781268800-0-0-c5a7e9ba2ec4c4598b45a7b977e9d64c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/caeaec290d19a206e52beb96e1fb8da5.png",19:00 WIB 12/06 Maccabi Tel Aviv vs Hapoel Holon [BLV HENRY] (Socolive) flv
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781281400-0-0-76ed84b29fced7e4baa567d4bf4536ed
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f7706ddd8a0e2bc1ff9c9d8943e00466.png",22:30 WIB 12/06 FK Panevezys vs Transinvest [BLV CHIVAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781268800-0-0-fd0528377515a4b7a28437ffcfba3130
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/caeaec290d19a206e52beb96e1fb8da5.png",19:00 WIB 12/06 Maccabi Tel Aviv vs Hapoel Holon [BLV HENRY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=242ae4b3ad04a4676264e5b48c740edc&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f7706ddd8a0e2bc1ff9c9d8943e00466.png",22:30 WIB 12/06 FK Panevezys vs Transinvest [BLV CHIVAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781268800-0-0-adf285d5114108234b83ddeacb329eb2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/caeaec290d19a206e52beb96e1fb8da5.png",19:00 WIB 12/06 Maccabi Tel Aviv vs Hapoel Holon [BLV HENRY] (Socolive) m3u8
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=37a54ba28b3d917ae7cc01c171e13290&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f7706ddd8a0e2bc1ff9c9d8943e00466.png",22:30 WIB 12/06 FK Panevezys vs Transinvest [BLV CHIVAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781268800-0-0-645757ef7cf15383ba0895ba4da1a40d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/caeaec290d19a206e52beb96e1fb8da5.png",19:00 WIB 12/06 Maccabi Tel Aviv vs Hapoel Holon [BLV HENRY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=242ae4b3ad04a4676264e5b48c740edc&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/f7706ddd8a0e2bc1ff9c9d8943e00466.png",22:30 WIB 12/06 FK Panevezys vs Transinvest [BLV CHIVAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781268800-0-0-17e4ed3f335276bdc21c0215821094ac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/caeaec290d19a206e52beb96e1fb8da5.png",19:00 WIB 12/06 Maccabi Tel Aviv vs Hapoel Holon [BRIAN] (Socolive) flv
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=37a54ba28b3d917ae7cc01c171e13290&txTime=6a2c78c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [TRÀ ĐÁ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781268800-0-0-c6e152733882ec5a5ac57d41c8c4befd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/caeaec290d19a206e52beb96e1fb8da5.png",19:00 WIB 12/06 Maccabi Tel Aviv vs Hapoel Holon [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1781281400-0-0-9cfd1661c81162011304ef050d89b216
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [TRÀ ĐÁ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781268800-0-0-62a0044417f0a120ccb1151d28684c8b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/caeaec290d19a206e52beb96e1fb8da5.png",19:00 WIB 12/06 Maccabi Tel Aviv vs Hapoel Holon [BRIAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781281400-0-0-1bd333fba625a528375f2e67f089eb74
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [TRÀ ĐÁ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781268800-0-0-d0a03b30b16d29eaeba54d96b555e62c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/caeaec290d19a206e52beb96e1fb8da5.png",19:00 WIB 12/06 Maccabi Tel Aviv vs Hapoel Holon [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781281400-0-0-27bf07b3dbf064d6f6211bb3e38aff5d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/6db385c128aad87812a297d0f2a6b64f.png",22:30 WIB 12/06 KTP Kotka vs Ekenas IF [TRÀ ĐÁ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781268800-0-0-01bb8c5081ae01d4a9555a06dbac3d15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [QUÂN JK] (Socolive) flv
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781281400-0-0-f083aa02732840c43001cff5ec0b638f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BLR PL: FC Belshina Babruisk vs BATE Borisov [BLV 24H] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1781268800-0-0-026dfa150921be5b78389661592dd2fe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [QUÂN JK] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1781281400-0-0-fbd815f3ad401092ff172c60353261ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BLR PL: FC Belshina Babruisk vs BATE Borisov [BLV 24H] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781268800-0-0-af3c713420360787c04c176b35f5e1bc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [QUÂN JK] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781281400-0-0-6aacf56b73113bfb1e84cb7ec4d3f99b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BLR PL: FC Belshina Babruisk vs BATE Borisov [BLV 24H] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781268800-0-0-18056ffc81133270ff18f28f0e7aac54
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/e2e7081e60245682f95ee5b61863263e.png",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B [QUÂN JK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781281400-0-0-667cf607bedb019da529648c577cab29
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",BLR PL: FC Belshina Babruisk vs BATE Borisov [BLV 24H] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781268800-0-0-1451c47bce2a82ebbe49fd0c78377862
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/db/Logo_CLB_PVF-CAND.svg",18:00 WIB 12/06 PVF-CAND vs Bắc Ninh (Hội Quán) FHD 
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781281400-0-0-6ad017d5e45a9703659f4ea1b650039d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LIT D1: Dziugas Telsiai vs Siauliai [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/db/Logo_CLB_PVF-CAND.svg",18:00 WIB 12/06 PVF-CAND vs Bắc Ninh (Hội Quán) HD 
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1781281400-0-0-7c507ad664fb15c6d018204ca3659a9a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LIT D1: Dziugas Telsiai vs Siauliai [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/db/Logo_CLB_PVF-CAND.svg",18:00 WIB 12/06 PVF-CAND vs Bắc Ninh (Hội Quán) SD 
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1781281400-0-0-889651e999f25bc64372c63a6f885213
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LIT D1: Dziugas Telsiai vs Siauliai [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/16766.png",17:15 WIB 12/06 Eastern United vs Adelaide Olympic (Hội Quán) FHD 
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781281400-0-0-df361b89948a923e37fc02a43119d543
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/9850f0ec42617397334e0efc94f5b5b3.png",LIT D1: Dziugas Telsiai vs Siauliai [BLV A WIN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781281400-0-0-57d48842616cd31a952c71f75a4070c1
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/391.png",21:00 WIB 12/06 FC Isloch Minsk R. vs Naftan (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/16766.png",17:15 WIB 12/06 Eastern United vs Adelaide Olympic (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/391.png",21:00 WIB 12/06 FC Isloch Minsk R. vs Naftan (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/16766.png",17:15 WIB 12/06 Eastern United vs Adelaide Olympic (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/391.png",21:00 WIB 12/06 FC Isloch Minsk R. vs Naftan (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/4551.png",19:00 WIB 12/06 Ekibastuz vs Arys (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/4551.png",19:00 WIB 12/06 Ekibastuz vs Arys (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/4551.png",19:00 WIB 12/06 Ekibastuz vs Arys (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png",19:00 WIB 12/06 Nhật Bản vs Ba Lan (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png",19:00 WIB 12/06 Nhật Bản vs Ba Lan (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png",19:00 WIB 12/06 Nhật Bản vs Ba Lan (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/960px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",19:00 WIB 12/06 Mattia Bellucci vs Taylor Fritz (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/960px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",19:00 WIB 12/06 Mattia Bellucci vs Taylor Fritz (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/960px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",19:00 WIB 12/06 Mattia Bellucci vs Taylor Fritz (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/e0/HLE_logo.png",15:00 WIB 12/06 Hanwha Life Esports vs T1 (Hội Quán) FHD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/e0/HLE_logo.png",15:00 WIB 12/06 Hanwha Life Esports vs T1 (Hội Quán) HD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/e/e0/HLE_logo.png",15:00 WIB 12/06 Hanwha Life Esports vs T1 (Hội Quán) SD 
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://images.seeklogo.com/logo-png/50/2/fut-esports-logo-png_seeklogo-509813.png",18:30 WIB 12/06 FUT vs G2 (Hội Quán) FHD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/nyckaNwS-dMZzuAHL.png",21:00 WIB 12/06 Navi vs Legacy (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://images.seeklogo.com/logo-png/50/2/fut-esports-logo-png_seeklogo-509813.png",18:30 WIB 12/06 FUT vs G2 (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/nyckaNwS-dMZzuAHL.png",21:00 WIB 12/06 Navi vs Legacy (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://images.seeklogo.com/logo-png/50/2/fut-esports-logo-png_seeklogo-509813.png",18:30 WIB 12/06 FUT vs G2 (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://static.flashscore.com/res/image/data/nyckaNwS-dMZzuAHL.png",21:00 WIB 12/06 Navi vs Legacy (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",16:35 WIB 12/06 Lee Euynhe vs Chen Yi (Hội Quán) FHD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",22:00 WIB 12/06 Satsuki Odo vs Anna Hursey (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",16:35 WIB 12/06 Lee Euynhe vs Chen Yi (Hội Quán) HD 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",22:00 WIB 12/06 Satsuki Odo vs Anna Hursey (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",16:35 WIB 12/06 Lee Euynhe vs Chen Yi (Hội Quán) SD 
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",22:00 WIB 12/06 Satsuki Odo vs Anna Hursey (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",18:55 WIB 12/06 fff (Hội Quán) FHD 
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",20:00 WIB 12/06 Hàn Quốc vs Đài Loan (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",18:55 WIB 12/06 fff (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",20:00 WIB 12/06 Hàn Quốc vs Đài Loan (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",18:55 WIB 12/06 fff (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",20:00 WIB 12/06 Hàn Quốc vs Đài Loan (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/16b802abec41440eb4996fc68f16125b.png!w80",18:00 WIB 12/06 PVF CAND vs Bac Ninh
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/960px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",22:00 WIB 12/06 Mattia Bellucci (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/861a7e12ebda4bd651b701e069cde5c5.png!w80",18:00 WIB 12/06 Adelaide Comets FC vs Tây Adelaide SC
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/960px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",22:00 WIB 12/06 Mattia Bellucci (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/0c6ea7bc3792dac98ed3378cd2865c0a.png!w80",16:40 WIB 12/06 CLB Manly United vs Sydney Utd
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/960px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",22:00 WIB 12/06 Mattia Bellucci (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/e1605aa2375e5aa780e43e89a0f1b080.png!w80",17:00 WIB 12/06 Marconi Stallions vs CLB Sydney(Youth)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/8152f7e56c9a3a3967a535f94f5caa70.png!w80",17:00 WIB 12/06 Campbelltown City vs Tây Torrens Birkalla
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/05cf441029dee335fd968c6bf40f9ad5.png!w80",21:00 WIB 12/06 Khan Tengri FC vs Shakhtar Karagandy
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/14707124.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/909f0e233a28befd3f96dcf1cc4d0b80.png!w80",18:30 WIB 12/06 Barangay Ginebra San Miguel vs TNT Tropang Giga
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/a45149dd3ce5f0114a126fac0f44adbc.png!w80",19:00 WIB 12/06 Kairat Almaty II vs Tobol Kostanai B
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/d8baf3ab5d39bcdab1d636a69e0e8086.png!w80",19:00 WIB 12/06 Ekibastuz vs FK Arys
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/aed0f0a3abd1cb4e732b2135a575f227.png!w80",21:00 WIB 12/06 FK Isloch Minsk vs Naftan Novopolock
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/78905744.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/e80d49b16e8a1ea6b6d38643e1d429b0.png!w80",22:00 WIB 12/06 Saburtalo Tbilisi vs FC Spaeri
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/90865415.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/81b70b4f4179ca979f173ceae24222c4.png!w80",22:00 WIB 12/06 Tukums-2000 vs BFC Daugavpils
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/99121525.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/651ba39aae3985527e69ba4511a29fb5.png!w80",22:00 WIB 12/06 FK Kaspiy Aktau B vs FC Turan
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/87547578.m3u8
