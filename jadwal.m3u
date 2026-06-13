@@ -1,16 +1,58 @@
 #EXTM3U
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV DƯƠNG CHÍ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV DƯƠNG CHÍ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781385243.png",04:13 WIB 14/06 Mexico vs Nam Phi (Lương Sơn) BLV KEVILL REPLAY m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781385243.png",04:13 WIB 14/06 Mexico vs Nam Phi (Lương Sơn) BLV KEVILL REPLAY flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38933_1hxg3mrh3c2d.png",05:05 WIB 14/06 Loudoun United vs Rhode Island (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38933_1hxg3mrh3c2d.png",05:05 WIB 14/06 Loudoun United vs Rhode Island (Lương Sơn) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV KAKA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/672_165018879430.png",05:00 WIB 14/06 Brazil vs Morocco (Lương Sơn) BLV KAKA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/61142_1gxfbzah511y.png",06:05 WIB 14/06 Lexington vs San Antonio (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/61142_1gxfbzah511y.png",06:05 WIB 14/06 Lexington vs San Antonio (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -159,6 +201,374 @@ https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260609_161701_743f1901.png",12:00 WIB 14/06 Ukraine vs Poland (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260609_161701_743f1901.png",12:00 WIB 14/06 Ukraine vs Poland (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260609_161701_743f1901.png",12:00 WIB 14/06 Ukraine vs Poland (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20260609_161701_743f1901.png",12:00 WIB 14/06 Ukraine vs Poland (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123052_d31bb816.png",15:30 WIB 14/06 China vs Cuba (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123052_d31bb816.png",15:30 WIB 14/06 China vs Cuba (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/max.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123052_d31bb816.png",15:30 WIB 14/06 China vs Cuba (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123052_d31bb816.png",15:30 WIB 14/06 China vs Cuba (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250912_195620_46ee0fc6.png",18:00 WIB 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250912_195620_46ee0fc6.png",18:00 WIB 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250912_195620_46ee0fc6.png",18:00 WIB 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250912_195620_46ee0fc6.png",18:00 WIB 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250912_195620_46ee0fc6.png",18:00 WIB 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250912_195620_46ee0fc6.png",18:00 WIB 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250912_195620_46ee0fc6.png",18:00 WIB 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250912_195620_46ee0fc6.png",18:00 WIB 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123043_e3391af2.png",19:00 WIB 14/06 Slovenia vs Japan (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123043_e3391af2.png",19:00 WIB 14/06 Slovenia vs Japan (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123043_e3391af2.png",19:00 WIB 14/06 Slovenia vs Japan (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123043_e3391af2.png",19:00 WIB 14/06 Slovenia vs Japan (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132450_60b4c9f6.png",21:00 WIB 14/06 FC Astana vs Irtysh (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132450_60b4c9f6.png",21:00 WIB 14/06 FC Astana vs Irtysh (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132450_60b4c9f6.png",21:00 WIB 14/06 FC Astana vs Irtysh (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132450_60b4c9f6.png",21:00 WIB 14/06 FC Astana vs Irtysh (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132454_9c7271e1.png",21:00 WIB 14/06 Yelimay Semey vs Ordabasy (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132454_9c7271e1.png",21:00 WIB 14/06 Yelimay Semey vs Ordabasy (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132454_9c7271e1.png",21:00 WIB 14/06 Yelimay Semey vs Ordabasy (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132454_9c7271e1.png",21:00 WIB 14/06 Yelimay Semey vs Ordabasy (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",21:00 WIB 14/06 Belgium vs Iran (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",21:00 WIB 14/06 Belgium vs Iran (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",21:00 WIB 14/06 Belgium vs Iran (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",21:00 WIB 14/06 Belgium vs Iran (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132452_7dffbcd4.png",22:00 WIB 14/06 Aktobe vs Altay (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132452_7dffbcd4.png",22:00 WIB 14/06 Aktobe vs Altay (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132452_7dffbcd4.png",22:00 WIB 14/06 Aktobe vs Altay (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132452_7dffbcd4.png",22:00 WIB 14/06 Aktobe vs Altay (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130558_e740ba93.png",22:00 WIB 14/06 Kaspiy vs Kaisar (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130558_e740ba93.png",22:00 WIB 14/06 Kaspiy vs Kaisar (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130558_e740ba93.png",22:00 WIB 14/06 Kaspiy vs Kaisar (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130558_e740ba93.png",22:00 WIB 14/06 Kaspiy vs Kaisar (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123030_9f31cc8f.png",22:00 WIB 14/06 Germany vs France (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123030_9f31cc8f.png",22:00 WIB 14/06 Germany vs France (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123030_9f31cc8f.png",22:00 WIB 14/06 Germany vs France (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123030_9f31cc8f.png",22:00 WIB 14/06 Germany vs France (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134654_acf86f4a.png",23:30 WIB 14/06 Concepción vs Deportes Limache (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134654_acf86f4a.png",23:30 WIB 14/06 Concepción vs Deportes Limache (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134654_acf86f4a.png",23:30 WIB 14/06 Concepción vs Deportes Limache (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134654_acf86f4a.png",23:30 WIB 14/06 Concepción vs Deportes Limache (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png",00:00 WIB 15/06 Germany vs Curaçao (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png",00:00 WIB 15/06 Germany vs Curaçao (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png",00:00 WIB 15/06 Germany vs Curaçao (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png",00:00 WIB 15/06 Germany vs Curaçao (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png",00:00 WIB 15/06 Germany vs Curaçao (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png",00:00 WIB 15/06 Germany vs Curaçao (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png",00:00 WIB 15/06 Germany vs Curaçao (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png",00:00 WIB 15/06 Germany vs Curaçao (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250924_202726_2f0f7164.png",00:30 WIB 15/06 Bulgaria vs Serbia (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250924_202726_2f0f7164.png",00:30 WIB 15/06 Bulgaria vs Serbia (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250924_202726_2f0f7164.png",00:30 WIB 15/06 Bulgaria vs Serbia (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250924_202726_2f0f7164.png",00:30 WIB 15/06 Bulgaria vs Serbia (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123030_666d88b2.png",01:30 WIB 15/06 Canada vs Turkey (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123030_666d88b2.png",01:30 WIB 15/06 Canada vs Turkey (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123030_666d88b2.png",01:30 WIB 15/06 Canada vs Turkey (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123030_666d88b2.png",01:30 WIB 15/06 Canada vs Turkey (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125507_424d6db0.png",03:00 WIB 15/06 Netherlands vs Japan (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125507_424d6db0.png",03:00 WIB 15/06 Netherlands vs Japan (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125507_424d6db0.png",03:00 WIB 15/06 Netherlands vs Japan (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125507_424d6db0.png",03:00 WIB 15/06 Netherlands vs Japan (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125507_424d6db0.png",03:00 WIB 15/06 Netherlands vs Japan (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125507_424d6db0.png",03:00 WIB 15/06 Netherlands vs Japan (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125507_424d6db0.png",03:00 WIB 15/06 Netherlands vs Japan (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125507_424d6db0.png",03:00 WIB 15/06 Netherlands vs Japan (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",04:00 WIB 15/06 Brazil vs Argentina (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",04:00 WIB 15/06 Brazil vs Argentina (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",04:00 WIB 15/06 Brazil vs Argentina (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/volley/teams/2198.png",04:00 WIB 15/06 Brazil vs Argentina (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123054_e67768f5.png",05:00 WIB 15/06 USA vs Italy (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123054_e67768f5.png",05:00 WIB 15/06 USA vs Italy (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123054_e67768f5.png",05:00 WIB 15/06 USA vs Italy (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123054_e67768f5.png",05:00 WIB 15/06 USA vs Italy (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132759_08d32594.png",06:00 WIB 15/06 Ivory Coast vs Ecuador (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132759_08d32594.png",06:00 WIB 15/06 Ivory Coast vs Ecuador (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132759_08d32594.png",06:00 WIB 15/06 Ivory Coast vs Ecuador (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132759_08d32594.png",06:00 WIB 15/06 Ivory Coast vs Ecuador (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250825_180323_118bdf95.png",09:00 WIB 15/06 Sweden vs Tunisia (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250825_180323_118bdf95.png",09:00 WIB 15/06 Sweden vs Tunisia (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/max.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250825_180323_118bdf95.png",09:00 WIB 15/06 Sweden vs Tunisia (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250825_180323_118bdf95.png",09:00 WIB 15/06 Sweden vs Tunisia (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250825_180323_118bdf95.png",09:00 WIB 15/06 Sweden vs Tunisia (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250825_180323_118bdf95.png",09:00 WIB 15/06 Sweden vs Tunisia (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250825_180323_118bdf95.png",09:00 WIB 15/06 Sweden vs Tunisia (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250825_180323_118bdf95.png",09:00 WIB 15/06 Sweden vs Tunisia (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/75bf136c336015d3adb291a238ea039e.png",09:00 WIB 23/05 UNSW FC Women vs University of Sydney Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
@@ -183,198 +593,222 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781390480-0-0-3a995a62b4dce5e01388e7dcf3832d79
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781390480-0-0-5c01eb51a709b8bbeefeef7c3b8fe00c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781390480-0-0-6779703ab96d40b05b1d551793af04da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781390480-0-0-4f556211105b1893d7c718a5b611f218
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=5defd8608828db6e249481e3ce12a50b&txTime=6a2e22e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=e3db0f37fd3fa5eef5b95a2708adb480&txTime=6a2e22e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=5defd8608828db6e249481e3ce12a50b&txTime=6a2e22e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e3db0f37fd3fa5eef5b95a2708adb480&txTime=6a2e22e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=d3489c54342b4fd0ed84f42a1a5938c8&txTime=6a2e22e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=545a04768a555009d4ecffceb32df7a6&txTime=6a2e22e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=d3489c54342b4fd0ed84f42a1a5938c8&txTime=6a2e22e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=545a04768a555009d4ecffceb32df7a6&txTime=6a2e22e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781390840-0-0-1fdd2c34863f723220828558891cd7d3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781390840-0-0-14f05c0ab5ecd7c7cd953d6ec61dc9ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781390840-0-0-cacca38d1709e5e29801632958363467
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781390840-0-0-a19c2218d9e70117a431cc855d289c30
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=8eb9ed4c359cb62e747d6b5b4137e288&txTime=6a2e2448
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=342fb0274d9bb6aeaf273afdb065cf38&txTime=6a2e3528
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=54dd00e1ab3846aa04ddcffaa174d53c&txTime=6a2e2448
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=cb825dd125edec59e40b163dd6f915c9&txTime=6a2e3528
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=8eb9ed4c359cb62e747d6b5b4137e288&txTime=6a2e2448
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=342fb0274d9bb6aeaf273afdb065cf38&txTime=6a2e3528
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=54dd00e1ab3846aa04ddcffaa174d53c&txTime=6a2e2448
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=cb825dd125edec59e40b163dd6f915c9&txTime=6a2e3528
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781390840-0-0-effdf8391b95fb2d9b6c424b67b0d650
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781395160-0-0-4710a2cfafd817b1421b527a78669a41
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781390840-0-0-2bc71246bfce3a0fac68762b4091bdfd
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781395160-0-0-68a3b05e7f37c8d64aaa9e7f5694a4e3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781390840-0-0-0f337903f8f63931cbecfc307adc1a85
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781395160-0-0-a9f6e0097d8d65411cdf2db3bed28437
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781390840-0-0-f9104b2582ac6dba1c7c1d8e36b31ba8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781395160-0-0-642e89b0031e5293656a45712430e7ce
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=e5eb8efd2bce39ad1da29412967c5aec&txTime=6a2e2448
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781395161-0-0-aa9b4419701e70f24c472401fa19a9f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=b4b599bdf2243be30ec73ad7da5de7d6&txTime=6a2e2448
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781395161-0-0-50710127972c459dff9909c27bb87745
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=e5eb8efd2bce39ad1da29412967c5aec&txTime=6a2e2448
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781395161-0-0-a815ec0f327dd98eb2e3222580201cdc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=b4b599bdf2243be30ec73ad7da5de7d6&txTime=6a2e2448
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781395161-0-0-b8d6e5901a53393389262148a79904fd
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1781390840-0-0-9911e8ecc6d5ea9323a6eac6224985e9
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1781395160-0-0-01448a96d5c87c55351a6662d0e3e1b3
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781390840-0-0-e057854bf8ea1ee4f2da9e41a3f31beb
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781395160-0-0-cebc9e0eb832e089a67339d97a90c937
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781390840-0-0-ddc97a67a4168edd64c6e574765f500f
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781395160-0-0-b92940e8b3504a7a963725b9cb9f931b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781390840-0-0-e6331e0464d303e6e017ce3a92f1e1cd
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781395160-0-0-2f0ef56eaf65095b7ceeac132dfa26e5
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781390840-0-0-fb46ade4c39fc8bfa89a03b4138451d8
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781395160-0-0-c87464af8765ba59d45b3e44671fb7b9
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781390840-0-0-17d4f0f16ffb6d6b124cef9ae1a89c52
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781395160-0-0-82d4e79eaa4b506dcfff581f8e8a1512
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781390840-0-0-1d4b699d868f93806f071db8901e4c60
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781395160-0-0-f92aac0ce85efaf070cc012dc1e1c528
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781390840-0-0-ed5f9208b1fb5ee603a5daab73b328f7
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781395160-0-0-8df9c5ff2cf0696af443505aebc5b224
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=7eae58f938ee5abdab69d44a7aa7c1aa&txTime=6a2e2448
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=31da4a7ad22061c45aabb25a1aac7f4c&txTime=6a2e3528
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=ff584d69ae69de06674fe7c192df983d&txTime=6a2e2448
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=794f8b7ec4b75fe1ad7aa20723f7527b&txTime=6a2e3528
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=7eae58f938ee5abdab69d44a7aa7c1aa&txTime=6a2e2448
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=31da4a7ad22061c45aabb25a1aac7f4c&txTime=6a2e3528
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=ff584d69ae69de06674fe7c192df983d&txTime=6a2e2448
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [DECO] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=794f8b7ec4b75fe1ad7aa20723f7527b&txTime=6a2e3528
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781391200-0-0-6e9a27510c4a47506cc417b7d6f0ba68
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [DECO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=e0e80e6161051c51e244768fc2ad2e12&txTime=6a2e3528
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781391200-0-0-f4ef6534434730829873287c051328c5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [DECO] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=1867b6b2ab0fcd9d6b31ea0248c559db&txTime=6a2e3528
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781391200-0-0-5e848df93854effa11599d7e3f0337f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [DECO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=e0e80e6161051c51e244768fc2ad2e12&txTime=6a2e3528
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781391200-0-0-ac89553437453b679b12639801eaad96
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781391200-0-0-852ccf1caff1dc25f113d7a88d7adc8f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781391200-0-0-f33a4554a04f2119a317625d53824f75
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781391200-0-0-b90d7767a41d762d2d4953a8a6d7e97a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781391200-0-0-fcf2b5b2ef70a6ec579e5a228e81a4f8
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=1867b6b2ab0fcd9d6b31ea0248c559db&txTime=6a2e3528
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1781391200-0-0-947284ff4730636cf181af65832d9fb3
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1781395520-0-0-5bea58bb8f534658243e0dfc35e6f415
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781391200-0-0-41098f06cfec45cb3bbd7999939cd649
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781395520-0-0-6695a5568fb7069351b344f8795e0337
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781391200-0-0-132c4f502891b0f3558f20c39a3c31d3
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781395520-0-0-e60009d8ff5cf50e7346f8f47942cca2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781391200-0-0-9e1c50570f81dd99949fc449dc63edaa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d98cb45526dd5a4a9e7fa9f947436814.png",03:00 WIB 14/06 Quilmes vs Gimnasia y Tiro [BLV WUKONG] (Socolive) flv
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781395520-0-0-00251265976c6e79e544444df92faa88
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781391200-0-0-073f7c509843db676005157c2e5b3ac8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d98cb45526dd5a4a9e7fa9f947436814.png",03:00 WIB 14/06 Quilmes vs Gimnasia y Tiro [BLV WUKONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781395520-0-0-0a6bdcc162e04660d709e0c42ac34646
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781391200-0-0-0383e04f90aad00a2fc369c74fb38592
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d98cb45526dd5a4a9e7fa9f947436814.png",03:00 WIB 14/06 Quilmes vs Gimnasia y Tiro [BLV WUKONG] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781395520-0-0-bd4bcd7ff6946cd13de3a7b1229d3292
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781391200-0-0-efae1418cc249e89adac7dbe26e9e0e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d98cb45526dd5a4a9e7fa9f947436814.png",03:00 WIB 14/06 Quilmes vs Gimnasia y Tiro [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781395520-0-0-41fee54bd584ab1113c71b5680021954
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781391200-0-0-969b6d71b221be3dc2e067294bcf5e73
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d98cb45526dd5a4a9e7fa9f947436814.png",03:00 WIB 14/06 Quilmes vs Gimnasia y Tiro [ĐỖ TÚ TÀI] (Socolive) flv
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781395520-0-0-90fdbcab7a25ac7c8a6ff523074eee44
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1781391200-0-0-61a11982f5082471b7c1a5a4a6d8023d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d98cb45526dd5a4a9e7fa9f947436814.png",03:00 WIB 14/06 Quilmes vs Gimnasia y Tiro [ĐỖ TÚ TÀI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781395520-0-0-8d0f2815bcfc7bad4267725e325c2210
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [DECO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781391200-0-0-f00a5e05320a832e6e7a0389489a688f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d98cb45526dd5a4a9e7fa9f947436814.png",03:00 WIB 14/06 Quilmes vs Gimnasia y Tiro [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781395520-0-0-921ccd881125836cf0c434f0b7cb4556
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [DECO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781391200-0-0-96d66fe346e85aa7e838423bf0354891
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/d98cb45526dd5a4a9e7fa9f947436814.png",03:00 WIB 14/06 Quilmes vs Gimnasia y Tiro [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781395520-0-0-a2ffcd7e4e96673d87a97e19bde33817
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [DECO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781391200-0-0-2d35bfd0b8df5750d23bc614c9be9850
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/73f01beb0c453d7bf0a7594f126ee86d.png",KAZ PR: FC Zhetysu Taldykorgan vs Okzhetpes [BLV PICK] (Socolive) flv
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781395520-0-0-985a5276d653ac49d3f362662d766276
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [BLV PICK] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1781391200-0-0-fc0b87c36e1013c989da548776123174
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/73f01beb0c453d7bf0a7594f126ee86d.png",KAZ PR: FC Zhetysu Taldykorgan vs Okzhetpes [BLV PICK] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1781395521-0-0-52479ef8c55d9ef5ced535f8918bcd17
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [BLV PICK] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1781391200-0-0-0aff6165da73d0781db74050507aca33
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/73f01beb0c453d7bf0a7594f126ee86d.png",KAZ PR: FC Zhetysu Taldykorgan vs Okzhetpes [BLV PICK] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1781395521-0-0-919361947032356af2aef6f6af2d8ea2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [BLV PICK] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781391200-0-0-74902af594aa3e7bb05effd14586c0d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/73f01beb0c453d7bf0a7594f126ee86d.png",KAZ PR: FC Zhetysu Taldykorgan vs Okzhetpes [BLV PICK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781395521-0-0-e3ffcf3a215fee3e0a294fc97b304a66
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [BLV PICK] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781391200-0-0-dd3d87259182cffa05d9a2e102967212
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781395521-0-0-50098cd556baf85088366c09f84a7793
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/c25e4b7b7c3a2a09e87ccbaa8992e754.png",06:00 WIB 14/06 Gimnasia Jujuy vs San Martin San Juan [BLV A TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781395521-0-0-e72d5161aada0eb4fb7a6ec1e51ffda0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/c25e4b7b7c3a2a09e87ccbaa8992e754.png",06:00 WIB 14/06 Gimnasia Jujuy vs San Martin San Juan [BLV A TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781395521-0-0-92837686aac440766bfc8963bf0654d4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/c25e4b7b7c3a2a09e87ccbaa8992e754.png",06:00 WIB 14/06 Gimnasia Jujuy vs San Martin San Juan [BLV A TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781395521-0-0-0097d946c1cc101991cf4ae3c13eed69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/c25e4b7b7c3a2a09e87ccbaa8992e754.png",06:00 WIB 14/06 Gimnasia Jujuy vs San Martin San Juan [BLV A TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781395521-0-0-59dc68312e2d128475c712f3413a795e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781395880-0-0-1286a3fcda6556629e37bb8f93c42bbc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781395880-0-0-bbb85041b25df76942b4920131fd6674
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781395880-0-0-90d5e880e3c103834983bad395483cf0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781395880-0-0-76f7ffe01e43a747f0396e8d0127608c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=a9ec86eedfae6f8611115d94094dd97f&txTime=6a2e37f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=ddedcf701b6b9bcf842fe29ef99b79e9&txTime=6a2e37f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=a9ec86eedfae6f8611115d94094dd97f&txTime=6a2e37f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260608/885de3ae393d7236f2c6993756de4e87.png",05:00 WIB 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=ddedcf701b6b9bcf842fe29ef99b79e9&txTime=6a2e37f8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=7f9b55bf0f45e1e2373a3e661de41396&txTime=6a2e37f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=c69c07d5312738ee9b332299177656fb&txTime=6a2e37f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=7f9b55bf0f45e1e2373a3e661de41396&txTime=6a2e37f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/11bfdef3f4f65829627db84c80ed1630.png",04:30 WIB 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c69c07d5312738ee9b332299177656fb&txTime=6a2e37f9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/96b71b65f42d1590f8755792b3096600.png",06:00 WIB 14/06 Pittsburgh Riverhounds vs Indy Eleven [QUÂN JK] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1781395881-0-0-81d66983faffb12500560b0e1d92f504
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/96b71b65f42d1590f8755792b3096600.png",06:00 WIB 14/06 Pittsburgh Riverhounds vs Indy Eleven [QUÂN JK] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781395881-0-0-32054f5b2fd3720bd3dc9e65e28d1649
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/96b71b65f42d1590f8755792b3096600.png",06:00 WIB 14/06 Pittsburgh Riverhounds vs Indy Eleven [QUÂN JK] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781395881-0-0-44607cece65e2dfcb0d9f901c23b5f1c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/96b71b65f42d1590f8755792b3096600.png",06:00 WIB 14/06 Pittsburgh Riverhounds vs Indy Eleven [QUÂN JK] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781395881-0-0-f5470cbbe4c23d94ac681cac82a5b8a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/c29ef40f7a3b3f58aa823db078abaf82.png",06:00 WIB 14/06 Lexington vs San Antonio [BLV YONE] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1781395880-0-0-264bda4ab3febb469a799cf7345c0aa0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/c29ef40f7a3b3f58aa823db078abaf82.png",06:00 WIB 14/06 Lexington vs San Antonio [BLV YONE] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1781395880-0-0-731b8f3cb1bab46cd913af1f111811ce
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/c29ef40f7a3b3f58aa823db078abaf82.png",06:00 WIB 14/06 Lexington vs San Antonio [BLV YONE] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781395880-0-0-fca97805be28be7d131eb1f6c0acf1a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/c29ef40f7a3b3f58aa823db078abaf82.png",06:00 WIB 14/06 Lexington vs San Antonio [BLV YONE] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781395880-0-0-98a90a8649d792c4faa8b7ca4a9ac3c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/4b3781eac2b0f64c141eff53eba4a5d8.png",06:00 WIB 14/06 Sporting Jax vs Detroit City [BLV THÓC] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1781395881-0-0-6e3d09e3410654a2097219695e8a00c5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/4b3781eac2b0f64c141eff53eba4a5d8.png",06:00 WIB 14/06 Sporting Jax vs Detroit City [BLV THÓC] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1781395881-0-0-f4228fd2f876928bd3697ec6e1064dea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/4b3781eac2b0f64c141eff53eba4a5d8.png",06:00 WIB 14/06 Sporting Jax vs Detroit City [BLV THÓC] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781395881-0-0-105ee809e2c4a628f86c24851f9255b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260610/4b3781eac2b0f64c141eff53eba4a5d8.png",06:00 WIB 14/06 Sporting Jax vs Detroit City [BLV THÓC] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781395881-0-0-074c84cf7627a0247780c32b8c2f420b
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",05:00 WIB 14/06 Brazil vs Morocco (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -423,6 +857,21 @@ https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",06:30 WIB 14/06 Thổ Nhĩ Kỳ vs Ý (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",06:30 WIB 14/06 Thổ Nhĩ Kỳ vs Ý (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",06:30 WIB 14/06 Thổ Nhĩ Kỳ vs Ý (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",05:00 WIB 14/06 Brazil vs Ma Rốc
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/24561735.m3u8
+https://live05.msdht.app/live/08552895.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/edb062572326167a76fc8a5542c8a71a.png!w80",06:00 WIB 14/06 Atlanta United FC II vs Chattanooga
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/14707124.m3u8
