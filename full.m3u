@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",05:00 | Brazil vs Morocco
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",05:00 | Brazil vs Morocco
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",08:00 | Haiti vs Scotland
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/250px-Flag_of_Haiti.svg.png",08:00 | Haiti vs Scotland
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",11:00 | Australia vs Türkiye
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",11:00 | Australia vs Türkiye
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2315.png",04:30 | Colo Colo vs Cobresal
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2337.png",07:00 | Nublense vs Huachipato
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Oakland_Roots_SC_logo.svg/250px-Oakland_Roots_SC_logo.svg.png",09:00 | Oakland Roots vs Miami FC
@@ -20,14 +20,14 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/3770.png",13:30 | Rockdale City Suns vs SD Raiders
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",05:00 | Brazil vs Morocco
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",12:00 | Ukraina vs Ba Lan
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s",15:30 | Trung Quốc vs Cuba
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",19:00 | Slovenia vs Nhật Bản
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png",00:30 | Bulgaria vs Serbia
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
@@ -41,12 +41,6 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/6.png",Brazil vs Morocco
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/6.png",Brazil vs Morocco
-https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",Thổ Nhĩ Kỳ -  Ý 
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 
@@ -56,6 +50,9 @@ https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2386.png",Haiti vs Scotland
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/20.png",Úc vs Thổ Nhĩ Kỳ
+https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
+
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/DQIQtK7N4yrDIqw75pxFHg_96x96.png",Ukraine - Ba Lan
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
@@ -64,6 +61,39 @@ https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/9113.png",Al Taliya vs Al Wahda
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png",Hà Lan vs Nhật Bản
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV DƯƠNG CHÍ m3u
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV DƯƠNG CHÍ flv
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV LỮ BỐ flv
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV LƯU BỊ flv
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV TRIỆU TỬ LONG flv
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV YẾN THANH flv
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h13 ngày 14/06 Mexico vs Nam Phi (Lương Sơn) BLV KEVILL REPLAY m3u
 https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
@@ -77,35 +107,17 @@ https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV KAKA flv
 https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV LƯU BỊ m3u
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h05 ngày 14/06 Lexington vs San Antonio (Lương Sơn) BLV VÕ TÒNG m3u
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV LƯU BỊ flv
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h05 ngày 14/06 Lexington vs San Antonio (Lương Sơn) BLV VÕ TÒNG flv
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV LỮ BỐ m3u
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato (Lương Sơn) BLV HEINEKEN m3u
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV LỮ BỐ flv
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV TRIỆU TỬ LONG flv
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV DƯƠNG CHÍ m3u
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV DƯƠNG CHÍ flv
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV YẾN THANH m3u
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Lương Sơn) BLV YẾN THANH flv
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato (Lương Sơn) BLV HEINEKEN flv
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -121,18 +133,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 14/06 Canada vs USA (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 14/06 Canada vs USA (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 14/06 Canada vs USA (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 14/06 Canada vs USA (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
@@ -206,6 +206,54 @@ https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Türkiye (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 14/06 Ukraine vs Poland (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 14/06 Ukraine vs Poland (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 14/06 Ukraine vs Poland (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 14/06 Ukraine vs Poland (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 14/06 Slovenia vs Japan (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 14/06 Slovenia vs Japan (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 14/06 Slovenia vs Japan (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 14/06 Slovenia vs Japan (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 14/06 Kaspiy vs Kaisar (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 14/06 Kaspiy vs Kaisar (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 14/06 Kaspiy vs Kaisar (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 14/06 Kaspiy vs Kaisar (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -215,209 +263,401 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [DECO] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781391200-0-0-6e9a27510c4a47506cc417b7d6f0ba68
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [DECO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781391200-0-0-f4ef6534434730829873287c051328c5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781391200-0-0-5e848df93854effa11599d7e3f0337f8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781391200-0-0-ac89553437453b679b12639801eaad96
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781391200-0-0-852ccf1caff1dc25f113d7a88d7adc8f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781391200-0-0-f33a4554a04f2119a317625d53824f75
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781391200-0-0-b90d7767a41d762d2d4953a8a6d7e97a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781391200-0-0-fcf2b5b2ef70a6ec579e5a228e81a4f8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1781391200-0-0-947284ff4730636cf181af65832d9fb3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781391200-0-0-41098f06cfec45cb3bbd7999939cd649
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781391200-0-0-132c4f502891b0f3558f20c39a3c31d3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781391200-0-0-9e1c50570f81dd99949fc449dc63edaa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 14/06 Quilmes vs Gimnasia y Tiro [BLV WUKONG] (Socolive) flv
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781391200-0-0-073f7c509843db676005157c2e5b3ac8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 14/06 Quilmes vs Gimnasia y Tiro [BLV WUKONG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781391200-0-0-0383e04f90aad00a2fc369c74fb38592
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 14/06 Quilmes vs Gimnasia y Tiro [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781391200-0-0-efae1418cc249e89adac7dbe26e9e0e8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 14/06 Quilmes vs Gimnasia y Tiro [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781391200-0-0-969b6d71b221be3dc2e067294bcf5e73
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",KAZ PR: FC Zhetysu Taldykorgan vs Okzhetpes [BLV PICK] (Socolive) flv
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1781391200-0-0-fc0b87c36e1013c989da548776123174
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",KAZ PR: FC Zhetysu Taldykorgan vs Okzhetpes [BLV PICK] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1781391200-0-0-0aff6165da73d0781db74050507aca33
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",KAZ PR: FC Zhetysu Taldykorgan vs Okzhetpes [BLV PICK] (Socolive) m3u8
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781391200-0-0-74902af594aa3e7bb05effd14586c0d9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",KAZ PR: FC Zhetysu Taldykorgan vs Okzhetpes [BLV PICK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781391200-0-0-dd3d87259182cffa05d9a2e102967212
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=e2c17882461f36c5e632590620217519&txTime=6a2e2718
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=b367c61fd348ca8bae7b8cb46ed0d9f1&txTime=6a2e2718
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=e2c17882461f36c5e632590620217519&txTime=6a2e2718
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b367c61fd348ca8bae7b8cb46ed0d9f1&txTime=6a2e2718
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781391560-0-0-80066eda5e5cf1f3f8a92f2b96224932
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781391560-0-0-5bca1071a2d755e53937f90ea0ca343b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781391560-0-0-bfb275beabdf7e2373f7625abb7db609
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781391560-0-0-97c67f3b80daff4401d13f55e19ee773
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) flv
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=a057753ef2752b78693958f19348c34f&txTime=6a2e2718
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) hdFlv
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=e77a733366540b4bd522d8759f8a3f00&txTime=6a2e2718
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=a057753ef2752b78693958f19348c34f&txTime=6a2e2718
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 14/06 Colo Colo vs Cobresal [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=e77a733366540b4bd522d8759f8a3f00&txTime=6a2e2718
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781391560-0-0-70502c0fb6b18ee04db8bd7586b14959
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781391560-0-0-7e9d1e640dca9e51795b4504fbe14f99
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781391560-0-0-dcf0589e1ae21382f526977c28ea543d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781391560-0-0-1f747695e1aec635f7f4f0236739bb7d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781391920-0-0-617773c75fe15c66a15b41862749bbe5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781391920-0-0-ddb65eceab38d24edf71af4b582d1af4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781391920-0-0-abc5af43c359f6236be16c483b31c1ba
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781391920-0-0-7c94f503d59b6d83b18d9694f7805173
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1781391920-0-0-109dfa341ead54d30ca936b82d8790fa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781391920-0-0-edac53039c6799cd70c9e7b85e22cf92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781391920-0-0-a0a47bd57bc3f49a5f55e0a4e61e9e26
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781391920-0-0-62c73ea09c404919bdc97411d7bbddbe
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=e12b6e7091db40f15c96aed5f6fa3554&txTime=6a2e2880
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=d724c748a81eca48b9c78b5aa375a594&txTime=6a2e2880
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=e12b6e7091db40f15c96aed5f6fa3554&txTime=6a2e2880
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=d724c748a81eca48b9c78b5aa375a594&txTime=6a2e2880
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781391920-0-0-6d4a14c17d9457aef3aedc69f3d5c351
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781391920-0-0-bc846b2ed1f09486ab138595fea7ba4b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781391920-0-0-68eed26640aba9c5095173991d9eb499
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781391920-0-0-15a8da0198db72ec69fb0e4cbad5b5bd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) flv
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=6e17a0e27dbc90f88760128cd100eb9b&txTime=6a2e2880
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=be67e6e98336e7dd478425f85fceb4ef&txTime=6a2e2880
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=6e17a0e27dbc90f88760128cd100eb9b&txTime=6a2e2880
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=be67e6e98336e7dd478425f85fceb4ef&txTime=6a2e2880
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=73b59c6a16f4220bdd7a66ac84f3a920&txTime=6a2e2880
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=987b7a495fac4b357ce38767b59851f5&txTime=6a2e2880
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=73b59c6a16f4220bdd7a66ac84f3a920&txTime=6a2e2880
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=987b7a495fac4b357ce38767b59851f5&txTime=6a2e2880
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781391920-0-0-b44d26f0fa4f431a6fc888a4f456579b
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781398401-0-0-4da56fb3fb0dcbf8a3e3e7e66bdc2f1e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781391920-0-0-e0a0bd4a489f87959d2a71da5e7d1b92
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781398401-0-0-4c4556f0a7e0f5dc4fef6bcf1a25218f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781391920-0-0-5366b78a153de45c07cf31aa8cb15f9c
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781398401-0-0-673127f1187f8b595a0cc1d58603ce50
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781391920-0-0-25a4b2e765f2ef1145fe2891498ad5f5
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781398401-0-0-f9c4b8f56333bd8f24885f414d75346d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Test live - Brazil vs Morocco [Casting] (Socolive) flv
-https://pull06.scstream.net/live/stream-121289_lsd.flv?auth_key=1781391920-0-0-6bcbd34dfb7d06ba69106d7911f80c96
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV COCA] (Socolive) flv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781398401-0-0-d5bb513d3238303171ae8831b0b10d6b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Test live - Brazil vs Morocco [Casting] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-121289_lhd.flv?auth_key=1781391920-0-0-6070c1eac6d5fcb97013e9fcf09ca0b6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781398401-0-0-2b944a1655163a78448891ecb68600d0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Test live - Brazil vs Morocco [Casting] (Socolive) m3u8
-https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1781391920-0-0-f92977f494979acd413ba9b56e26a5f9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781398401-0-0-a80a49c874eaa1398e882b89c3b99ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Test live - Brazil vs Morocco [Casting] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1781391920-0-0-7d35d01d7092166fe0fe2af97e9a46d7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781398401-0-0-009f914123db9e04bcdb4245498c3521
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=20478afcb187fc13fa31127c6de1221a&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=e605a5184438e795a1af024f7d926463&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=20478afcb187fc13fa31127c6de1221a&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=e605a5184438e795a1af024f7d926463&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1781398401-0-0-e3d0976a98051bdc68a63336f25717ca
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781398401-0-0-f596e17ed8b614ca58e488cc42e64db7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781398401-0-0-fc85c5434c5d56d52b3e072ef210ebbe
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781398401-0-0-5efad3cf6ea6cbfbdb8b3bce05321815
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=71e53afa750fbaf0623cd069d6de4125&txTime=6a2e41d0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=b2f329e0f32b7a74fe86e2e3ad6b506a&txTime=6a2e41d0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=71e53afa750fbaf0623cd069d6de4125&txTime=6a2e41d0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=b2f329e0f32b7a74fe86e2e3ad6b506a&txTime=6a2e41d0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=237ac1c047072bd82deecb695d850e8f&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=b22228c0c3175fbe368a97d9faa9ef9d&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=237ac1c047072bd82deecb695d850e8f&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=b22228c0c3175fbe368a97d9faa9ef9d&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) flv
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781398401-0-0-4de489a842b667959a87c07eb8e5b57f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781398401-0-0-8a9dc142b4ba352dd8f1b08550b54f87
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781398401-0-0-8c0009b5768f47e47af049cd01897d55
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781398401-0-0-dc8262139103be62183a6ba3707df5ef
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Charleston Battery vs FC Tulsa [BLV ENZO] (Socolive) flv
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1781398401-0-0-a1b06d657f1c062db48ac62a06d5b73a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Charleston Battery vs FC Tulsa [BLV ENZO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781398401-0-0-f5b0fbcc3d3a2f8f537373d0463311d2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Charleston Battery vs FC Tulsa [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781398401-0-0-6d959653ec6c1ec213f03ae305ff87dc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Charleston Battery vs FC Tulsa [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781398401-0-0-a1782be80b3a12bcef6aeb20152ee4d7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV TOMIA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781398401-0-0-bc361e2dfd3820d86945c323e0715ac3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV TOMIA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781398401-0-0-dd0ea51d1d763d7138adf92b599f8001
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV TOMIA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781398401-0-0-62b2b70b5225dd84aa99ffe32effdefe
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV TOMIA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781398401-0-0-fdbf45da4cf2ffc36c70e1d1a6485a8f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV RÔSI] (Socolive) flv
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=592f3c0afb2c93f36f295fd832c1a37d&txTime=6a2e41d0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV RÔSI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=ac17e7eeece2b365e2ae446918cce944&txTime=6a2e41d0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV RÔSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=592f3c0afb2c93f36f295fd832c1a37d&txTime=6a2e41d0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV RÔSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ac17e7eeece2b365e2ae446918cce944&txTime=6a2e41d0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Tampa Bay Rowdies vs Hartford Athletic [BLV ANH TÀI] (Socolive) flv
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781398401-0-0-cda370a08dfa5857361e91828cc168e6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Tampa Bay Rowdies vs Hartford Athletic [BLV ANH TÀI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781398401-0-0-18818bc58e16f7f803fdfd802c8a21d9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Tampa Bay Rowdies vs Hartford Athletic [BLV ANH TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781398401-0-0-2c8f3f33b50660dd89530e338b4b4733
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Tampa Bay Rowdies vs Hartford Athletic [BLV ANH TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781398401-0-0-8a0c4496ffefff090c4127899b951465
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",NZBL: Otago Nuggets vs Canterbury Rams [CHAN SENA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781398401-0-0-ff1babdf8cf63a27fbd7aae16d1fac7f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",NZBL: Otago Nuggets vs Canterbury Rams [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781398401-0-0-8ea6a133e00eba39b7c051dde5af007b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",NZBL: Otago Nuggets vs Canterbury Rams [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781398401-0-0-bfab6a43340eba6c20d05f710754722c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",NZBL: Otago Nuggets vs Canterbury Rams [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781398401-0-0-2478b5ce17b65560546e42e597cc9da4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Charleston Battery vs FC Tulsa [XUÂN SON] (Socolive) flv
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=ffd8b1c60d3673b8902dc023ea23426b&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Charleston Battery vs FC Tulsa [XUÂN SON] (Socolive) hdFlv
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=c73ffc59dd47139cd3f0373124b770c9&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Charleston Battery vs FC Tulsa [XUÂN SON] (Socolive) m3u8
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=ffd8b1c60d3673b8902dc023ea23426b&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Charleston Battery vs FC Tulsa [XUÂN SON] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c73ffc59dd47139cd3f0373124b770c9&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV PICK] (Socolive) flv
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1781398401-0-0-bd364e5bed6f576d49e705ed7e50cac6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV PICK] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1781398401-0-0-3086900e0bf930f327a3c6c4b4531f3d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV PICK] (Socolive) m3u8
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781398401-0-0-3b565f66b84413c5f4035d4b166e35cb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV PICK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781398401-0-0-a0ad087daf555f08cb13882953586d0a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Louisville City FC vs Brooklyn FC [BLV KAN] (Socolive) flv
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=8604e9706f53a1105cd8a7e7960055ba&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Louisville City FC vs Brooklyn FC [BLV KAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=d3cd63f473857599372ee8368c3aeed9&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Louisville City FC vs Brooklyn FC [BLV KAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=8604e9706f53a1105cd8a7e7960055ba&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Louisville City FC vs Brooklyn FC [BLV KAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=d3cd63f473857599372ee8368c3aeed9&txTime=6a2e41d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV CÁP] (Socolive) flv
+https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1781398401-0-0-ddd64e1a13e1406eb5dc366794689ae2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV CÁP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1781398401-0-0-7745f7bf41dfcf13aac0a985a2545ce9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV CÁP] (Socolive) m3u8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781398401-0-0-6d7971e7eda162e7f2e1379dc91d1532
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Nublense vs Huachipato [BLV CÁP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781398401-0-0-660a89eccb402d7f1befa667aa482440
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Louisville City FC vs Brooklyn FC [BEN 10] (Socolive) flv
+https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1781398401-0-0-492d22d693db5d1f83183ea89729cfff
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Louisville City FC vs Brooklyn FC [BEN 10] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1781398401-0-0-9facc33e7a8c4524f716a3a06e46b998
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Louisville City FC vs Brooklyn FC [BEN 10] (Socolive) m3u8
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781398401-0-0-4c7e08bdf252d840fdaf9359d718f452
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Louisville City FC vs Brooklyn FC [BEN 10] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781398401-0-0-89429fe39dbd307a35ba09fbb89a6cfe
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [DECO] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781398761-0-0-b8c1edfe5826aa3c0a0dc233e873ad98
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781398761-0-0-248b1183ddb4fa39e533cacccf2b6345
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781398761-0-0-202db4bd088e297ed6ac71281f9822c7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781398761-0-0-144fe49451f7e52404276f598754a991
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1781398761-0-0-0f9a326972bd73bda7ecd6675f69b1cc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781398761-0-0-d901a95b82268284dade10098b311d6b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781398761-0-0-57cb5241abb046e647ce264c6d0e7bea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV TAP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781398761-0-0-c17845a9daf10db7c2ed1a114d291f99
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781398761-0-0-d1b7dcb9030d0b073c9f1663fa6fc947
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781398761-0-0-daf7e57c054d57c2b2737981ddd71a78
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781398761-0-0-d76c99aad38b620128f50b9a705c675e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781398761-0-0-ff2b80ed1acb720732e049152507e25f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 14/06 Haiti vs Scotland [LÃO LÂM] (Socolive) flv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781398761-0-0-7ccfca59b1ccfd8f349242c2bcc0483e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 14/06 Haiti vs Scotland [LÃO LÂM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781398761-0-0-6bca74461cb18d3649639597d33152ab
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 14/06 Haiti vs Scotland [LÃO LÂM] (Socolive) m3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781398761-0-0-99b2299a4c432667dc1a443e6e752f86
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 14/06 Haiti vs Scotland [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781398761-0-0-0b8c0fa8a3ef4441829f242854dccdde
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Gimnasia Jujuy vs San Martin San Juan [BLV A TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781398761-0-0-512a979b4c2f4a60d27cab1837131f44
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Gimnasia Jujuy vs San Martin San Juan [BLV A TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781398761-0-0-88b94eb4dcd70e5cad1182a485079086
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Gimnasia Jujuy vs San Martin San Juan [BLV A TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781398761-0-0-3a343ee42d7cd07bef9325298efef891
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Gimnasia Jujuy vs San Martin San Juan [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781398761-0-0-4a0d88e67d1d6da496e7590827bea7e5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Las Vegas Aces W vs Minnesota Lynx W [A CHÈ] (Socolive) flv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1781398761-0-0-f8837148dbaa8c3168670bca7422c587
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Las Vegas Aces W vs Minnesota Lynx W [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781398761-0-0-1ec6d765676d3a428c7e21c2513de907
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Las Vegas Aces W vs Minnesota Lynx W [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781398761-0-0-f013564c3471becca83f45e46ee9b2ca
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Las Vegas Aces W vs Minnesota Lynx W [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781398761-0-0-6a5b8e5ec06c1c574b78aff9254ff670
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Birmingham Legion vs Las Vegas Lights [BLV LION] (Socolive) flv
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1781398761-0-0-5383f7e6e8bf89489fc324a182edb15d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Birmingham Legion vs Las Vegas Lights [BLV LION] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1781398761-0-0-1f4db61a5afda0cf3feff9b005f3bbe0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Birmingham Legion vs Las Vegas Lights [BLV LION] (Socolive) m3u8
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1781398761-0-0-5b9cd0ad9ca86be21ce82edb16833767
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Birmingham Legion vs Las Vegas Lights [BLV LION] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1781398761-0-0-e6c54d2563f2001c5f98125bbe0fa7cf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Tampa Bay Rowdies vs Hartford Athletic [BLV LUCAS] (Socolive) flv
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781398761-0-0-a2725216b5c6e0e52bf5cf6686b08ec7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Tampa Bay Rowdies vs Hartford Athletic [BLV LUCAS] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781398761-0-0-0445617b63e996ef7ed62e96be9d352a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Tampa Bay Rowdies vs Hartford Athletic [BLV LUCAS] (Socolive) m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781398761-0-0-04ce634046ee2e1b7be879c7f7eb1f68
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 14/06 Tampa Bay Rowdies vs Hartford Athletic [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781398761-0-0-14eeda053b0d2d356e2da4db80bc92dc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Birmingham Legion vs Las Vegas Lights [KÉP] (Socolive) flv
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1781398761-0-0-66d98ab0985f82dae44072680021c023
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Birmingham Legion vs Las Vegas Lights [KÉP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1781398761-0-0-132f953ced3433697aafeee54f444a83
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Birmingham Legion vs Las Vegas Lights [KÉP] (Socolive) m3u8
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781398761-0-0-71b1e983ecfb07cbac4e5dc4bdafc88d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 14/06 Birmingham Legion vs Las Vegas Lights [KÉP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781398761-0-0-38a66270f58ff7db5b3fe1a1b67de0ff
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) flv
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781399121-0-0-45459cee27e586e5d2c508df16508e97
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781399121-0-0-ab9c95829b7d0df583af19b68d32be01
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781399121-0-0-2ae9fde67e7de240c9f3899086de90b9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781399121-0-0-e042897924fb4eec11b8fd7d5cc92a2a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) flv
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=eacb6eec0c3ffb76df61605537b1c896&txTime=6a2e44a1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=5b89ffb5863bb4b1ebb420ec3c82fb0c&txTime=6a2e44a1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=eacb6eec0c3ffb76df61605537b1c896&txTime=6a2e44a1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 14/06 Brazil vs Morocco [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=5b89ffb5863bb4b1ebb420ec3c82fb0c&txTime=6a2e44a1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Pittsburgh Riverhounds vs Indy Eleven [QUÂN JK] (Socolive) flv
+https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1781399121-0-0-0c61099c1b04ebab476ba75da8b70c32
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Pittsburgh Riverhounds vs Indy Eleven [QUÂN JK] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781399121-0-0-9763a7d0ed4191923cb7807ea942cea0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Pittsburgh Riverhounds vs Indy Eleven [QUÂN JK] (Socolive) m3u8
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781399121-0-0-57074c60f4e708dd46331cd8fc1e6831
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Pittsburgh Riverhounds vs Indy Eleven [QUÂN JK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781399121-0-0-f384cf2efdef47069f3305ad0366dba8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Lexington vs San Antonio [BLV YONE] (Socolive) flv
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1781399121-0-0-8ca5ae12a7716b1e7c60c8fe46aee86a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Lexington vs San Antonio [BLV YONE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1781399121-0-0-61f1d062b2ae85e616364d34207ae590
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Lexington vs San Antonio [BLV YONE] (Socolive) m3u8
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1781399121-0-0-728c893bd557633e7b493f485412504d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 14/06 Lexington vs San Antonio [BLV YONE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1781399121-0-0-704573f7a535a69e2ff59b104addda21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 14/06 San Antonio Spurs vs New York Knicks [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781399121-0-0-9adb347ab8ce5abf5bb35f6335fcf4a6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 14/06 San Antonio Spurs vs New York Knicks [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781399121-0-0-317ebf3d31ad8a4b3c12648722153243
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 14/06 San Antonio Spurs vs New York Knicks [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781399121-0-0-05711f961bdcd5c1d17d5ec3fff2b06a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 14/06 San Antonio Spurs vs New York Knicks [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781399121-0-0-8f28e6bd4eba39b1bb61c9baa95d256b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 14/06 San Antonio Spurs vs New York Knicks [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781399121-0-0-8d3f0d56896c4d1a3aaa2e636fb1cdfc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 14/06 San Antonio Spurs vs New York Knicks [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781399121-0-0-ab60e09df9c152e3030e10db8c69a503
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 14/06 San Antonio Spurs vs New York Knicks [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781399121-0-0-49986367cc8ba090fdd37d72680473be
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 14/06 San Antonio Spurs vs New York Knicks [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781399121-0-0-b7b07f586eb5ac86d3a679593e0c74ea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781399121-0-0-3edb2fcc38a2b10a69ef84f774a5f9fb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781399121-0-0-790e03f19dc5374f1e32368ac7a8f8e8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781399121-0-0-07e488f55d80a8c7e3ac9dc0e91b14d3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781399121-0-0-97fdf1971641857ddcd3edda1428f098
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 14/06 Brazil vs Morocco (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
@@ -431,10 +671,10 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 14/06 Brazil vs Morocco (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 14/06 Colo Colo vs Cobresal (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 14/06 Nublense vs Huachipato (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 14/06 Colo Colo vs Cobresal (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 14/06 Nublense vs Huachipato (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 14/06 Brazil vs Morocco (Hội Quán) FHD
@@ -443,6 +683,27 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 14/06 Brazil vs Morocco (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 14/06 Thổ Nhĩ Kỳ vs Ý (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 14/06 Thổ Nhĩ Kỳ vs Ý (Hội Quán) SD
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 14/06 San Antonio Spurs - New York Knicks (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 14/06 San Antonio Spurs - New York Knicks (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 14/06 Brazil vs Ma Rốc
-https://live05.msdht.app/live/24561735.m3u8
+https://live05.msdht.app/live/08552895.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 14/06 Atlanta United FC II vs Chattanooga
+https://live05.msdht.app/live/14707124.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 14/06 Nublense vs Huachipato
+https://live05.msdht.app/live/99121525.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 14/06 Las Vegas Aces vs Minnesota Lynx
+https://live05.msdht.app/live/90865415.m3u8
 
