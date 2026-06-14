@@ -1,18 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",11:00 | Australia vs Türkiye
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",11:00 | Australia vs Türkiye
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/3770.png",13:30 | Rockdale City Suns vs SD Raiders
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/5679.png",15:00 | Qingdao Red Lions vs Shanghai Port II
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/21010.png",19:00 | Ulytau vs Zhenys
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/7865.png",21:00 | São Bernardo vs Sport Recife
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
@@ -20,16 +11,28 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/384.png",22:00 | FC Dnepr Mogilev vs Arsenal
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",12:00 | Ukraina vs Ba Lan
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s",15:30 | Trung Quốc vs Cuba
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2542.png",23:00 | Ayacucho FC vs Club Deportivo Los Chankas
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",19:00 | Slovenia vs Nhật Bản
 https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png",22:00 | Đức vs Pháp
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",00:00 | Germany vs Curaçao
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",00:00 | Germany vs Curaçao
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",06:00 | Ivory Coast vs Ecuador
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png",00:30 | Bulgaria vs Serbia
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",21:00 | Miwa HARIMOTO/Satsuki ODO vs LEE Eunhye/CHOI Hyojoo
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
@@ -38,65 +41,41 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/20.png",Úc vs Thổ Nhĩ Kỳ
-https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/20.png",Australia vs Türkiye
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/DQIQtK7N4yrDIqw75pxFHg_96x96.png",Ukraine - Ba Lan
-https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/rZCKbaFa-QHeKqeWC.png",Nữ Việt Nam vs Nữ Kazakhstan
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://mediares.thethao247.vn/res/image/data/nc9uS3HG-QDuM2WrS.png",Trung Quốc - Cuba 
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/basketball/team/58daf23f06bd54cb577a106fba19b140.png!w60",Nữ Đài Loan ( Trung Quốc ) vs Nữ Hàn Quốc
+https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/21010.png",Ulytau vs Zhenys
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/fBWBjchl-dWxvhZJm.png",Slovenia - Nhật Bản 
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/9113.png",Al Taliya vs Al Wahda
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/25.png",Đức vs Curaçao
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png",Hà Lan vs Nhật Bản
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png",Hà Lan vs Nhật Bản
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV VƯƠNG LUÂN flv
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1501.png",Ivory Coast vs Ecuador
+https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV LÝ ỨNG m3u
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B (Lương Sơn) BLV TÔN LẬP m3u
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV LÝ ỨNG flv
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B (Lương Sơn) BLV TÔN LẬP flv
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV GẤU KA m3u
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV GẤU KA flv
-https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV QUAN VŨ m3u
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV QUAN VŨ flv
-https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV HEINEKEN m3u
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV HEINEKEN flv
-https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkey (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B (Lương Sơn) BLV LEO flv
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -113,30 +92,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Türkiye (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Türkiye (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/angao.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Türkiye (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Türkiye (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/angaohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 14/06 Ukraine vs Poland (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 14/06 Ukraine vs Poland (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 14/06 Ukraine vs Poland (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 14/06 Ukraine vs Poland (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 ngày 14/06 China vs Cuba (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
 
@@ -150,15 +105,27 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+https://gckc0525.edgemaxcdn.org/live/angao.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Ninh Bình FC vs TP. Hồ Chí Minh (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Chinese Taipei vs South Korea (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Chinese Taipei vs South Korea (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Chinese Taipei vs South Korea (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 14/06 Chinese Taipei vs South Korea (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 14/06 Slovenia vs Japan (Chuối Chiên) HD1
@@ -233,6 +200,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 14/06 Kaspiy vs Kaisar (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 15/06 Bulgaria vs Serbia (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 15/06 Bulgaria vs Serbia (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 15/06 Bulgaria vs Serbia (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 15/06 Bulgaria vs Serbia (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -242,273 +221,273 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=eeaff5a67a8a3cc20aeed522a3db2b53&txTime=6a2e9360
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Taoyuan Pauian Pilots vs Fubon Braves [KING] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1781432961-0-0-8c8e215181e954642630fef273674b77
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=2ae35df22103d1ad3e8ab3f3d0f9486d&txTime=6a2e9360
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Taoyuan Pauian Pilots vs Fubon Braves [KING] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1781432961-0-0-5bcf1eedc38e4c0b483c1838a284d5a1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=eeaff5a67a8a3cc20aeed522a3db2b53&txTime=6a2e9360
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Taoyuan Pauian Pilots vs Fubon Braves [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781432961-0-0-e0506ccd8e5dc16abe75901a1306c0fa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=2ae35df22103d1ad3e8ab3f3d0f9486d&txTime=6a2e9360
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Taoyuan Pauian Pilots vs Fubon Braves [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781432961-0-0-7fe961442d539120fc0298b7a5f2f6ca
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781419281-0-0-65154e8f0ffac023de8250b54ebce9e7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV XO] (Socolive) flv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1781432961-0-0-e2e11c74900ca3e116a8c49b493e2a07
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781419281-0-0-45106aa17437dc10a8a2e6ef04ff86fe
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV XO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781432961-0-0-44996ab0ffd467b1aeddb7df668718f0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781419281-0-0-fbc0f52c022606f6430976d11fae3acd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781432961-0-0-8f1291b11489ab8c9a807e4a0f7d3561
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781419281-0-0-1d6565bd28be8dd2042a92209ebe5aa7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781432961-0-0-07a06605bcdb39ebc57f9fdefe6bcd5f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [KING] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1781419280-0-0-b2dffe67e889d171b36bff2ea0ebc90d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [BLV FIREMAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781432961-0-0-1cb0adac4a0a51b588c67868b69290fa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [KING] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1781419280-0-0-acaf6d422f7c015a482cd109c7684f99
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [BLV FIREMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781432961-0-0-ca99964a16e719da2141ff5c223d12ad
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781419280-0-0-ed25892363380c4f02faf506533fe58a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781432961-0-0-7d9224f8ef3d45cec3e8ed67ebe741a2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781419280-0-0-a815e41bf201a5d55972fd6b48d0d21f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781432961-0-0-e022f9f412da4ec32d9e822f376c24fb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [CR Bưởi] (Socolive) flv
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=754d2342e5d10a0528a553108178a6e0&txTime=6a2e94c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Taoyuan Pauian Pilots vs Fubon Braves [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781432960-0-0-15839a5ba2b9e7ad1da91110d9c5d330
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [CR Bưởi] (Socolive) hdFlv
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=5b1ee2161662429d7c21bb5a5f00e493&txTime=6a2e94c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Taoyuan Pauian Pilots vs Fubon Braves [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781432960-0-0-9c079c05ec87d3d9bc2293b7280dbfa0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=754d2342e5d10a0528a553108178a6e0&txTime=6a2e94c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Taoyuan Pauian Pilots vs Fubon Braves [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781432960-0-0-21e74debc7ec9cf41ad4fb46d8ea1031
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=5b1ee2161662429d7c21bb5a5f00e493&txTime=6a2e94c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Taoyuan Pauian Pilots vs Fubon Braves [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781432960-0-0-31aae8c1656292efb2efecdb681e7a53
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=73f09804cb00679dbfe990ddde9c6067&txTime=6a2e94c8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [LÃO LÂM] (Socolive) flv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781432961-0-0-94e740c4426f36882700058474a0bef2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=6fbd5d18ad5eebd79725a487ac3afaf2&txTime=6a2e94c8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [LÃO LÂM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781432961-0-0-258e20ca0e7e10ab714da3f1b648ee25
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=73f09804cb00679dbfe990ddde9c6067&txTime=6a2e94c8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [LÃO LÂM] (Socolive) m3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781432961-0-0-3a2dd9ab559e32587469eaea20de659d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=6fbd5d18ad5eebd79725a487ac3afaf2&txTime=6a2e94c8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781432961-0-0-df451bbcd43a008e391309b8e48b140f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV Củ Cải] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781419641-0-0-a0928c92e575f5fc2215ee2574763dee
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV KEM] (Socolive) flv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1781433321-0-0-e77bc95b84af014b1d78299d17452aec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV Củ Cải] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781419641-0-0-7a1b53f3e47a68fd7993287b44cc8b1a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV KEM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781433321-0-0-02a6ea886b8bdd7d54181afefd3312e7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781419641-0-0-0964f06210daa14dd5ccc70acf45c349
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV KEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781433321-0-0-c056dc9160c167edbfc3cd6a2575924c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781419641-0-0-5d9d3afccfd0587fa8b0dda169f5b974
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781433321-0-0-e5fd674e2c45fcbb14ee1816fffcf618
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781419641-0-0-95420d3a90122485c6230f03707c1cf7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV VITAMIN] (Socolive) flv
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1781433321-0-0-c907de6a6281186fed6ba4877d3facf6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781419641-0-0-d5056bb30a7ba0d1a30d7dad7f844660
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV VITAMIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781433321-0-0-1667e8b465cffc52b35409689e0306a4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781419641-0-0-0026f22ad92c3169d79f25b575b2fb08
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV VITAMIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781433321-0-0-e3f02d6d2d5c93a84cede26e5cd5bb12
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781419641-0-0-60fc56ae9d0f4b00bc1b6747504aa8c3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV VITAMIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781433321-0-0-f6612eec06079844db7737150cec1996
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV ALEX] (Socolive) flv
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781419641-0-0-bb07c59cb35144ed9c96465725adfc71
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [QUÂN JK] (Socolive) flv
+https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1781433321-0-0-8b27b8ca42294d8c3df164c1f2f485a2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV ALEX] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781419641-0-0-cebf28aa0baa9efe2b784beeb71f36ff
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [QUÂN JK] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781433321-0-0-98f0a66363869975d687c41aa682c153
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781419641-0-0-70e00bd975bf7038bf191615a45ef713
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [QUÂN JK] (Socolive) m3u8
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781433321-0-0-afcf38f6c6a533163066e749e32d590f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781419641-0-0-08ee1035de3ba19cb89c2449d099164c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [QUÂN JK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781433321-0-0-6e7735dc46e4b6f21c4b97f07d813e59
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV NẤM] (Socolive) flv
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1781419641-0-0-eeca7dc924835eadc350bc43ed668972
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV RAMBO] (Socolive) flv
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=4b51fce75c4b72de67085774df2c7e2b&txTime=6a2eca39
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV NẤM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781419641-0-0-b34668043e1d88ee630bb3ec20b2d24a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV RAMBO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=837dc40a736681b68689bb73d905002d&txTime=6a2eca39
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781419641-0-0-dfb16bf22587a94f10ce39d0cba8448a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV RAMBO] (Socolive) m3u8
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=4b51fce75c4b72de67085774df2c7e2b&txTime=6a2eca39
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781419641-0-0-6f900b1c1a2da4e9f46a6d996d3cdd96
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 14/06 FC Ulaanbaatar vs Bishrelt Khoromkhon [BLV RAMBO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=837dc40a736681b68689bb73d905002d&txTime=6a2eca39
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Haiti vs Scotland [Sóc đau cổ vai gáy] (Socolive) flv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781433321-0-0-6681bf12d5846404b15dce2dec2339f9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Haiti vs Scotland [Sóc đau cổ vai gáy] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781433321-0-0-46c53f68be0e4628894bc79799ddff1d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Haiti vs Scotland [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781433321-0-0-0a074bf20dcad0b3d8dd4fe726fe6717
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Haiti vs Scotland [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781433321-0-0-48f8ef8540621162d19068b155859f80
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781433321-0-0-92e4e1176682d725620be0eb1bedb651
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781433321-0-0-8adbdba34c50fd35a1c0b06a502f61bc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781433321-0-0-7aea450f2a1e57ab4de6bded7ca62982
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781433321-0-0-45c2835b65b0fb7b929026d262f15d3d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Qatar vs Switzerland [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781433321-0-0-9d869c4ce57080bbf23c7d7b1f519c78
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Qatar vs Switzerland [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781433321-0-0-fcf0feee57f11d6cae34219032cb012d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Qatar vs Switzerland [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781433321-0-0-43fe2b3b0e7e9ba6f99d30a643201342
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Qatar vs Switzerland [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781433321-0-0-90c1569dd257c181ca99754c682b647e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - USA vs Paraguay [Sóc mèo méo meo] (Socolive) flv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781433321-0-0-38044fb2a36eadfaccda5b24cd5c1eb7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - USA vs Paraguay [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781433321-0-0-9dbb4ee59f84bf503579140de26b18af
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - USA vs Paraguay [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781433321-0-0-99bcf9a49ae5d9bc8d93dba25f2cad42
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - USA vs Paraguay [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781433321-0-0-e79cbe1d1b373d9e2a91cf4c4a0372cc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Morocco [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781433321-0-0-34fa9b60f72b0656207522f6b5a4fd60
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Morocco [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781433321-0-0-9ffd8ade9ed3466e0982264ef6428665
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Morocco [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781433321-0-0-64891f49eb385cb35d92c4de6cf2952a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Morocco [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781433321-0-0-4696919882fde329f9a71183280b39a4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trong rừng xà nu] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781433321-0-0-e21f7f6ff5f39231f1f76617473770b5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trong rừng xà nu] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781433321-0-0-1b1f2e2b9072ad6550feee113e3c43a8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781433321-0-0-d1f01720765fc642f7b9c50e8a0e9cd6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781433321-0-0-76e6441319cf629191c859f5a12620c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [A PÁO] (Socolive) flv
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1781433681-0-0-24305b2fcb84f633a09f1a598698c259
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [A PÁO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781433681-0-0-815cec4bbb4505ba349933912ce9177d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781433681-0-0-ce4e5297731933fe7431e25b8078dc93
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781433681-0-0-7a434f744b5c018b7bd583ee6b534c1d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV PEWPEW] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781433681-0-0-727bb1366c8f727c933805065f99e5c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781433681-0-0-a3b0126d978ab5dd8bb20f6f07f6f353
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781433681-0-0-e25bc56816fbbe2adf2d5a1c8d33d9e8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781433681-0-0-c64418da14804412281ce12b30c9a703
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [A BỆU] (Socolive) flv
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781433681-0-0-c8bd47f0fa210a686ecf6fc349710e16
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [A BỆU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781433681-0-0-8ce22cc9ab5e2c3cae289e8226e6ce13
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781433681-0-0-30729e3d2ee6b22cdc606f41221b2f86
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781433681-0-0-2cf9a748ab09d03f87f7c2e6a18fdbed
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [BLV KAN] (Socolive) flv
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=e994d1725ecdd5be6ca239b87a02e538&txTime=6a2ecba1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [BLV KAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=078fbe461a6b0e520e25499d1ab860df&txTime=6a2ecba1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [BLV KAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=e994d1725ecdd5be6ca239b87a02e538&txTime=6a2ecba1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 14/06 Canberra Juventus vs Cooma Tigers [BLV KAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=078fbe461a6b0e520e25499d1ab860df&txTime=6a2ecba1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV CÒ] (Socolive) flv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1781433681-0-0-a0eb4d79f97edd400adf72190f120deb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781433681-0-0-7a8d8543c90b13a56fab069b3bd4e783
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781433681-0-0-70e68bc1cfa5d20f403bd423b8085f40
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 14/06 Qingdao Red Lions vs Shanghai Port B [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781433681-0-0-91f700d19493dc71edb51bb59283e3a8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781419641-0-0-8526eef769fb82561966e52e3bc50235
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781433681-0-0-09605b54775e0f13b7896d447d8be5d0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781419641-0-0-f72f735349b7cf64c90d5208576c5927
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781433681-0-0-fe99c987c3e8f51cb04363f57ab4ba60
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781419641-0-0-e27f9084ed9ac4a4dc4176eda3b9a0d5
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781433681-0-0-8640b9f9c60d6b86d181131085732bb7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781419641-0-0-9bc47f8ba2159f3fec57ab1cc16bacd0
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781433681-0-0-cbdddbe91b42275379ebe55e9dfe5f98
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV ĐỐM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1781420001-0-0-d5062a9e38c9b2705a862441d9c569e9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV ĐỐM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781420001-0-0-1b3ed1abb02c014509bf7425236e0447
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781420001-0-0-a9f20cac67bcf0d8490dd3f55549c32e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781420001-0-0-d25ca57194b441be3a7298ef6dfb9754
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV MESSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781420001-0-0-85a2615cc6ce1ee71691254916767c82
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV MESSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781420001-0-0-e417767798f65a4911f228a957e5da47
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781420001-0-0-b61503f28a33894e3aada13264995c44
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781420001-0-0-cf8536e866dc50627724ed5abcc405bd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [THẠCH TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1781420001-0-0-6b1bc62605503fe268b17ef7e4d30c0e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [THẠCH TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781420001-0-0-7c0fe3bf7ad718381fa1220645700e12
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [THẠCH TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781420001-0-0-c010561cf1c85211ab86ce9b0c23ff97
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781420001-0-0-bdc2d59d7667b0ffa25ae5f8288faa3b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [DECO] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781420001-0-0-8bc5e4c916ee1f886a936dc25470efd2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [DECO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781420001-0-0-d9992b6658acdd932de1e792e834601e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781420001-0-0-fc584cee1d35bc49951a052a20c0b367
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781420001-0-0-92d39390e1d5371dd310f99e54362b92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV CUỘI] (Socolive) flv
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1781420001-0-0-46a56d221543be109d9f97731ca09957
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV CUỘI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1781420001-0-0-2eced93f7e5b5a9b13c7243e4b89d275
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781420001-0-0-2ca574e3b2fe75db0e13c9ccf615b384
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781420001-0-0-3de93cab72a1c76ad7d200eec9b93890
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV TAP] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1781420000-0-0-3e2cba31921da37619286608195df011
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV TAP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781420000-0-0-defdf0a05934f922d16dbb6e8c0b36db
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV TAP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781420000-0-0-e06e859278cc430d04aac0a9e07537b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 14/06 Australia vs Turkiye [BLV TAP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781420000-0-0-1ee3f7f86688edcf39641c163e38a9f7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV VOI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781420001-0-0-7f1f2014e4fbbfad1063d983246e545e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV VOI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781420001-0-0-ff3b1960be7e49e56143b0e6bbe3b825
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV VOI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781420001-0-0-ff9267c168b7d9a70a31d2906c058ea7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 14/06 Ulverstone vs Launceston City [BLV VOI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781420001-0-0-9a91d921b6c62dfc05fcb8e58fd0b6e0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [BRIAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781420000-0-0-3b58d5cc8afd69cec45aa6772db0ed71
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [BRIAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781420000-0-0-789108de5a2acf21125407825448a30a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781420000-0-0-b284519ae1eaaaef78c45e99cef460ff
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781420000-0-0-67d4010f480c0cf007b0dd768c000750
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781420001-0-0-5b40f1a9a02504ff295fa3a164583d32
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781420001-0-0-024bf080e720976fa9b084027576bfea
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781420001-0-0-62fd252a8af262c8c99baee35f5d53a6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 14/06 Manawatu Jets vs Tauranga Whai [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781420001-0-0-edc3cd3ed98eb5536e605d265deeed41
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 14/06 Australia vs Türkiye (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 14/06 Australia vs Türkiye (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 14/06 Australia vs Türkiye (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 14/06 Australia vs Türkiye (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 14/06 Ukraina vs Ba Lan (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 14/06 Ukraina vs Ba Lan (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 14/06 Australia vs Türkiye (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 14/06 Australia vs Türkiye (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 14/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 14/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 14/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 14/06 Qingdao Red Lions vs Shanghai Port II (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 14/06 SATHIO GROUP Australian Badminton Open 2026 (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 14/06 Qingdao Red Lions vs Shanghai Port II (Hội Quán) SD
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 14/06 Úc vs Thổ nhĩ kỳ
-https://live05.msdht.app/live/08552895.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 14/06 Trung Quốc vs Cuba (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 14/06 Manawatu Jets vs Tauranga Whai
-https://live05.msdht.app/live/82054853.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h30 14/06 Trung Quốc vs Cuba (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 14/06 Qingdao Red Lions vs Shanghai Port B
+https://live05.msdht.app/live/14707124.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 14/06 FC Ulaanbaatar vs Khoromkhon Club
+https://live05.msdht.app/live/99121525.m3u8
 
