@@ -11,9 +11,6 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/9198.png",22:30 | SJK Akatemia vs Haka
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://static.flashscore.com/res/image/data/WKc6mHyS-tEXwrGhb.png",16:00 | Changchun Dazhong Nữ vs Shaanxi Changan Nữ
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1.png",02:00 | Belgium vs Egypt
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
@@ -22,6 +19,9 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/272.png",01:00 | KA Akureyri vs Fram Reykjavik
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/140.png",07:00 | Criciuma vs Ceara
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",11:00 | Cộng hòa Dominicana vs Mỹ
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
@@ -41,11 +41,11 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/26881.png",Negelle Arsi vs Awassa Kenema
-https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/4126.png",Arba Minch Kenema vs Suhul Shire
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/25364.png",Fard Alborz vs Sanat Naft
+https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/9.png",Tây Ban Nha vs Cape Verde Islands
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
@@ -53,29 +53,35 @@ https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/9.png",Tây Ban Nha vs Cape Verde Islands
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
 
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/23.png",Saudi Arabia vs Uruguay
+https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/23.png",Saudi Arabia vs Uruguay
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdi6LZpIv3d-fDwt5RB55q40_qI9op9tbChiqYrR1FRJxWDYyb",Raw vs Raw
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",Pháp vs Senegal
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",Pháp vs Senegal
-https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/8572.png",Simba vs Vita Club
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/26880.png",Sheger Ketema vs Welwalo Adigrat Uni
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 15/06 Brazil vs Maroc (Lương Sơn) BLV KAKA REPLAY m3u
-https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC (Lương Sơn) BLV LIO m3u
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 15/06 Brazil vs Maroc (Lương Sơn) BLV KAKA REPLAY flv
-https://flv.cdnfaster-a.live/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC (Lương Sơn) BLV LIO flv
+https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 15/06 Hàn Quốc vs CH SÉC (Lương Sơn) BLV KEVILL REPLAY m3u
-https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC (Lương Sơn) BLV TÀO THÁO m3u
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 15/06 Hàn Quốc vs CH SÉC (Lương Sơn) BLV KEVILL REPLAY flv
-https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC (Lương Sơn) BLV TÀO THÁO flv
+https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 15/06 Shakhter Karagandy (W) vs FK Zhenys (W) (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 15/06 Shakhter Karagandy (W) vs FK Zhenys (W) (Lương Sơn) BLV LEO flv
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -92,29 +98,17 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 15/06 Negelle Arsi vs Awassa Kenema (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Bhutan U19 vs Paro (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 15/06 Negelle Arsi vs Awassa Kenema (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Bhutan U19 vs Paro (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 15/06 Negelle Arsi vs Awassa Kenema (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Bhutan U19 vs Paro (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 15/06 Negelle Arsi vs Awassa Kenema (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 15/06 Negelle Arsi vs Awassa Kenema (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 15/06 Negelle Arsi vs Awassa Kenema (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/troctru.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 15/06 Negelle Arsi vs Awassa Kenema (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 15/06 Negelle Arsi vs Awassa Kenema (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Bhutan U19 vs Paro (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Bhutan U19 vs Paro (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
@@ -127,18 +121,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Bhutan U19 vs Paro (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Bhutan U19 vs Paro (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Bhutan U19 vs Paro (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Bhutan U19 vs Paro (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Bhutan U19 vs Paro (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 15/06 Adama Kenema vs Ethiopia Nigd Bank (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
@@ -201,6 +183,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 16/06 Belgium vs Egypt (Chuối Chiên) HD2
@@ -221,87 +215,210 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781502081-0-0-9396df0a0113e09bfe118fb89de03570
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [ĐỖ TÚ TÀI] (Socolive) flv
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1781529081-0-0-cc8a1f886149934f61b84aff1694295f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781502081-0-0-6402d60fe613dcb46cf99e6f8d7cbd80
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [ĐỖ TÚ TÀI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781529081-0-0-130111ca47d29d79bdf2acb5fedfb383
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781502081-0-0-c64dd9ed33ccac7bbc3c45318cc2e815
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781529081-0-0-63e52cf4929174aaf071f2715e1450f9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781502081-0-0-5070f02e776c47f619ff544d60b488c1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781529081-0-0-72bd8a28c47a17f313a0e8be1890f94e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Valenzuela City Darkhorse vs Bacolod Masskara [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781529081-0-0-6a97c574821900d7f0e0788d8d6167bf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Valenzuela City Darkhorse vs Bacolod Masskara [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781529081-0-0-b64aefa28960426e31e6a9ae6a8d264d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Valenzuela City Darkhorse vs Bacolod Masskara [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781529081-0-0-094c9f09c9af55e0c1318db48fc17d88
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Valenzuela City Darkhorse vs Bacolod Masskara [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781529081-0-0-7e2edcf445086516bcb10e0d5375ce6a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV PICK] (Socolive) flv
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1781529081-0-0-0a0de1e3e3d967dd28d31d442f9e73ca
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV PICK] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1781529081-0-0-c4209f3e61e6820cd586a752ea85bf3e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV PICK] (Socolive) m3u8
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781529081-0-0-1a573a156f11f3a94c3bf3d0324ad997
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV PICK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781529081-0-0-6589ceec27661b751a45258454752169
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [XUÂN TÓC ĐỎ] (Socolive) flv
+https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=fb7563bee85bf51b9bb676eca1fd2cc2&txTime=6a304049
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [XUÂN TÓC ĐỎ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=56cdf8bd3488a3db1e3e111c8bd44cf8&txTime=6a304049
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [XUÂN TÓC ĐỎ] (Socolive) m3u8
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=fb7563bee85bf51b9bb676eca1fd2cc2&txTime=6a304049
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=56cdf8bd3488a3db1e3e111c8bd44cf8&txTime=6a304049
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Netherlands vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781502081-0-0-2b4074768a33bc68274745e3ae46608a
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781529081-0-0-a2c488668f6b82fce4fc35e06b154e01
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Netherlands vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781502081-0-0-b23c594d9c39da7327622aec9ba5c2c6
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781529081-0-0-f7b9258b94a3a85239484dbee0a2b545
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Netherlands vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781502081-0-0-a30938af63a9a28da61732d1a93b6f0c
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781529081-0-0-6eb21efa29161b68f0df9301e20c8d38
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Netherlands vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781502081-0-0-8cd32857638b11474d4cad13867525c9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) flv
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781502081-0-0-6fb1f54eae457337ba6365663c6ebc29
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781502081-0-0-75ca77c24aee09bc59441552b4d792b4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781502081-0-0-c7607e786733e1e1192ed1ba2ed4f65b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781502081-0-0-9250ecc3ee46ea9720e8a66d0e62035e
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781529081-0-0-93ae707fc4ad15dc3045dabe18915eca
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781502081-0-0-b69739aeecb41f113248b2ea0a600424
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781529081-0-0-947e7db5370db3089524fdc31cc9085f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781502081-0-0-31b985781038ca5621075309100deb55
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781529081-0-0-d631c82ba73ab1993cbbd4ba80811c88
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781502081-0-0-2e89ffb33eb077e3d1581dc6773d8534
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781529081-0-0-8685ce5b698178982c0c2e7685e9a46d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Sweden vs Tunisia [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781502081-0-0-aae9a926eae1ab1a282f7d998057f55e
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781529081-0-0-7bdcbd76a43c623a79d5cf35a2974872
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) flv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781529081-0-0-8836ad4f777c30f213b438dfb5c6054c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781529081-0-0-0a24b66c997f83d0ce54d585827ac211
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781529081-0-0-14cf347e95b990ca7acf6b4ff836406a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Cote d'Ivoire vs Ecuador [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781529081-0-0-2b0d25bca78fb2d39565782b6c2673a0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781529081-0-0-75a9d3e7422708241c8fe1c4cfddb187
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781529081-0-0-dcde030f1cab27132136fbbdc3bf35f8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781529081-0-0-d2585d37c5077cba05ed67951649b18d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781529081-0-0-26d1cb6f43aed46ec3b3c9e1ba41a8c4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV TOMIA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781529441-0-0-b21e3677fad2d07d9e95cdf58a25454c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV TOMIA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781529441-0-0-9c6509bf69dea7c00f443032368f5d9a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV TOMIA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781529441-0-0-dc30b6f429c5b997f64980c04d92573d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV TOMIA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781529441-0-0-4fcdc0a58398ab2168b56255e88296d1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [A PÁO] (Socolive) flv
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1781529441-0-0-12636d67454aedb2d55dd9574f6668e1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [A PÁO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781529441-0-0-7545851de5951dec053272eb2028d4b6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781529441-0-0-ace0a10ca334f37febb51ea4fda62194
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781529441-0-0-0d991d39aa14a77379fa10946c26016d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Valenzuela City Darkhorse vs Bacolod Masskara [CHAN SENA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781529441-0-0-1be0ffdcdedc97224123d211b9ff5a6f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Valenzuela City Darkhorse vs Bacolod Masskara [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781529441-0-0-a5bf05baa2810794b49e4c337d21e3b8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Valenzuela City Darkhorse vs Bacolod Masskara [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781529441-0-0-6abe033f00103567b29d0be888c9094e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 Valenzuela City Darkhorse vs Bacolod Masskara [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781529441-0-0-58b0dfa8a720223f91c45803cd3938eb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV A TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781529441-0-0-a04ca9c682c29d3102d1ef99bb9f92c4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV A TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781529441-0-0-bf4025e1dd9f9eddafef448db95545dd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV A TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781529441-0-0-d9b509f7e790953e251676e468e5826e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 15/06 BFF Academy U19 vs Paro FC [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781529441-0-0-64df73880df9f64f284d2ce150ef3ebf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Germany vs Curacao [Sóc trèo cây ngô đồng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781502801-0-0-3266750befb59178b6df917743d251e4
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781529801-0-0-d5199adc807bc85b97050736e43475dc
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Germany vs Curacao [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781502801-0-0-90ccf6536ef559356a129a0d43f800e4
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781529801-0-0-5f7f0cf8f40098961ca923a2386682af
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Germany vs Curacao [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781502801-0-0-c2ac443a96052fbcf8077b0d426d1f37
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781529801-0-0-a567a1f8e52d6c66edbd08718b27c01e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Germany vs Curacao [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781502801-0-0-7a5266a7c270e6210228cff8ab73d487
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc đau cổ vai gáy] (Socolive) flv
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781502801-0-0-52a800e97df0f0949d664a909ddda68a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc đau cổ vai gáy] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781502801-0-0-7100b8240c9e867f78b09399b654fc60
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781502801-0-0-6917ad28c3ff2df032382d681d83b350
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781502801-0-0-15d3b8adfabf4721aa950af34f2b26c8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781529801-0-0-751812a29805c53fa37adf58d9fe36b3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Haiti vs Scotland [Sóc nhàm nhang nhồ] (Socolive) flv
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781502801-0-0-5874f8b82ec1eb029962e899c6d6bf65
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781529801-0-0-865ca34ffa9b6d5c95d198294f719e1c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Haiti vs Scotland [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781502801-0-0-8572acd9c6b4330b229663b9f499b453
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781529801-0-0-14160e3767bf6e04d40028f641e302a9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Haiti vs Scotland [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781502801-0-0-fbef7c4b0340207f1e2778c5c07c395e
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781529801-0-0-412fba96d629f8b7a1d4142f15e4b264
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Haiti vs Scotland [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781502801-0-0-8aab0343ee5884a13bda19a9bae82f21
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781529801-0-0-d30e41ce880e22f44a4ce13b9e6583e5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc đau cổ vai gáy] (Socolive) flv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781529801-0-0-21a63b189e04ec5549f7379007133722
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc đau cổ vai gáy] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781529801-0-0-93a75c5f082426e77bd51ca37a96b3dc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781529801-0-0-c8f881cf7869e5f596c65823ebc80848
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Australia vs Turkiye [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781529801-0-0-4ca3ee8ba1992f5897a89e90a40bc48e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 15/06 Nikoloz Basilashvili vs Daniel Altmaier (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 15/06 Nikoloz Basilashvili vs Daniel Altmaier (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 15/06 Botic van de Zandschulp vs Harry Wendelken (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 15/06 Botic van de Zandschulp vs Harry Wendelken (Hội Quán) SD
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 15/06 Bhutan U19 vs Paro (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 15/06 Bhutan U19 vs Paro (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 15/06  Fergana FA vs Havokand FC (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 15/06  Fergana FA vs Havokand FC (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 15/06 BFF Academy U19 vs FC Paro
+https://live05.msdht.app/live/08552895.m3u8
 
