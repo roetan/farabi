@@ -1,18 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/775.png",11:00 | Austria vs Jordan
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/775.png",11:00 | Austria vs Jordan
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",11:00 | Cộng hòa Dominicana vs Mỹ
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/27.png",00:00 | Portugal vs Congo DR
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/10.png",03:00 | England vs Croatia
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/775.png",Áo vs Jordan
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/10.png",03:00 | England vs Croatia
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/10.png",03:00 | England vs Croatia
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",England vs Croatia
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",England vs Croatia
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",England vs Croatia
+https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 5
 https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8
@@ -47,123 +50,117 @@ https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",Thỏ Ơi
 https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h22 ngày 17/06 Pháp vs Senegal (Lương Sơn) BLV YẾN THANH REPLAY m3u
-https://hls.cdnfaster-a.live/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan (Lương Sơn) BLV DƯƠNG CHÍ m3u
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KAKA m3u
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan (Lương Sơn) BLV LÝ ỨNG m3u
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan (Lương Sơn) BLV MÃ SIÊU m3u
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan (Lương Sơn) BLV TÀO THÁO m3u
-https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV COCA] (Socolive) m3u8
+https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=05f0b04abd77dcd126b7cba3c95e4db5&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan (Lương Sơn) BLV FERNANDO m3u
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV COCA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=a87bf01a783039520532529758e27f24&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781674161-0-0-aebda51f2615b2a4b4ab8495abb4bc2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV ĐỐM] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=27dd7e7455d52b057aa205072efad0f5&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781674161-0-0-f78f44fcc7bc91e2c6237a806ac5be47
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=22fb860fb58c6963a6ef26c8e56c57b1&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=baa5bac9f8c8f766ac9368b6a52eca42&txTime=6a327701
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [THẠCH TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=8279852109da240a94407ff903192f17&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=88e89f16fbda1d7e4eafa4e9eca67fed&txTime=6a327701
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=956b7f7eb7a38d4c36528fe9797b582d&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV CUỘI] (Socolive) m3u8
-https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=1f6d3fbdb7518ebfa5fc93af722b0e03&txTime=6a327701
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=075f39479fb7ba7cd97c3f120f991536&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=fb359a30b0d1b97c9281de2a1202b9af&txTime=6a327701
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=6e6623d169a9c489ed0166e46da42309&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [THẠCH TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781674161-0-0-516e935871b859f61b7a891888a60fb9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TAP] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=866870c852aa365241c42c9882c14955&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781674161-0-0-ea80490e2f0f9c4841b525a659a81ed3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TAP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=c2eb86d55fe1836d1d9c7f649816a166&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781674161-0-0-eb2672952e1eab50fd51a4126ce768bf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [DECO] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=ae9b98add18d1b0e52fd8da171a5e9a7&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781674161-0-0-85d26b836f7f08f61ffb57a7ff250870
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [DECO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=1ee82c97b8eb9dc507b384e3b3bc6ff3&txTime=6a335261
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV MESSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=69ee3066478f4acdb3c2b15d634af243&txTime=6a327701
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781730321-0-0-b200ee14aa973faea695d5432ff4422c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV MESSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=527af1ca8a8505d7cfeabc53af9e3b02&txTime=6a327701
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781730321-0-0-ff92d5128b6bf7b72e8499a7f7400084
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781674161-0-0-8c4f80646744b246615dcea1dc82fed9
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781730321-0-0-cb56db1a4b7eb56c369a2344683bc474
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781674161-0-0-d577c679ac708a27edbf6ad519fd5860
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781730321-0-0-405f36525735fa3ae219053cc1b2691c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV TAP] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=9a5c56d408506ef278895789222d37ee&txTime=6a327869
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=fa14ad1234effb7eefbff8c46b1ba478&txTime=6a3353c9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV TAP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=95eee600a4645319f577948f9ac6880c&txTime=6a327869
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=0e8e61a806c8a9401d642b0c6a6fb403&txTime=6a3353c9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=7469b4735e8108d3b11f75c44ac2089a&txTime=6a327869
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=8c9548841b5fbd8886630de9d549e417&txTime=6a3353c9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d4c297ef6506f6ba6af357084c90a201&txTime=6a327869
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=30ce75a8dfbfb05fc2d0dafa6ae36c80&txTime=6a3353c9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781674521-0-0-0b99e518bbcc057ba96aec4f4f0843f0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781730681-0-0-1edc292ca8dc54c33fd5c08f4e7a5d58
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781674521-0-0-61c863b1a58ae8d966a5ddf40a8a1be5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781730681-0-0-67a19053205aa7ba1f2c0de69750a7ee
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV COCA] (Socolive) m3u8
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=ce2cb7e54d6cee1b501b9c73ac3d41ee&txTime=6a3279d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=66a51653a3eea13fcf35313101f1fa20&txTime=6a3353c9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV COCA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=882ca5c924a37047b213b6263d5ad751&txTime=6a3279d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=99da23db226dd022278a4b0e96ed8921&txTime=6a3353c9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781674881-0-0-61af0a57ad4fe2009632e06f8e3f0f0a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=2947c2fc9431cb80f5707848f333c1ad&txTime=6a335531
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781674881-0-0-c1d04662e2e4dd4291c5adf71e53fd22
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=1df41de0de5521225ccb8428ae2919bd&txTime=6a335531
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781674881-0-0-c3f3d38354b856fb8ba7da9ff2db79bd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 17/06 Austria vs Jordan [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781674881-0-0-88bb83d0444d37cf573da452fe711433
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 17/06 Austria vs Jordan (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 17/06 Austria vs Jordan (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 17/06 Austria vs Jordan (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) FHD
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 17/06 Austria vs Jordan (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) SD
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 17/06 Cộng hòa Dominicana vs Mỹ (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 17/06 Cộng hòa Dominicana vs Mỹ (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 17/06 ĐTQG Áo vs Jordan
-https://live05.msdht.app/live/14830711.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 ĐTQG Anh vs Croatia
+https://live05.msdht.app/live/08552895.m3u8
 
