@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/10.png",03:00 | England vs Croatia
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/10.png",03:00 | England vs Croatia
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/10.png",03:00 | England vs Croatia
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",06:00 | Ghana vs Panama
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",06:00 | Ghana vs Panama
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1568.png",09:00 | Uzbekistan vs Colombia
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/770.png",23:00 | Czechia vs South Africa
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/770.png",23:00 | Czechia vs South Africa
 https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
@@ -41,15 +41,6 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",England vs Croatia
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",England vs Croatia
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",England vs Croatia
-https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1504.png",Ghana vs Panama
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
@@ -61,6 +52,12 @@ https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/IyzbKwXg-8KJ0tcMR.png",Ukraine W - Poland W
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/770.png",Czechia vs South Africa
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/770.png",Czechia vs South Africa
+https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 1)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",Tập 1
 https://vip.opstream15.com/20230414/37767_4a795191/index.m3u8
@@ -593,47 +590,14 @@ http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGZ3jVwbodnd-XsYnXY4nccw
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://img.vtvprime.vn/8EDc4aHKZhga3-JQ72NQf06cwtefrcE_jgxUPiKUA_E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjk2OTYyYTktOWIwNy00YThmLWE5ZWUtYzY0NmY4YWI2M2Y1LnBuZw==.png",SCTV22
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGXCZRCXXdXK70orNkdxHd9s/ts
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV LỮ BỐ m3u
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h45 ngày 18/06 Vilavelhense vs Vitoria ES (Lương Sơn) NHÀ ÐÀI m3u
+https://auto.cdnfaster.live/live/sd-6Mwdq8MdeFwSD5gjKr/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV LỮ BỐ flv
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h59 ngày 18/06 Argentina vs Algeria (Lương Sơn) BLV KEVILL REPLAY m3u
+https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV LƯU BỊ m3u
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV LƯU BỊ flv
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KAKA m3u
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KAKA flv
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV VƯƠNG LUÂN flv
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV TRIỆU TỬ LONG flv
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h05 ngày 18/06 Oakland Roots vs Birmingham Legion (Lương Sơn) BLV PHI HỔ m3u
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h05 ngày 18/06 Oakland Roots vs Birmingham Legion (Lương Sơn) BLV PHI HỔ flv
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KEVILL m3u
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Lương Sơn) BLV KEVILL flv
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h59 ngày 18/06 Argentina vs Algeria (Lương Sơn) BLV KEVILL REPLAY flv
+https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -650,29 +614,17 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/troctru.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
@@ -685,18 +637,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 18/06 Uzbekistan vs Colombia (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
@@ -722,6 +662,78 @@ https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 18/06 Uzbekistan vs Colombia (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/maxhd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 18/06 Khovd Western vs Khangarid (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 18/06 Khovd Western vs Khangarid (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 18/06 Khovd Western vs Khangarid (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 ngày 18/06 Khovd Western vs Khangarid (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 18/06 Czech Republic W vs USA W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 18/06 Czech Republic W vs USA W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 18/06 Czech Republic W vs USA W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 18/06 Czech Republic W vs USA W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Ukraine W vs Poland W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Ukraine W vs Poland W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Ukraine W vs Poland W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Ukraine W vs Poland W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Khovd vs Deren (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Khovd vs Deren (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Khovd vs Deren (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Khovd vs Deren (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Meshakhte vs Gagra (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Meshakhte vs Gagra (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Meshakhte vs Gagra (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Meshakhte vs Gagra (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad AC vs FUS Rabat (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad AC vs FUS Rabat (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad AC vs FUS Rabat (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad AC vs FUS Rabat (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -731,180 +743,201 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV COCA] (Socolive) flv
-https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=05f0b04abd77dcd126b7cba3c95e4db5&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV Củ Cải] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781738961-0-0-96ce19c1b1bac8ae3d1f79335ac44a25
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV COCA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=a87bf01a783039520532529758e27f24&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781738961-0-0-01a3eb83bfa51e34066dfacf7c2d89b1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV COCA] (Socolive) m3u8
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=05f0b04abd77dcd126b7cba3c95e4db5&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781738961-0-0-cc8a4a0ed1e6adf281f3dece79a7e525
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV COCA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=a87bf01a783039520532529758e27f24&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781738961-0-0-15462d4b44df24e8a330fd2ead6443b6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV ĐỐM] (Socolive) flv
-https://pull.niur.live/live/stream-9912110_lsd.flv?txSecret=27dd7e7455d52b057aa205072efad0f5&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [LÃO LÂM] (Socolive) flv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781738961-0-0-83cc8c3088d19b1e40b3fe40f6409356
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV ĐỐM] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912110_lhd.flv?txSecret=22fb860fb58c6963a6ef26c8e56c57b1&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [LÃO LÂM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781738961-0-0-d84b9ce4ec5313feb9f5c6b9d579a069
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV ĐỐM] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=27dd7e7455d52b057aa205072efad0f5&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [LÃO LÂM] (Socolive) m3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781738961-0-0-4de3286c670da358c77eb3a84c5ed365
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=22fb860fb58c6963a6ef26c8e56c57b1&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781738961-0-0-cdce466077030b104c3909fefe2e49d1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [THẠCH TÚ] (Socolive) flv
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=8279852109da240a94407ff903192f17&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV TOMMY] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=9839b5d80bbc0babdfb871bad123a27b&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [THẠCH TÚ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=956b7f7eb7a38d4c36528fe9797b582d&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV TOMMY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=1440ac3a9382d4c0b3d8e89a0c43f289&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [THẠCH TÚ] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=8279852109da240a94407ff903192f17&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=9839b5d80bbc0babdfb871bad123a27b&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=956b7f7eb7a38d4c36528fe9797b582d&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=1440ac3a9382d4c0b3d8e89a0c43f289&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [CR Bưởi] (Socolive) flv
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=075f39479fb7ba7cd97c3f120f991536&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=82744a32e40e3d920ed0e37f2bb78794&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [CR Bưởi] (Socolive) hdFlv
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=6e6623d169a9c489ed0166e46da42309&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=51efdb86da7c107021442558ed5a4dde&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=075f39479fb7ba7cd97c3f120f991536&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=82744a32e40e3d920ed0e37f2bb78794&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=6e6623d169a9c489ed0166e46da42309&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=51efdb86da7c107021442558ed5a4dde&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TAP] (Socolive) flv
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=866870c852aa365241c42c9882c14955&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [NGƯỜI CÁ] (Socolive) flv
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1781738961-0-0-3332dbcdd385f36754f9084866b20965
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TAP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=c2eb86d55fe1836d1d9c7f649816a166&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [NGƯỜI CÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781738961-0-0-43a6e01a2a0bad657fd6ed8fe55b38fd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TAP] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=866870c852aa365241c42c9882c14955&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [NGƯỜI CÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781738961-0-0-7503aa9f3b4c610202f363ad8aeff75c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TAP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=c2eb86d55fe1836d1d9c7f649816a166&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781738961-0-0-d8eb3738da5c6507d6866962cb02b726
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [DECO] (Socolive) flv
-https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=ae9b98add18d1b0e52fd8da171a5e9a7&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV COCA] (Socolive) flv
+https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=30fb1812a80fe59d1b4d18adb1d32095&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [DECO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=1ee82c97b8eb9dc507b384e3b3bc6ff3&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV COCA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=a62bea86945eeeb9cf5c3783ea51c402&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [DECO] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=ae9b98add18d1b0e52fd8da171a5e9a7&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV COCA] (Socolive) m3u8
+https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=30fb1812a80fe59d1b4d18adb1d32095&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [DECO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=1ee82c97b8eb9dc507b384e3b3bc6ff3&txTime=6a335261
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV COCA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=a62bea86945eeeb9cf5c3783ea51c402&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV MESSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781730321-0-0-00ba01e2c6b83b361958668a9b838bb4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [A BỆU] (Socolive) flv
+https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=8b598c88aa1f8ce5d700055bd574efe9&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV MESSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781730321-0-0-2b2704b7d15a010af17efbd259a9def1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [A BỆU] (Socolive) hdFlv
+https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=e0cdb68ad914e379303edec4b3dab1a7&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781730321-0-0-b200ee14aa973faea695d5432ff4422c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [A BỆU] (Socolive) m3u8
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=8b598c88aa1f8ce5d700055bd574efe9&txTime=6a337421
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781730321-0-0-ff92d5128b6bf7b72e8499a7f7400084
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [A BỆU] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=e0cdb68ad914e379303edec4b3dab1a7&txTime=6a337421
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781730321-0-0-3baf1eebdcf0f91c5366dd7e6ed191e9
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781738961-0-0-f21f28608c7d685d3aabceaac285658a
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781730321-0-0-adb8ceab2e24aeda1d31cf674fb2639c
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781738961-0-0-72cca1d38514246116fb547376fc9483
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781730321-0-0-cb56db1a4b7eb56c369a2344683bc474
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781738961-0-0-1015b20d1a4e58dd1f4c15d36817a8f2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781730321-0-0-405f36525735fa3ae219053cc1b2691c
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781738961-0-0-08520c3d8cd28f8ec675935786ffdbeb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) flv
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=fa14ad1234effb7eefbff8c46b1ba478&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV HÚP] (Socolive) flv
+https://pull06.scstream.net/live/stream-611382_lsd.flv?auth_key=1781739321-0-0-87f9e226fb3bad1c816d8cb776813fdf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=0e8e61a806c8a9401d642b0c6a6fb403&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV HÚP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781739321-0-0-c4569faf7fbceccdf0cef0fa184fcdd2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=fa14ad1234effb7eefbff8c46b1ba478&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV HÚP] (Socolive) m3u8
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781739321-0-0-c5029d2ff40e2a819bb179636d0d3ae9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=0e8e61a806c8a9401d642b0c6a6fb403&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV HÚP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781739321-0-0-fffe596b1509bd02841971f6a48890e7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=8c9548841b5fbd8886630de9d549e417&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [CR Bưởi] (Socolive) flv
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=bd91a3d983e7b842a5451e922c11598c&txTime=6a337589
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=30ce75a8dfbfb05fc2d0dafa6ae36c80&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [CR Bưởi] (Socolive) hdFlv
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=e1c376aa85c1596a7880844ed26a993c&txTime=6a337589
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=8c9548841b5fbd8886630de9d549e417&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=bd91a3d983e7b842a5451e922c11598c&txTime=6a337589
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=30ce75a8dfbfb05fc2d0dafa6ae36c80&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e1c376aa85c1596a7880844ed26a993c&txTime=6a337589
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781730681-0-0-2669a5010cf4b7ee1558fdf0c4d476bf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [HẢI THANH] (Socolive) flv
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1781739321-0-0-0cf64ba5922ef3d6f87ac2ad9d21aa2b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781730681-0-0-f6db8d40ce2d930033c137be2bc18139
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [HẢI THANH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781739321-0-0-23c8e31856d36d091a9d929e5f005625
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781730681-0-0-1edc292ca8dc54c33fd5c08f4e7a5d58
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [HẢI THANH] (Socolive) m3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781739321-0-0-0491d0a41cf386adac0879d41c8268c5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781730681-0-0-67a19053205aa7ba1f2c0de69750a7ee
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [HẢI THANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781739321-0-0-556f56055834c90aeab2c69ef0bd4541
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) flv
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=66a51653a3eea13fcf35313101f1fa20&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [DECO] (Socolive) flv
+https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=c71afea04767c206d464b95a6a8b064a&txTime=6a3376f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=99da23db226dd022278a4b0e96ed8921&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [DECO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=ffb177568a97294ee8ac230ba0633eb8&txTime=6a3376f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=66a51653a3eea13fcf35313101f1fa20&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [DECO] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=c71afea04767c206d464b95a6a8b064a&txTime=6a3376f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=99da23db226dd022278a4b0e96ed8921&txTime=6a3353c9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [DECO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=ffb177568a97294ee8ac230ba0633eb8&txTime=6a3376f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=2947c2fc9431cb80f5707848f333c1ad&txTime=6a335531
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=4ed28c2657658e7f501b262b56261bac&txTime=6a3376f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=1df41de0de5521225ccb8428ae2919bd&txTime=6a335531
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=3682c10a295edb185142d2c647c01625&txTime=6a3376f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=2947c2fc9431cb80f5707848f333c1ad&txTime=6a335531
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=4ed28c2657658e7f501b262b56261bac&txTime=6a3376f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 18/06 England vs Croatia [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=1df41de0de5521225ccb8428ae2919bd&txTime=6a335531
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=3682c10a295edb185142d2c647c01625&txTime=6a3376f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [HÀ DUY KIÊN] (Socolive) flv
+https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1781739681-0-0-83684df7dbc4bd9a5573bbc982555f11
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [HÀ DUY KIÊN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1781739681-0-0-f344f55a546e6d2121a7ccbb04cd4416
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [HÀ DUY KIÊN] (Socolive) m3u8
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781739681-0-0-5e3896d3dae331decbd1793957c24e42
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [HÀ DUY KIÊN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781739681-0-0-df024e06dcd5fb1975e9e1129eba2841
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [BLV A TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781739681-0-0-07ce0ba73e37fa31c570b806056b1284
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [BLV A TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781739681-0-0-4c4acdb746c345afd3d8ab39a09a170d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [BLV A TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781739681-0-0-83c3733948a4d739f3c81968da6e363d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781739681-0-0-def61062ae67d2d2fff4773cfe76c94a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Ghana vs Panama (Hội Quán) FHD
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 England vs Croatia (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Ghana vs Panama (Hội Quán) SD
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 18/06 ĐTQG Anh vs Croatia
-https://live05.msdht.app/live/08552895.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Ghana vs Panama (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Ghana vs Panama (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Ghana vs Panama
+https://live05.msdht.app/live/43612277.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Connecticut Sun vs Washington Mystics
+https://live05.msdht.app/live/82054853.m3u8
 
