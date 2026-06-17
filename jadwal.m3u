@@ -1,20 +1,10 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781665915.png",10:22 WIB 17/06 Pháp vs Senegal (Lương Sơn) BLV YẾN THANH REPLAY m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781628379.png",18:30 WIB 17/06 Barangay Ginebra San Miguel vs TNT Tropang 5G (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781665915.png",10:22 WIB 17/06 Pháp vs Senegal (Lương Sơn) BLV YẾN THANH REPLAY flv
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1781628379.png",18:30 WIB 17/06 Barangay Ginebra San Miguel vs TNT Tropang 5G (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TEST.flv?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/45870_1j23ekgfnj1n.png",14:30 WIB 17/06 Canberra White Eagles U23 vs Canberra Croatia FC U23 (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnfaster.live/live/sd-6MwdqBiWGw2ncs1LuJ/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/45870_1j23ekgfnj1n.png",14:30 WIB 17/06 Canberra White Eagles U23 vs Canberra Croatia FC U23 (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/65207_1hw4vjdvp0g.png",15:30 WIB 17/06 Fujian Nanan (W) vs Wuhan Three Towns Martial Arts (W) (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnfaster.live/live/sd-6MwdLFYJPNrwBpb6h2/playlist.m3u8
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/65207_1hw4vjdvp0g.png",15:30 WIB 17/06 Fujian Nanan (W) vs Wuhan Three Towns Martial Arts (W) (Lương Sơn) NHÀ ÐÀI flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -35,86 +25,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15:00 WIB 17/06 Czech Republic W vs Italy W (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15:00 WIB 17/06 Czech Republic W vs Italy W (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15:00 WIB 17/06 Czech Republic W vs Italy W (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15:00 WIB 17/06 Czech Republic W vs Italy W (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123038_9f31cc8f.png",16:30 WIB 17/06 Germany W vs China W (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123038_9f31cc8f.png",16:30 WIB 17/06 Germany W vs China W (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123038_9f31cc8f.png",16:30 WIB 17/06 Germany W vs China W (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123038_9f31cc8f.png",16:30 WIB 17/06 Germany W vs China W (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250826_164910_2f0f7164.png",17:00 WIB 17/06 Bulgaria W vs Poland W (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250826_164910_2f0f7164.png",17:00 WIB 17/06 Bulgaria W vs Poland W (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250826_164910_2f0f7164.png",17:00 WIB 17/06 Bulgaria W vs Poland W (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250826_164910_2f0f7164.png",17:00 WIB 17/06 Bulgaria W vs Poland W (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143036_72f0bbb2.png",17:00 WIB 17/06 Changnyeong vs Suwon FMC (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143036_72f0bbb2.png",17:00 WIB 17/06 Changnyeong vs Suwon FMC (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/max.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143036_72f0bbb2.png",17:00 WIB 17/06 Changnyeong vs Suwon FMC (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143036_72f0bbb2.png",17:00 WIB 17/06 Changnyeong vs Suwon FMC (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143036_72f0bbb2.png",17:00 WIB 17/06 Changnyeong vs Suwon FMC (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143036_72f0bbb2.png",17:00 WIB 17/06 Changnyeong vs Suwon FMC (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143036_72f0bbb2.png",17:00 WIB 17/06 Changnyeong vs Suwon FMC (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143036_72f0bbb2.png",17:00 WIB 17/06 Changnyeong vs Suwon FMC (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_081346_8027acab.gif",19:00 WIB 17/06 Japan W vs Serbia W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -203,141 +113,162 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/beb8e0a25d0d538f9787c41d409e4f95.png",14:00 WIB 17/06 Nelson Giants vs Manawatu Jets [BLV HENRY] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV BÉO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781690361-0-0-15cfac8b04a1a4ca8599a08c5d667e94
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/beb8e0a25d0d538f9787c41d409e4f95.png",14:00 WIB 17/06 Nelson Giants vs Manawatu Jets [BLV HENRY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=ab76d883aed60fcfa59a2d624310bc8b&txTime=6a32ea51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV BÉO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781690361-0-0-fa59ef181ade13fae1236fb8e7166afe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/beb8e0a25d0d538f9787c41d409e4f95.png",14:00 WIB 17/06 Nelson Giants vs Manawatu Jets [BLV HENRY] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=f705347da5e9477123a3076b59a9fdae&txTime=6a32ea51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV BÉO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781690361-0-0-20a1814143035297bde746584138a2a1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/beb8e0a25d0d538f9787c41d409e4f95.png",14:00 WIB 17/06 Nelson Giants vs Manawatu Jets [BLV HENRY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=ab76d883aed60fcfa59a2d624310bc8b&txTime=6a32ea51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV BÉO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781690361-0-0-19eb5bbf8d66b90edc50f298f28df8c3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [CƠM CHÁY] (Socolive) flv
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f705347da5e9477123a3076b59a9fdae&txTime=6a32ea51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1781690361-0-0-5384c366c7b3fd78edeea44c6384e92b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [CƠM CHÁY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1781704041-0-0-99d0b5c898801e24e8d7549a0af7188e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1781690361-0-0-1000387391697315695df51b4ed3cfb3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [CƠM CHÁY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1781704041-0-0-143529fa21ae329c8e407728c16b3739
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781690361-0-0-90ae3278e92f4cad7c765f2267121eb6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [CƠM CHÁY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781704041-0-0-038f33a2ff37fe31918c75e9f41a0c07
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781690361-0-0-5f64e0504ae85bc1cd253d8885e6c3b4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BEN 10] (Socolive) flv
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781704041-0-0-18a0f8fec8af3329a6c619a339f41d85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612098_lsd.flv?auth_key=1781690361-0-0-2a9db731fe0a15b3a50bbb679f6fd56e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BEN 10] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1781704041-0-0-98a91ee44a514f88644ea79efe1c8b2b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV CÒ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1781690361-0-0-8d7962037f78495b3ae004769ea432eb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BEN 10] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781704041-0-0-fe3972990dd72c878fb9569f57781d38
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV CÒ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781690361-0-0-93597093b23f5b9e0b7e8546df0e37be
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BEN 10] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781704041-0-0-77b113cf846adddea2a122da80697a67
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV CÒ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781690361-0-0-2aae60b91b5ebe650c5b7844eb6ce6e9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BLV VITAMIN] (Socolive) flv
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781704041-0-0-bdf83e03d413547fb6d58b9cb6a5c685
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1781690721-0-0-bb7645065b64d5cd7e8fbd1929348674
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BLV VITAMIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781704041-0-0-04fde206dda8f800ca7f93754654d19d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781690721-0-0-0606a5c5c6aaab47a15af99c66820e7a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BLV VITAMIN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781704041-0-0-2d15d5e1f6a4debd292402918204db7b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781690721-0-0-2d336b9ea2bed04493b2e2313cc7eedc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BLV VITAMIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781704041-0-0-c0c3df80d2e89cac4055c306b00875c6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781690721-0-0-fbb813bbe353decc736ab85ab10db2bb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BLV COZY] (Socolive) flv
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781704041-0-0-261ce384bf24a0033de5f77e864c124c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/30b028ec8cb2f9a67b1b0e329795af9d.jpg",19:00 WIB 17/06 Rizal Golden Coolers vs Quezon City [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=06fb089109c25d3881977ca7993cbbfd&txTime=6a32b7b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BLV COZY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781704041-0-0-3fed4d939cf8654f50f9ea48f3d53143
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/30b028ec8cb2f9a67b1b0e329795af9d.jpg",19:00 WIB 17/06 Rizal Golden Coolers vs Quezon City [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=3ae1ef8914a0a5788f89ec459949aa29&txTime=6a32b7b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BLV COZY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781704041-0-0-402746a9ae99873c08bbc94af49f3e69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/30b028ec8cb2f9a67b1b0e329795af9d.jpg",19:00 WIB 17/06 Rizal Golden Coolers vs Quezon City [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=06fb089109c25d3881977ca7993cbbfd&txTime=6a32b7b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781704041-0-0-c6c7def4eef1a0530cb758044ea8d1e9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/30b028ec8cb2f9a67b1b0e329795af9d.jpg",19:00 WIB 17/06 Rizal Golden Coolers vs Quezon City [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=3ae1ef8914a0a5788f89ec459949aa29&txTime=6a32b7b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/4b78cc04f555e07dbddf183d9f7412af.png",16:45 WIB 17/06 White City Woodville vs West Torrens Birkalla [LOGAN] (Socolive) flv
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781704041-0-0-a3c10f634b3f8e7c17e8c78b89438fba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV WUKONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1781690721-0-0-253fc9cb7ca0431484b675961bd0b8d7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/4b78cc04f555e07dbddf183d9f7412af.png",16:45 WIB 17/06 White City Woodville vs West Torrens Birkalla [LOGAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781704041-0-0-227b9d5d475703e4f238ae1dd8228fe0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV WUKONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1781690721-0-0-da30b1db81de306dd58fdb214239495e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/4b78cc04f555e07dbddf183d9f7412af.png",16:45 WIB 17/06 White City Woodville vs West Torrens Birkalla [LOGAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781704041-0-0-da55c0b1e0fcf722298c65434ac29af0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV WUKONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781690721-0-0-bfb8a159e4d28be9f45640507ef78f7d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/4b78cc04f555e07dbddf183d9f7412af.png",16:45 WIB 17/06 White City Woodville vs West Torrens Birkalla [LOGAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781704041-0-0-60c3bbccf601da0eb7fceed5e8d227da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [BLV WUKONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781690721-0-0-be0e4b67982c0780d01ac739950ab450
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [QUỐC KHÁNH] (Socolive) flv
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781704041-0-0-15a8f0f0d0d8b20e8f8e10499849baa7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1781690721-0-0-a586c628918aa19e1be0e94b185ea98e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [QUỐC KHÁNH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=3d03d2b4c4c3ef6d808047e97ea3c228&txTime=6a32ed21
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781690721-0-0-abd50569661dd6c746f011982be1e477
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=9109125a9f2feeae4d727ccc3f5f5977&txTime=6a32ed21
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781690721-0-0-56a3a5555da47f6d3a827ff513f54729
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=3d03d2b4c4c3ef6d808047e97ea3c228&txTime=6a32ed21
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/d74636a1853aae53526314ea44ff540a.png",20:00 WIB 17/06 FC Molodechno vs BATE Borisov [A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781690721-0-0-e69867514e0e85ad61dd13b0992ee04b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [A PÁO] (Socolive) flv
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=9109125a9f2feeae4d727ccc3f5f5977&txTime=6a32ed21
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/30b028ec8cb2f9a67b1b0e329795af9d.jpg",19:00 WIB 17/06 Rizal Golden Coolers vs Quezon City [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1781690721-0-0-748958d571339f55529d4b8aa1223582
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [A PÁO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781704401-0-0-8c08bc711f1e37f76111b65acf9418fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/30b028ec8cb2f9a67b1b0e329795af9d.jpg",19:00 WIB 17/06 Rizal Golden Coolers vs Quezon City [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781690721-0-0-cf652b6068a28724c6e24e64442aec9f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [A PÁO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781704401-0-0-4e56f7f89055f9ab4bac773576c81d0d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/30b028ec8cb2f9a67b1b0e329795af9d.jpg",19:00 WIB 17/06 Rizal Golden Coolers vs Quezon City [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781690721-0-0-18ac2c3d1a4cc384d16bfd306280a88c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260609/38ea68c2e7bcb2df544a6eb5a34c9139.png",16:30 WIB 17/06 Canberra White Eagles vs Canberra FC [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781704401-0-0-5c4608c494a01e4a4b70d990a19e0c0d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260615/30b028ec8cb2f9a67b1b0e329795af9d.jpg",19:00 WIB 17/06 Rizal Golden Coolers vs Quezon City [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781690721-0-0-011a4669305bf052bfe751245eae19ab
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",15:00 WIB 17/06 Séc vs Ý (Hội Quán) FHD 
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781704401-0-0-25a7d00d8f343d0f286d3863fd8c25f6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/e1b21490ce3e26976cd30dfd1d373abd.png",PBCC: Barangay Ginebra San Miguel vs TNT Tropang 5G [BLV HENRY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",15:00 WIB 17/06 Séc vs Ý (Hội Quán) HD 
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781704401-0-0-e4d352f3ad9c5aa523cc85ef61c30d4c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/e1b21490ce3e26976cd30dfd1d373abd.png",PBCC: Barangay Ginebra San Miguel vs TNT Tropang 5G [BLV HENRY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",15:00 WIB 17/06 Séc vs Ý (Hội Quán) SD 
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781704401-0-0-ddcf038e2d8ed6e0da56c05c6ac930d3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/e1b21490ce3e26976cd30dfd1d373abd.png",PBCC: Barangay Ginebra San Miguel vs TNT Tropang 5G [BLV HENRY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png",16:30 WIB 17/06 Đức vs Trung Quốc (Hội Quán) FHD 
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781704401-0-0-9898ea74d564ec7aa80fea1c3f6cd9e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260613/e1b21490ce3e26976cd30dfd1d373abd.png",PBCC: Barangay Ginebra San Miguel vs TNT Tropang 5G [BLV HENRY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png",16:30 WIB 17/06 Đức vs Trung Quốc (Hội Quán) HD 
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781704401-0-0-cc117e301343a260e255eac1e3d9dadb
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png",19:00 WIB 17/06 Nhật Bản vs Serbia (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png",16:30 WIB 17/06 Đức vs Trung Quốc (Hội Quán) SD 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png",19:00 WIB 17/06 Nhật Bản vs Serbia (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFEEpUH4GyiUFgY5u-Dgiqc0hqecM0NTHIA&s",16:30 WIB 17/06 Zizou Bergs vs Taylor Fritz (Hội Quán) FHD 
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png",19:00 WIB 17/06 Nhật Bản vs Serbia (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png",20:00 WIB 17/06 Pháp vs Brazil (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png",20:00 WIB 17/06 Pháp vs Brazil (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png",20:00 WIB 17/06 Pháp vs Brazil (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg",18:30 WIB 17/06 Ben Shelton vs Lorenzo Sonego (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFEEpUH4GyiUFgY5u-Dgiqc0hqecM0NTHIA&s",16:30 WIB 17/06 Zizou Bergs vs Taylor Fritz (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg",18:30 WIB 17/06 Ben Shelton vs Lorenzo Sonego (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFEEpUH4GyiUFgY5u-Dgiqc0hqecM0NTHIA&s",16:30 WIB 17/06 Zizou Bergs vs Taylor Fritz (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg",18:30 WIB 17/06 Ben Shelton vs Lorenzo Sonego (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/basketball/team/9b31beec1bba99785bda025ddeaeef10.png!w80",14:00 WIB 17/06 Nelson Giants vs Manawatu Jets
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://pbs.twimg.com/media/Gr5VwgSXoAA3ipY?format=jpg&name=large",19:30 WIB 17/06 Alex de Minaur vs Denis Shapovalov (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/2e2ec6721545fb4ceaa95fba18202359.png!w80",16:30 WIB 17/06 Canberra White Eagles vs Canberra Croatia
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://pbs.twimg.com/media/Gr5VwgSXoAA3ipY?format=jpg&name=large",19:30 WIB 17/06 Alex de Minaur vs Denis Shapovalov (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/87547578.m3u8
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://pbs.twimg.com/media/Gr5VwgSXoAA3ipY?format=jpg&name=large",19:30 WIB 17/06 Alex de Minaur vs Denis Shapovalov (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.colatv88xd.cc/football/team/0febece7ccfde5cb982f544a821832cc.png!w80",20:00 WIB 17/06 Molodechno vs CLB BATE
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/08552895.m3u8
