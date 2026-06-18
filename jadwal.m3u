@@ -1,10 +1,40 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/61808_1:04 WIBbtppv61j.png",17:00 WIB 18/06 Tsirang FC vs Tensung FC (Lương Sơn) BLV HÀN TÍN m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/33976_1gxa4ree2a3.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/61808_1:04 WIBbtppv61j.png",17:00 WIB 18/06 Tsirang FC vs Tensung FC (Lương Sơn) BLV HÀN TÍN flv
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/33976_1gxa4ree2a3.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/33976_1gxa4ree2a3.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/33976_1gxa4ree2a3.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B (Lương Sơn) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/39276_1jxyj6jxv35.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II (Lương Sơn) BLV PHI HỔ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/39276_1jxyj6jxv35.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II (Lương Sơn) BLV PHI HỔ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/39276_1jxyj6jxv35.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/39276_1jxyj6jxv35.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/39276_1jxyj6jxv35.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/39276_1jxyj6jxv35.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II (Lương Sơn) BLV VƯƠNG LUÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/33976_1gxa4ree2a3.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B (Lương Sơn) BLV TÀO THÁO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/33976_1gxa4ree2a3.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B (Lương Sơn) BLV TÀO THÁO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -25,78 +55,14 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134331_13901f48.png",17:00 WIB 18/06 Ukraine W vs Poland W (Chuối Chiên) HD1
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/4548.png",18:00 WIB 18/06 Astana II vs Sport Academy Kairat (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134331_13901f48.png",17:00 WIB 18/06 Ukraine W vs Poland W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/4548.png",18:00 WIB 18/06 Astana II vs Sport Academy Kairat (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134331_13901f48.png",17:00 WIB 18/06 Ukraine W vs Poland W (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134331_13901f48.png",17:00 WIB 18/06 Ukraine W vs Poland W (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/27634.png",17:00 WIB 18/06 Tobol 2 vs Ekibastuz (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/27634.png",17:00 WIB 18/06 Tobol 2 vs Ekibastuz (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17:00 WIB 18/06 Tsirang vs Tensung (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17:00 WIB 18/06 Tsirang vs Tensung (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/max.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17:00 WIB 18/06 Tsirang vs Tensung (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145106_186cdb3d.png",17:00 WIB 18/06 Tsirang vs Tensung (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17:00 WIB 18/06 Khovd vs Deren (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17:00 WIB 18/06 Khovd vs Deren (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17:00 WIB 18/06 Khovd vs Deren (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17:00 WIB 18/06 Khovd vs Deren (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17:00 WIB 18/06 Khovd vs Deren (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17:00 WIB 18/06 Khovd vs Deren (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17:00 WIB 18/06 Khovd vs Deren (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_142517_25578a95.png",17:00 WIB 18/06 Khovd vs Deren (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_080458_8929e0d7.gif",19:00 WIB 18/06 Serbia W vs Italy W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -113,6 +79,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130604_74c6b78d.png",19:00 WIB 18/06 Akademiya Ontustik vs Yelimay Semey 2 (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130604_74c6b78d.png",19:00 WIB 18/06 Akademiya Ontustik vs Yelimay Semey 2 (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_212618_887a8760.png",20:00 WIB 18/06 Belgium W vs Brazil W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -260,19 +234,19 @@ https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125452_c8ee16a6.png",02:00 WIB 19/06 Switzerland vs Bosnia & Herzegovina (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125452_c8ee16a6.png",02:00 WIB 19/06 Switzerland vs Bosnia & Herzegovina (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/max.flv
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125452_c8ee16a6.png",02:00 WIB 19/06 Switzerland vs Bosnia & Herzegovina (Chuối Chiên) FHD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125452_c8ee16a6.png",02:00 WIB 19/06 Switzerland vs Bosnia & Herzegovina (Chuối Chiên) FHD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125452_c8ee16a6.png",02:00 WIB 19/06 Switzerland vs Bosnia & Herzegovina (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -324,19 +298,19 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132737_1cfe2b5b.png",08:00 WIB 19/06 Mexico vs South Korea (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132737_1cfe2b5b.png",08:00 WIB 19/06 Mexico vs South Korea (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+https://gckc0525.edgemaxcdn.org/live/max.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132737_1cfe2b5b.png",08:00 WIB 19/06 Mexico vs South Korea (Chuối Chiên) FHD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132737_1cfe2b5b.png",08:00 WIB 19/06 Mexico vs South Korea (Chuối Chiên) FHD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132737_1cfe2b5b.png",08:00 WIB 19/06 Mexico vs South Korea (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -353,6 +327,22 @@ https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144219_a2dd309c.png",16:30 WIB 19/06 Langwarrin vs Port Melbourne (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144219_a2dd309c.png",16:30 WIB 19/06 Langwarrin vs Port Melbourne (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/max.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144219_a2dd309c.png",16:30 WIB 19/06 Langwarrin vs Port Melbourne (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_144219_a2dd309c.png",16:30 WIB 19/06 Langwarrin vs Port Melbourne (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/75bf136c336015d3adb291a238ea039e.png",09:00 WIB 23/05 UNSW FC Women vs University of Sydney Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
@@ -377,237 +367,216 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV COZY] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV BÉO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=6411b61059fd500e40df49699e4417a5&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV COZY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=279979d90873efdc47a2cba03e169ceb&txTime=6a343799
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV BÉO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=67e4b5f4da537b9c4fa0c529dca8d69e&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV COZY] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=818908d1d158069ae2007f96fa53e8ce&txTime=6a343799
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV BÉO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=6411b61059fd500e40df49699e4417a5&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV COZY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=279979d90873efdc47a2cba03e169ceb&txTime=6a343799
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV BÉO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=67e4b5f4da537b9c4fa0c529dca8d69e&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/45bffba41c078a6ce687ea3f6ffc004f.png",17:00 WIB 18/06 Khovd Broncos vs Deren FC [BLV LION] (Socolive) flv
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=818908d1d158069ae2007f96fa53e8ce&txTime=6a343799
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1781778921-0-0-011ce9bf02861908ae2df72ed9c64b65
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/45bffba41c078a6ce687ea3f6ffc004f.png",17:00 WIB 18/06 Khovd Broncos vs Deren FC [BLV LION] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=060ffd6e7500c28728878cfaf31f4a81&txTime=6a343799
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1781778921-0-0-0db4667633c502039e21997be45b9ec2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/45bffba41c078a6ce687ea3f6ffc004f.png",17:00 WIB 18/06 Khovd Broncos vs Deren FC [BLV LION] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=d63fee85639e6e545ed9a2a5191a1d6e&txTime=6a343799
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1781778921-0-0-535c57b2746df35120b6f7480c5d5d6b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/45bffba41c078a6ce687ea3f6ffc004f.png",17:00 WIB 18/06 Khovd Broncos vs Deren FC [BLV LION] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=060ffd6e7500c28728878cfaf31f4a81&txTime=6a343799
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1781778921-0-0-a31ca1f5c23316a2ae93c0e6bb41f140
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [CHÍ PHÈO] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d63fee85639e6e545ed9a2a5191a1d6e&txTime=6a343799
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [NGƯỜI CÁ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781778921-0-0-4439dd983e67dc342b2bc3420c239b69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [CHÍ PHÈO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1781789001-0-0-96910998a9f938d5e72a9ab6f8ec5c78
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [NGƯỜI CÁ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781778921-0-0-be299f1a66cc16f0d15d0c23d38cabba
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [CHÍ PHÈO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781789001-0-0-38c6c053c001c3167b8304e02334b293
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [NGƯỜI CÁ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781778921-0-0-d9c699da6fbee26a19e8aac9d5ce3a37
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [CHÍ PHÈO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781789001-0-0-2d68d71dfb33678b33e9204cb272d0c3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [NGƯỜI CÁ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781778921-0-0-b8292c0a7f4cb9ad3f55c7a1694ac1af
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV RÔSI] (Socolive) flv
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781789001-0-0-99ed546ce31eb1909dd537948cb472a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [BLV VOI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=e20095aa42f5bee33fc6c8f70186de0c&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV RÔSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781789001-0-0-bf4e6776cc89b455aa8c8597621a3557
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [BLV VOI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=20feed2b6c5d8b1ef825026338ff6df9&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV RÔSI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781789001-0-0-3f9ffac7756a57606c6f6ac2ee4fa64b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [BLV VOI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=e20095aa42f5bee33fc6c8f70186de0c&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV RÔSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781789001-0-0-1aa965707733e6e0f7171e7c427d368e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [BLV VOI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=20feed2b6c5d8b1ef825026338ff6df9&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/abb021014ae92f6fe00fbf20261af8f8.png",17:00 WIB 18/06 Tsirang FC vs Tensung FC [BLV RAMBO] (Socolive) flv
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781789001-0-0-5aa4491ff82661d56d73e07b19b9f4fc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV LONG] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=5590f2a45939acd1b1bb978407e23875&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/abb021014ae92f6fe00fbf20261af8f8.png",17:00 WIB 18/06 Tsirang FC vs Tensung FC [BLV RAMBO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1781789001-0-0-cbea4b38b6522caa28041b320c69fe1f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV LONG] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=109e0ce27e558980b91535b749c8826b&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/abb021014ae92f6fe00fbf20261af8f8.png",17:00 WIB 18/06 Tsirang FC vs Tensung FC [BLV RAMBO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1781789001-0-0-269762b9b963cace08c5a13bdca78f53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV LONG] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=5590f2a45939acd1b1bb978407e23875&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/abb021014ae92f6fe00fbf20261af8f8.png",17:00 WIB 18/06 Tsirang FC vs Tensung FC [BLV RAMBO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1781789001-0-0-5d39840bf9eab766b286bacfb441d959
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/ede2f006c293c15c4405042f2e2dc326.png",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B [BLV LONG] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=109e0ce27e558980b91535b749c8826b&txTime=6a341039
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14:00 WIB 18/06 Southland Sharks vs Taranaki Airs [A CHÈ] (Socolive) flv
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1781789001-0-0-dc9bd18a066b20c6c84b56280cbbdae1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [BLV ALEX] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1781778921-0-0-bff9fef9e77f079ab1d1aefe58959f1b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14:00 WIB 18/06 Southland Sharks vs Taranaki Airs [A CHÈ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781789361-0-0-7a057c6d569b26d294dd88333851b99a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [BLV ALEX] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781778921-0-0-82dd673341db288b4eb6c19720d2817c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14:00 WIB 18/06 Southland Sharks vs Taranaki Airs [A CHÈ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781789361-0-0-5ae25034be7e4c7c1f22a4b1113ab41c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [BLV ALEX] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781778921-0-0-8fa128e0f9bbc69c11ffd50b884dfce5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/5710ea7e1cce4f78c3539e82178a045d.png",14:00 WIB 18/06 Southland Sharks vs Taranaki Airs [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781789361-0-0-b1c00a30576b6e3798c4a73390d49335
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [BLV ALEX] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781778921-0-0-5d4212781fee7312094fb71610f18bcb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [LOGAN] (Socolive) flv
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781789361-0-0-e2d0e93fd87b97224e3b17750e6dc29a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1781778921-0-0-f6d42287c573e892a3f45b94ef66c147
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [LOGAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1781789361-0-0-55b478ecb5103e441a63aec59ce882b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1781778921-0-0-f2496a1b91166f4123ac70c22116b06d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [LOGAN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781789361-0-0-8730420668cf9ffab177691d8675619e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781778921-0-0-9c911b58925cafcd17f36d7c3b91482f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [LOGAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781789361-0-0-f4f857818a74e6a9eed10d1791a6bf9e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781778921-0-0-b423362f61b213eaf1f29cb211b4823a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [BLV GIÓ] (Socolive) flv
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781789361-0-0-4ea500fddbbf133c5d25654538db5218
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [XUÂN TÓC ĐỎ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1781779281-0-0-4b57d91c86c5af58048e06d4d0c858a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [BLV GIÓ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=719ab14ef65875d5391334f1024bcdc6&txTime=6a343912
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [XUÂN TÓC ĐỎ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1781779281-0-0-af6b9472ce62b9188aac2f4b0c8ccb99
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [BLV GIÓ] (Socolive) m3u8
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=491e88dc3fb1d6e99c35231d295c6f0b&txTime=6a343912
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [XUÂN TÓC ĐỎ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781779281-0-0-3af6ec4e6da2158a92fcd2b8d9ebaa98
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [BLV GIÓ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=719ab14ef65875d5391334f1024bcdc6&txTime=6a343912
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781779281-0-0-97b127c2c1350348026fcb853dfd0552
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/abb021014ae92f6fe00fbf20261af8f8.png",17:00 WIB 18/06 Tsirang FC vs Tensung FC [BLV PEWPEW] (Socolive) flv
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=491e88dc3fb1d6e99c35231d295c6f0b&txTime=6a343912
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [VƯƠNG ANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781779281-0-0-824c3104a0b2d18714637bf35a45f87a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/abb021014ae92f6fe00fbf20261af8f8.png",17:00 WIB 18/06 Tsirang FC vs Tensung FC [BLV PEWPEW] (Socolive) hdFlv
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=6dc92d294dce4c77aac1e41fb0158d3b&txTime=6a343a69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [VƯƠNG ANH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781779281-0-0-c1106a33a5d8fd0e0ae54dd0f0f99f18
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/abb021014ae92f6fe00fbf20261af8f8.png",17:00 WIB 18/06 Tsirang FC vs Tensung FC [BLV PEWPEW] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=d9db776983cb84d737dd7e307931feea&txTime=6a343a69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [VƯƠNG ANH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781779281-0-0-3e470fad825951fe2fc504a6f70befdc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/abb021014ae92f6fe00fbf20261af8f8.png",17:00 WIB 18/06 Tsirang FC vs Tensung FC [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=6dc92d294dce4c77aac1e41fb0158d3b&txTime=6a343a69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [VƯƠNG ANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781779281-0-0-048dda4182cadc5e005f772563b9c148
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV KEM] (Socolive) flv
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=d9db776983cb84d737dd7e307931feea&txTime=6a343a69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [A PÁO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1781779641-0-0-055c1bdb1e3dbd8b6977a74979a1694c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV KEM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1781789721-0-0-726ffd80a9c7aee30afe67f334016247
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [A PÁO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781779641-0-0-2ebe36671c879996333115cacaa775b6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV KEM] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781789721-0-0-81cb37b5656f87b75b867f1600e16b89
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [A PÁO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781779641-0-0-71440c4c6ffd5a35dd74c6f3fd32b35a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781789721-0-0-3a53e83b5f3b2ccbf8554d18215a868a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/6b6e8ff591c44a3ba66e1917db5a6c96.png",18:00 WIB 18/06 Astana B vs Kairat Almaty II [A PÁO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781779641-0-0-d2dd1a6e23803cafc2b8f822ab05e3c4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [QUỐC KHÁNH] (Socolive) flv
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781789721-0-0-dbba9e398b606dda08765e90f6be709b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/95151f85939db697b8f4892a38fc1209.png",20:00 WIB 18/06 Brommapojkarna Women vs Vittsjo GIK Women [BLV VIP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1781779641-0-0-5b33427be1bc8181fd1f93560ee843fe
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [QUỐC KHÁNH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=58c9d6e84a59ffeb48ec5ded86e4e136&txTime=6a343a69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/95151f85939db697b8f4892a38fc1209.png",20:00 WIB 18/06 Brommapojkarna Women vs Vittsjo GIK Women [BLV VIP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781779641-0-0-b3e08c1299cf2859545f9296ff4fda31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=ed9f8d99e719d4995ad5117332a294bf&txTime=6a343a69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/95151f85939db697b8f4892a38fc1209.png",20:00 WIB 18/06 Brommapojkarna Women vs Vittsjo GIK Women [BLV VIP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781779641-0-0-7091862c661bd6c92fda200b3682d425
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=58c9d6e84a59ffeb48ec5ded86e4e136&txTime=6a343a69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/95151f85939db697b8f4892a38fc1209.png",20:00 WIB 18/06 Brommapojkarna Women vs Vittsjo GIK Women [BLV VIP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781779641-0-0-d565da166dbd745f2281ede7b932563e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV ENZO] (Socolive) flv
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ed9f8d99e719d4995ad5117332a294bf&txTime=6a343a69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [BLV A TINH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1781779641-0-0-e8989581ca96fdfb0cc7d3046bedc64e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV ENZO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=7e254e0fc2cb22997b76c1d08023f6ae&txTime=6a343a69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [BLV A TINH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781779641-0-0-72597fa9ddd389f6b7048046e6fadf20
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV ENZO] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=1513f42d2a8116e9b41241f760c7f6e1&txTime=6a343a69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [BLV A TINH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781779641-0-0-c7d17e57509d5a55aaa39ed463be539b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [BLV ENZO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=7e254e0fc2cb22997b76c1d08023f6ae&txTime=6a343a69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/72239183bd6ef4f5ef589fe0e830d082.png",20:00 WIB 18/06 FK Arys vs FK Kaspiy Aktau B [BLV A TINH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781779641-0-0-5c5cd7969f8dc6c9a0f8429265c1ccf5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [CÔNG CHẤT] (Socolive) flv
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=1513f42d2a8116e9b41241f760c7f6e1&txTime=6a343a69
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/4545.png",19:00 WIB 18/06 Akademiya Ontustik vs Yelimay Semey 2 (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1781779641-0-0-7c9384701fb245c70e53b1af78c79c73
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [CÔNG CHẤT] (Socolive) hdFlv
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/4545.png",19:00 WIB 18/06 Akademiya Ontustik vs Yelimay Semey 2 (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781779641-0-0-e62125e3eb08ba357c48615779787567
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [CÔNG CHẤT] (Socolive) m3u8
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/4545.png",19:00 WIB 18/06 Akademiya Ontustik vs Yelimay Semey 2 (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781779641-0-0-930a5145b34e4cec305c5798d26fc013
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/988c9a0bbfc71f8fe16d743ae6ccb1cb.png",16:55 WIB 18/06 AC Oulu vs IFK Mariehamn [CÔNG CHẤT] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781779641-0-0-da128b93d5e13a4e4924a1efcc0d553c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/45bffba41c078a6ce687ea3f6ffc004f.png",17:00 WIB 18/06 Khovd Broncos vs Deren FC [PINKMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=3cbc54e90ce29367651ce24c1e652119&txTime=6a341309
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/45bffba41c078a6ce687ea3f6ffc004f.png",17:00 WIB 18/06 Khovd Broncos vs Deren FC [PINKMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=08460f8cc909158722e1699fa74bb8b8&txTime=6a341309
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/45bffba41c078a6ce687ea3f6ffc004f.png",17:00 WIB 18/06 Khovd Broncos vs Deren FC [PINKMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=3cbc54e90ce29367651ce24c1e652119&txTime=6a341309
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/45bffba41c078a6ce687ea3f6ffc004f.png",17:00 WIB 18/06 Khovd Broncos vs Deren FC [PINKMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=08460f8cc909158722e1699fa74bb8b8&txTime=6a341309
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [QUÂN JK] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1781779641-0-0-43943f2633dfa4992638d23bd9c663bf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [QUÂN JK] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781779641-0-0-11ddadd56aabaacbfca159e610c73c5e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [QUÂN JK] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781779641-0-0-233ed0261d526eea818ce82c89546f00
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/60b43c54f69e74c96054779e04e4fe93.png",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuzets [QUÂN JK] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781779641-0-0-4871fb91e9326f871be537d3418dd4c5
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2077.png",16:59 WIB 18/06 AC Oulu vs Mariehamn (Hội Quán) FHD 
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/10414.png",20:00 WIB 18/06 Arys vs Kaspij Aktau 2 (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2077.png",16:59 WIB 18/06 AC Oulu vs Mariehamn (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/10414.png",20:00 WIB 18/06 Arys vs Kaspij Aktau 2 (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2077.png",16:59 WIB 18/06 AC Oulu vs Mariehamn (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/10414.png",20:00 WIB 18/06 Arys vs Kaspij Aktau 2 (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",17:00 WIB 18/06 Ukraina vs Ba Lan (Hội Quán) FHD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",19:00 WIB 18/06 Serbia vs Ý (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",19:00 WIB 18/06 Serbia vs Ý (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",19:00 WIB 18/06 Serbia vs Ý (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png",20:00 WIB 18/06 Bỉ vs Brazil (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",17:00 WIB 18/06 Ukraina vs Ba Lan (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png",20:00 WIB 18/06 Bỉ vs Brazil (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",17:00 WIB 18/06 Ukraina vs Ba Lan (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png",20:00 WIB 18/06 Bỉ vs Brazil (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",16:00 WIB 18/06 WTT Star Contender Ljubljana 2026 (Hội Quán) FHD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg",18:30 WIB 18/06 Ben Shelton vs Ethan Quinn (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",16:00 WIB 18/06 WTT Star Contender Ljubljana 2026 (Hội Quán) HD 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg",18:30 WIB 18/06 Ben Shelton vs Ethan Quinn (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",16:00 WIB 18/06 WTT Star Contender Ljubljana 2026 (Hội Quán) SD 
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg",18:30 WIB 18/06 Ben Shelton vs Ethan Quinn (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.gettyimages.com/id/1727342994/photo/shanghai-china-fabian-marozsan-of-hungary-celebrates-victory-in-the-mens-singles-round-of-32.jpg?s=612x612&w=gi&k=20&c=nkApmrnDC-0R2yjK_N0-3_QPEGcxCsAq0aYD8OMAIkM=",16:30 WIB 18/06 Fabian Marozsan vs Taylor Fritz (Hội Quán) FHD 
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.boostopia.io/football/team/eea48912dacd0411ebfd9749ac55cba9.png!w80",18:00 WIB 18/06 Astana B vs Kairat Almaty II
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.gettyimages.com/id/1727342994/photo/shanghai-china-fabian-marozsan-of-hungary-celebrates-victory-in-the-mens-singles-round-of-32.jpg?s=612x612&w=gi&k=20&c=nkApmrnDC-0R2yjK_N0-3_QPEGcxCsAq0aYD8OMAIkM=",16:30 WIB 18/06 Fabian Marozsan vs Taylor Fritz (Hội Quán) HD 
+https://live05.msdht.app/live/43612277.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.boostopia.io/football/team/9fd252984e0e48f24d736e43fec2cd2d.png!w80",19:00 WIB 18/06 Akademiya Ontustik vs FK Yelimay Semey B
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.gettyimages.com/id/1727342994/photo/shanghai-china-fabian-marozsan-of-hungary-celebrates-victory-in-the-mens-singles-round-of-32.jpg?s=612x612&w=gi&k=20&c=nkApmrnDC-0R2yjK_N0-3_QPEGcxCsAq0aYD8OMAIkM=",16:30 WIB 18/06 Fabian Marozsan vs Taylor Fritz (Hội Quán) SD 
+https://live05.msdht.app/live/78905744.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.boostopia.io/basketball/team/a431de8af67ea988c837ff726cdb30ca.png!w80",19:30 WIB 18/06 Hochiminh City Wings vs Nha Trang Dolphins
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.boostopia.io/football/team/348fa7d49029584354427690fe88f874.png!w80",16:59 WIB 18/06 CLB AC Oulu vs IFK Mariehamn
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/14707124.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.boostopia.io/football/team/71ee8803b35df20d3a96b33955dfa14c.png!w80",17:00 WIB 18/06 Tobol Kostanai B vs Ekibastuz
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/99121525.m3u8
+https://live05.msdht.app/live/19919577.m3u8
