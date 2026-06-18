@@ -1,15 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",06:00 | Ghana vs Panama
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2077.png",16:59 | AC Oulu vs Mariehamn
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",06:00 | Ghana vs Panama
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",17:00 | Ukraina vs Ba Lan
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1504.png",Ghana vs Panama
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",20:30 | Thái Lan vs Bulgaria
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1504.png",Ghana vs Panama
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/27619.png",14:30 | Shanghai Second vs SHANGHAI SIPG
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",16:00 | WTT Star Contender Ljubljana 2026
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 5
 https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8
@@ -35,123 +38,225 @@ https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",Cuốc Xe Âm Phủ - Tập 4
 https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8
 
+#EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",Cuốc Xe Âm Phủ - Tập Cuối
+https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8
+
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-hai-chu-fpt-play-1777448554178_Landscape.jpg",Nhà Hai Chủ
 https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",Thỏ Ơi
 https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h45 ngày 18/06 Vilavelhense vs Vitoria ES (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6Mwdq8MdeFwSD5gjKr/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 AC Oulu vs IFK Mariehamn (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h59 ngày 18/06 Argentina vs Algeria (Lương Sơn) BLV KEVILL REPLAY m3u
-https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 AC Oulu vs IFK Mariehamn (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781738961-0-0-cc8a4a0ed1e6adf281f3dece79a7e525
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 AC Oulu vs IFK Mariehamn (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781738961-0-0-15462d4b44df24e8a330fd2ead6443b6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tsirang FC vs Tensung FC (Lương Sơn) BLV FERNANDO m3u
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [LÃO LÂM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781738961-0-0-4de3286c670da358c77eb3a84c5ed365
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tsirang FC vs Tensung FC (Lương Sơn) BLV HÀN TÍN m3u
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781738961-0-0-cdce466077030b104c3909fefe2e49d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Khovd vs Deren FC (Lương Sơn) BLV MAYBACH m3u
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=9839b5d80bbc0babdfb871bad123a27b&txTime=6a337421
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Khovd vs Deren FC (Lương Sơn) BLV NGƯỜI THÉP m3u
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=1440ac3a9382d4c0b3d8e89a0c43f289&txTime=6a337421
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tobol Kostanai B vs Ekibastuzets (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=82744a32e40e3d920ed0e37f2bb78794&txTime=6a337421
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 AC Oulu vs IFK Mariehamn (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=51efdb86da7c107021442558ed5a4dde&txTime=6a337421
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [CÔNG CHẤT] (Socolive) m3u8
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781781801-0-0-bac56187b11a62ff262589769bbba1c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781738961-0-0-7503aa9f3b4c610202f363ad8aeff75c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [CÔNG CHẤT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781781801-0-0-481b849bb32fa791ed0ccce39b817cc5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781738961-0-0-d8eb3738da5c6507d6866962cb02b726
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tobol Kostanai B vs Ekibastuzets [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781781801-0-0-01aba0620676e1d29c01a9e10cf9c37b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV COCA] (Socolive) m3u8
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=30fb1812a80fe59d1b4d18adb1d32095&txTime=6a337421
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tobol Kostanai B vs Ekibastuzets [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781781801-0-0-12d2f9831bc34a82fdbd417755340201
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV COCA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=a62bea86945eeeb9cf5c3783ea51c402&txTime=6a337421
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tobol Kostanai B vs Ekibastuzets [BLV GIÓ] (Socolive) m3u8
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781781801-0-0-719fefba6a1809ce85ef9ec61074c831
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [A BỆU] (Socolive) m3u8
-https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=8b598c88aa1f8ce5d700055bd574efe9&txTime=6a337421
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tobol Kostanai B vs Ekibastuzets [BLV GIÓ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781781801-0-0-a8a2a7ddeb4825783cd5088691649df1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [A BỆU] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=e0cdb68ad914e379303edec4b3dab1a7&txTime=6a337421
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781781801-0-0-88da5c0301b1089637420c72f48aaeb1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781781801-0-0-2cc977ee0c09350946704a2173cf054f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tsirang FC vs Tensung FC [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781781801-0-0-3684cb9675adf8a6b8e74e7555da0069
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tsirang FC vs Tensung FC [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781781801-0-0-9fceb0d0a28242e3389f8750e3098e0a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [BLV KEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781781801-0-0-a3dc13155b984c54a2bb4216d712c6da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781781801-0-0-04df7942b122af6e078bcff142c62551
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Khovd Broncos vs Deren FC [PINKMAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=44d08bee6bd4f2641cf67cc7a4acb793&txTime=6a341b79
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Khovd Broncos vs Deren FC [PINKMAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=048aa79aa2b9920cf097b48ab388f94f&txTime=6a341b79
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 18/06 Astana B vs Kairat Almaty II [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781781801-0-0-cfb697b8869adda7e14ec306c4e2c0fb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 18/06 Astana B vs Kairat Almaty II [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781781801-0-0-a78d7fb368b3d9446484428b86028bea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Marikina Shoemasters vs Quezon Huskers [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781781801-0-0-80e3f64d54b082e93faf7687f5453bc0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Marikina Shoemasters vs Quezon Huskers [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781781801-0-0-3d5c2b2fbf12d6c065e09d687606b178
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tobol Kostanai B vs Ekibastuzets [QUÂN JK] (Socolive) m3u8
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781781801-0-0-aeccd5bc53dc424162d6e7b0912c0cdd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tobol Kostanai B vs Ekibastuzets [QUÂN JK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781781801-0-0-6e2182bdf017181d0e7710608e44f589
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781781801-0-0-f823b5cbda64578c3e6d504512ede921
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781781801-0-0-448a6eb50a1fc9644035220f2098c01a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Austria vs Jordan [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781781801-0-0-542647b918fe2fa0208a0e0afcc0b9a2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Austria vs Jordan [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781781801-0-0-626d0b22d111c9ea869ae96870cf0836
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781781801-0-0-86e0c235d7f96cd6396058a08e469520
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781781801-0-0-51014953aed182d785de53cf7f9db65f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Uzbekistan vs Colombia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781781801-0-0-e0b59764590ccd6328c133dfd7ceeefc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Uzbekistan vs Colombia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781781801-0-0-53d2698d68c10eb2529f374f4912d18a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Argentina vs Algeria [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781781801-0-0-773d247b8c59bbc2eaabeee1057a3825
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Argentina vs Algeria [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781781801-0-0-e823122449c2a062405b272a1909ceee
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Ghana vs Panama [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781781801-0-0-b31b9c45868a3f9942ea74d08c4c9c5d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Ghana vs Panama [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781781801-0-0-4cb1121bb524715472e888fd45602ad0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tobol Kostanai B vs Ekibastuzets [CHÍ PHÈO] (Socolive) m3u8
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781782161-0-0-d254ce8080987cc15e6462f4e2ceb92f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tobol Kostanai B vs Ekibastuzets [CHÍ PHÈO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781782161-0-0-4f722f465e494cbe2d0e030b21dfb95d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [BLV COZY] (Socolive) m3u8
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=fb0778930866a95c118f1d6a6b6da25d&txTime=6a341ce1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [BLV COZY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=5fea3f05796a192707b393646a446659&txTime=6a341ce1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [LOGAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781782161-0-0-19ead3c2fd219df0bf699c5794f37bad
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [LOGAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781782161-0-0-b22fc9ceb5f415f31fc5f8173b8e6b0f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 18/06 Astana B vs Kairat Almaty II [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=89213857639b9d3d6e57f8e1fbe7c5f9&txTime=6a341ce1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 18/06 Astana B vs Kairat Almaty II [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=f5e99452ca597db6a0a27abbf7c0f4d6&txTime=6a341ce1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [BLV RÔSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=d222c242502257a05eabe094945e9274&txTime=6a341ce1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h55 ngày 18/06 AC Oulu vs IFK Mariehamn [BLV RÔSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a81a9be1411349010993bfb8bd09ffce&txTime=6a341ce1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 18/06 Astana B vs Kairat Almaty II [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781782161-0-0-9298a1934b4dd7d60395a7719ca1c5c7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 18/06 Astana B vs Kairat Almaty II [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781782161-0-0-23f395d3584cc42de2803c0b614b384f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Khovd Broncos vs Deren FC [BLV LION] (Socolive) m3u8
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1781782161-0-0-ab1491a13a17646d98dcfea0288b8e74
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Khovd Broncos vs Deren FC [BLV LION] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1781782161-0-0-0eb8f8cea1d49761a27c0e8060a485bc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tsirang FC vs Tensung FC [BLV RAMBO] (Socolive) m3u8
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=680d24c0069572d2690075fdb5aaed1d&txTime=6a341ce1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 18/06 Tsirang FC vs Tensung FC [BLV RAMBO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=add46e68250d5e3c3601b6317bc4d874&txTime=6a341ce1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781738961-0-0-1015b20d1a4e58dd1f4c15d36817a8f2
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781782161-0-0-b32a62e225a19634f28de5c7c6b2eb41
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781738961-0-0-08520c3d8cd28f8ec675935786ffdbeb
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781782161-0-0-b1a60db9b412245f3dc5f529ef67676f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV HÚP] (Socolive) m3u8
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781739321-0-0-c5029d2ff40e2a819bb179636d0d3ae9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 18/06 Astana B vs Kairat Almaty II [BLV VOI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781782521-0-0-c181617d02e8dc714489648a13d9bede
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [BLV HÚP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781739321-0-0-fffe596b1509bd02841971f6a48890e7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 18/06 Astana B vs Kairat Almaty II [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781782521-0-0-1ccbecc32fa633dd9d38238044d2d75f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=bd91a3d983e7b842a5451e922c11598c&txTime=6a337589
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h59 18/06 AC Oulu vs Mariehamn (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e1c376aa85c1596a7880844ed26a993c&txTime=6a337589
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h59 18/06 AC Oulu vs Mariehamn (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781739321-0-0-0491d0a41cf386adac0879d41c8268c5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 18/06 Ukraina vs Ba Lan (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781739321-0-0-556f56055834c90aeab2c69ef0bd4541
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 18/06 Ukraina vs Ba Lan (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [DECO] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=c71afea04767c206d464b95a6a8b064a&txTime=6a3376f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 18/06 WTT Star Contender Ljubljana 2026 (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [DECO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=ffb177568a97294ee8ac230ba0633eb8&txTime=6a3376f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 18/06 WTT Star Contender Ljubljana 2026 (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=4ed28c2657658e7f501b262b56261bac&txTime=6a3376f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 18/06 Fabian Marozsan vs Taylor Fritz (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 Ghana vs Panama [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=3682c10a295edb185142d2c647c01625&txTime=6a3376f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 18/06 Fabian Marozsan vs Taylor Fritz (Hội Quán) SD
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781739681-0-0-5e3896d3dae331decbd1793957c24e42
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h59 18/06 CLB AC Oulu vs IFK Mariehamn
+https://live05.msdht.app/live/14707124.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781739681-0-0-df024e06dcd5fb1975e9e1129eba2841
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781739681-0-0-83c3733948a4d739f3c81968da6e363d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 18/06 New York City Team B vs Carolina Core [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781739681-0-0-def61062ae67d2d2fff4773cfe76c94a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Ghana vs Panama (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Ghana vs Panama (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Ghana vs Panama (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Ghana vs Panama (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Ghana vs Panama
-https://live05.msdht.app/live/43612277.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 18/06 Connecticut Sun vs Washington Mystics
-https://live05.msdht.app/live/82054853.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 18/06 Tobol Kostanai B vs Ekibastuz
+https://live05.msdht.app/live/99121525.m3u8
 
