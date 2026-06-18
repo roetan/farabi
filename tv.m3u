@@ -1,24 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/10414.png",20:00 | Arys vs Kaspij Aktau 2
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",02:00 | Switzerland vs Bosnia & Herzegovina
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/21502.png",22:00 | Turan Turkistan vs Aktobe Jas
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",02:00 | Switzerland vs Bosnia & Herzegovina
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png",20:00 | Bỉ vs Brazil
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",23:30 | Thổ Nhĩ Kỳ vs Pháp
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Zverev_MCM23_%2820%29.jpg",20:30 | Alexander Zverev vs Yannick Hanfmann
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/pWVxGjFa-zLx3xGjj.png",Nữ Thái Lan vs Nữ Bulgaria
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/3454.png",Olympique Dcheïra vs FAR Rabat
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/15.png",Switzerland vs Bosnia & Herzegovina
+https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 5
 https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8
@@ -53,306 +41,72 @@ https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",Thỏ Ơi
 https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra Tbilisi (Lương Sơn) BLV LỮ BỐ m3u
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 18/06 Czech Republic vs South Africa (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra Tbilisi (Lương Sơn) BLV KEVILL m3u
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra Tbilisi (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B (Lương Sơn) BLV LEO m3u
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 Brommapojkarna (W) vs Vittsjo GIK (W) (Lương Sơn) BLV LIO m3u
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 Brommapojkarna (W) vs Vittsjo GIK (W) (Lương Sơn) BLV LÃO HẠC m3u
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Eskilstuna United (W) vs Pitea IF (W) (Lương Sơn) BLV FERNANDO m3u
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Olympique Dcheira vs FAR Forces Armee Royales (Lương Sơn) BLV TÔN LẬP m3u
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs Union Touarga Sport Rabat (Lương Sơn) BLV GẤU KA m3u
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Renaissance Sportive de Berkane vs Olympique de Safi (Lương Sơn) BLV HÀN TÍN m3u
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Yacoub El Mansour vs Hassania Agadir (Lương Sơn) BLV MAYBACH m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 Trelleborgs FF vs FC Rosengard (Lương Sơn) BLV MAYBACH m3u
 https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Yacoub El Mansour vs Hassania Agadir (Lương Sơn) BLV LÝ ỨNG m3u
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 Trelleborgs FF vs FC Rosengard (Lương Sơn) BLV FERNANDO m3u
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [BLV HÚP] (Socolive) m3u8
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781794401-0-0-8a267b622dfafbb9fa9ac4ac8aab7a86
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 Tvaakers IF vs Angelholms FF (Lương Sơn) BLV LÃO HẠC m3u
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [BLV HÚP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781794401-0-0-1681bf192e33795a42946c052ff81245
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 Tvaakers IF vs Angelholms FF (Lương Sơn) BLV GẤU KA m3u
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781794401-0-0-4f6b9b22394834085e5ae3779b0fb02d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 18/06 Czechia vs South Africa [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781808801-0-0-e6f736a019ef77e090fc46abb25ca1ab
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781794401-0-0-2de0680dbc5b8c6c17023bdbe7333159
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 18/06 Czechia vs South Africa [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781808801-0-0-df441fc70a686f67330cbafb20b9ff44
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781794401-0-0-2a816bce67a50fa328272b942797ed64
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 18/06 Czechia vs South Africa [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=d93d5371d4d8fcf121fe3bf643dd158a&txTime=6a3484f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781794401-0-0-91c554fa515411318687c53aaaccd03e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 18/06 Czechia vs South Africa [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d7d030d1c40bb0008ef46dac321b15a4&txTime=6a3484f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Olympique Dcheira vs AS FAR Rabat [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781794401-0-0-b81ace453e064c90d8552ac42ff366eb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV A WIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781808801-0-0-ef705ede53f4e5e0f42f0e1a20b8f98a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Olympique Dcheira vs AS FAR Rabat [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781794401-0-0-6bd11812c9a7daf0fda736cc8e9307ce
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781808801-0-0-ad172aa2e17ef3239521a65eaaef914a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [LOKA] (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781794401-0-0-cf3880cb6465c0e287423f2a0d609c4e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV CÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781808801-0-0-97b948175596ff37c2c78020d50e6ae9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [LOKA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781794401-0-0-4a257f68b6102875ea15489627a7969a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV CÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781808801-0-0-bd07ac59b3dead8d76c5600410c02151
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [BLV RÔSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=4222686ef468af8374e9a62ae9f9a383&txTime=6a344cb1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=e9844d87927848b7830cc8eb20e566d5&txTime=6a3484f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [BLV RÔSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=95868a55a23cd97630bf35087ec72431&txTime=6a344cb1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ff3f816d0fc41316f93c32aab85a7fa3&txTime=6a3484f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [A PÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781794401-0-0-f1f1552b7ed2d31256dd244516e30793
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV GIÓ] (Socolive) m3u8
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781808801-0-0-33cc8b821f87d98f01e36ec0fd43c7c4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [A PÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781794401-0-0-ddf18d4f0d7bd6a90f9954ad18548c7e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Yacoub El Mansour vs Hassania Agadir [BLV GIÓ] (Socolive) m3u8
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781794401-0-0-1f80d5997dd099d3c4f01ba97f8ff42f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Yacoub El Mansour vs Hassania Agadir [BLV GIÓ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781794401-0-0-d5de1068bbb4e4fe553c74fb36fcedc5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Olympique Dcheira vs AS FAR Rabat [KÉP] (Socolive) m3u8
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781794447-0-0-d64cd3e8f126c0d2543ed30ab3b34da1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Olympique Dcheira vs AS FAR Rabat [KÉP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781794447-0-0-4fdca8b5f6a47d96098bca4171db1db9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Renaissance de Berkane vs Olympique de Safi [BLV LION] (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1781794401-0-0-3867b60aeec42bc0455510e818a9032c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Renaissance de Berkane vs Olympique de Safi [BLV LION] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1781794401-0-0-3922e3168b817068f5f362842b6b8c32
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Eskilstuna United Women vs Pitea IF Women [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781794401-0-0-a14dac17f337fee22f88a761d03e5aa7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Eskilstuna United Women vs Pitea IF Women [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781794401-0-0-b36bc6bba6a276c11a24df925c118793
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Renaissance de Berkane vs Olympique de Safi [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781794401-0-0-fd70ba2d336783d6d9491e559c5570d6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Renaissance de Berkane vs Olympique de Safi [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781794401-0-0-a1cb275dadd8155eef4fe2414a45300a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781794761-0-0-e3078d54feb1fde2d3cf806720ee9221
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781794761-0-0-baeb69f6e2f48fb2506d06141ec6ea90
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [VƯƠNG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=10a2770ab68756cecced5960dee9f2f0&txTime=6a344e19
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [VƯƠNG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=08a4af0d60337826c7bc78d8ee1fc57d&txTime=6a344e19
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [LÃO LÂM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781794761-0-0-27c160e05fd955abbcd97508299a29b8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781794761-0-0-6a879ecb146b92a32d5f6348f1785a0d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [BLV KEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781794761-0-0-81dd202c671c33f49bf0a0839cface5d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [BLV KEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781794761-0-0-a89bdc3489b03c13decad12642e3ceb2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [BLV PICK] (Socolive) m3u8
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781794761-0-0-67d907ea56892f6516546a38b52b2f6c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 18/06 Fc Meshakhte Tkibuli vs Gagra FC [BLV PICK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781794761-0-0-b782b0905fd98c1cc3b5d5cf896b77a3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [XUÂN TÓC ĐỎ] (Socolive) m3u8
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=1ba82281435e6ab59fc253d188c2322e&txTime=6a344e19
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=eb8f9fd873c045c34ac8f670b36ab19d&txTime=6a344e19
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781794761-0-0-cd300597d96e446e3de9e4594cc89729
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781794761-0-0-9d8d6c13caf80c9775a0649feae1d99d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 Brommapojkarna Women vs Vittsjo GIK Women [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781794761-0-0-19ab2a7d2b6a9d06d76a294ba35a25fa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 Brommapojkarna Women vs Vittsjo GIK Women [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781794761-0-0-6a1eb184b25a6174a24e245661816a6d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [BLV AB] (Socolive) m3u8
-https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1781794761-0-0-945f9fefb997a26d247b2cf2c5534caa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [BLV AB] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1781794761-0-0-7d48588de9bfc19194869c40dbaeec02
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Renaissance de Berkane vs Olympique de Safi [BLV GÔN] (Socolive) m3u8
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1781794761-0-0-fc7fe12acafc777edeff5837e993bf69
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Renaissance de Berkane vs Olympique de Safi [BLV GÔN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1781794761-0-0-d95c546357866b217b0845552bd84e24
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Renaissance de Berkane vs Olympique de Safi [BEN 10] (Socolive) m3u8
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781794761-0-0-d11c163931f417f29c86cfb219db0aaf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Renaissance de Berkane vs Olympique de Safi [BEN 10] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781794761-0-0-d65676c361fb4433b3ad606c12b2d7d6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781794761-0-0-2d1048e1c9e75f42278925f73dfeba3d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781794761-0-0-f5707d15b37762a42e4ff1d9bc8de93b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Austria vs Jordan [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781794761-0-0-25b89fec095d85afa85cd65ed71c8332
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Austria vs Jordan [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781794761-0-0-883cd6e7e4dcc7c85db4728827478751
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Uzbekistan vs Colombia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781794761-0-0-5606d60f95fdf749cd0c4e2bcce8a43e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Uzbekistan vs Colombia [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781794761-0-0-b246f316bda61f1eb12954826db949e3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781794761-0-0-0c4d8c7ad15118a8d907bb7fb0e1d0b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781794761-0-0-571523067df170a4d9d13780e1f2d126
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Argentina vs Algeria [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781794761-0-0-708578f0095a069cb16cb47822010e11
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Argentina vs Algeria [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781794761-0-0-7e3451b1e13ec0f610231f32167b54e5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Ghana vs Panama [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781794761-0-0-ddb5dbe479f80781a706e43fee6335ff
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Ghana vs Panama [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781794761-0-0-71d6868636d759d950c9e5e3fa62a4f5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781795121-0-0-ba1fa8b26eb1f5d7d18a44d177d9aeb8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Wydad Casablanca vs FUS Rabat [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781795121-0-0-0f39c17cc8a8c529ff9f9218118db371
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Yacoub El Mansour vs Hassania Agadir [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=fa0da57f75f7ba782ce501506b6b35ff&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Yacoub El Mansour vs Hassania Agadir [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=372efe777d832921741f00633a48d30d&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [BLV A TINH] (Socolive) m3u8
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=01b82e398b213f2cfab4edf31bc378a6&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 FK Arys vs FK Kaspiy Aktau B [BLV A TINH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=a3127bb4dd0a33342961707a97c0fb1a&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 Brommapojkarna Women vs Vittsjo GIK Women [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=c231662a3bd4ad971a2af44968c00d63&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 18/06 Brommapojkarna Women vs Vittsjo GIK Women [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=4aca1e8cdd91fd6e31dc3358e8aa0003&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Olympique Dcheira vs AS FAR Rabat [BLV 24H] (Socolive) m3u8
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781795121-0-0-eb3f3a104051f17cf087eb90c4ab4f43
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Olympique Dcheira vs AS FAR Rabat [BLV 24H] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781795121-0-0-a95b259eac0b6189b1fcbd304d70e9db
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Yacoub El Mansour vs Hassania Agadir [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=eb313568819ff1225211955c2958aaaf&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Yacoub El Mansour vs Hassania Agadir [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=99217ab8364d0ed5a880e61fb109814e&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Eskilstuna United Women vs Pitea IF Women [PINKMAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=a30b56c48e9eab7c201791eee13944c2&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Eskilstuna United Women vs Pitea IF Women [PINKMAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=5a358ad5cb789f1bfe5f0158ba43a90f&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Olympique Dcheira vs AS FAR Rabat [BLV CHIVAS] (Socolive) m3u8
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=49773617a129b8608ddf68d33127f9ff&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Olympique Dcheira vs AS FAR Rabat [BLV CHIVAS] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=17651589487a4d987efec9e83c7fd7aa&txTime=6a344f81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Yacoub El Mansour vs Hassania Agadir [BLV CÁP] (Socolive) m3u8
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781795121-0-0-505e58bf150b2b06f81c3e7dd93f7c3c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 18/06 Yacoub El Mansour vs Hassania Agadir [BLV CÁP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781795121-0-0-cd7a09f40af8c3e1aebeee002560373d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV GIÓ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781808801-0-0-b4fa8cd29e4dd3be73b2b0c1fab2f692
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781795121-0-0-359e899b14e8918f9f4a4d423c32eea1
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781809161-0-0-bf1843cec040e337fe6390fcd43a27ec
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781795121-0-0-18502a757c618b493bab662c39678989
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781809161-0-0-735a5aee359a480e257e426d711772e5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 18/06 Arys vs Kaspij Aktau 2 (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 19/06 Switzerland vs Bosnia & Herzegovina (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 18/06 Arys vs Kaspij Aktau 2 (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 19/06 Switzerland vs Bosnia & Herzegovina (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 18/06 Bỉ vs Brazil (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 19/06 Switzerland vs Bosnia & Herzegovina (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 18/06 Bỉ vs Brazil (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 18/06 Thái Lan vs Bulgaria (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 18/06 Alexander Zverev vs Yannick Hanfmann (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 18/06 Alexander Zverev vs Yannick Hanfmann (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 18/06 Hochiminh City Wings vs Nha Trang Dolphins
-https://live05.msdht.app/live/19919577.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 18/06 FK Arys vs FK Kaspiy Aktau B
-https://live05.msdht.app/live/87547578.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 18/06 Fc Meshakhte Tkibuli vs Gagra
-https://live05.msdht.app/live/14707124.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 18/06 CLB Wydad AC vs FUS Rabat
-https://live05.msdht.app/live/75915087.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 19/06 Switzerland vs Bosnia & Herzegovina (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
