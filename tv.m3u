@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",02:00 | Switzerland vs Bosnia & Herzegovina
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png",02:00 | Switzerland vs Bosnia & Herzegovina
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/15.png",Switzerland vs Bosnia & Herzegovina
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/5529.png",Canada vs Qatar
 https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 5
@@ -41,72 +35,57 @@ https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",Thỏ Ơi
 https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 18/06 Czech Republic vs South Africa (Lương Sơn) BLV LƯU BỊ m3u
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV MESSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=ee7d8792eac5589a929001f8badcc6d0&txTime=6a34b1f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 Trelleborgs FF vs FC Rosengard (Lương Sơn) BLV MAYBACH m3u
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV MESSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=528cc515ffe92cb180ed553d86078dbf&txTime=6a34b1f1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 Trelleborgs FF vs FC Rosengard (Lương Sơn) BLV FERNANDO m3u
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781820321-0-0-c4b79d4d68261ce59ac8e3d82be31950
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 Tvaakers IF vs Angelholms FF (Lương Sơn) BLV LÃO HẠC m3u
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781820321-0-0-0caec783711c714705f63cba6949f79d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 Tvaakers IF vs Angelholms FF (Lương Sơn) BLV GẤU KA m3u
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=f77149acebb581432340201d366b693f&txTime=6a34b359
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 18/06 Czechia vs South Africa [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781808801-0-0-e6f736a019ef77e090fc46abb25ca1ab
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=fec25dc7ba552210c5369512eb685526&txTime=6a34b359
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 18/06 Czechia vs South Africa [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781808801-0-0-df441fc70a686f67330cbafb20b9ff44
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f3f37478916c3e1441a364ee14608c2e&txTime=6a34b359
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 18/06 Czechia vs South Africa [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=d93d5371d4d8fcf121fe3bf643dd158a&txTime=6a3484f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=43d3042e28e475bcaaef85a90fb59aed&txTime=6a34b359
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 18/06 Czechia vs South Africa [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d7d030d1c40bb0008ef46dac321b15a4&txTime=6a3484f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV Củ Cải] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=beb2b8e53d64d4855eb37f4aced2e628&txTime=6a34b359
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781808801-0-0-ef705ede53f4e5e0f42f0e1a20b8f98a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=f36c5bf44ef31a61e782014506739af8&txTime=6a34b359
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781808801-0-0-ad172aa2e17ef3239521a65eaaef914a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781821041-0-0-69c1ccbebb614d6d8e80df7cc8d9ca63
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV CÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781808801-0-0-97b948175596ff37c2c78020d50e6ae9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781821041-0-0-be0dd3329d45c77402b5831bf59d02ac
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV CÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781808801-0-0-bd07ac59b3dead8d76c5600410c02151
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [NGƯỜI CÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781821041-0-0-6b92925e8c56f2fe9bb2d81859c000d3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=e9844d87927848b7830cc8eb20e566d5&txTime=6a3484f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781821041-0-0-29565411ebf1ced7da7b79e8870f7b7c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ff3f816d0fc41316f93c32aab85a7fa3&txTime=6a3484f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 19/06 Switzerland vs Bosnia and Herzegovina [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781821101-0-0-50a729820274214ab94d2c07ac962f6a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV GIÓ] (Socolive) m3u8
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781808801-0-0-33cc8b821f87d98f01e36ec0fd43c7c4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 19/06 IFK Norrkoping DFK Women vs Vaxjo Women [BLV GIÓ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781808801-0-0-b4fa8cd29e4dd3be73b2b0c1fab2f692
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 19/06 Switzerland vs Bosnia and Herzegovina [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781821101-0-0-2990443ed7d27b2f33cef7fe6b8049e4
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781809161-0-0-bf1843cec040e337fe6390fcd43a27ec
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781821101-0-0-dc421679d853bf5757bc08fe182291d8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781809161-0-0-735a5aee359a480e257e426d711772e5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 19/06 Switzerland vs Bosnia & Herzegovina (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 19/06 Switzerland vs Bosnia & Herzegovina (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 19/06 Switzerland vs Bosnia & Herzegovina (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 19/06 Switzerland vs Bosnia & Herzegovina (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781821101-0-0-a387b87919798e720def0899d3a41136
 
