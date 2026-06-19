@@ -1,12 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",05:00 | Canada vs Qatar
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",17:00 | Ukraina vs Hà Lan
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/5529.png",Canada vs Qatar
-https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/3799.png",16:30 | Bentleigh Greens vs South Melbourne
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/5529.png",Canada vs Qatar
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",20:30 | Thái Lan vs Canada
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/nuvercYA-AT5SyHUr.png",Ukraine W - Netherlands W
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 5
 https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8
@@ -19,9 +22,6 @@ https://vip.opstream16.com/20230414/33881_9e539926/index.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 10
 https://vip.opstream16.com/20230414/33882_44deb9a8/index.m3u8
-
-#EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",Cuốc Xe Âm Phủ - Tập 1
-https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8
 
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",Cuốc Xe Âm Phủ - Tập 2
 https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8
@@ -41,234 +41,171 @@ https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",Thỏ Ơi
 https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA (Lương Sơn) BLV HÀN TÍN m3u
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 19/06 Lansing City vs Midwest United (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MwdpuM6TVBx5vuf24/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne (Lương Sơn) BLV MAYBACH m3u
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 19/06 Real Central NJ vs Ocean City Noreasters (Lương Sơn) NHÀ ÐÀI m3u
-https://auto.cdnfaster.live/live/sd-6MwdpuM6TbnPhNPQUk/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar (Lương Sơn) BLV YẾN THANH m3u
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar (Lương Sơn) BLV TÔN LẬP m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne (Lương Sơn) BLV TÔN LẬP m3u
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar (Lương Sơn) BLV NGƯỜI THÉP m3u
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 19/06 Beijing Yuhong Xiushan (W) vs Changchun Masses Properties (W) (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar (Lương Sơn) BLV LÃO HẠC m3u
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV HÚP] (Socolive) m3u8
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781828961-0-0-f281a78cce74c758a62e52024fe0ea4b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781864961-0-0-03da0bf2dbc4b5da00e1e6dec336059b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV HÚP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781828961-0-0-4848cb914db0fff96a2a4b83da3446aa
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781864961-0-0-5e5fde87c47a6a247530ee3025a0f037
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781828961-0-0-60d9b0438fc3650932d4245f0732e09b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781864961-0-0-ca22ef63e89aa233b2e41381179e7c41
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781828961-0-0-f624672277884f05cf10bfe03288ac4b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781864961-0-0-caf596ae68cebc748e6e27b746a4fdca
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV MESSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=0df556ec1ec6283ba3097598e80790c4&txTime=6a34d3b1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [BLV BÉO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=890a63e8c4f3c44d952352007bb77f44&txTime=6a356051
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV MESSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=584c09b4e644c9478c8a1fe2b5ccf21f&txTime=6a34d3b1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [BLV BÉO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=7a60b223a97df2528f164fbd88c97fc0&txTime=6a356051
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781828961-0-0-bb0e957021d2d6ab2ad2f8be362260ef
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [CƠM CHÁY] (Socolive) m3u8
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781864961-0-0-2f4f9ddaf900af0e663a2c2310c9e0e9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781828961-0-0-8aafa1fa69faa31890efb66b8afa5cfa
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [CƠM CHÁY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781864961-0-0-20733de47f649c0b0bfb13b9586f07aa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [VƯƠNG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=0e6b55a7661a569db27f881966c6a933&txTime=6a34d3b1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [PINKMAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=047c6aab101cbc0dd04109f47a419c2c&txTime=6a3561b9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [VƯƠNG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=cb35d8ac66e4f93744f59174f5642233&txTime=6a34d3b1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [PINKMAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=95d898f66fe910339291855e0c992ff6&txTime=6a3561b9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781828961-0-0-428d923e55341b9381dae9221c2f3839
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [BLV VOI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781865321-0-0-1ce271825a0569ffd81a5f662c47733e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781828961-0-0-37942a281e748c58f1044f0cea9de1e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781865321-0-0-251ee50221d07de64e619b8299249616
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781828961-0-0-684e2e4072d9318283af7a4f56bd570a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [LOKA] (Socolive) m3u8
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781865321-0-0-8be40610471bd3b8424afbad1df2650a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781828961-0-0-e388bf97c0cd2acbac4e2fd1931ebed0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [LOKA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781865321-0-0-79d62f3129945c246088f440f738adfe
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 19/06 Connecticut United FC vs Cincinnati II [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781828961-0-0-60f703bc196978b9153013b59cc377ab
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV LION] (Socolive) m3u8
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1781865321-0-0-673e27d06403c7115d33927240ac7b13
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 19/06 Connecticut United FC vs Cincinnati II [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781828961-0-0-08455c2f699e92df01c6e9559c2873e6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781828961-0-0-576775f7304dea14ee5b626de937545a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781828961-0-0-48b2fcfe59c13509e4d1ed8fab9fb6b4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV CHIVAS] (Socolive) m3u8
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=9af9f5c799070a74d8d3731b68cf051f&txTime=6a34d3b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV CHIVAS] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6345b26bff685db0fd7a3834526b6996&txTime=6a34d3b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV RYO] (Socolive) m3u8
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781828961-0-0-825f3507661abde68b7b878bb68422e4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV RYO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781828961-0-0-24c2f0555f904914275782772adcad80
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=e6c7bb962d38023e0a61ecf01c338434&txTime=6a34d519
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d286e9898cb7cc5a1f3f92ac34642dab&txTime=6a34d519
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781829321-0-0-c4bb8de51879736dc315bc46fd1e6a73
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781829321-0-0-3283fafdf845f93c94eca0a40915e9c4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV Củ Cải] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=e71b85cc847fd54f0c5f5dcb7d20b0fa&txTime=6a34d519
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=7a81ea5f03909b2aa9d1d7a2ae0c3ffa&txTime=6a34d519
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=177fa0f5d118899eca1785e960bd8992&txTime=6a34d519
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e8b7c343d1642baa6e050213132fec95&txTime=6a34d519
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV COZY] (Socolive) m3u8
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=cfb8b5292bfbce3bd24365dff8a64e93&txTime=6a34d519
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV COZY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=619f2fe16f27624ee7950c9e25c1e284&txTime=6a34d519
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781829321-0-0-1bf93f6ca85405ad45d88dbfa7adb228
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781829321-0-0-0b8abd0abe6fef2db0c506c2c2741d0d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BEN 10] (Socolive) m3u8
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781829321-0-0-1dcfced7f4f1dfc8d63c1262faec3361
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BEN 10] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781829321-0-0-552b32ca394d4455b67cd3248cc8aefb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781829321-0-0-a1102b6783c280af370774ebcf27b569
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781829321-0-0-89a907f9274dd73e673ec99727bb8596
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV KAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=9bd6b29c887745aa95ebf1db19a065f5&txTime=6a34d519
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Universidad de Chile vs O.Higgins [BLV KAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=be45da27066e26a5c497ed5c604c9754&txTime=6a34d519
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Aguada Santeros vs Gigantes de Carolina [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781829340-0-0-3343c7b703f7b02c02e8ef074e12b433
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Aguada Santeros vs Gigantes de Carolina [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781829340-0-0-d1d0ce8ebca1e6aceb78633f9cfd5cd5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV A TINH] (Socolive) m3u8
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=85d1a69d347509d7dc985737f3bb55e5&txTime=6a34d52a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV A TINH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=ba5101c6bb241da953a744650809290a&txTime=6a34d52a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781829681-0-0-791e0fed4966313a87ce008c05affbb5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781829681-0-0-3791e095ded22166bc9d999898337118
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781829681-0-0-842d6cf8199ad6677cc6e71137df4459
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 19/06 Canada vs Qatar [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781829681-0-0-d5e715f2f2cb625bd72baf3d7e5294c1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 19/06 Connecticut United FC vs Cincinnati II [BLV NẤM] (Socolive) m3u8
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781829681-0-0-2c91418a5f22103c6dc8b3d935d237e3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 19/06 Connecticut United FC vs Cincinnati II [BLV NẤM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781829681-0-0-d9f4983c547b8d1a74492d6eeda4670b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 19/06 Connecticut United FC vs Cincinnati II [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ea7d4d674fdadc59403d2c3b131145fe&txTime=6a34d681
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 19/06 Connecticut United FC vs Cincinnati II [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ee3a7aa424674b5d574c4147dcf9de5c&txTime=6a34d681
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 19/06 Connecticut United FC vs Cincinnati II [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781829681-0-0-046ae337fa4aba41db28e4b481a77f3e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 19/06 Connecticut United FC vs Cincinnati II [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781829681-0-0-17bedbec9e859f3fe41d08d641f05a54
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 San German vs Indios de Mayaguez [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781829681-0-0-7b081bd838a9193b78a586d9a88a07b3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 San German vs Indios de Mayaguez [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781829681-0-0-766bd0ccdbf4a1e129a71cf426400b2b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV LION] (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1781829681-0-0-3aa923bb785d2d725b92d5591cb55b7c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Sport Club do Recife vs Atletico Clube Goianiense [BLV LION] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1781829681-0-0-94b879c93816f6caaa52c067b86cec80
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Capitanes de Arecibo vs Vaqueros de Bayamon [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1781829681-0-0-8b9c3f72a429d5c0d615479cf7931e61
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 19/06 Capitanes de Arecibo vs Vaqueros de Bayamon [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781829681-0-0-8eae529413a32215e0f217ecdc6e7fca
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV LION] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1781865321-0-0-a049641d55eb4c25c34cfc1ded74c4c0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781829681-0-0-de2fa74afceb6d128f9807bc8c5863e5
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781865321-0-0-a4073c1a086886d47ce30c0f263a0213
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781829681-0-0-dddce0b44b98f13309cb16d49f7d6745
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781865321-0-0-1b1f55a9db4ba966abfc9903341e2730
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 19/06 Canada vs Qatar (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781865321-0-0-d3d18f71994391281194209043fee000
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 19/06 Canada vs Qatar (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Portugal vs Democratic Republic of the Congo [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781865321-0-0-6044c988de7696ae59df57d367efe152
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 19/06 Canada vs Qatar (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Qatar [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781865321-0-0-91937862a603a3f0318708b41c7c6682
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 19/06 Canada vs Qatar
-https://live05.msdht.app/live/08552895.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Qatar [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781865321-0-0-70dff6de30ee2c54a1a8decf5a04fee6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 19/06 Indiana Fever vs Atlanta Dream
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781865321-0-0-488c911c21dfc16e71ac63e254476eaf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781865321-0-0-25836801d324ebd810be02f992e2c291
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs South Africa [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781865321-0-0-34fe93869d6c70f8e79a9e186136884a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs South Africa [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781865321-0-0-b79c7462503492cb357ec09c4538633c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Bosnia and Herzegovina [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781865321-0-0-43840fd32668acb9e6e41c1ab3b6b68d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Bosnia and Herzegovina [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781865321-0-0-784bed35b8200da8c9509d0c8215b8d9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781865321-0-0-b485233aa2323ef2322374ac91c2fa85
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - England vs Croatia [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781865321-0-0-bc007d4b268a63098272bcceb50535ea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781865681-0-0-28e21df3843620bbad158127c0d6246c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Bentleigh greens vs South Melbourne [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781865681-0-0-49f5d76dffcf9f876af9641704aab97d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [BLV PICK] (Socolive) m3u8
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781865681-0-0-a23d853cd7a7d7cb3316178bdf9c31c9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [BLV PICK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781865681-0-0-13dad0b82d4f19babf7095db17d1e14f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [XUÂN TÓC ĐỎ] (Socolive) m3u8
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=c74b189afd1eec68a599676bd7cb846a&txTime=6a356321
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=bf5f5de1aa229f423f28176cf0cb8705&txTime=6a356321
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [LÃO LÂM] (Socolive) m3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781865681-0-0-b3e337c790922cc21eba97fa3b34fe30
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781865681-0-0-2178a8e2e7bfb180580b44ed5ac0e0ca
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=8ef29d7a0be09953d068e35ea567b699&txTime=6a356321
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 19/06 Gold Coast Knights vs Magic United TFA [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d7340103c8f62ae0e68d103987e2ccc9&txTime=6a356321
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV VITAMIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781865681-0-0-f92f4ca0f2a5d49c2c55f5612dae5a9e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h15 ngày 19/06 Oakleigh Cannons vs Melbourne City NPL [BLV VITAMIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781865681-0-0-27dbbb5d573e1389d42d1b5a287fef13
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 19/06 Ukraina vs Hà Lan (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 19/06 Ukraina vs Hà Lan (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 19/06 Bentleigh Greens vs South Melbourne (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 19/06 Bentleigh Greens vs South Melbourne (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 19/06 Ben Shelton vs Taylor Fritz (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 19/06 Ben Shelton vs Taylor Fritz (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 19/06 Bentleigh greens vs South Melbourne
+https://live05.msdht.app/live/75915087.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 19/06 CLB Gold Coast Knights vs CLB Magic United TFA
 https://live05.msdht.app/live/87379114.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 19/06 U. De Chile vs O'Higgins
-https://live05.msdht.app/live/99121525.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 19/06 CLB Sport Club Recife PE vs CLB Atletico Clube Goianiense
-https://live05.msdht.app/live/43612277.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 19/06 Dalian Yingbo B vs Nantong Haimen
+https://live05.msdht.app/live/82054853.m3u8
 
