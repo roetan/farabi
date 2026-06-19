@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV DƯƠNG CHÍ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV TRIỆU TỬ LONG flv
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV DƯƠNG CHÍ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV TÀO THÁO m3u
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV LÝ QUỲ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV TÀO THÁO flv
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV LÝ QUỲ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV FERNANDO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
@@ -23,54 +23,18 @@ https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a13
 #EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV LEO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV TÀO THÁO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV LÝ QUỲ flv
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV TÀO THÁO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/298_1grd5f04ev13.png",01:45 WIB 20/06 St. Patricks Athletic vs Sligo Rovers (Lương Sơn) BLV HÀN TÍN m3u
+https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV TRIỆU TỬ LONG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/298_1grd5f04ev13.png",01:45 WIB 20/06 St. Patricks Athletic vs Sligo Rovers (Lương Sơn) BLV HÀN TÍN flv
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV TRIỆU TỬ LONG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1165_1grb1z4nwd2b.png",01:45 WIB 20/06 Galway United vs Derry City (Lương Sơn) BLV LÃO HẠC m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1165_1grb1z4nwd2b.png",01:45 WIB 20/06 Galway United vs Derry City (Lương Sơn) BLV LÃO HẠC flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/295_165958076584.png",01:45 WIB 20/06 Drogheda United vs Shelbourne (Lương Sơn) BLV LÝ ỨNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/295_165958076584.png",01:45 WIB 20/06 Drogheda United vs Shelbourne (Lương Sơn) BLV LÝ ỨNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/283_1gsej6h1yxx.png",01:45 WIB 20/06 Waterford United vs Shamrock Rovers (Lương Sơn) BLV GẤU KA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/283_1gsej6h1yxx.png",01:45 WIB 20/06 Waterford United vs Shamrock Rovers (Lương Sơn) BLV GẤU KA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/167_165958060112.png",02:00 WIB 20/06 Bohemians vs Dundalk (Lương Sơn) BLV NGƯỜI THÉP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/167_165958060112.png",02:00 WIB 20/06 Bohemians vs Dundalk (Lương Sơn) BLV NGƯỜI THÉP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV DƯƠNG CHÍ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/690_165102965258.png",02:00 WIB 20/06 USA vs Australia (Lương Sơn) BLV DƯƠNG CHÍ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3081_1gqgp6phb115.png",00:45 WIB 20/06 Al-Salmiyah vs Al Kuwait SC (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3081_1gqgp6phb115.png",00:45 WIB 20/06 Al-Salmiyah vs Al Kuwait SC (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -563,150 +527,150 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [SAO LA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=1e0626f597b2ff8a31b5e8a777f142a1&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [SAO LA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=961b644445040d18bb354cca809c7646&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [SAO LA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=1e0626f597b2ff8a31b5e8a777f142a1&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [SAO LA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=961b644445040d18bb354cca809c7646&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [TẠ BIÊN GIỚI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=972e88abfd214cbbc438b181bfa58a54&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [TẠ BIÊN GIỚI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=e05542f3deec2eb897701ae705875719&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [TẠ BIÊN GIỚI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=972e88abfd214cbbc438b181bfa58a54&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=e05542f3deec2eb897701ae705875719&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV COCA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781900601-0-0-7bd16ffc517effdb4bd57c91152f5b9f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV COCA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781900601-0-0-64db062926ff2c52f7ee0741e89ed47a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV COCA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781900601-0-0-069e817cadbb8640bd2005bdfa997a19
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV COCA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781900601-0-0-f96c7389cedd41c0bf5e4183a282ecc1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV Củ Cải] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=5fdd3135c6a5bcc14b6cab5e827ee6ec&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV Củ Cải] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=5716b097a402c9eff1db2400a6ff1417&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV Củ Cải] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=5fdd3135c6a5bcc14b6cab5e827ee6ec&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV Củ Cải] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=5716b097a402c9eff1db2400a6ff1417&txTime=6a35eb89
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV MESSI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781900601-0-0-d92544983759a2d2e51638593c081836
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV MESSI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781900601-0-0-3c15bdcf121ada3ff20d1101975a1a9d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV MESSI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781900601-0-0-a21bae1de69a326bbc7466888a3ae935
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV MESSI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781900601-0-0-b53fcd5a61b4985fe568d08a7e764ade
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [THẠCH TÚ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1781900961-0-0-c671de0cce074d59e4b6116b40709d8e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [THẠCH TÚ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781900961-0-0-6742338790813a53f85436e950622b71
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [THẠCH TÚ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781900961-0-0-de61bf86ac10e4b268736209b12e7702
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [THẠCH TÚ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781900961-0-0-d6af3afab720d17b9970f3158b782a78
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV ĐỐM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912110_lsd.flv?txSecret=4fda617a220dbe3dff1e40e1c58e9b6d&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV ĐỐM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912110_lhd.flv?txSecret=b8bf0e428237689cc87459fbfb5f167e&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV ĐỐM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=4fda617a220dbe3dff1e40e1c58e9b6d&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV ĐỐM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=b8bf0e428237689cc87459fbfb5f167e&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [DECO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=eb71179772bb05a9bfebaa4cae47bf60&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [DECO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=31cdd846c42a92f3c782672593990a02&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [DECO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=eb71179772bb05a9bfebaa4cae47bf60&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [DECO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=31cdd846c42a92f3c782672593990a02&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [CR Bưởi] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=3ff00f9cb6112efc47e8646deb765c41&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [CR Bưởi] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=a2990f9269d542e5bbff48cb569bb27c&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [CR Bưởi] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=3ff00f9cb6112efc47e8646deb765c41&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [CR Bưởi] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=a2990f9269d542e5bbff48cb569bb27c&txTime=6a35ecf1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV 7UP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781901321-0-0-8f477a9c902f37c989836236a47afd3d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV 7UP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781901321-0-0-82b570b07b3b824aa1727c4498f802eb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV 7UP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781901321-0-0-530d9d59d8cadfc977e5518425756b31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV 7UP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781901321-0-0-d28045f1ee3c7533ccc7c409e84ddb2e
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=a16014e3aca810aedc2a86206fcb2cb4&txTime=6a35ee59
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=237e2ee964c593ec8c07531f862b987f&txTime=6a35ff39
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=988aeb028344aa5aafdfc2d12fe536c2&txTime=6a35ee59
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=2bc00063574f8454d87c4db4cf64d24f&txTime=6a35ff39
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=a16014e3aca810aedc2a86206fcb2cb4&txTime=6a35ee59
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=237e2ee964c593ec8c07531f862b987f&txTime=6a35ff39
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=988aeb028344aa5aafdfc2d12fe536c2&txTime=6a35ee59
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=2bc00063574f8454d87c4db4cf64d24f&txTime=6a35ff39
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1781901321-0-0-337bc0a88d4f57c3b9c70ca6a1f65492
+https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1781905641-0-0-91f3ea9c4a39e2654f15f9d4bbf696f7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781901321-0-0-2156cb1c0a983c9789c6d2554e4d8bcf
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781905641-0-0-7579895cc7b7c03b9cc7879fafd6dfc2
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781901321-0-0-58ce916984417a61d86681c1edd5eccb
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781905641-0-0-5ac7b5c52f6421c506d5e27e0ed99990
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781901321-0-0-b9fdfed655a0e3d90695988be3bed527
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781905641-0-0-ce9521ff5c5ea0910d9610be588237c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV 7UP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781905641-0-0-3d9a6afa874a2bd80eb3703d217e9584
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV 7UP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781905641-0-0-91f62465d8b3592b2225ac981cc75906
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV 7UP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781905641-0-0-48e2adc4e23d3ddd643ae5fc71a24acc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV 7UP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781905641-0-0-5a903e76ff1db7862abe12102acddc8d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=46f6322a604b9d860aab75e15bc99b96&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=e170a5222138b8135bfff02dd679077c&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=46f6322a604b9d860aab75e15bc99b96&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=e170a5222138b8135bfff02dd679077c&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781906001-0-0-aa299e5a346df10f9139eb1cae49cde0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781906001-0-0-edadcb661a08d1e3bad7aa1251245245
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781906001-0-0-ea6385b449cdbb243771c7e59232e035
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781906001-0-0-1beb6a5195385c0353ba6ed81025b37c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV Củ Cải] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=c360d69983468a9d3853b42820af5a7f&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV Củ Cải] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=3b82508f254c4e124f443d392460e05e&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV Củ Cải] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=c360d69983468a9d3853b42820af5a7f&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV Củ Cải] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=3b82508f254c4e124f443d392460e05e&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781906001-0-0-dc40307dbc7a3d4514e211463c2fb78c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781906001-0-0-87df7e14f1f7c0ac873e5edb7f9997c7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781906001-0-0-55819242af9c1767ae8cd0b9ff47d323
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781906001-0-0-7c45d07aca850417fd3774d63b5c1436
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=6721436566b05768b3586860b9266749&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=35ac3c39a9fb493b9425a0e6b91d260e&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=6721436566b05768b3586860b9266749&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=35ac3c39a9fb493b9425a0e6b91d260e&txTime=6a3600a1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV ĐỐM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912110_lsd.flv?txSecret=764cfdd6b78d2c772159a3a22e7bc639&txTime=6a360209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV ĐỐM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912110_lhd.flv?txSecret=edaa11fd63a61d2e6f25ed97dbe7a72c&txTime=6a360209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV ĐỐM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=764cfdd6b78d2c772159a3a22e7bc639&txTime=6a360209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [BLV ĐỐM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=edaa11fd63a61d2e6f25ed97dbe7a72c&txTime=6a360209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=82543767c5db68d8d9e0601f5b255774&txTime=6a360209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=8709bbb890f97701c38701280206b95f&txTime=6a360209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=82543767c5db68d8d9e0601f5b255774&txTime=6a360209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=8709bbb890f97701c38701280206b95f&txTime=6a360209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1781906361-0-0-0e9ef7fca30fa27cf1cb3f1b3810c108
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781906361-0-0-c29e53351254e902d8cca4024566b590
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781906361-0-0-9cc071c64d6769f91127af4e96416474
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781906361-0-0-bae3ddc5d0dcdaf41c349bfc4b1f777f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=c1f3dc6d361eabb3c0aa2881d92f4d05&txTime=6a360209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=84d44870f5bd636be4628207803f4f2f&txTime=6a360209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=c1f3dc6d361eabb3c0aa2881d92f4d05&txTime=6a360209
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/20f5923063f02ab29cde03cdd9f8f736.png",02:00 WIB 20/06 USA vs Australia [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=84d44870f5bd636be4628207803f4f2f&txTime=6a360209
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/2384.png",02:00 WIB 20/06 USA vs Australia (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
