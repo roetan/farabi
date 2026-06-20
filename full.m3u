@@ -1,15 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s",20:00 | Trung Quốc vs Brazil
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",20:30 | Thái Lan vs Canada
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",23:30 | Thổ Nhĩ Kỳ vs Đức
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/751.png",20:30 | Slavia Mozyr vs FC Isloch Minsk R.
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/382.png",22:30 | FC Vitebsk vs Dinamo Brest
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
@@ -20,20 +11,26 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1118.png",00:00 | Netherlands vs Sweden
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png",03:00 | Germany vs Ivory Coast
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1118.png",00:00 | Netherlands vs Sweden
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",07:00 | Ecuador vs Curaçao
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/142.png",05:00 | Vila Nova vs Nautico Recife
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/18834.png",20:00 | FS Jelgava vs Tukums
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png",13:00 | Bulgaria vs Ukraina
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",15:00 | Séc vs Cộng Hòa Dominicana
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Zverev_MCM23_%2820%29.jpg",20:00 | Alexander Zverev vs Taylor Fritz
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png",16:30 | Bỉ vs Pháp
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
@@ -593,89 +590,47 @@ http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGZ3jVwbodnd-XsYnXY4nccw
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://img.vtvprime.vn/8EDc4aHKZhga3-JQ72NQf06cwtefrcE_jgxUPiKUA_E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjk2OTYyYTktOWIwNy00YThmLWE5ZWUtYzY0NmY4YWI2M2Y1LnBuZw==.png",SCTV22
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGXCZRCXXdXK70orNkdxHd9s/ts
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis vs Irtysh Pavlodar (Lương Sơn) BLV DƯƠNG CHÍ m3u
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau (Lương Sơn) BLV LIO m3u
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis vs Irtysh Pavlodar (Lương Sơn) BLV DƯƠNG CHÍ flv
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau (Lương Sơn) BLV LIO flv
+https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis vs Irtysh Pavlodar (Lương Sơn) BLV PELE m3u
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 20/06 FC Ilbirs vs FC Talant (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis vs Irtysh Pavlodar (Lương Sơn) BLV PELE flv
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h30 ngày 20/06 FC Ilbirs vs FC Talant (Lương Sơn) BLV LEO flv
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju (Lương Sơn) BLV LÝ QUỲ m3u
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 FK Vitebsk vs Dinamo Brest (Lương Sơn) BLV HEINEKEN m3u
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju (Lương Sơn) BLV LÝ QUỲ flv
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 FK Vitebsk vs Dinamo Brest (Lương Sơn) BLV HEINEKEN flv
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju (Lương Sơn) BLV GẤU KA m3u
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju (Lương Sơn) BLV GẤU KA flv
-https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club MG (Lương Sơn) BLV HÀN TÍN m3u
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club MG (Lương Sơn) BLV HÀN TÍN flv
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club MG (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club MG (Lương Sơn) BLV VƯƠNG LUÂN flv
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FK Soligorsk vs Ostrowitz (Lương Sơn) BLV FERNANDO m3u
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FK Soligorsk vs Ostrowitz (Lương Sơn) BLV FERNANDO flv
-https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FK Soligorsk vs Ostrowitz (Lương Sơn) BLV LÃO HẠC m3u
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FK Soligorsk vs Ostrowitz (Lương Sơn) BLV LÃO HẠC flv
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FK Soligorsk vs Ostrowitz (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FK Soligorsk vs Ostrowitz (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 20/06 Ho Chi Minh City Wings vs Nhatrang Dolphins (Lương Sơn) BLV YẾN THANH m3u
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 20/06 Ho Chi Minh City Wings vs Nhatrang Dolphins (Lương Sơn) BLV YẾN THANH flv
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina (Lương Sơn) BLV MÃ SIÊU m3u
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina (Lương Sơn) BLV MÃ SIÊU flv
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina (Lương Sơn) BLV TÀO THÁO m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 FK Vitebsk vs Dinamo Brest (Lương Sơn) BLV TÀO THÁO m3u
 https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina (Lương Sơn) BLV TÀO THÁO flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 FK Vitebsk vs Dinamo Brest (Lương Sơn) BLV TÀO THÁO flv
 https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest Vilnius vs Kauno Zalgiris (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau (Lương Sơn) BLV KAKA m3u
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest Vilnius vs Kauno Zalgiris (Lương Sơn) BLV TRIỆU TỬ LONG flv
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau (Lương Sơn) BLV KAKA flv
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest Vilnius vs Kauno Zalgiris (Lương Sơn) BLV PHI HỔ m3u
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest Vilnius vs Kauno Zalgiris (Lương Sơn) BLV PHI HỔ flv
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan (Lương Sơn) BLV LƯU BỊ flv
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau (Lương Sơn) BLV LỮ BỐ flv
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -691,66 +646,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenys vs Irtysh (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenys vs Irtysh (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/troctru.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenys vs Irtysh (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenys vs Irtysh (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 China W vs Brazil W (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 China W vs Brazil W (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 China W vs Brazil W (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 China W vs Brazil W (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Thailand W vs Canada W (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Thailand W vs Canada W (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Thailand W vs Canada W (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Thailand W vs Canada W (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FC Levadia Tallinn vs Kalju Nomme (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FC Levadia Tallinn vs Kalju Nomme (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FC Levadia Tallinn vs Kalju Nomme (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FC Levadia Tallinn vs Kalju Nomme (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FC Levadia Tallinn vs Kalju Nomme (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FC Levadia Tallinn vs Kalju Nomme (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FC Levadia Tallinn vs Kalju Nomme (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 FC Levadia Tallinn vs Kalju Nomme (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs Kaspiy (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
@@ -776,6 +671,42 @@ https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 ngày 20/06 Turkey W vs Germany W (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 21/06 Netherlands vs Sweden (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 21/06 Netherlands vs Sweden (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 21/06 Netherlands vs Sweden (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 21/06 Netherlands vs Sweden (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 21/06 Netherlands vs Sweden (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 21/06 Netherlands vs Sweden (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 21/06 Netherlands vs Sweden (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 21/06 Netherlands vs Sweden (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 21/06 Germany vs Ivory Coast (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 21/06 Germany vs Ivory Coast (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 21/06 Germany vs Ivory Coast (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 21/06 Germany vs Ivory Coast (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curaçao (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
 
@@ -789,6 +720,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) HD2
@@ -800,6 +743,18 @@ https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Serbia W vs USA W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Serbia W vs USA W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Serbia W vs USA W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Serbia W vs USA W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -809,513 +764,528 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV BÉO] (Socolive) flv
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=456384bfad760d4cf070fac84d3216ba&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [A PÁO] (Socolive) flv
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1781975121-0-0-e965c890eaf73e55e68ad9d7383e36ee
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV BÉO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=44997b64ee6df12fbf4d6bcc82bb73df&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [A PÁO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781975121-0-0-f866d29dacb30e2b582fbe3dde6b90c7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV BÉO] (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=456384bfad760d4cf070fac84d3216ba&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781975121-0-0-8c0cc595606554bfe505f7f381201cc5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV BÉO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=44997b64ee6df12fbf4d6bcc82bb73df&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781975121-0-0-87deaefccbb0d65bd79262fa619bbb92
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV ALEX] (Socolive) flv
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1781967561-0-0-15260253079118ce9eaa8a936fef167e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV TAP] (Socolive) flv
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=c6afa75acd8d2da4f2b12366f9c5d2e7&txTime=6a370ea1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV ALEX] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781967561-0-0-13b3b7f87dfba0f5a45e2abac442590a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV TAP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=d59312272427e5b88f01a589f695a7ed&txTime=6a370ea1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781967561-0-0-f590290bcf530900da0b074a74339287
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV TAP] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c6afa75acd8d2da4f2b12366f9c5d2e7&txTime=6a370ea1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781967561-0-0-f07bc0fe05c85a609468ff02db81160e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV TAP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=d59312272427e5b88f01a589f695a7ed&txTime=6a370ea1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [BLV CÒ] (Socolive) flv
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1781967561-0-0-105ea92a74135b432567ab38fd385493
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [LOKA] (Socolive) flv
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1781975121-0-0-641c1a649d66a0a1d83b813a1d5a120d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [BLV CÒ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781967561-0-0-3b98e080b0f76b95e033c7a0443c3204
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [LOKA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781975121-0-0-5b664649d2b881d5896c9b04b3e5d1d7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781967561-0-0-66d28f0c3e73ad8e5e695b5e8c36c69d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [LOKA] (Socolive) m3u8
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781975121-0-0-3f8a39e195537530af2e0b2e1565ad2c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781967561-0-0-6166c1dce803e12903fd93de6765cf5d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [LOKA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781975121-0-0-3fb35493289c957984ef076ac702b84d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781967561-0-0-24b8f9811d8d0fe4d8d44dd85f53ee87
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [DECO] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781975137-0-0-c33205e8c692d1e89e49c64c7a23c0d2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781967561-0-0-2818aeffe824e6ece94003fef9bb0193
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781975137-0-0-819a68a3699401d44797bceec736fb48
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781967561-0-0-658515e487b2b69de7de348f5fb79ff5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781975137-0-0-e0bd9da44c1c7296c72dbbb4df517954
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781967561-0-0-95cac899cd98ff4c6f40b99e1a2eb19c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781975137-0-0-8f504b4897720d4558f1d0f5b42a9de8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 20/06 Ho Chi Minh City Wings vs Nhatrang Dolphins [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781967561-0-0-93644fac454161915f1c50487e396b4e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [CR Bưởi] (Socolive) flv
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1781975121-0-0-19a6e4e8a6250b3b1fc6334ae4770502
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 20/06 Ho Chi Minh City Wings vs Nhatrang Dolphins [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781967561-0-0-e25f0028e4818a38fab0e38954387d3e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [CR Bưởi] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1781975121-0-0-80557ae5a61e7363815f5e20335c59c3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 20/06 Ho Chi Minh City Wings vs Nhatrang Dolphins [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781967561-0-0-f1b4431967f1f663264ed3eb06de0d9b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [CR Bưởi] (Socolive) m3u8
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1781975121-0-0-42bd25d634ee129ea14195b300cba834
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 ngày 20/06 Ho Chi Minh City Wings vs Nhatrang Dolphins [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781967561-0-0-c3aa3ec88f6f52797578637d8a16853e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [CR Bưởi] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1781975121-0-0-d9cf240dbe31339469c85e3546a7abc3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [XUÂN TÓC ĐỎ] (Socolive) flv
-https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=57f49a5f3bacd7c6ed960166899731f6&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV ENZO] (Socolive) flv
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1781975121-0-0-094a168c9e68307c7503513f9aaf9d8e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [XUÂN TÓC ĐỎ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=d8abd57f98fae34100680b9b1b31fbbd&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV ENZO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781975121-0-0-4f3580475bf5329b266a07ffd41f4e92
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [XUÂN TÓC ĐỎ] (Socolive) m3u8
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=57f49a5f3bacd7c6ed960166899731f6&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781975121-0-0-d951d6869874dd34760c301570c69960
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=d8abd57f98fae34100680b9b1b31fbbd&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781975121-0-0-4f8e0efb5edd837045efbcc569cb85b0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV ANH TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1781967561-0-0-aa3b228ac9d6dc177ab82060a4e3dc0d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [CƠM CHÁY] (Socolive) flv
+https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1781975121-0-0-da9bee8f167c9626ef1db9f4623c409e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV ANH TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781967561-0-0-3fed8e757eed58cba1da4570b666f764
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [CƠM CHÁY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1781975121-0-0-4988be32e9ded6d9c2fae2d8903bda70
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781967561-0-0-b4d206f5c8b91337e1cc582a62e96b05
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [CƠM CHÁY] (Socolive) m3u8
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781975121-0-0-861f21e9852f2f9f8e6de2fa0609a032
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781967561-0-0-e57872e252bdc606410d9c87c78ffbcd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [CƠM CHÁY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781975121-0-0-01ae2f1dbb8aa4327ae9798bc4b9f7bb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV LONG] (Socolive) flv
-https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=0acbdedb68ad5bbaedc868dec39b9e51&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [ĐỖ TÚ TÀI] (Socolive) flv
+https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1781975121-0-0-f83712cafcc94214370bf7fb930a4dab
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV LONG] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=5fc55f8424f5af02f8bb008f4fd12a5a&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [ĐỖ TÚ TÀI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781975121-0-0-2ef43420bb24eb8fceb5a25712fb32da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV LONG] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=0acbdedb68ad5bbaedc868dec39b9e51&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781975121-0-0-5265d0bd14ea5aca0f7e9ea1418b53eb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV LONG] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=5fc55f8424f5af02f8bb008f4fd12a5a&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781975121-0-0-69637afb39b968e13f5665003a8905bc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV GÔN] (Socolive) flv
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=e984645dbd05977ed49f2437fb5c1efc&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [QUÂN JK] (Socolive) flv
+https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1781975121-0-0-433b7a13cc568bfabfad5c31529cb7ad
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV GÔN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=128ee39b6a06ac918600bf5879e90b52&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [QUÂN JK] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781975121-0-0-074c85f7d613220a8474bd6cec500b02
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV GÔN] (Socolive) m3u8
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=e984645dbd05977ed49f2437fb5c1efc&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [QUÂN JK] (Socolive) m3u8
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781975121-0-0-5d932bb4d4d4d2c865b6ced4f0f5c944
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [BLV GÔN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=128ee39b6a06ac918600bf5879e90b52&txTime=6a36f119
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [QUÂN JK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781975121-0-0-12b1005fde537c461a8a2751bfff728a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV 24H] (Socolive) flv
-https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1781967561-0-0-c4b0df35b90156742ead4250c1fcedf5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [BLV THÓC] (Socolive) flv
+https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1781975121-0-0-100d559b9d979ebc3827b2972eb45e45
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV 24H] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781967561-0-0-ca0eddda82d5650dfefdd9426e5495f5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [BLV THÓC] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1781975121-0-0-e89b318a407acb1d79a4f28014b88b10
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV 24H] (Socolive) m3u8
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781967561-0-0-3c57354446a3e41be16c06e1c841da0d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [BLV THÓC] (Socolive) m3u8
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781975121-0-0-41f0d4d2156611694060f53df3d270c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV 24H] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781967561-0-0-bcf7a53a3b0b437f773b87b7d3064cec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [BLV THÓC] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781975121-0-0-c04754ba0805f88947269c9d02e4f43a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [KÉP] (Socolive) flv
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1781967561-0-0-1265cd0c5fbff0a04b5924d5ff394691
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [KÉP] (Socolive) flv
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1781975121-0-0-a6cc9120f8e92e5c13c2fb2603a38ab3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [KÉP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1781967561-0-0-ae49fc6a94dddcf29bae78cc1f0374bb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [KÉP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1781975121-0-0-288e159120331e0819a1d1a10455f8c1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [KÉP] (Socolive) m3u8
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781967561-0-0-471c736315ca324299315385601a337e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [KÉP] (Socolive) m3u8
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781975121-0-0-4313f1e018509ea6098fa5832b8e2c55
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [KÉP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781967561-0-0-27c782a14ac93f4f56d2888da6a0355b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) flv
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781967561-0-0-b7fc85cbe8f230625c5a77eb9b334b9a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781967561-0-0-8c76e412f8d7d9252ede376b450bfa12
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781967561-0-0-e4ee130a73433c4dd7b31f9a389efa0b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781967561-0-0-e4073d48465ffe6b6ed10ec12850d697
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [KÉP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781975121-0-0-1920278c17bfda139af3b932d7193c0d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781967561-0-0-9f404fd0dfed0b159425b17dae1c45c0
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1781975121-0-0-a70c2659c5b1804dbcf42cf7c1b87e80
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781967561-0-0-685aecc0a1014e119d438ccd262ac1cb
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781975121-0-0-8b86b50281557ac342d3048c72cf4fb7
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781967561-0-0-4d2b9a58e5e3590aebe27153c9003dcc
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1781975121-0-0-05675720f1fb32a15c22bc119258226d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Scotland vs Morocco [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781967561-0-0-fe155e6d99e45189e8bc1417023b4b1b
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1781975121-0-0-f09fc9bf346ab4a7cc68f99f2e391444
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Turkiye vs Paraguay [Sóc trong rừng xà nu] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781967561-0-0-5b86b62f7a49367d7845f35c7e52519e
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1781975121-0-0-4c8beb8d29d63219df954743f6884abd
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Turkiye vs Paraguay [Sóc trong rừng xà nu] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781967561-0-0-89c4efeb4503bf600642d5529de6bb35
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781975121-0-0-58d8d939f4ee25f67e8e682cf75204db
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Turkiye vs Paraguay [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781967561-0-0-5f1af791f90c3a43183e1c89bf19cf42
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1781975121-0-0-6a03e16e4e084b9037d76915ae823337
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Turkiye vs Paraguay [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781967561-0-0-55cf66cfd949254d9e31de8150ba76f2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc đau cổ vai gáy] (Socolive) flv
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781967561-0-0-6d15e7da9bef02e526222f3bfc8ef628
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc đau cổ vai gáy] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781967561-0-0-7c42a00c5355441548d13d614d23ce43
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781967561-0-0-4919eb5dc5188d1802847bf80bdfc8ee
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781967561-0-0-0e8af977825e3899141e965a5e461caf
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1781975121-0-0-22fa11da9877340b07546366f1c4bcc5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - USA vs Australia [Sóc trèo cây ngô đồng] (Socolive) flv
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781967561-0-0-57df4a341acea2af4c523efed2636ebc
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1781975121-0-0-ee45fa8828c78ccaa3127b3afc644f56
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - USA vs Australia [Sóc trèo cây ngô đồng] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781967561-0-0-c11ccd07f2469dc3f59f54dbd6f6d55a
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781975121-0-0-d1a442abe9197928c72505a2f67b7575
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - USA vs Australia [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781967561-0-0-96f614a5c551ccf7ebb8b111f960e8d1
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1781975121-0-0-a5fc964ecf737599596759d07208a094
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - USA vs Australia [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781967561-0-0-82c085c0b4d1c98b5699554df7c7946f
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1781975121-0-0-56e42953c8e24dc6d23b1bec74f3c6e2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV PEWPEW] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1781967921-0-0-2912412400eb9f35f0b077fb54e2cdfd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc đau cổ vai gáy] (Socolive) flv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1781975121-0-0-e2157e5f214a3a1255973347158a220e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV PEWPEW] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781967921-0-0-d3550e746a79f5db72e4e8401e47b27f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc đau cổ vai gáy] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781975121-0-0-bebd5320fea868cf3e26a28bf9e257b0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1781967921-0-0-d705e54875c70a1d8ae7cd33801076d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1781975121-0-0-ffea036d9c9d3970b665cd2eb1e113cd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781967921-0-0-4a0a69ff2a42737c4d2b4e2d8888445e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Mexico vs South Korea [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1781975121-0-0-d12dcd0bb1e47c6926e1ab9120d420af
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV ROBBEN] (Socolive) flv
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781967921-0-0-2e5c82e4b71f4bab2d6d8c9f621c88df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) flv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1781975121-0-0-1866abd8557f77640c4e41d5cd4aedfe
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV ROBBEN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781967921-0-0-dc356b244612b33238cb582ad2f5c8a7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781975121-0-0-3cdbdf79072a8f3377d1df55ecbd94fa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781967921-0-0-15feb199d640f0611c6542d5a25d88fd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1781975121-0-0-973c3786e8a86819d7a59c7bc27bf941
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781967921-0-0-8c0a756d1bb7415d9c0f3036e0732f3d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Haiti [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1781975121-0-0-6e4a8a52b4c53980ae7a52949388edfc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [HẢI THANH] (Socolive) flv
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1781967921-0-0-f83775f39651d6082284a4036e92541c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) flv
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=c8efda4babb27be3332080335261e362&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [HẢI THANH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781967921-0-0-65d6b23f0317a792dae5972e2e26c2bd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=44d1501bf7abf8e59ad08ff76c2d94bd&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781967921-0-0-44305973abd4a5eb2aa7648036e977ab
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=c8efda4babb27be3332080335261e362&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781967921-0-0-03ea44be922ce8ef12885b9d092f5698
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=44d1501bf7abf8e59ad08ff76c2d94bd&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [XUÂN SON] (Socolive) flv
-https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=1f5c6b5c1dbb0fe1beb32a82b64de959&txTime=6a36f281
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [BLV FIREMAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781975481-0-0-545518391d990a2659234b2165696348
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [XUÂN SON] (Socolive) hdFlv
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=300d20109d95b84518bb8e5b35168cd3&txTime=6a36f281
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [BLV FIREMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781975481-0-0-481b0ae60732763675cdb0a5c3d3edbb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=1f5c6b5c1dbb0fe1beb32a82b64de959&txTime=6a36f281
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781975481-0-0-691a8d77f71086a7d1c11f220949f5eb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=300d20109d95b84518bb8e5b35168cd3&txTime=6a36f281
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781975481-0-0-349e5b97121e175b131a98ca29336c7b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [QUÂN JK] (Socolive) flv
-https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1781967921-0-0-39dbdb69bfa8e90d2b2d716f6d4a51aa
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV LONG] (Socolive) flv
+https://pull.niur.live/live/stream-9912117_lsd.flv?txSecret=f0ab5e6569ae9e381d30972c6875bc2b&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [QUÂN JK] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781967921-0-0-d047a827570d2083cbf8039dfc9da3b9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV LONG] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=68b126c47a5cdb2fa22ba1d5a3cd1915&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [QUÂN JK] (Socolive) m3u8
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781967921-0-0-314bb5c0b7abf3d16e0512abc20b352d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV LONG] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=f0ab5e6569ae9e381d30972c6875bc2b&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [QUÂN JK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781967921-0-0-1964fe06aeb8344315916c6b6e9add73
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV LONG] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=68b126c47a5cdb2fa22ba1d5a3cd1915&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [TRÀ ĐÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1781967921-0-0-4b754582b11edbffce97265fab809b2b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV KAN] (Socolive) flv
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=45ac4958b756e40a51bda92d4cbcffbb&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [TRÀ ĐÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781967921-0-0-ee8eb40897f9288adf9f709c3c6775f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV KAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=609162f10117727ffd96e330ad584e1e&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [TRÀ ĐÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781967921-0-0-0b7c569dbf4d0fb9ca281d880d18e8f8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV KAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=45ac4958b756e40a51bda92d4cbcffbb&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [TRÀ ĐÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781967921-0-0-7f8eb807315239dfbdc30cb23e352d81
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV KAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=609162f10117727ffd96e330ad584e1e&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV XO] (Socolive) flv
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1781967921-0-0-2cd0fdb6c588bf170cb91c4d0186f38d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV WUKONG] (Socolive) flv
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1781975481-0-0-ccc6f1271add45229428f33c68e75ea1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV XO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781967921-0-0-9a2a44ced4da5bb4b248d2680fd70bd5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV WUKONG] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781975481-0-0-b9074a095aec484a5f7e161b00aeac64
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781967921-0-0-f311a60252a59cd0293e777e9489af12
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV WUKONG] (Socolive) m3u8
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781975481-0-0-9d1e4a4a423cec979922852b53614738
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781967921-0-0-1cb0fa5f20dbfd3e19af922993de4a9d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781975481-0-0-94bfb76e8065c2e49d90b4ac37ef9baa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV VIP] (Socolive) flv
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=e5bfe7f4d80a73d9227d2037af08f264&txTime=6a36f281
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV LUCAS] (Socolive) flv
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781975481-0-0-fe31729a9aa69562b7434ec682a33e96
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV VIP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=572531721d3ff492384c423e7ec73c97&txTime=6a36f281
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV LUCAS] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781975481-0-0-e200f9e065ee6b1771d20eca90741473
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=e5bfe7f4d80a73d9227d2037af08f264&txTime=6a36f281
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV LUCAS] (Socolive) m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781975481-0-0-36ee33bdebad25af3ea5c825330ec8af
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=572531721d3ff492384c423e7ec73c97&txTime=6a36f281
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781975481-0-0-4b1492b6686954f58cf37897da4e1885
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV THÓC] (Socolive) flv
-https://pull06.scstream.net/live/stream-606448_lsd.flv?auth_key=1781967921-0-0-6096ce48199a451baa2a51c9a75322a0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV VIP] (Socolive) flv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=0ed468d992e5b2a616d0087af07389da&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV THÓC] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1781967921-0-0-07980d18734abb53ab8fe59986a10749
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV VIP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=e482912a8da8c433eb9e8cd26f9038ec&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV THÓC] (Socolive) m3u8
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1781967921-0-0-9ceb4eb0fdb9d9b707b786b7b43fdc9c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=0ed468d992e5b2a616d0087af07389da&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Transinvest vs Kauno Zalgiris [BLV THÓC] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1781967921-0-0-baaab5b470530bb6b97da1d641498d0a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e482912a8da8c433eb9e8cd26f9038ec&txTime=6a371009
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [BLV LION] (Socolive) flv
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1781967921-0-0-a7dc06937d7e4dfa7ee044c3a350c1c6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [QUỐC KHÁNH] (Socolive) flv
+https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1781975481-0-0-b26de9740088f0237448bede628f1590
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [BLV LION] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1781967921-0-0-ef25ce36f1e80a739355ca0121891d90
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [QUỐC KHÁNH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781975481-0-0-c49371aaf55cd514ec594a6f5f218978
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [BLV LION] (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1781967921-0-0-fdcacc5989b3549579958b32c5933aa7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781975481-0-0-1b2d8aa8f3c2df660dcdcc4c8fdb21d5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [BLV LION] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1781967921-0-0-2c7e1cfc867b6023b25b85f7059de598
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781975481-0-0-782a5b8660e624469142f9d1344c4365
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [BLV A TINH] (Socolive) flv
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=fdd89062d0a202bd2c20a66f84d58a0b&txTime=6a371009
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [BLV A TINH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=06494981dc07ebe051f528f4bbcd64df&txTime=6a371009
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [BLV A TINH] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=fdd89062d0a202bd2c20a66f84d58a0b&txTime=6a371009
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Kaisar Kyzylorda vs Ulytau Zhezkazgan [BLV A TINH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=06494981dc07ebe051f528f4bbcd64df&txTime=6a371009
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [TRÀ ĐÁ] (Socolive) flv
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1781975481-0-0-0859c1b6648d5a89446091cc3d152504
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [TRÀ ĐÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781975481-0-0-5fb1da0856ce13aabe9b73baf4adaa01
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [TRÀ ĐÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781975481-0-0-51280c56397b4634865efd800e0cfa55
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: CD Magallanes vs Palestino [TRÀ ĐÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781975481-0-0-6ce359c76cbf0cdb01eec3a0f2f907cd
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781967921-0-0-1f84bb04d4ea388d19ed45c0b9bac896
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781975481-0-0-84b50f5c165212834ffa8e36bbf421d2
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781967921-0-0-31cc67dca915d68ae47465f691169d76
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781975481-0-0-6e52549197868f91c9be185aedfadf8c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781967921-0-0-8cde9ed14515ba801e238cc179b34486
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781975481-0-0-9aef41d63612c2d4b65b92072710ef89
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781967921-0-0-7e51a4a21ef8122c0666900d72c3067d
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781975481-0-0-a6b3e368b82f27dd22c9ba694cad4a8d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV COZY] (Socolive) flv
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1781968281-0-0-a0f9483772a04af19935bb01b81d4865
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV MESSI] (Socolive) flv
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1781975841-0-0-899251d22dbe9554fd83b797e4345b26
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV COZY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1781968281-0-0-07f7701e12d58ea77a9aa10e48e792d6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV MESSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781975841-0-0-b2c53587286537717fc7c1ebe0b60d40
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781968281-0-0-a3cc1a32049710b62bbe275c7c24fcf5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781975841-0-0-054857a57d5f0e0822905f3bc0c27652
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781968281-0-0-2f50da1c46e940f7eebeeb5618ee6122
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781975841-0-0-855a941ca272d3b2b2d260b1ed304403
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [LOGAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1781968281-0-0-55bbf44da8ef9ab6ffb20bcfe8542f92
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV TOMMY] (Socolive) flv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=970374b479c6581e77d9e00a4ab9e534&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [LOGAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1781968281-0-0-5ccbdf68ae45396df3d4985ecffa991e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV TOMMY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=95562e94cd8fca1657332656f8318c7e&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [LOGAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781968281-0-0-e1ce44bf5870874b738532c9b273d4b4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=970374b479c6581e77d9e00a4ab9e534&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [LOGAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781968281-0-0-8e12f15e7812e712b7c46e1baec78ffe
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=95562e94cd8fca1657332656f8318c7e&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV RAMBO] (Socolive) flv
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=6e6dd321211080e0c1f146f41b2ae3a7&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [NGƯỜI CÁ] (Socolive) flv
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1781975841-0-0-ca758fc5151f3f88abe85b2e3770c23c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV RAMBO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=c06ae2e3abb6aa6f9bddf520295e2807&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [NGƯỜI CÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781975841-0-0-2b2d8b94510933a0b665ece308c7e2b4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=6e6dd321211080e0c1f146f41b2ae3a7&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [NGƯỜI CÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781975841-0-0-96e86bff24e52c55071c23c6dd4f0913
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c06ae2e3abb6aa6f9bddf520295e2807&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781975841-0-0-ef7f8d61c30bb6effd8d3afdd12ce7ac
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV KEM] (Socolive) flv
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1781968281-0-0-ffa3e92d166f2be7631d064780edae6f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV 7UP] (Socolive) flv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781975864-0-0-cf8ca4b585b7d10f1f2be896c94b516d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV KEM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781968281-0-0-c0df806a68a9c843bee34e9e4bdd0bd9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV 7UP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781975864-0-0-e0b1ff91aaf562c025f403c59323b2ad
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV KEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781968281-0-0-538d908aefbbd9da0d2f6d7b88c3f2e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781975864-0-0-a768c7846f10492fd1771e31b92e293d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Londrina PR vs Athletic Club [BLV KEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781968281-0-0-029a700ed0af95e2b2a6a459bc20ae46
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781975864-0-0-af0cce3962372081928d1fe033490e69
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [LÃO LÂM] (Socolive) flv
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781968281-0-0-41bdfff8507fe5879d4671fcc66fd9f8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [RICKHANTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1781975841-0-0-b0d375c51d517ac63cc412123dcbaf36
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [LÃO LÂM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781968281-0-0-328672f0e4071cd7eef8f2b2ff008d4c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [RICKHANTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781975841-0-0-00e2fe579cc192a4110dc114ddf7544b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [LÃO LÂM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781968281-0-0-6f0ee61eef0c21d40011544f5c818cfd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [RICKHANTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781975841-0-0-a7c569d3c87f587e0fd94703975c42fd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 BFC Daugavpils vs Grobina [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781968281-0-0-0ff1d8222e0266706d5f46c221845144
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [RICKHANTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781975841-0-0-e057fadf36c9064e428c4ea0899e4f1a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [BLV CHIVAS] (Socolive) flv
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=c27da7787115b8c7d09b9706247617bd&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [THẠCH TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1781975841-0-0-6e845f807706a79825319509fc0208ae
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [BLV CHIVAS] (Socolive) hdFlv
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=c9ad6ee36d9ad2f7e0d4a21cab776ea7&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [THẠCH TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781975841-0-0-482216234deb43bcc12d735a5df4e2ee
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [BLV CHIVAS] (Socolive) m3u8
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=c27da7787115b8c7d09b9706247617bd&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [THẠCH TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781975841-0-0-a9458ef15894c056769bb87057f3830f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 ngày 20/06 Slavia Mozyr vs FK Isloch Minsk [BLV CHIVAS] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c9ad6ee36d9ad2f7e0d4a21cab776ea7&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",WORLD CUP: Netherlands vs Sweden [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781975841-0-0-d98ea3a1822ae78c96b614c9c66927ec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV A TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781968281-0-0-d530ed1d139c100eb0d1ee57e82b1d13
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV BÉO] (Socolive) flv
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=c9ccf641b91e3fb011e61cc4538859b3&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV A TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781968281-0-0-1c0792deb8e34f35a4509176786849b9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV BÉO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=810d69145a4c935154fad501eae1c9a2&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781968281-0-0-7642ae0cb8e2ac5d3036d4195aea197e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV BÉO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=c9ccf641b91e3fb011e61cc4538859b3&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenis Astana vs Irtysh Pavlodar [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781968281-0-0-ae7db5a2feadba5717842487509e1aac
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [BLV BÉO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=810d69145a4c935154fad501eae1c9a2&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [BLV VITAMIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1781968281-0-0-9594ad2d20fbbaeeeb200c3002357fca
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV VOI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1781975841-0-0-3950122b817235ad2dff9f9512bbdc4d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [BLV VITAMIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781968281-0-0-d18f0bfcc71f530554703c7674ea0121
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV VOI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781975841-0-0-c2d07ebcafd784c6a76a91f5ff10d68b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [BLV VITAMIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781968281-0-0-bcd75a9f1f659cc4326e9dd227ef5ae5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV VOI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1781975841-0-0-fa3e04dc8796a8324aacbfe79da0feb4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Levadia Tallinn vs Nomme JK Kalju [BLV VITAMIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781968281-0-0-a11bd49f0de7a28b139fa65f60730fde
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 Ordabasy vs FK Kaspyi Aktau [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781975841-0-0-e1e16d022f23ff4782413f900121608d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Shakhter Soligorsk vs Ostrowitz [BLV A WIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1781968281-0-0-9c51d668bbfd10774544fdd51f446c9b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [XUÂN TÓC ĐỎ] (Socolive) flv
+https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=048071859b6c7286ddebce0527dbbb68&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Shakhter Soligorsk vs Ostrowitz [BLV A WIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1781968281-0-0-39ffb553b02a7df7d99f2f549a7b2336
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [XUÂN TÓC ĐỎ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=5670190eb51f83d757d6b263c7a3ca2f&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Shakhter Soligorsk vs Ostrowitz [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781968281-0-0-b497c24bf1da84fc98017abc1a6da80b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [XUÂN TÓC ĐỎ] (Socolive) m3u8
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=048071859b6c7286ddebce0527dbbb68&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Shakhter Soligorsk vs Ostrowitz [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781968281-0-0-2cac242c263e30c2ae48edb967806cfd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 ngày 20/06 FK Vitebsk vs Dinamo Brest [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=5670190eb51f83d757d6b263c7a3ca2f&txTime=6a371171
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h15 ngày 20/06 FK Panevezys vs Siauliai [QUỐC KHÁNH] (Socolive) flv
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1781968281-0-0-f26b104e9a7456b1d5c53c385b72e203
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV RYO] (Socolive) flv
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1781975841-0-0-3c23d2bc6a64f9caf90085c6122cea36
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h15 ngày 20/06 FK Panevezys vs Siauliai [QUỐC KHÁNH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781968281-0-0-431915e5635f9c90c48a622a971158e8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV RYO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1781975841-0-0-6eb3ed973fdf38b3faab0fc494bbbec4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h15 ngày 20/06 FK Panevezys vs Siauliai [QUỐC KHÁNH] (Socolive) m3u8
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781968281-0-0-8105eecfd91096d645f67c9a9d869ba1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV RYO] (Socolive) m3u8
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781975841-0-0-6531cf67ff968efb5531a624b0c106c6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h15 ngày 20/06 FK Panevezys vs Siauliai [QUỐC KHÁNH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781968281-0-0-e5c697c252ed04258582293b4d44c88b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 ngày 20/06 Banga Gargzdai vs FK Zalgiris Vilnius [BLV RYO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781975841-0-0-f8a7cb7278ac6f0a46508242cebf7def
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Shakhter Soligorsk vs Ostrowitz [PINKMAN] (Socolive) flv
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=cf5e759c4cddc1c7ca6350a61cd0b183&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [BLV XO] (Socolive) flv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1781975841-0-0-220c1cd22d763052f334192c601117aa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Shakhter Soligorsk vs Ostrowitz [PINKMAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=b4b69b2383ae4102e10c75e4c6256321&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [BLV XO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781975841-0-0-1d0cdbbbb11bc9e9ab3e53555a25a3a3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Shakhter Soligorsk vs Ostrowitz [PINKMAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=cf5e759c4cddc1c7ca6350a61cd0b183&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781975841-0-0-b41be49f211fe0380efa78cfe436b35b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 20/06 Shakhter Soligorsk vs Ostrowitz [PINKMAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=b4b69b2383ae4102e10c75e4c6256321&txTime=6a36f3e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781975841-0-0-66286d334fa7f3936ccc4490411476a9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [BLV 24H] (Socolive) flv
+https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1781975841-0-0-829dc0f2880324f0cf79db2d9d393832
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [BLV 24H] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781975841-0-0-91454a83a6d1eb8c9df66c8270b57344
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [BLV 24H] (Socolive) m3u8
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781975841-0-0-ef1a8b65fff4f118f809375173e9c55f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup: Coquimbo Unido vs Municipal Iquique [BLV 24H] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781975841-0-0-0de481980323d876edb1a44ba6c154cb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Qatar [Sóc nhàm nhang nhồ] (Socolive) flv
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781968281-0-0-776da0652e67441148ae9c3635310ff9
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1781975841-0-0-5afe625b1f619bc96ca9079e3e30c074
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Qatar [Sóc nhàm nhang nhồ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781968281-0-0-b42208555c94a287c4949e7de0772d5a
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781975841-0-0-6bac66062df1b66fd2dc227729977139
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Qatar [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781968281-0-0-b13689fc49402d3133cb45372d04e0da
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1781975841-0-0-c036c422e6849144041d2a934f56a8cc
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Canada vs Qatar [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781968281-0-0-925e469aea192aa05848efd2da6d0f61
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1781975841-0-0-9405a40587bd96fd0492de2fcc2d28ef
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 20/06 Trung Quốc vs Brazil (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 20/06 Thổ Nhĩ Kỳ vs Đức (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h30 20/06 Thổ Nhĩ Kỳ vs Đức (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 20/06 FC Vitebsk vs Dinamo Brest (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 20/06 FC Vitebsk vs Dinamo Brest (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 21/06 Netherlands vs Sweden (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 21/06 Netherlands vs Sweden (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 21/06 Netherlands vs Sweden (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 20/06 Trung Quốc vs Brazil (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 21/06 Netherlands vs Sweden (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanchoptracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 20/06 Thái Lan vs Canada (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 20/06 F (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 20/06 F (Hội Quán) SD
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 20/06 Daniel Altmaier vs Frances Tiafoe (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 20/06 Thái Lan vs Canada (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 20/06 Daniel Altmaier vs Frances Tiafoe (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 20/06 Slavia Mozyr vs FC Isloch Minsk R. (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 20/06 Slavia Mozyr vs FC Isloch Minsk R. (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 20/06 Brandon Nakashima vs Francisco Cerundolo (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 20/06 Brandon Nakashima vs Francisco Cerundolo (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 20/06 Alexander Zverev vs Taylor Fritz (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 20/06 Alexander Zverev vs Taylor Fritz (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 20/06 BFC Daugavpils vs Grobina
-https://live05.apusport.com/live/99121525.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 20/06 Hochiminh City Wings vs Nha Trang Dolphins
-https://live05.apusport.com/live/82054853.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h30 20/06 Slavia Mozyr vs FK Isloch Minsk
-https://live05.apusport.com/live/43612277.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h00 20/06 Ordabasy vs Kaspij Aktau
+https://live05.apusport.com/live/78905744.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 20/06 Londrina vs Athletic MG
 https://live05.apusport.com/live/90865415.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",22h30 20/06 FK Vitebsk vs Dinamo Brest
+https://live05.apusport.com/live/75915087.m3u8
 
