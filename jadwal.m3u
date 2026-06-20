@@ -1,50 +1,44 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV DƯƠNG CHÍ m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV LÝ QUỲ flv
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV DƯƠNG CHÍ flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68702_1jqtyj4xq91e.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine (Lương Sơn) BLV VÕ TÒNG m3u
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68702_1jqtyj4xq91e.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine (Lương Sơn) BLV VÕ TÒNG flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/31450_1gwxajpemt5.png",06:00 WIB 20/06 South East FC vs Point Michel FC (Lương Sơn) BLV SHIN m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/31450_1gwxajpemt5.png",06:00 WIB 20/06 South East FC vs Point Michel FC (Lương Sơn) BLV SHIN flv
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV MÃ SIÊU m3u
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV TÀO THÁO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV MÃ SIÊU flv
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV TÀO THÁO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV VƯƠNG LUÂN m3u
+https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV LÃO HẠC m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV VƯƠNG LUÂN flv
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/656_164984190591.png",10:00 WIB 20/06 Turkey vs Paraguay (Lương Sơn) BLV LÃO HẠC flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV TÔN LẬP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV TÔN LẬP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV LEO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV LEO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV LÝ ỨNG m3u
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/22421_1gtk2yys6q1e.png",11:00 WIB 20/06 Lambton Jaffas FC vs Adamstown Rosebuds FC (Lương Sơn) BLV LÝ ỨNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png",05:00 WIB 20/06 Scotland vs Morocco (Lương Sơn) BLV LÝ ỨNG flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/22421_1gtk2yys6q1e.png",11:00 WIB 20/06 Lambton Jaffas FC vs Adamstown Rosebuds FC (Lương Sơn) BLV LÝ ỨNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
@@ -67,38 +61,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png",07:30 WIB 20/06 Brazil vs Haiti (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png",07:30 WIB 20/06 Brazil vs Haiti (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png",07:30 WIB 20/06 Brazil vs Haiti (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png",07:30 WIB 20/06 Brazil vs Haiti (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png",07:30 WIB 20/06 Brazil vs Haiti (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png",07:30 WIB 20/06 Brazil vs Haiti (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angao.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png",07:30 WIB 20/06 Brazil vs Haiti (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132806_e0e97e34.png",07:30 WIB 20/06 Brazil vs Haiti (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125503_f5da35f2.png",10:00 WIB 20/06 Türkiye vs Paraguay (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -131,6 +93,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141354_a613be1e.png",11:00 WIB 20/06 Hume City vs Green Gully (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141354_a613be1e.png",11:00 WIB 20/06 Hume City vs Green Gully (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141352_b0ea8ade.png",12:00 WIB 20/06 Avondale vs Dandenong Thunder (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141352_b0ea8ade.png",12:00 WIB 20/06 Avondale vs Dandenong Thunder (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133642_573f2bfb.png",14:30 WIB 20/06 Qingdao Red Lions vs Wuhan Three Towns (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133642_573f2bfb.png",14:30 WIB 20/06 Qingdao Red Lions vs Wuhan Three Towns (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20251115_123048_e67768f5.png",15:00 WIB 20/06 USA W vs Italy W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -166,19 +152,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250922_095400_53ab86d3.png",17:00 WIB 20/06 Hwacheon KSPO vs Gumi Sportstoto (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250922_095400_53ab86d3.png",17:00 WIB 20/06 Hwacheon KSPO vs Gumi Sportstoto (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250922_095400_53ab86d3.png",17:00 WIB 20/06 Hwacheon KSPO vs Gumi Sportstoto (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250922_095400_53ab86d3.png",17:00 WIB 20/06 Hwacheon KSPO vs Gumi Sportstoto (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133646_17aa40d0.png",18:00 WIB 20/06 Wuxi Wugou vs Qingdao Jonoon (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -491,348 +469,429 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [RICKHANTER] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1781916441-0-0-6f5b3fb67b860a49bb8742e00cacd45e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [RICKHANTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781933361-0-0-c22ae431597d8c8804aba83720611831
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781916441-0-0-8c8e5af131ddc8986568fc165915e4f6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [RICKHANTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781933361-0-0-272c95a9a3ef7e97cfeac68f2596deff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781916441-0-0-106485be6785a37cabbd74302dd9cf07
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [RICKHANTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781933361-0-0-c20210e40cbe05669460cad8ea3964fd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781916441-0-0-5321c9b16a34f32bcdba32af63418170
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV ENZO] (Socolive) flv
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781933361-0-0-a57923b2da1de44822c6fb4ddec9e69d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1781916441-0-0-db85f10399532861ae79451139d7f636
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV ENZO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=5f36a855aef892eb82a1b6a8c4ab4bf9&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781916441-0-0-92b928586c8ffc368a008967cb594f43
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV ENZO] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=cb91adc464521f42ae3b704a8bd79358&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781916441-0-0-c2ad2a6bbc07e0a1c2d4acf8cd096079
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV ENZO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=5f36a855aef892eb82a1b6a8c4ab4bf9&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781916441-0-0-0367aa1a7a45ffc8fee1925d31fafe25
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [NGƯỜI CÁ] (Socolive) flv
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=cb91adc464521f42ae3b704a8bd79358&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [DECO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1781916441-0-0-b852ae8e8644314f14fb1383155312a2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [NGƯỜI CÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781933361-0-0-a13e681767c1f4750528119f43840073
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [DECO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781916441-0-0-0a9f33aca7b315149033e25201518ddf
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [NGƯỜI CÁ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781933361-0-0-5f96a64ab21caf5277ee47fe7b317d70
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [DECO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781916441-0-0-6b9cfc46a5405d234f2c0bb5c13a311e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781933361-0-0-0f78dcd96ed54fd0d5b9b2134e83fa53
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [DECO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781916441-0-0-814a238b3fa7ad731c25e5d1fff32a2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) flv
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781933361-0-0-46381453b57be384bfd6289f471d4aaa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/b433bdd323d9d72009c15561cea92c93.png",11:00 WIB 20/06 Hume City vs Green Gully Cavaliers [XUÂN SON] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781916441-0-0-935cdbe82c8cd56bfa1fd17f4f9f179e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=1e25125333d2cdb9421d77f722713132&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/b433bdd323d9d72009c15561cea92c93.png",11:00 WIB 20/06 Hume City vs Green Gully Cavaliers [XUÂN SON] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781916441-0-0-c3479f7242de1194f4797f45e42b518b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=97029e47c0af010b121b4b09efefe85d&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/b433bdd323d9d72009c15561cea92c93.png",11:00 WIB 20/06 Hume City vs Green Gully Cavaliers [XUÂN SON] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781916441-0-0-0c6fc16f54f32c56001fe41b54f5879b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=1e25125333d2cdb9421d77f722713132&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/b433bdd323d9d72009c15561cea92c93.png",11:00 WIB 20/06 Hume City vs Green Gully Cavaliers [XUÂN SON] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781916441-0-0-bbcbd3c2c6705335438558c3fbec4e58
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV MESSI] (Socolive) flv
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=97029e47c0af010b121b4b09efefe85d&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f536c8c54ed83fa0965a1a66d910723a.png",12:00 WIB 20/06 Heidelberg United vs Preston Lions [LÃO LÂM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=8a3c09cec8eee299bc297a691127d02b&txTime=6a362969
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV MESSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1781933361-0-0-af5d4f47f4b2a7738f4d697504ddcb76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f536c8c54ed83fa0965a1a66d910723a.png",12:00 WIB 20/06 Heidelberg United vs Preston Lions [LÃO LÂM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=6566587db96388c0f623efda949043cf&txTime=6a362969
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV MESSI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781933361-0-0-a4a55f88be7cdfa4878d41eabec02222
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f536c8c54ed83fa0965a1a66d910723a.png",12:00 WIB 20/06 Heidelberg United vs Preston Lions [LÃO LÂM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=8a3c09cec8eee299bc297a691127d02b&txTime=6a362969
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781933361-0-0-026142ba992d24afc8ac4a8c100a989b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f536c8c54ed83fa0965a1a66d910723a.png",12:00 WIB 20/06 Heidelberg United vs Preston Lions [LÃO LÂM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=6566587db96388c0f623efda949043cf&txTime=6a362969
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [THẠCH TÚ] (Socolive) flv
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781933361-0-0-d040896a00aae3dc88f49e1b72e5796e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2638a7c83d66f898fbdef1366690f03c.png",12:00 WIB 20/06 Belmont Swansea United SC vs Broadmeadow Magic [BLV RÔSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=3e278eb9514adbb007c353fe546dbe3e&txTime=6a362995
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [THẠCH TÚ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=0fd35116da5cd23b3df46dbe1df0f364&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2638a7c83d66f898fbdef1366690f03c.png",12:00 WIB 20/06 Belmont Swansea United SC vs Broadmeadow Magic [BLV RÔSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=58ca7217976cb81ba18b3a5cc836a860&txTime=6a362995
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [THẠCH TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=ff3d09550d7b895caca38230c358c25d&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2638a7c83d66f898fbdef1366690f03c.png",12:00 WIB 20/06 Belmont Swansea United SC vs Broadmeadow Magic [BLV RÔSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=3e278eb9514adbb007c353fe546dbe3e&txTime=6a362995
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=0fd35116da5cd23b3df46dbe1df0f364&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2638a7c83d66f898fbdef1366690f03c.png",12:00 WIB 20/06 Belmont Swansea United SC vs Broadmeadow Magic [BLV RÔSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=58ca7217976cb81ba18b3a5cc836a860&txTime=6a362995
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV COZY] (Socolive) flv
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=ff3d09550d7b895caca38230c358c25d&txTime=6a366b81
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/88d3ac6540e17f045eb0ee205ce2a314.png",12:00 WIB 20/06 Western Sydney Wanderers Youth vs Sutherland Sharks [BLV TOMIA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=3a162082ea52566e593a09956f770598&txTime=6a362969
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV COZY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1781933361-0-0-2370e4f8122bb1f2c601a5d8836e4a61
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/88d3ac6540e17f045eb0ee205ce2a314.png",12:00 WIB 20/06 Western Sydney Wanderers Youth vs Sutherland Sharks [BLV TOMIA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=7783f13b75197db9f20cbab229211479&txTime=6a362969
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV COZY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781933361-0-0-b87a781db559875095203d92f86c63ec
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/88d3ac6540e17f045eb0ee205ce2a314.png",12:00 WIB 20/06 Western Sydney Wanderers Youth vs Sutherland Sharks [BLV TOMIA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=3a162082ea52566e593a09956f770598&txTime=6a362969
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781933361-0-0-540ac0ccd61783be08b00b9385ecfc8c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/88d3ac6540e17f045eb0ee205ce2a314.png",12:00 WIB 20/06 Western Sydney Wanderers Youth vs Sutherland Sharks [BLV TOMIA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=7783f13b75197db9f20cbab229211479&txTime=6a362969
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [BRIAN] (Socolive) flv
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781933361-0-0-d43147f70239fdb4b0aafcc7e2523965
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781916441-0-0-f1f959bccae1b25c657cf8cdf70c0362
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [BRIAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=fc23247b88a626bcfaf3ec60c15289a1&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781916441-0-0-0559aba81754f10d7fd8addb85559cac
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [BRIAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=90e68d7389510b62bef7eec41528a796&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781916441-0-0-d5aaa8d0b6df88d7a13b6502d8dc0705
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [BRIAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=fc23247b88a626bcfaf3ec60c15289a1&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781916441-0-0-85f456c978dd2e12b20724338d16307d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV PICK] (Socolive) flv
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=90e68d7389510b62bef7eec41528a796&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1781916441-0-0-3931c64a45a6fc43095f365931cd3719
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV PICK] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1781933721-0-0-e90af4fc510abd0cc184e142aef9f6af
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1781916441-0-0-809b1d53ccc7850f6e422b25901f706e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV PICK] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1781933721-0-0-e6bee48e7d40488e8b0e8dc583d478ef
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781916441-0-0-8ea763fd62fde1226d7967049a95c331
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV PICK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1781933721-0-0-1067df8754ef1301c25df61ff34c4b76
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781916441-0-0-4015b81e9f0c9f913583a561dce903dc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [A CHÈ] (Socolive) flv
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1781933721-0-0-08d6601494e5d8c793e6602bed5afa0b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1781916441-0-0-40291cd203da8b7dad8e9bbb808dfd48
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [A CHÈ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=97e7a66df09e191e30cb748734ea10b8&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781916441-0-0-506ad651ed771b3d7769ca8a4097d82d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [A CHÈ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=f1ef8a22cf8cee61e24168f8d73aa940&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1781916441-0-0-6e7036cf337bba383515d07a41d88833
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [A CHÈ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=97e7a66df09e191e30cb748734ea10b8&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1781916441-0-0-c38e2202ee34ac4e82c7a1845a63e9c2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/8cd5ff2574e71acd04877350b63e902b.png",07:00 WIB 20/06 Osos de Manati vs Piratas de Quebradillas [HUNTER] (Socolive) flv
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=f1ef8a22cf8cee61e24168f8d73aa940&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781916441-0-0-9c77ca7dd538cf2054a30928e0290360
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/8cd5ff2574e71acd04877350b63e902b.png",07:00 WIB 20/06 Osos de Manati vs Piratas de Quebradillas [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781933721-0-0-dc6551345fd381858f1acdfc33a952dd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781916441-0-0-66bbe6bc9deae07a6a290ef2ddf2debd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/8cd5ff2574e71acd04877350b63e902b.png",07:00 WIB 20/06 Osos de Manati vs Piratas de Quebradillas [HUNTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781933721-0-0-ede74f36710e139eb1988c42a82d8981
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781916441-0-0-d2478194892678379c0ec54609b9a7e2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/8cd5ff2574e71acd04877350b63e902b.png",07:00 WIB 20/06 Osos de Manati vs Piratas de Quebradillas [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781933721-0-0-17443522d7a463ae0e36915da78460c1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781916441-0-0-56eabd1aa4a9e3f4a8b1fac00d3f9bec
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [CR Bưởi] (Socolive) flv
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781933721-0-0-cb29acb8b1c72714049889fe2e2c9040
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [TẠ BIÊN GIỚI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=a860c120e2c8c7e6f3709c565220630d&txTime=6a362ad1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [CR Bưởi] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1781933721-0-0-e18256bb1a55de78d3374121f36a05a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=f0dfac1fe5c1ad0b4b8e69b239ded2ef&txTime=6a362ad1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [CR Bưởi] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781933721-0-0-48a90f078bb4268b139691342b0406a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [TẠ BIÊN GIỚI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=a860c120e2c8c7e6f3709c565220630d&txTime=6a362ad1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [CR Bưởi] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781933721-0-0-10d8ab06907762bb3d93df6b43164ce5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=f0dfac1fe5c1ad0b4b8e69b239ded2ef&txTime=6a362ad1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [SAO LA] (Socolive) flv
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781933721-0-0-de8ede233b5ba4221e77328b197babae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/a024766f11b8e8d45630636a8f511a38.png",12:00 WIB 20/06 Gold Coast United vs Brisbane Roar Youth [BLV COZY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=898ebba0007a584e3b081f8429bc1158&txTime=6a362ad1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=0f343495b2d533c935ecae64a4d56a58&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/a024766f11b8e8d45630636a8f511a38.png",12:00 WIB 20/06 Gold Coast United vs Brisbane Roar Youth [BLV COZY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=95123d3d633c6ab89fb737a082a34bdc&txTime=6a362ad1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=f486e94c610bd2964fa33b63498dca41&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/a024766f11b8e8d45630636a8f511a38.png",12:00 WIB 20/06 Gold Coast United vs Brisbane Roar Youth [BLV COZY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=898ebba0007a584e3b081f8429bc1158&txTime=6a362ad1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=0f343495b2d533c935ecae64a4d56a58&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/a024766f11b8e8d45630636a8f511a38.png",12:00 WIB 20/06 Gold Coast United vs Brisbane Roar Youth [BLV COZY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=95123d3d633c6ab89fb737a082a34bdc&txTime=6a362ad1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) flv
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=f486e94c610bd2964fa33b63498dca41&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2497cdaeb6e9d1bfd817db79548d6c7f.png",12:00 WIB 20/06 Avondale FC vs Dandenong Thunder [BLV CUỘI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1781916801-0-0-bd1d5445fd79a94cc1302a40ce78eefd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1781933721-0-0-982e2ce457f3f4244699dc1639c0757e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2497cdaeb6e9d1bfd817db79548d6c7f.png",12:00 WIB 20/06 Avondale FC vs Dandenong Thunder [BLV CUỘI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781916801-0-0-ff3f7980400b942762c1b1eb0cb40d4c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1781933721-0-0-c26e62206ea2a0d505d94934e71d66a5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2497cdaeb6e9d1bfd817db79548d6c7f.png",12:00 WIB 20/06 Avondale FC vs Dandenong Thunder [BLV CUỘI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781916801-0-0-597c319eecb6424a859fb478bacf8157
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1781933721-0-0-4c582633fd8ce8a6925cf78e572b59a2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2497cdaeb6e9d1bfd817db79548d6c7f.png",12:00 WIB 20/06 Avondale FC vs Dandenong Thunder [BLV CUỘI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781916801-0-0-0c2aec2df07ae63a8adc53633e8c7b77
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV TAP] (Socolive) flv
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781933721-0-0-cd590020ac6dea5cf40db31c5f45b32f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/88d3ac6540e17f045eb0ee205ce2a314.png",12:00 WIB 20/06 Western Sydney Wanderers Youth vs Sutherland Sharks [VƯƠNG ANH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1781916801-0-0-594aef06aed7f9cf36398f90b9575bf5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV TAP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=1e10c9a24c47c4cb16b24490d572cc8a&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/88d3ac6540e17f045eb0ee205ce2a314.png",12:00 WIB 20/06 Western Sydney Wanderers Youth vs Sutherland Sharks [VƯƠNG ANH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781916801-0-0-b1abf11472278a4f206f0a4d352f5091
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV TAP] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=80bab9ceced43e619eba078d5a5a8837&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/88d3ac6540e17f045eb0ee205ce2a314.png",12:00 WIB 20/06 Western Sydney Wanderers Youth vs Sutherland Sharks [VƯƠNG ANH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781916801-0-0-69b643a9f035cf0bc36ff6a139485bae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV TAP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=1e10c9a24c47c4cb16b24490d572cc8a&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/88d3ac6540e17f045eb0ee205ce2a314.png",12:00 WIB 20/06 Western Sydney Wanderers Youth vs Sutherland Sharks [VƯƠNG ANH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781916801-0-0-d0b0114ea8e32d0c16de1f4b0b007cf8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06:30 WIB 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) flv
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=80bab9ceced43e619eba078d5a5a8837&txTime=6a366ce9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/a024766f11b8e8d45630636a8f511a38.png",12:00 WIB 20/06 Gold Coast United vs Brisbane Roar Youth [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1781916801-0-0-ee0cf90e6a66992b262be1a220719f64
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06:30 WIB 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1781933721-0-0-5b4bac8727e6bbf0b0421777cc092236
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/a024766f11b8e8d45630636a8f511a38.png",12:00 WIB 20/06 Gold Coast United vs Brisbane Roar Youth [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781916801-0-0-1b416adb5e52d9f3cbe2503646f46142
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06:30 WIB 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781933721-0-0-9e18e3cefd6c37d1f638d25d02e1f93d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/a024766f11b8e8d45630636a8f511a38.png",12:00 WIB 20/06 Gold Coast United vs Brisbane Roar Youth [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1781916801-0-0-877829b3daf56297bcf0ceb04e9e91d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/aa752846948602b44cd912e125ad7d0b.png",06:30 WIB 20/06 Connecticut Sun W vs Toronto Tempo W [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781933721-0-0-3fba71783d6b722ab9b51212fe7cc9d8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/a024766f11b8e8d45630636a8f511a38.png",12:00 WIB 20/06 Gold Coast United vs Brisbane Roar Youth [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781916801-0-0-a87e023c1d71eb6356cd76cb6013b9bc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) flv
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781933721-0-0-000deefe565f1b473693df09198f4236
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2497cdaeb6e9d1bfd817db79548d6c7f.png",12:00 WIB 20/06 Avondale FC vs Dandenong Thunder [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781916801-0-0-bdc701b2af86704502a08a3bce6b8b9b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1781933721-0-0-35dd73e6fbe5b1853d1522a3a3d2c789
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2497cdaeb6e9d1bfd817db79548d6c7f.png",12:00 WIB 20/06 Avondale FC vs Dandenong Thunder [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781916801-0-0-38817aa34aa54ff9539caa97fc4998d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1781933721-0-0-22c905734f79392278f12d0a7b9d09bd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2497cdaeb6e9d1bfd817db79548d6c7f.png",12:00 WIB 20/06 Avondale FC vs Dandenong Thunder [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781916801-0-0-6bc57eefd16a1cbd5694a5e809098bc5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/44cdb5d1d57540deda03aa4604b656c3.png",06:30 WIB 20/06 New York Liberty W vs Washington Mystics W [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781933721-0-0-73a9ed4c5a5222beae9a742d8460afa2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2497cdaeb6e9d1bfd817db79548d6c7f.png",12:00 WIB 20/06 Avondale FC vs Dandenong Thunder [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781916801-0-0-e947f4603ba4f485a311133f556c81a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [DECO] (Socolive) flv
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781933721-0-0-3ca2932e481b8df8a1cead882170a2c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=479151862d6be06efdbb549c9846383c&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781933721-0-0-88111f39a2ca55bc866bf6addf0ff4e1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=6826b25b2634a782d165cddf3045d8a4&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [DECO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781933721-0-0-8320984025409cf71177c6720877c6f2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=479151862d6be06efdbb549c9846383c&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781933721-0-0-42a74baa31a3ddaea23118adc5d7cdca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=6826b25b2634a782d165cddf3045d8a4&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781933721-0-0-20e8a29eab5c81a8f273cbf345b7fcf7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/b433bdd323d9d72009c15561cea92c93.png",11:00 WIB 20/06 Hume City vs Green Gully Cavaliers [BLV NẤM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=2052bd7209426bcd427485d06be1e5c9&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1781933721-0-0-9fb75c6af29ee4cc5e56e86c3f5b228b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/b433bdd323d9d72009c15561cea92c93.png",11:00 WIB 20/06 Hume City vs Green Gully Cavaliers [BLV NẤM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=731f980207b583cdd5ac993792cd8196&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781933721-0-0-37af87312f1412b92cddcf8f60e3f7a8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/b433bdd323d9d72009c15561cea92c93.png",11:00 WIB 20/06 Hume City vs Green Gully Cavaliers [BLV NẤM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=2052bd7209426bcd427485d06be1e5c9&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781933721-0-0-d0277fa36e437b701de1eb2a6f86ab74
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/b433bdd323d9d72009c15561cea92c93.png",11:00 WIB 20/06 Hume City vs Green Gully Cavaliers [BLV NẤM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=731f980207b583cdd5ac993792cd8196&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV Củ Cải] (Socolive) flv
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781933721-0-0-a59e51cf8677c8a26cce76876026ff69
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781917161-0-0-8d7ada8151b2b461ff4199ca55b7e8e3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781933721-0-0-c41912783dfa1295f7c5ad5901c3f772
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781917161-0-0-da76bc60bada564af4345e7903b93752
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV Củ Cải] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781933721-0-0-519279acb961d2cde33d4bd278020101
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781917161-0-0-7313c8b7223b58b9a64d963e9b513f27
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781933721-0-0-8c05c3004990c6655e74c8a4ae75df59
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781917161-0-0-459f27678c35fd9118017bafb7e1b0d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV COCA] (Socolive) flv
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781933721-0-0-7f0542852b30884bca400469c1bae362
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/e71dbdf56105e9f6676e3e316524eedd.png",11:30 WIB 20/06 Canberra Olympic vs Monaro Panthers [BLV PICK] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=d9c3d200f778a8bca5fe1785c93c46c6&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1781933721-0-0-4fa72c25e4e8ab019d00c23d138598d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/e71dbdf56105e9f6676e3e316524eedd.png",11:30 WIB 20/06 Canberra Olympic vs Monaro Panthers [BLV PICK] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=80cfcf2d41fbcbc2205f39b71cbbba5c&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV COCA] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1781933721-0-0-86bdf7e7951b767b569823001f19ac0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/e71dbdf56105e9f6676e3e316524eedd.png",11:30 WIB 20/06 Canberra Olympic vs Monaro Panthers [BLV PICK] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=d9c3d200f778a8bca5fe1785c93c46c6&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781933721-0-0-988ccadd62eeafe7ff058cf64643425e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/e71dbdf56105e9f6676e3e316524eedd.png",11:30 WIB 20/06 Canberra Olympic vs Monaro Panthers [BLV PICK] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=80cfcf2d41fbcbc2205f39b71cbbba5c&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [A BỆU] (Socolive) flv
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781933721-0-0-d0e3c119462e0ad229c1c3b21004b9d7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/ca0c27fda7c63e21e5011ed03ff4304e.png",11:00 WIB 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [BLV CÁP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781917161-0-0-09e6892697b8a4155f4c50a8b46d730f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [A BỆU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1781933721-0-0-8d3d664d8b39a23c533f282acd231123
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/ca0c27fda7c63e21e5011ed03ff4304e.png",11:00 WIB 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [BLV CÁP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781917161-0-0-6b1d83c12c2baf7173a214b62ba26aee
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [A BỆU] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1781933721-0-0-c87f15fa8a6374e5c5da3816f95aa5ae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/ca0c27fda7c63e21e5011ed03ff4304e.png",11:00 WIB 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [BLV CÁP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781917161-0-0-5251efab23631439742bb96d66d2bb1e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/a651f01fc74e2f34331bb146d3566111.png",05:00 WIB 20/06 Scotland vs Morocco [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781933721-0-0-afb5a3e57c520e91d663b015d7e3c877
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/ca0c27fda7c63e21e5011ed03ff4304e.png",11:00 WIB 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [BLV CÁP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781917161-0-0-090a2d0eab4142fd58a1d7ae3209df94
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV 7UP] (Socolive) flv
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781933721-0-0-e07749a2b1ff22f7317f81ffef154863
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781917194-0-0-d0a6b00b00209791313ce971bba7e656
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV 7UP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781933721-0-0-2687591a61021c8bba859d197a34eb7f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781917194-0-0-10c79910fae2b9644d0b92416af9c7da
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV 7UP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781933721-0-0-273b4944c4b66749a1a9fba02b43cf41
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781917194-0-0-10dcb892125f68763ec9de0316604bc2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/de0dc3a2d10a6b29f8cac91e1081b326.png",07:30 WIB 20/06 Brazil vs Haiti [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781933721-0-0-11d2472753f520b249cf543e8a021c1c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/4645dfa4762cceee8aea8603f7bd36b6.png",11:00 WIB 20/06 Auckland Tuatara vs Bay Hawks [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781917194-0-0-ff30f9817ce2d03046efdb34379e039e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV CHIVAS] (Socolive) flv
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781933721-0-0-912920e64adf24daa1b472adc2a36849
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2638a7c83d66f898fbdef1366690f03c.png",12:00 WIB 20/06 Belmont Swansea United SC vs Broadmeadow Magic [HÀ DUY KIÊN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=d51e060dc64508c0bbba02ebcc9998aa&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV CHIVAS] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1781933721-0-0-81642e54d7f0b3d256c5bcad72f0e7eb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2638a7c83d66f898fbdef1366690f03c.png",12:00 WIB 20/06 Belmont Swansea United SC vs Broadmeadow Magic [HÀ DUY KIÊN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=6ba33487153b9a4d7bbfe864eb513748&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV CHIVAS] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1781933721-0-0-032541d84ad373e7ef69be6482a156e5
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2638a7c83d66f898fbdef1366690f03c.png",12:00 WIB 20/06 Belmont Swansea United SC vs Broadmeadow Magic [HÀ DUY KIÊN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=d51e060dc64508c0bbba02ebcc9998aa&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV CHIVAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781933721-0-0-0044e135d6c18cb41e1d3b29a84b9746
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/2638a7c83d66f898fbdef1366690f03c.png",12:00 WIB 20/06 Belmont Swansea United SC vs Broadmeadow Magic [HÀ DUY KIÊN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6ba33487153b9a4d7bbfe864eb513748&txTime=6a362c39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV A WIN] (Socolive) flv
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781933721-0-0-a0e223ca3cc0eae33f4af41865788df6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/6a5ffc9fac7412d366531f692bae801d.png",11:00 WIB 20/06 Cooks Hill United vs Weston Workers FC [BLV A WIN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1781917161-0-0-7cb81b27d320fb670f00db2d28e579fc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV A WIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1781933721-0-0-81fbe5b2635a392aa6903900e859d15d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/6a5ffc9fac7412d366531f692bae801d.png",11:00 WIB 20/06 Cooks Hill United vs Weston Workers FC [BLV A WIN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1781917161-0-0-649c98592e48048ce24b0c094e7b38c1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV A WIN] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1781933721-0-0-449da7ba38c4574673ce9d4752da2ea2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/6a5ffc9fac7412d366531f692bae801d.png",11:00 WIB 20/06 Cooks Hill United vs Weston Workers FC [BLV A WIN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781917161-0-0-bb909625347377ec445ce77448c9cc41
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781933721-0-0-dd1c7f1e68ced3ac1119e8136f89df65
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/6a5ffc9fac7412d366531f692bae801d.png",11:00 WIB 20/06 Cooks Hill United vs Weston Workers FC [BLV A WIN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781917161-0-0-efb8a3b814fdb98837eb6187ee7b1688
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV A TÚ] (Socolive) flv
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781933721-0-0-08c2d1428dde8394c2e939533f147cc0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781917161-0-0-ea332b6b2767a0fd8e0d1881b8c66efa
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV A TÚ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=ba24d899dfe9a055d64aebac0f1e6383&txTime=6a366e51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781917161-0-0-f4b61daabf97f49b8fc17a4565b0a7ce
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV A TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=2d6d7bbeffc189a75093186e322b37ce&txTime=6a366e51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781917161-0-0-839b6fb09fe8214a0e801b3d5ac7cdc9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/d5a39a10defa63e07e1c25d4c9c422ea.png",06:00 WIB 20/06 Westchester SC vs Portland Hearts of Pine [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=ba24d899dfe9a055d64aebac0f1e6383&txTime=6a366e51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781917161-0-0-a1739153b2c7a7705709a4321232c58e
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",05:00 WIB 20/06 Scotland vs Morocco (Hội Quán) FHD 
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=2d6d7bbeffc189a75093186e322b37ce&txTime=6a366e51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV TAP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1781934081-0-0-5ff6a9c1193a615731ff3044ed1783fb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV TAP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781934081-0-0-cb774b57553a67906600f98a60d652fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV TAP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781934081-0-0-790de26da372778828b29aea11ca3391
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [BLV TAP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781934081-0-0-fa6958b32e5942db75e3be2eeb50123e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [RICKHANTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1781934081-0-0-82fb32719780ffe42b281777a9a59e6b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [RICKHANTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781934081-0-0-184329d4eb426d865bb75446df42c556
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [RICKHANTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781934081-0-0-3e89e60c28f8d5739b0e17f2963da8ea
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [RICKHANTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781934081-0-0-a1b5deae8aea6c79087ee9ba0a781e4d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=c3d6564e9b76743ce54f38f45bca6f51&txTime=6a366e51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=93d14ec65d4b82214c45e68a135ffeb3&txTime=6a366e51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=c3d6564e9b76743ce54f38f45bca6f51&txTime=6a366e51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260614/3bef5d7dbcccb2b82fa56aa31941ffa7.png",10:00 WIB 20/06 Turkiye vs Paraguay [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=93d14ec65d4b82214c45e68a135ffeb3&txTime=6a366e51
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/e71dbdf56105e9f6676e3e316524eedd.png",11:30 WIB 20/06 Canberra Olympic vs Monaro Panthers [QUỐC KHÁNH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1781934081-0-0-2fea39246b3fe8c962082832b23d011b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/e71dbdf56105e9f6676e3e316524eedd.png",11:30 WIB 20/06 Canberra Olympic vs Monaro Panthers [QUỐC KHÁNH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781934081-0-0-0bdbac54c7494d90e74e0b31d851d012
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/e71dbdf56105e9f6676e3e316524eedd.png",11:30 WIB 20/06 Canberra Olympic vs Monaro Panthers [QUỐC KHÁNH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781934081-0-0-a0ee9e5b08cc406f3e44113f00fdc9f6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/e71dbdf56105e9f6676e3e316524eedd.png",11:30 WIB 20/06 Canberra Olympic vs Monaro Panthers [QUỐC KHÁNH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781934081-0-0-1b6546194e62b504cd93d855d6ff0161
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/ca0c27fda7c63e21e5011ed03ff4304e.png",11:00 WIB 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [CHÍ PHÈO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781934081-0-0-470cf86682e7614101f8a7a25f30e842
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/ca0c27fda7c63e21e5011ed03ff4304e.png",11:00 WIB 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [CHÍ PHÈO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781934081-0-0-1f202a5080529d3044f952a16e3da267
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/ca0c27fda7c63e21e5011ed03ff4304e.png",11:00 WIB 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [CHÍ PHÈO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781934081-0-0-2030c5ddbf4cc65a55b71508d5d6f43e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/ca0c27fda7c63e21e5011ed03ff4304e.png",11:00 WIB 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [CHÍ PHÈO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781934081-0-0-55428f520a6de651249f09bff02ad657
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/6a5ffc9fac7412d366531f692bae801d.png",11:00 WIB 20/06 Cooks Hill United vs Weston Workers FC [BLV LUCAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781934081-0-0-ca25889503b9408345f8bc8c9b553da4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/6a5ffc9fac7412d366531f692bae801d.png",11:00 WIB 20/06 Cooks Hill United vs Weston Workers FC [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781934081-0-0-4d3d174659147610ac64a362e043c39c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/6a5ffc9fac7412d366531f692bae801d.png",11:00 WIB 20/06 Cooks Hill United vs Weston Workers FC [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781934081-0-0-ada635fae01ec38a2a2f8f5b80cd826e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/6a5ffc9fac7412d366531f692bae801d.png",11:00 WIB 20/06 Cooks Hill United vs Weston Workers FC [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781934081-0-0-2f96a98eefc54f6f04ae2e7ee90ab580
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/777.png",10:00 WIB 20/06 Türkiye vs Paraguay (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",05:00 WIB 20/06 Scotland vs Morocco (Hội Quán) HD 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/777.png",10:00 WIB 20/06 Türkiye vs Paraguay (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",05:00 WIB 20/06 Scotland vs Morocco (Hội Quán) SD 
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/777.png",10:00 WIB 20/06 Türkiye vs Paraguay (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",05:00 WIB 20/06 Scotland vs Morocco (Hội Quán) FHD 
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/777.png",10:00 WIB 20/06 Türkiye vs Paraguay (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",05:00 WIB 20/06 Scotland vs Morocco (Hội Quán) HD 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/777.png",10:00 WIB 20/06 Türkiye vs Paraguay (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",05:00 WIB 20/06 Scotland vs Morocco (Hội Quán) SD 
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/777.png",10:00 WIB 20/06 Türkiye vs Paraguay (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80",05:00 WIB 20/06 Scotland vs Ma Rốc
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80",10:00 WIB 20/06 Thổ nhĩ kỳ vs Paraguay
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/87547578.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/basketball/team/12e9ecb23853b22284862b0002431e14.png!w80",11:00 WIB 20/06 Auckland Huskies vs Bay Hawks
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/87379114.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/4115cad66f03ae616df1952b3c2fa17e.png!w80",11:00 WIB 20/06 Hume City vs Green Gully
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/99121525.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/a58223bbf9e0578395899d482403dc9a.png!w80",11:30 WIB 20/06 Robina City vs Logan Lightning
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.msdht.app/live/75915087.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/d287684146235d2fddb92f71d78fba02.png!w80",12:00 WIB 20/06 WS Wanderers U21 vs Sutherland Sharks
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/basketball/team/616c37f8e35a1c33a4766dbc86c0ca3a.png!w80",06:30 WIB 20/06 Connecticut Sun vs Toronto Tempo
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/ff2e694966de559719f778b5c79ea2ad.png!w80",12:00 WIB 20/06 Avondale FC vs Dandenong Thunder
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80",06:30 WIB 20/06 New York Liberty vs Washington Mystics
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/82054853.m3u8
+https://live05.msdht.app/live/90725470.m3u8
