@@ -17,14 +17,11 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",23:30 | Thổ Nhĩ Kỳ vs Đức
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",05:00 | Scotland vs Morocco
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",07:30 | Brazil vs Haiti
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",07:30 | Brazil vs Haiti
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/777.png",10:00 | Türkiye vs Paraguay
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/777.png",10:00 | Türkiye vs Paraguay
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/17264.png",18:30 | Hebei Kungfu vs Shanghai Shenhua
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
@@ -32,32 +29,35 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/25839.png",19:00 | Chengdu Rongcheng II vs Yichun Grand Tiger
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",07:00 | Ecuador vs Curaçao
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1108.png",Scotland vs Morocco
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/777.png",Türkiye vs Paraguay
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1108.png",Scotland vs Morocco
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPX-DYhJMgRH-1uxHN-qrv3wUzuWSqqSgvRigQH2lkL8NS6FN",smackdown vs smackdown
-https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/6.png",Brazil vs Haiti
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/777.png",Türkiye vs Paraguay
 https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/6.png",Brazil vs Haiti
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/zoIpbvHG-W6UqXKEA.png",USA W - Italy W
+https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/pWVxGjFa-zLx3xGjj.png",Thailand W - Canada W
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/byFAJXzS-vBKZiE2j.png",Turkey W - Germany W
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png",Netherlands vs Sweden
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2382.png",Ecuador vs Curaçao
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 1)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",Tập 1
 https://vip.opstream15.com/20230414/37767_4a795191/index.m3u8
@@ -590,41 +590,47 @@ http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGZ3jVwbodnd-XsYnXY4nccw
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://img.vtvprime.vn/8EDc4aHKZhga3-JQ72NQf06cwtefrcE_jgxUPiKUA_E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjk2OTYyYTktOWIwNy00YThmLWE5ZWUtYzY0NmY4YWI2M2Y1LnBuZw==.png",SCTV22
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGXCZRCXXdXK70orNkdxHd9s/ts
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV MÃ SIÊU m3u
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV DƯƠNG CHÍ m3u
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV MÃ SIÊU flv
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV DƯƠNG CHÍ flv
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV TÔN LẬP m3u
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV TÔN LẬP flv
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV YẾN THANH flv
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV LÃO HẠC m3u
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV LÃO HẠC flv
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV VÕ TÒNG m3u
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV VÕ TÒNG flv
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV TÀO THÁO m3u
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkey vs Paraguay (Lương Sơn) BLV TÀO THÁO flv
+https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Lambton Jaffas FC vs Adamstown Rosebuds FC (Lương Sơn) BLV LÝ ỨNG m3u
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV LÝ ỨNG flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Lambton Jaffas FC vs Adamstown Rosebuds FC (Lương Sơn) BLV LÝ ỨNG flv
 https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV LEO m3u
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV LEO flv
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV VƯƠNG LUÂN flv
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV LÝ QUỲ m3u
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Lương Sơn) BLV LÝ QUỲ flv
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -640,54 +646,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 20/06 Brazil vs Haiti (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 20/06 Brazil vs Haiti (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 20/06 Brazil vs Haiti (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 20/06 Brazil vs Haiti (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 20/06 Brazil vs Haiti (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 20/06 Brazil vs Haiti (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/angao.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 20/06 Brazil vs Haiti (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 20/06 Brazil vs Haiti (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Türkiye vs Paraguay (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
@@ -713,6 +671,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Türkiye vs Paraguay (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Hume City vs Green Gully (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Hume City vs Green Gully (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 20/06 Avondale vs Dandenong Thunder (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 20/06 Avondale vs Dandenong Thunder (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 20/06 USA W vs Italy W (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
 
@@ -737,6 +707,42 @@ https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 20/06 Netherlands W vs Poland W (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 20/06 Wuxi Wugou vs Qingdao Jonoon (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 20/06 Wuxi Wugou vs Qingdao Jonoon (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 20/06 Wuxi Wugou vs Qingdao Jonoon (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 20/06 Wuxi Wugou vs Qingdao Jonoon (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 20/06 Hebei Kungfu vs Shanghai Shenhua (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 20/06 Hebei Kungfu vs Shanghai Shenhua (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 20/06 Hebei Kungfu vs Shanghai Shenhua (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 20/06 Hebei Kungfu vs Shanghai Shenhua (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 20/06 Japan W vs Dominican Republic W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 20/06 Japan W vs Dominican Republic W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 20/06 Japan W vs Dominican Republic W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 20/06 Japan W vs Dominican Republic W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenys vs Irtysh (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 
@@ -749,6 +755,18 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",20h00 ngày 20/06 Zhenys vs Irtysh (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -758,222 +776,315 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=7dea7b7bd507e1776c151155439d45a8&txTime=6a3619f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1781931201-0-0-00b0d23794ae9e551791f9fc435d8a88
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=23a616f0d089dd1571ef45775f771e1d&txTime=6a3619f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781931201-0-0-56046a78c1d8da19447c6cfb9610f828
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=7dea7b7bd507e1776c151155439d45a8&txTime=6a3619f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781931201-0-0-e42a563f466b8bf5f099bc1f4a58654f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=23a616f0d089dd1571ef45775f771e1d&txTime=6a3619f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781931201-0-0-79a2c4f7b4a6b75f1de839ae83100f7f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [CR Bưởi] (Socolive) flv
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=5c6c75aff5414d998286aa2eea9036bc&txTime=6a3619f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) flv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1781931201-0-0-9f0b893fcbfe349ab45768992e612ef5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [CR Bưởi] (Socolive) hdFlv
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=cf5a609b149bffe9f4736733bb1e1a27&txTime=6a3619f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781931201-0-0-05cf2746979b01d7b49e8d5330a9d9a5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=5c6c75aff5414d998286aa2eea9036bc&txTime=6a3619f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781931201-0-0-e1015e817bb05f511eb93f1406746a68
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=cf5a609b149bffe9f4736733bb1e1a27&txTime=6a3619f1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781931201-0-0-e154426a68470af724ed403c2ab13348
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) flv
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1781912481-0-0-9dc028610531537d77f7d14659143050
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) flv
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=ac745f948cef1278ee29d2578dbdaceb&txTime=6a366311
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781912481-0-0-dbf1e51d462261d352c91bdce829799e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=aabfd978e05374455914f7ee668a040f&txTime=6a366311
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1781912481-0-0-035ebfa9892a964ccd12a9e5c863a155
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=ac745f948cef1278ee29d2578dbdaceb&txTime=6a366311
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781912481-0-0-9dba8264e33c8ade1c2af6828d73c96a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=aabfd978e05374455914f7ee668a040f&txTime=6a366311
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Audax Italiano vs Deportes Santa Cruz [BLV A WIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1781912481-0-0-2c67de692835fd1474be433d4977b904
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Hume City vs Green Gully Cavaliers [XUÂN SON] (Socolive) flv
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=f999e9a3d56649f506d7ed8c23914d8c&txTime=6a366311
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Audax Italiano vs Deportes Santa Cruz [BLV A WIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1781912481-0-0-0dc1d22ee6c048424cca8fa59bd6132d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Hume City vs Green Gully Cavaliers [XUÂN SON] (Socolive) hdFlv
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=ed90b3063710d6a4a2bdfaa1dc97a7cc&txTime=6a366311
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Audax Italiano vs Deportes Santa Cruz [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781912481-0-0-14d676e1ec65076daed8af421cdd6555
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Hume City vs Green Gully Cavaliers [XUÂN SON] (Socolive) m3u8
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=f999e9a3d56649f506d7ed8c23914d8c&txTime=6a366311
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Audax Italiano vs Deportes Santa Cruz [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781912481-0-0-8697654a45fbb82d70a7572f1728a4c2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Hume City vs Green Gully Cavaliers [XUÂN SON] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=ed90b3063710d6a4a2bdfaa1dc97a7cc&txTime=6a366311
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Audax Italiano vs Deportes Santa Cruz [BLV A TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1781912481-0-0-3d019e3858d651184f3663f59558e83b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1781931201-0-0-50e68323355225e5446c47fe2d37e795
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Audax Italiano vs Deportes Santa Cruz [BLV A TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781912481-0-0-84a06ebe266754321cd86e247a52a826
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781931201-0-0-780997017bff734941451f28b013cc1d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Audax Italiano vs Deportes Santa Cruz [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781912481-0-0-15791c0ad282d3d6e8e3451b7772f2f9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1781931201-0-0-8213730092da02ce2e7682c78bdc4acc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Audax Italiano vs Deportes Santa Cruz [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781912481-0-0-a5357030151a8477d6cb0c3c7e2374e7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781931201-0-0-557d89898a15e6047e5013ce30ba2c44
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV COCA] (Socolive) flv
-https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=26912947798ba3bc443f9c2c3901dd14&txTime=6a361b59
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1781931201-0-0-da2f6c71c0dd81bec9be79aab17db80b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV COCA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=1614cfa2f6eef0cf16330320b4898473&txTime=6a361b59
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781931201-0-0-378ef06e00ddcdd967c6f801783ce302
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV COCA] (Socolive) m3u8
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=26912947798ba3bc443f9c2c3901dd14&txTime=6a361b59
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1781931201-0-0-f853a2f950f18a02889177628f8d8cc2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV COCA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=1614cfa2f6eef0cf16330320b4898473&txTime=6a361b59
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1781931201-0-0-220fdd31e74b15ee07690cc7f6e2639d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=a32cb58b0d573180b8e9bb11506c3721&txTime=6a361b59
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1781931201-0-0-e12d85229c039c0011f40a11b62e0c81
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=ffecc4c25aeb8ee0a05c1fb0d63b53d6&txTime=6a361b59
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781931201-0-0-3463d031c6e59687926bfcd8e9a9b873
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=a32cb58b0d573180b8e9bb11506c3721&txTime=6a361b59
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1781931201-0-0-4e984cbe8d5a3c8b169f3ecfac6a298c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=ffecc4c25aeb8ee0a05c1fb0d63b53d6&txTime=6a361b59
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [A BỆU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1781912841-0-0-9602785a94b8b74c4dadf1bb9e64f8bb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [A BỆU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781912841-0-0-3559cf2d4329370657bb3857cae54f03
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781912841-0-0-c79406e1070dbf9c56be77457e3a4f36
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781912841-0-0-a3c9b35f346ef8b2f3ad6f0712e6bbb2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV Củ Cải] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1781912841-0-0-b218b4519a69b0c9d91c4dbd9518035a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV Củ Cải] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781912841-0-0-5d15122f777b6d4947688361ce0b410d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781912841-0-0-81836faba4915e5ad1e288e35ef68f58
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781912841-0-0-a15679ecc50096eb8ea6d9b2bff64f5b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [DECO] (Socolive) flv
-https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=e5eb21ac494bf459e2112000a504bee5&txTime=6a361b59
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [DECO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=b2da9c7120eeb0a48334079e6002a0cf&txTime=6a361b59
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [DECO] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=e5eb21ac494bf459e2112000a504bee5&txTime=6a361b59
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [DECO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=b2da9c7120eeb0a48334079e6002a0cf&txTime=6a361b59
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Westchester SC vs Portland Hearts of Pine [BLV CHIVAS] (Socolive) flv
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=21aeda549032e6aef1674430f29ae64a&txTime=6a361b59
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Westchester SC vs Portland Hearts of Pine [BLV CHIVAS] (Socolive) hdFlv
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=344ae4d919fe20af0cb2a09951822e0d&txTime=6a361b59
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Westchester SC vs Portland Hearts of Pine [BLV CHIVAS] (Socolive) m3u8
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=21aeda549032e6aef1674430f29ae64a&txTime=6a361b59
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Westchester SC vs Portland Hearts of Pine [BLV CHIVAS] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=344ae4d919fe20af0cb2a09951822e0d&txTime=6a361b59
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 20/06 Golden State Valkyries W vs Minnesota Lynx W [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1781931201-0-0-a5fe98b74c639a1ea1d81398c4adfc30
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781912841-0-0-144b74a67a01f40adffea79b30cf0b4a
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1781931201-0-0-d92f49cfc95a620e8e54e0e698413391
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781912841-0-0-844a4772f0bd8f7d52b0d815cc0a109b
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781931201-0-0-e78e933fb3465bedd00103643a0781ee
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781912841-0-0-a2eeba65de67c22112bb33e70c25ce03
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781931201-0-0-01a83197b3d3dcaa6ecfb54bb2112c21
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781912841-0-0-e9e59a170b6fe95d55f83a8f2a9ab86c
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781931201-0-0-51612a5fdb875efd4139a38ffece925e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [NGƯỜI CÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1781913201-0-0-2034ee374e0fb36aba7175fb8a34b72c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1781931561-0-0-a1b65a070a7206d7917d98f0a600871e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [NGƯỜI CÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781913201-0-0-ab3ed4b2beb6823e4e6e1f72414cb24c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781931561-0-0-256e7b1e9c974c7f058983e2ea5c7788
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1781913201-0-0-916b7fc89597c85ae0d592034f69a185
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1781931561-0-0-edaee5066493898b8cd20938c0d31269
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781913201-0-0-e0d2a795a3c99e67285c8b1102b0378a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1781931561-0-0-bd31c9e959beb6d47b64aa59b9fd49b2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1781913201-0-0-d58300e4e99a5ae9eed5ccb868350cf7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV COCA] (Socolive) flv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1781931561-0-0-46d8d5f888c38df15b9eacd10ba3bca5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781913201-0-0-94348a9544964846aeb33e632fe1ca4e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781931561-0-0-5dd528abd01b47e2e5d94112a20cfb42
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781913201-0-0-ff281a91ee4b59adcc82b858edb28912
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781931561-0-0-dba54d990f1adbd77c905245f880211e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781913201-0-0-6cca6034a78a0c9748d68e46774f12c8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781931561-0-0-19214328ccdf06b6d08a57d1b4961812
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV ENZO] (Socolive) flv
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1781913201-0-0-0b1e014522e66642212b34dce67ba4cc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV TOMMY] (Socolive) flv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1781931561-0-0-5fb58161eace41046b2387b5b650d5cf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV ENZO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781913201-0-0-3d4bbb4457e04353ae60dc1216935028
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV TOMMY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1781931561-0-0-adbdea39609c763f67ba3590a3137552
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV ENZO] (Socolive) m3u8
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781913201-0-0-4da77fffa1edb4f92c21c56157004f96
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV TOMMY] (Socolive) m3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1781931561-0-0-2a010b7b74575783c1cca1bcdd418bce
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [BLV ENZO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781913201-0-0-9a4e699602aec96b60c5c81169d5e446
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1781931561-0-0-15003adee8cd416bb9e86ba0a5b83beb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [RICKHANTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1781913201-0-0-579625637daa0108c1e66c77d287689d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) flv
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=52d6c083dcdef8d1158aaf32646d9e0d&txTime=6a366479
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [RICKHANTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781913201-0-0-c99aac10a25eb766d36b258fb527e9bb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=b0616555542106dd03a90c6973fdc883&txTime=6a366479
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [RICKHANTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781913201-0-0-e406f093d98cc488995200e116cea3ef
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=52d6c083dcdef8d1158aaf32646d9e0d&txTime=6a366479
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 20/06 Scotland vs Morocco [RICKHANTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781913201-0-0-6067ca9263a3b189c43af8fa3d671d03
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=b0616555542106dd03a90c6973fdc883&txTime=6a366479
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Westchester SC vs Portland Hearts of Pine [BLV PICK] (Socolive) flv
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1781913201-0-0-a29d16e7dc8228eafd1fca0b21bfbf7b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [CR Bưởi] (Socolive) flv
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=0bab7859a119312ced0332d57ed9f3c4&txTime=6a366479
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Westchester SC vs Portland Hearts of Pine [BLV PICK] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1781913201-0-0-00e78ae18d964a9f0e24ea28ae7eb435
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [CR Bưởi] (Socolive) hdFlv
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=87b85f99bf0cbbc14875acb02e921db8&txTime=6a366479
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Westchester SC vs Portland Hearts of Pine [BLV PICK] (Socolive) m3u8
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781913201-0-0-fb7ba38189284c0a750d820964adadfc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=0bab7859a119312ced0332d57ed9f3c4&txTime=6a366479
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 20/06 Westchester SC vs Portland Hearts of Pine [BLV PICK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781913201-0-0-6a3040d49198431077789ecbada9f7f0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=87b85f99bf0cbbc14875acb02e921db8&txTime=6a366479
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 20/06 Scotland vs Morocco (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Cooks Hill United vs Weston Workers FC [BLV A WIN] (Socolive) flv
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1781931561-0-0-b4e7b45c6ceef86256b96ea9c9302b90
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 20/06 Scotland vs Morocco (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Cooks Hill United vs Weston Workers FC [BLV A WIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1781931561-0-0-815833597b1f787c02d6a2098e36a350
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 20/06 Scotland vs Morocco (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Cooks Hill United vs Weston Workers FC [BLV A WIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781931561-0-0-7ad3205d2e18dda11935b445bb05bbf1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 20/06 Scotland vs Morocco (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Cooks Hill United vs Weston Workers FC [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781931561-0-0-1fd5d2452b2ece69db4576cddfb2234a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 20/06 Scotland vs Ma Rốc
-https://live05.msdht.app/live/78905744.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Hume City vs Green Gully Cavaliers [BLV NẤM] (Socolive) flv
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1781931561-0-0-cbc43cedef10f3fb967fc2c36813811d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Hume City vs Green Gully Cavaliers [BLV NẤM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781931561-0-0-02278afd49d273c475030546983131c0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Hume City vs Green Gully Cavaliers [BLV NẤM] (Socolive) m3u8
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1781931561-0-0-21cd5b64b2e9316d45540a8a7a83d292
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Hume City vs Green Gully Cavaliers [BLV NẤM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1781931561-0-0-b8402f314b65034e4a90cc28e3b22f9d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [BLV CÁP] (Socolive) flv
+https://pull06.scstream.net/live/stream-610677_lsd.flv?auth_key=1781931561-0-0-801f39f08b206cc09334f89c68f74812
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [BLV CÁP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1781931561-0-0-eeb434d619686aac9263e6779fcca521
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [BLV CÁP] (Socolive) m3u8
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781931561-0-0-a20f0e8edb49d801b5ae5372c76f85fe
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [BLV CÁP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781931561-0-0-7e5c2c32fa6550a7ad44af84a7e6213a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 20/06 Canberra Olympic vs Monaro Panthers [BLV PICK] (Socolive) flv
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1781931561-0-0-7e1c744c0d86f6cf5cd3de9a5a51f170
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 20/06 Canberra Olympic vs Monaro Panthers [BLV PICK] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1781931561-0-0-1fe328fc4c166f4a1bd3a9bc4658dff7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 20/06 Canberra Olympic vs Monaro Panthers [BLV PICK] (Socolive) m3u8
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1781931561-0-0-995149cb31414bcfde8cfc3457cd7c05
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 20/06 Canberra Olympic vs Monaro Panthers [BLV PICK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781931561-0-0-b86d95190aa74a2ab944199c3b406a23
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV TAP] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1781931921-0-0-f13e92992bf9970ff6b35a9d410b9c00
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV TAP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781931921-0-0-13d37e5be46d213b6d2dbc1c70dccb3a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV TAP] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781931921-0-0-b72f4bc879910b40191f17a5b00205eb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV TAP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781931921-0-0-a62f0a220aaab4c3146587c2b4eeda28
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [RICKHANTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1781931921-0-0-cc7cfcc866cccbe9a691114a79b17fe0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [RICKHANTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781931921-0-0-0e6ad43fcf7393e28cfcf0db582af8e0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [RICKHANTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781931921-0-0-6a97821539c2025e95f061ab0ca74da2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [RICKHANTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781931921-0-0-2afb7f548fe39cc567b4295fc8bcc422
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV MESSI] (Socolive) flv
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=f16c23ef271f5d59505b27bc50d87f62&txTime=6a3665e1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV MESSI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=be1b7d411473ea737cf7d311d4064529&txTime=6a3665e1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV MESSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=f16c23ef271f5d59505b27bc50d87f62&txTime=6a3665e1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [BLV MESSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=be1b7d411473ea737cf7d311d4064529&txTime=6a3665e1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [A BỆU] (Socolive) flv
+https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=45bcaf79f0952fcd9f8fa73ba9dadb3d&txTime=6a3665e1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [A BỆU] (Socolive) hdFlv
+https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=3840af2617858430c1da10acd6cce9af&txTime=6a3665e1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [A BỆU] (Socolive) m3u8
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=45bcaf79f0952fcd9f8fa73ba9dadb3d&txTime=6a3665e1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 20/06 Turkiye vs Paraguay [A BỆU] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=3840af2617858430c1da10acd6cce9af&txTime=6a3665e1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Cooks Hill United vs Weston Workers FC [BLV LUCAS] (Socolive) flv
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1781931921-0-0-7618e1550242da5bd14fd276765e2bd1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Cooks Hill United vs Weston Workers FC [BLV LUCAS] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781931921-0-0-a48a1bfa3a9d19314deb8a563e80b62e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Cooks Hill United vs Weston Workers FC [BLV LUCAS] (Socolive) m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1781931921-0-0-3777ba63b0c2e47f685b4380f33b6023
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Cooks Hill United vs Weston Workers FC [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781931921-0-0-80455044f04ce05ae1184b770eeb092e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [CHÍ PHÈO] (Socolive) flv
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1781931921-0-0-7a69bc2c9aa1a438696a6791d7665382
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [CHÍ PHÈO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781931921-0-0-87fbb5be87537c5e4f31b28bcd84c181
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [CHÍ PHÈO] (Socolive) m3u8
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781931921-0-0-8cd03ee9b7fc06027540320eb1751ae7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 20/06 Lambton Jarvis vs Adamstown Rosebuds FC [CHÍ PHÈO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781931921-0-0-0c7f39cbb1021bb7bebdb66953026b2f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 20/06 Canberra Olympic vs Monaro Panthers [QUỐC KHÁNH] (Socolive) flv
+https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1781931921-0-0-a3a28ea1845f7d2943931bed046e94cd
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 20/06 Canberra Olympic vs Monaro Panthers [QUỐC KHÁNH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781931921-0-0-a0ddca8c501460917874b113556c8e06
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 20/06 Canberra Olympic vs Monaro Panthers [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781931921-0-0-4a2d7078f93987448415aac179b04026
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 20/06 Canberra Olympic vs Monaro Panthers [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781931921-0-0-8aa15d2d4bd8d7758f5342239f99cecf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 20/06 Türkiye vs Paraguay (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 20/06 Türkiye vs Paraguay (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 20/06 Türkiye vs Paraguay (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 20/06 Türkiye vs Paraguay (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 20/06 Thổ nhĩ kỳ vs Paraguay
+https://live05.msdht.app/live/87547578.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 20/06 Golden State Valkyries vs Minnesota Lynx
+https://live05.msdht.app/live/90865415.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 20/06 Auckland Huskies vs Bay Hawks
+https://live05.msdht.app/live/87379114.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 20/06 Hume City vs Green Gully
+https://live05.msdht.app/live/99121525.m3u8
 
