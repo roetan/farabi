@@ -1,12 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",07:00 | Ecuador vs Curaçao
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/145.png",21:00 | Avai vs Cuiaba
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",07:00 | Ecuador vs Curaçao
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2382.png",Ecuador vs Curaçao
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png",13:00 | Bulgaria vs Ukraina
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 5
 https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8
@@ -23,9 +20,6 @@ https://vip.opstream16.com/20230414/33882_44deb9a8/index.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",Cuốc Xe Âm Phủ - Tập 1
 https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",Cuốc Xe Âm Phủ - Tập 2
-https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8
-
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",Cuốc Xe Âm Phủ - Tập 3
 https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8
 
@@ -41,219 +35,123 @@ https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",Thỏ Ơi
 https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao (Lương Sơn) BLV LÝ QUỲ m3u
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Blacktown City Demons vs A.P.I.A. Leichhardt Tigers (Lương Sơn) BLV LIO m3u
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao (Lương Sơn) BLV YẾN THANH m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Wollongong Wolves vs Sydney FC (Youth) (Lương Sơn) BLV YẾN THANH m3u
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao (Lương Sơn) BLV VƯƠNG LUÂN m3u
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 21/06 Sydney United vs SD Raiders FC (Lương Sơn) BLV SHIN m3u
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao (Lương Sơn) BLV TÔN LẬP m3u
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782024441-0-0-882d88a2f4a933b305f66588e0f15a30
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao (Lương Sơn) BLV TÀO THÁO m3u
-https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782024441-0-0-de2345aa3fa82f3af5603cd09f654c76
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao (Lương Sơn) BLV LÃO HẠC m3u
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV BÉO] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=a97fa377695a31bf805020de994af218&txTime=6a37cf49
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 21/06 Brooklyn FC vs Tampa Bay Rowdies (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV BÉO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ba82aa01b97f40740498ba578a36ae58&txTime=6a37cf49
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [BLV COZY] (Socolive) m3u8
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=cc3d0c95c4e7abcb5bf236684f0a9670&txTime=6a377c51
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782024441-0-0-3e200ea9d291bb035497ccc13407367f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [BLV COZY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=ae817d5bc64b4e22bd4b4da555919a27&txTime=6a377c51
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782024441-0-0-d6088dcaa0e160fe36fab7f14ee6276c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782003201-0-0-20cb7ac22589926d4e51872047f71c04
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 21/06 Sydney United 58 FC vs SD Raiders FC [BLV CÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1782024441-0-0-4e44eaf3e2c313cb08f159bf2ca39835
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782003201-0-0-b1662718380acd4b8e5d38a5f84c2a5b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 21/06 Sydney United 58 FC vs SD Raiders FC [BLV CÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782024441-0-0-bccc86bfed875fa2b6cea9b3f4e872c0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [LÃO LÂM] (Socolive) m3u8
-https://pull.niur.live/live/stream-527384_lsd.m3u8?txSecret=6940cf0b2119028b99ca4a8f8c139a16&txTime=6a377c51
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Wollongong Wolves vs Sydney FC Youth [BLV KAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=b572bb289e60d7f5b61711adcab99654&txTime=6a37cf49
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=0177c179a719737b3b8ed1e0b4666d3f&txTime=6a377c51
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Wollongong Wolves vs Sydney FC Youth [BLV KAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=1ac7fc096541e0d5a8ee6559d543b0dc&txTime=6a37cf49
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782003201-0-0-1b44fb95428437b020ee586debe03edf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=e2bbd01662dcb0a0e8980c0ee71a5559&txTime=6a37d0b1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782003201-0-0-dab599419d00262bdddabf27b498c049
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 21/06 Tunisia vs Japan [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=677b3943f43ce34b680e4b0ff3d48b9a&txTime=6a37d0b1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782003201-0-0-3825272defd0f1e5954d074881b18a1e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782024801-0-0-5a03229f8aaf066f23c96963b2a0fb41
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782003201-0-0-e3a57ea34f5ec28e3bf1881609418cae
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 21/06 Brisbane Olympic United FC vs Peninsula Power [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782024801-0-0-6d3a55ff35d6fa63d7e034fe60cfe819
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV RYO] (Socolive) m3u8
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782003201-0-0-7f055babe2708bc2860e73979b104275
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Blacktown City Demons vs APIA Leichhardt Tigers [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782024801-0-0-b3e8e4b2bb1f0c059ba0e14565fcf6fe
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV RYO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782003201-0-0-49d270b579c35b979bc56bc96166874e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Blacktown City Demons vs APIA Leichhardt Tigers [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782024801-0-0-78123961aa0feff79f7e5954fbf2789c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Vaqueros de Bayamon vs Criollos de Caguas [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782003201-0-0-8f831ff9e226c6f8df598b40b7ae57f7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 21/06 Sydney United 58 FC vs SD Raiders FC [BLV A TINH] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=de5a35e7670ca796d1fec1952a6013b4&txTime=6a37d0b1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Vaqueros de Bayamon vs Criollos de Caguas [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782003201-0-0-ac99b1fa116577c41f027882a40858a1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 21/06 Sydney United 58 FC vs SD Raiders FC [BLV A TINH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=5f4cae350b40b3d784c356520c8bc35b&txTime=6a37d0b1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Indios de Mayaguez vs Aguada Santeros [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782003201-0-0-36263d43e77a085aa190fda233d96a11
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Blacktown City Demons vs APIA Leichhardt Tigers [BLV LONG] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=7b8fc76ea0a5b46821c7f830e49dbe4d&txTime=6a37d0b1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Indios de Mayaguez vs Aguada Santeros [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782003201-0-0-2e37aab078b0f94e65ed411a1752a472
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Blacktown City Demons vs APIA Leichhardt Tigers [BLV LONG] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=c215645e3ee98670fdaf87dc32c5db89&txTime=6a37d0b1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV KAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=c492dd3cfd680d7707719452f6a05663&txTime=6a377c51
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Marconi Stallions vs University NSW [KÉP] (Socolive) m3u8
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782024801-0-0-9ed5ad06d516d7addcc02dec8676b29c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV KAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=1b54954623227118058c27a711c4eeab&txTime=6a377c51
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Marconi Stallions vs University NSW [KÉP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782024801-0-0-7f028c236f25ad1f42dfa5d5acddf268
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=5f258801b77aa2b736ed61cf8d8aca41&txTime=6a377db9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Kahibah FC vs Charleston City Blues [QUÂN JK] (Socolive) m3u8
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782024801-0-0-6d34baaf12f9a86e654324eadd1f650f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=a8a3f0431de0da469824ca812eac0b5a&txTime=6a377db9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Kahibah FC vs Charleston City Blues [QUÂN JK] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782024801-0-0-6754ecce415093a7bcf5550fde5e1c81
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [BLV TAP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1782003561-0-0-126a13693cbee5ae4aa27153a3c346da
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Marconi Stallions vs University NSW [BLV ANH TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782025161-0-0-82db8eaa539d3b4f746604f50b54bf71
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [BLV TAP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1782003561-0-0-666e22d4873ee61e6574bde1ce19999b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Marconi Stallions vs University NSW [BLV ANH TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782025161-0-0-85f04caf59ac6ceffaa281608e03738b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1782003561-0-0-8196076c654dcc914772da6b396a2958
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Kahibah FC vs Charleston City Blues [XUÂN TÓC ĐỎ] (Socolive) m3u8
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=16ff8a07fb5426e7bd737709fc62d058&txTime=6a37d219
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 21/06 Vila Nova vs Nautico (PE) [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782003561-0-0-d2a8489b1a21a71e030160259127d71e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782003561-0-0-20688df6b3b72c1f1ee4cebb339d34f2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782003561-0-0-0cf894e926d37fa237e235d4202eebb6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LION] (Socolive) m3u8
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782003561-0-0-1a93f78de3187a229c25b7914541be32
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LION] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782003561-0-0-af703166cb25aa6c1ab05e7d45bfac0d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 21/06 Kahibah FC vs Charleston City Blues [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=d705cbe64f0ae85c3ac9d4817fc28db4&txTime=6a37d219
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782003561-0-0-1261c32634a6c837909c80734c534651
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782025161-0-0-d06d702bc5eae0e976cfa4a108836614
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782003561-0-0-3d919728183c1ad974bac9cf02d0b318
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782025161-0-0-3bbd75e36eb91feec837c1b68b2aeee8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [BLV Củ Cải] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=c1379fb7506763367dc85439f2ebefea&txTime=6a377f21
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Netherlands vs Sweden [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782025161-0-0-de04db145a4215bb863dbb3c6ea519c4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=365efec4d27a4aceda241c26c433ae1d&txTime=6a377f21
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Netherlands vs Sweden [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782025161-0-0-e8f566cdb6ad6cc00be75dc9f4fe3c9b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782003921-0-0-01c1dedfca97c6c276ffe01ba2ad7d8d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 21/06 Serbia vs Mỹ (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782003921-0-0-362e5e4d16a70f9b8029a597444696f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 21/06 Serbia vs Mỹ (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782003921-0-0-a5e3672dd4af2852a0231c5b4604816b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 21/06 Bulgaria vs Ukraina (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782003921-0-0-dfc80ecff6e843e54bf1e83fb37b7429
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 21/06 Bulgaria vs Ukraina (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782003921-0-0-92c93fdd8beb05b4a724bfbdc41fbbe6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782003921-0-0-8da28b3bd329e85edb63dd2f7f6892ec
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [HẢI THANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-599634_lsd.m3u8?txSecret=622d9541b0e63f46e42aea4b0de0ac1f&txTime=6a377f21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Ecuador vs Curacao [HẢI THANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-599634_lhd.m3u8?txSecret=acbf804aae89aea173de7c9071370d7d&txTime=6a377f21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 21/06 Brooklyn FC vs Tampa Bay Rowdies [XUÂN SON] (Socolive) m3u8
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=ed5b90d2256f7c2dc00de3b266293f2d&txTime=6a377f21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 21/06 Brooklyn FC vs Tampa Bay Rowdies [XUÂN SON] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=c9d6ae56e6b257954515f79a952340c7&txTime=6a377f21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782003921-0-0-2fa0f65b5f900576777fa3fa07e2b227
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Dallas Wings W vs Chicago Sky W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782003921-0-0-4436c41244ee9fccad2c765849988a7f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",NZBL: Auckland Tuatara vs Bay Hawks [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782003921-0-0-72b6554da2bc74dc7cc9419b32680858
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",NZBL: Auckland Tuatara vs Bay Hawks [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782003921-0-0-f13b0024d4d317bf5c2dd033da9e7f9d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782003921-0-0-5d80e6901ec5bb82404f85138d49a98e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 21/06 Hartford Athletic vs Pittsburgh Riverhounds [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782003921-0-0-bb1852d55cf4db22001087a3eca70e26
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 21/06 Brooklyn FC vs Tampa Bay Rowdies [BLV A TINH] (Socolive) m3u8
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=3949463459a29fb97c6963519bed0be2&txTime=6a377f21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 21/06 Brooklyn FC vs Tampa Bay Rowdies [BLV A TINH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=98a5f4d270da5a145d77f6d10ed6d0f7&txTime=6a377f21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",USA MLSRv Colorado Rapids II Portland Timbers Reserve [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782003921-0-0-4cef754a2f1f6b7d0fcee27edd176ebe
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",USA MLSRv Colorado Rapids II Portland Timbers Reserve [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782003921-0-0-9b4d3e62812e1e5b537f1630e587d610
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV CHIVAS] (Socolive) m3u8
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=54f929cc6e8b3f16d744687fe3f27dfb&txTime=6a377f21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV CHIVAS] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=be70d95a1f57e40b54229c30d75bf541&txTime=6a377f21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782003921-0-0-1a7b0630f2797fb4f168d0f23a921ea8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Colorado Rapids II vs Portland Timbers Reserve [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782003921-0-0-f5a9a0948a16d6fcde366d52e414ec66
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV PICK] (Socolive) m3u8
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1782003921-0-0-72294ab06934da3fbc4a0b37aa0ece67
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 21/06 Birmingham Legion vs Loudoun United [BLV PICK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782003921-0-0-50bd41887e9b964144bd4c0a11ceac35
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 21/06 FC Tulsa vs Colorado Springs [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=f4497d687c0d8d67c598a0789c2a5b86&txTime=6a377f21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 21/06 FC Tulsa vs Colorado Springs [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=40557d30e5e3c8f4a214fc8daf240e5d&txTime=6a377f21
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 21/06 Ecuador vs Curaçao (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 21/06 Ecuador vs Curaçao (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 21/06 Ecuador vs Curaçao (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 21/06 Ecuador vs Curaçao (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 21/06 Ecuador vs Curacao
-https://live05.apusport.com/live/82054853.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 21/06 Olympic FC vs Peninsula Power
+https://live05.apusport.com/live/75915087.m3u8
 
