@@ -1,28 +1,40 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers (Lương Sơn) BLV LƯU BỊ m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68857_1jzemmtft2v.png",17:00 WIB 21/06 Belshina (W) vs Dnepr Mogilev (W) (Lương Sơn) BLV FERNANDO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers (Lương Sơn) BLV LƯU BỊ flv
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68857_1jzemmtft2v.png",17:00 WIB 21/06 Belshina (W) vs Dnepr Mogilev (W) (Lương Sơn) BLV FERNANDO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers (Lương Sơn) BLV TÔN LẬP m3u
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/60678_1h4azdfsg32z.PNG",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno (Lương Sơn) BLV LEO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/60678_1h4azdfsg32z.PNG",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno (Lương Sơn) BLV LEO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/60678_1h4azdfsg32z.PNG",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno (Lương Sơn) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/60678_1h4azdfsg32z.PNG",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno (Lương Sơn) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68857_1jzemmtft2v.png",17:00 WIB 21/06 Belshina (W) vs Dnepr Mogilev (W) (Lương Sơn) BLV TÀO THÁO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/68857_1jzemmtft2v.png",17:00 WIB 21/06 Belshina (W) vs Dnepr Mogilev (W) (Lương Sơn) BLV TÀO THÁO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18792_1hy7xtfwac24.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun (Lương Sơn) BLV TÔN LẬP m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers (Lương Sơn) BLV TÔN LẬP flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18792_1hy7xtfwac24.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun (Lương Sơn) BLV TÔN LẬP flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers (Lương Sơn) BLV KEVILL m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18792_1hy7xtfwac24.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun (Lương Sơn) BLV GẤU KA m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/11673_1gryyqvhkg2.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers (Lương Sơn) BLV KEVILL flv
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/18792_1hy7xtfwac24.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun (Lương Sơn) BLV GẤU KA flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12874_1gskkb8he46.png",14:00 WIB 21/06 St Albans Saints vs Altona Magic (Lương Sơn) BLV KAKA m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/12874_1gskkb8he46.png",14:00 WIB 21/06 St Albans Saints vs Altona Magic (Lương Sơn) BLV KAKA flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -43,30 +55,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141356_f2abb2dd.png",14:00 WIB 21/06 St. Albans Saints vs Altona Magic (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141356_f2abb2dd.png",14:00 WIB 21/06 St. Albans Saints vs Altona Magic (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15:00 WIB 21/06 Czech Republic W vs Dominican Republic W (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15:00 WIB 21/06 Czech Republic W vs Dominican Republic W (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15:00 WIB 21/06 Czech Republic W vs Dominican Republic W (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_143101_7fda1723.png",15:00 WIB 21/06 Czech Republic W vs Dominican Republic W (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/20250829_212618_887a8760.png",16:30 WIB 21/06 Belgium W vs France W (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -99,6 +87,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133644_2b6f7b0f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133644_2b6f7b0f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133644_2b6f7b0f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133644_2b6f7b0f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_130600_618dc815.png",19:00 WIB 21/06 Okzhetpes vs FK Tobol Kostanay (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -363,150 +367,306 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV VIP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1782033081-0-0-c30442a7bfc99b487d064be53a7ca0d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=16a9f88d2fb7975323eefa875b42125f&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV VIP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1782033081-0-0-d1c5dbdcf8f1c1206bc15143671fe671
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=951255a467e08c21d816f44b7c3280e9&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV VIP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782033081-0-0-f99f67f3717e626bceb7b1b53fe1bd2b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV KEM] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=16a9f88d2fb7975323eefa875b42125f&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV VIP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782033081-0-0-4abd62a308d69e1a4ef84c231613ce31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12:00 WIB 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) flv
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=951255a467e08c21d816f44b7c3280e9&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV ROBBEN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=447c4b133065e5d25fd6240dd42c0c8c&txTime=6a37f271
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12:00 WIB 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782043881-0-0-eb8424c930628826ebf9176afdc5f88d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV ROBBEN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=3d15498f67a97ee08ea68d1d808dacf4&txTime=6a37f271
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12:00 WIB 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1782043881-0-0-3ed33e059b255c4176b57c375f5253c8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV ROBBEN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=447c4b133065e5d25fd6240dd42c0c8c&txTime=6a37f271
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12:00 WIB 21/06 St Albans Saints vs Altona Magic [BLV VIP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782043881-0-0-a56e1e022aea0bf768426595eba0e620
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV ROBBEN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=3d15498f67a97ee08ea68d1d808dacf4&txTime=6a37f271
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) flv
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1782043881-0-0-660e1820bca8ee2a0581bf12b84fd019
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV RÔSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782033441-0-0-44a56a1f3abea4200b973bc0c621b6f8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=75344544161ed6eb864c7157fd174c8f&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV RÔSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1782033441-0-0-6c61fcc1ef84abcb01c49e767cbb4117
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=bfd5ef89308cc81fae92a43dd7676cda&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV RÔSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782033441-0-0-25c7feec5433f6e396908c95ca176cd8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CÒ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=75344544161ed6eb864c7157fd174c8f&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV RÔSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782033441-0-0-29369d8f0296886865975298734a91b6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) flv
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=bfd5ef89308cc81fae92a43dd7676cda&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [CHÍ PHÈO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782033441-0-0-64248067ae71e5e9a10b6b8a73727112
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-273736_lsd.flv?auth_key=1782043881-0-0-b7605cca6effcf24959cc024fb48caa4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [CHÍ PHÈO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782033441-0-0-a1b89ca40a584ba01385043a9ac07bb9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1782043881-0-0-a62c86d9fbabb865d47150535df8710e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [CHÍ PHÈO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782033441-0-0-d665751a4b5ec71f7739d2c073b983e0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782043881-0-0-5e2637c322472348cf86a06b36c1586c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [CHÍ PHÈO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782033441-0-0-7521474e20c62431d0fed7550dd6b7e5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b0f07abb1300b1a22c14227ffdc84d95.png",16:00 WIB 21/06 Pocheon FC vs Gangneung Citizen [BLV ENZO] (Socolive) flv
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782043881-0-0-5f6066530a68b1648e73a9c15f510fa4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782033441-0-0-f64086256ca4085007bb0ebffc008c41
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b0f07abb1300b1a22c14227ffdc84d95.png",16:00 WIB 21/06 Pocheon FC vs Gangneung Citizen [BLV ENZO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=1dfb2d97a3b239578ff178984929e7bf&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1782033441-0-0-80af7a31be1256d902ceff8a050ffd08
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b0f07abb1300b1a22c14227ffdc84d95.png",16:00 WIB 21/06 Pocheon FC vs Gangneung Citizen [BLV ENZO] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=2181b690e415377e6ce6639a25367c1c&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782033441-0-0-79e5e9e282d01e8ccad036e3247cbd11
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b0f07abb1300b1a22c14227ffdc84d95.png",16:00 WIB 21/06 Pocheon FC vs Gangneung Citizen [BLV ENZO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=1dfb2d97a3b239578ff178984929e7bf&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782033441-0-0-f0bac0e3521eb747cd3198d9a4c48a8f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b0f07abb1300b1a22c14227ffdc84d95.png",16:00 WIB 21/06 Pocheon FC vs Gangneung Citizen [BLV VOI] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2181b690e415377e6ce6639a25367c1c&txTime=6a381b39
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV FIREMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782033801-0-0-0bab225e57a7a05e20de9f9ce7df7e47
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b0f07abb1300b1a22c14227ffdc84d95.png",16:00 WIB 21/06 Pocheon FC vs Gangneung Citizen [BLV VOI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782043881-0-0-c4e85a0e9528ef2181c6204fad8005ad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV FIREMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782033801-0-0-46d2d52fe5d638ae63f3c8af50211dc7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b0f07abb1300b1a22c14227ffdc84d95.png",16:00 WIB 21/06 Pocheon FC vs Gangneung Citizen [BLV VOI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782043881-0-0-3fe67037baf4adc74327075930e45239
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV FIREMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782033801-0-0-65482d2eed066295c0b9322cd36c4948
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/b0f07abb1300b1a22c14227ffdc84d95.png",16:00 WIB 21/06 Pocheon FC vs Gangneung Citizen [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782043881-0-0-d012660f471148404f11b28115303ef2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV FIREMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782033801-0-0-654c22b7df69753d0bdb692172fa3c82
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CUỘI] (Socolive) flv
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782043881-0-0-ae683e0d7dce53cc5467ec469d9c7b90
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV 24H] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782033801-0-0-bfb6f5d76f00e4e2a03a7a3059557f35
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CUỘI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1782043881-0-0-a8a1a6e2bd1f94531f0033ff7a9910bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV 24H] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1782033801-0-0-296d97748df855fdaf3b76060f906efd
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CUỘI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1782043881-0-0-9ed82be80b68c9753f19c3ba51b98fa2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV 24H] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782033801-0-0-b9cc195668b84c5bfe1dc8341539a791
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [BLV CUỘI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782043881-0-0-5ecd121f2863dfc50c6eb2c9595a8efb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV 24H] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782033801-0-0-9ae969e73dffbdd7945d0a88555f8506
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [LOGAN] (Socolive) flv
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1782043881-0-0-ce66e49ac01041994aba5a4f9a27a93f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV BÉO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782033801-0-0-6556bb0c60df346358b38b0dc0d10503
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [LOGAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=7c717563ce29fe71c0e0f3c5669d71f2&txTime=6a381ca1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV BÉO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1782033801-0-0-987aa2247fa983b1e54289bcc38732dc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [LOGAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=7f210c3d1f8c9b4755a570166ec6398d&txTime=6a381ca1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV BÉO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782033801-0-0-c7bb9bb2654e1956d8a98bc7434c39b5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [LOGAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=7c717563ce29fe71c0e0f3c5669d71f2&txTime=6a381ca1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV BÉO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782033801-0-0-eed30366e0ad7b562ed0f1dedde11045
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [CÔNG CHẤT] (Socolive) flv
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=7f210c3d1f8c9b4755a570166ec6398d&txTime=6a381ca1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1782033801-0-0-7f84d760b76fd5c0a78fba0f0ed7293c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [CÔNG CHẤT] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782044241-0-0-7b4a289b2f9b1a025a2b0375a7dd34ff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV CÒ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1782033801-0-0-ba6e7bc7ff4b52384aa40e4d083d4225
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [CÔNG CHẤT] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1782044241-0-0-74d325b5a3129e8e50872b04bfdef9a9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV CÒ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1782033801-0-0-464868897d13e2bf4e8ebf16fee6d943
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/d122348c42efad46137fd3ff18c5f438.png",14:00 WIB 21/06 Queensland Lions SC vs Rochedale Rovers [CÔNG CHẤT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782044241-0-0-1c949bfcbefb2236d1c2ee3f2b2b3948
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV CÒ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782033801-0-0-f4d496a600f8b6abbf12820bdc186111
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12:00 WIB 21/06 St Albans Saints vs Altona Magic [TRÀ ĐÁ] (Socolive) flv
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782044241-0-0-220c4c28adb55100bb2bc88a5cf4f51e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [LOGAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782033801-0-0-7026c0f63716ef6997330c4fc38e6173
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12:00 WIB 21/06 St Albans Saints vs Altona Magic [TRÀ ĐÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782044241-0-0-b9480d1ce40094b1408dd6d6d4910ece
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [LOGAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782033801-0-0-40b8cf1dbc1f441943a5229a9e3b8e00
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12:00 WIB 21/06 St Albans Saints vs Altona Magic [TRÀ ĐÁ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1782044241-0-0-f99ee85a1b19f74bc683b51725e4cfb7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [LOGAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782033801-0-0-69891dbf014ab8752669e617e4503afb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ae13867f209d68be3a33b2082659d45.png",12:00 WIB 21/06 St Albans Saints vs Altona Magic [TRÀ ĐÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782044241-0-0-a86532bf0b4ba353ea486198be381b00
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [LOGAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782033801-0-0-dba80f218d2de35b05dcf7427e1dec7c
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",15:00 WIB 21/06 Séc vs Cộng Hòa Dominicana (Hội Quán) FHD 
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782044241-0-0-0660b708a892953b034295dea44b26b3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [TRÀ ĐÁ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782044241-0-0-578651fb6e9a4301a5788cd0b9cf1617
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [TRÀ ĐÁ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782044241-0-0-5816888bd84d7173ec0874e656ab8fa7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [TRÀ ĐÁ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782044241-0-0-a7219d077e9403927a77349049fafb98
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [TRÀ ĐÁ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782044241-0-0-cd840a629e983170cac14933fffae0df
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV LION] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782044241-0-0-595f7264433b02677777ae0e39414375
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV LION] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1782044241-0-0-aa80103a06116a948fc0c7eadeb0714b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV LION] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782044241-0-0-54d3e089cbc24a64cdb10155f7b7c9a3
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/c8922ca492dbf94bb7de4c3b71ed456f.png",18:00 WIB 21/06 Super Nova vs FK Auda Riga [BLV LION] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782044241-0-0-3a6a40a83b4e5370a0e75ea2ff2014a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [BLV RYO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782044601-0-0-774aebecbc188da7c6a8cc8a8eb49f07
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [BLV RYO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782044601-0-0-0f1863440913b8af4909931be0c08d44
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [BLV RYO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782044601-0-0-7dc239d735d2d1849199db4f1ae39a97
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [BLV RYO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782044601-0-0-24fa2673b176ffc3161b9d1ed7a8436a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV TOMIA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782044601-0-0-912c55eb0e96af8734f0d5bb6525666f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV TOMIA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782044601-0-0-67de47f34534d5c8d5647ce184217460
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV TOMIA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782044601-0-0-146070dd42d4d30cc00c9981fb11a381
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [BLV TOMIA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782044601-0-0-aa33d3a8b647dddbab1c8d307ed1b8fa
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [VƯƠNG ANH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=8605364fe07c4478d68cdee386ea5d70&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [VƯƠNG ANH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=ef2e0db124a538dab7c149e33af0568a&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [VƯƠNG ANH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=8605364fe07c4478d68cdee386ea5d70&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [VƯƠNG ANH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=ef2e0db124a538dab7c149e33af0568a&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [LOKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782044601-0-0-164f001419b7d3b76054c09b7ddf608b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [LOKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1782044601-0-0-819fc73eb22ad15b6c2182bf524fb91e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [LOKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782044601-0-0-9abe15d6fc5e87f10b1a68ef14499983
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/0ff1b37f285266f0344e098c57a05b1c.png",17:00 WIB 21/06 Niva Dolbizno vs FC Molodechno [LOKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782044601-0-0-dc824872670344dd4ee676e7908b8f01
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [A BỆU] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782044601-0-0-0f99207c8d6b170b304c6ccab15c88d6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [A BỆU] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782044601-0-0-6adbf315d90d3ac7dc67bf2e3a8e1b5e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [A BỆU] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782044601-0-0-34474e7b8faada79007bd882e9e86f0a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/e48c4f673b64ada0c354dc77bdad670f.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun [A BỆU] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782044601-0-0-0c3faac99f4435e582dbe5665d99f4dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV CHIVAS] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=0b5741fe4c3c01c157764409ad125081&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV CHIVAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=55a2644b7231aceab3a7bc5aea835dff&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV CHIVAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=0b5741fe4c3c01c157764409ad125081&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [BLV CHIVAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=55a2644b7231aceab3a7bc5aea835dff&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [CƠM CHÁY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1782044601-0-0-0dd01262462b9cf90ac9a388641b2e92
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [CƠM CHÁY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1782044601-0-0-35be0008621f72880114d10ddf6f2434
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [CƠM CHÁY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782044601-0-0-d27159590cdf4615e92f304794f4dcc2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/243f0f940d5e6da02440e0a95f9b63e5.png",18:15 WIB 21/06 Dziugas Telsiai vs Suduva [CƠM CHÁY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782044601-0-0-b1fc6a7ff252997d61fb5a5fed325741
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [BLV RAMBO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=f5673da17e4309ea943f20ddc0fcfd21&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [BLV RAMBO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=c0288c760d0fb91342e02ddc67612a28&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [BLV RAMBO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=f5673da17e4309ea943f20ddc0fcfd21&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [BLV RAMBO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=c0288c760d0fb91342e02ddc67612a28&txTime=6a381e09
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [KÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782044601-0-0-4985f5baaea4035aba76ad709456e90d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [KÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782044601-0-0-ba67c7a5ac8adf32e6f11ff3d382cc13
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [KÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782044601-0-0-c71f5fa35e14062320aafe3dbd6ab582
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260617/08b2e38e1dc8eab90b3dd5a194d36e6f.png",18:30 WIB 21/06 Tartu JK Maag Tammeka vs Trans Narva [KÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782044601-0-0-34eecc988b1172c69af4ed7d5eabe40b
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png",16:30 WIB 21/06 Bỉ vs Pháp (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",15:00 WIB 21/06 Séc vs Cộng Hòa Dominicana (Hội Quán) HD 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png",16:30 WIB 21/06 Bỉ vs Pháp (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",15:00 WIB 21/06 Séc vs Cộng Hòa Dominicana (Hội Quán) SD 
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png",16:30 WIB 21/06 Bỉ vs Pháp (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/10217.png",14:00 WIB 21/06 Lions vs Rochedale Rovers (Hội Quán) FHD 
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",17:00 WIB 21/06 Canada vs Ba Lan (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",17:00 WIB 21/06 Canada vs Ba Lan (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",17:00 WIB 21/06 Canada vs Ba Lan (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/5688.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/10217.png",14:00 WIB 21/06 Lions vs Rochedale Rovers (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/5688.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/10217.png",14:00 WIB 21/06 Lions vs Rochedale Rovers (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/5688.png",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/f492a7a07b9d72c444cc5e6a3f990603.png!w80",14:00 WIB 21/06 St Albans vs Altona Magic
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Noskova_RGQ22_%289%29_%2852129787314%29.jpg",17:00 WIB 21/06 Linda Nosková vs Jessica Pegula (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.apusport.com/live/99121525.m3u8
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Noskova_RGQ22_%289%29_%2852129787314%29.jpg",17:00 WIB 21/06 Linda Nosková vs Jessica Pegula (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Noskova_RGQ22_%289%29_%2852129787314%29.jpg",17:00 WIB 21/06 Linda Nosková vs Jessica Pegula (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/bb318757b867c541d704d93053aa1bfb.png!w80",18:00 WIB 21/06 Suzhou Dongwu vs Yunnan Yukun
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.apusport.com/live/02456966.m3u8
