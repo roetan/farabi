@@ -1,64 +1,46 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV VƯƠNG LUÂN m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1238_1gy3vpt0ee2.png",04:30 WIB 22/06 Universidad de Chile vs Santiago Wanderers (Lương Sơn) BLV LIO m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV VƯƠNG LUÂN flv
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1238_1gy3vpt0ee2.png",04:30 WIB 22/06 Universidad de Chile vs Santiago Wanderers (Lương Sơn) BLV LIO flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14577_1gtqm6x9yr2a.png",03:00 WIB 22/06 Sao Bernardo vs Juventude (Lương Sơn) BLV LEO m3u
+https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV TÔN LẬP m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/14577_1gtqm6x9yr2a.png",03:00 WIB 22/06 Sao Bernardo vs Juventude (Lương Sơn) BLV LEO flv
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV TÔN LẬP flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16208_1gqgp4vg412b.png",02:30 WIB 22/06 Central Norte Salta vs Godoy Cruz Antonio Tomba (Lương Sơn) BLV PELE m3u
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV FERNANDO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV FERNANDO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV LÝ QUỲ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV LÝ QUỲ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV PELE m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/16208_1gqgp4vg412b.png",02:30 WIB 22/06 Central Norte Salta vs Godoy Cruz Antonio Tomba (Lương Sơn) BLV PELE flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/661_1h1kc21h0g2r.png",05:00 WIB 22/06 Uruguay vs Cape Verde (Lương Sơn) BLV PELE flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV LÃO HẠC m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV LÃO HẠC flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV VÕ TÒNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV VÕ TÒNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV TÀO THÁO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV TÀO THÁO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV TRIỆU TỬ LONG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV YẾN THANH m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/555_1j0aw46xvtk.png",02:00 WIB 22/06 Belgium vs Iran (Lương Sơn) BLV YẾN THANH flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/894_1h6mrdn89c0.png",02:00 WIB 22/06 Deportes Temuco vs D. Concepcion (Lương Sơn) BLV NGƯỜI THÉP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/894_1h6mrdn89c0.png",02:00 WIB 22/06 Deportes Temuco vs D. Concepcion (Lương Sơn) BLV NGƯỜI THÉP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3340_1gtn82r1dm2a.png",02:00 WIB 22/06 CRB AL vs Fortaleza (Lương Sơn) BLV LƯU BỊ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/3340_1gtn82r1dm2a.png",02:00 WIB 22/06 CRB AL vs Fortaleza (Lương Sơn) BLV LƯU BỊ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -79,38 +61,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02:00 WIB 22/06 Belgium vs Iran (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02:00 WIB 22/06 Belgium vs Iran (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02:00 WIB 22/06 Belgium vs Iran (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02:00 WIB 22/06 Belgium vs Iran (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02:00 WIB 22/06 Belgium vs Iran (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02:00 WIB 22/06 Belgium vs Iran (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02:00 WIB 22/06 Belgium vs Iran (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125446_7256014f.png",02:00 WIB 22/06 Belgium vs Iran (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132807_4c096ae9.png",05:00 WIB 22/06 Uruguay vs Cape Verde Islands (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -455,261 +405,309 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=c9f241f2c49210d8d92f751ee8961a32&txTime=6a389c99
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=7004962da955b2d9383ad0be15c8befb&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=af1f4dc22cbeed060e5ba89d2982a4c4&txTime=6a389c99
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=dee28fa9be448d79631b4dc422c23e1d&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=c9f241f2c49210d8d92f751ee8961a32&txTime=6a389c99
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=7004962da955b2d9383ad0be15c8befb&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [CR Bưởi] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=af1f4dc22cbeed060e5ba89d2982a4c4&txTime=6a389c99
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03:00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) flv
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=dee28fa9be448d79631b4dc422c23e1d&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1782077001-0-0-db37f7fcbb85240718422071be8b9c97
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03:00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=5a01eac5b83ce39bd456d23dc5c89710&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1782077001-0-0-9a98630f66c5525b452a9e677d03c591
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03:00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=6c90f51e2fa3385b46c292961c406768&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782077001-0-0-45a7ec0e9db4050fac6ef38ef7a08ff6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03:00 WIB 22/06 Sao Bernardo vs Juventude [BLV NẤM] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=5a01eac5b83ce39bd456d23dc5c89710&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782077001-0-0-c42d78e61d79419ff73d5ca839637d8f
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=6c90f51e2fa3385b46c292961c406768&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782082401-0-0-90219d591cf8bad9e6554581e9b0f8b0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782082401-0-0-f217c4d9dd371c39fa176756bd516299
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782082401-0-0-141ed0ef84b0c22897a94423bc31d8b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782082401-0-0-5d343194b5d2c01c964c4bd4a0ce6c21
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-235232_lsd.flv?txSecret=6d1a8abc51a603b37d2fd560e804dc59&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-235232_lhd.flv?txSecret=a0d817216e185d4ba10d0834368ef606&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=6d1a8abc51a603b37d2fd560e804dc59&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [A PÁO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=a0d817216e185d4ba10d0834368ef606&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04:30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782082401-0-0-22738dc3d5f960de790e63214211ddff
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04:30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782082401-0-0-391ad940d1048c677674e89101e47a35
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04:30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782082401-0-0-28f98ccf40a1502bcfe4af53d60867b8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04:30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782082401-0-0-599972eafc61c95c3e86d851eebe7f26
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03:15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782077001-0-0-5eaaa5741f09458df38506e1fd1dddcb
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782082401-0-0-5948c445c5177dfde795b132b2d2088b
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03:15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782077001-0-0-81b532f7c72970db174a6f8530671008
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782082401-0-0-617cd7dfc4d4f3ff018a5d95f3f36963
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03:15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782077001-0-0-1b3e755c90ef45323ce85239857183db
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782082401-0-0-61c181137494553d3a6e4f8db8657db7
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03:15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [BLV ANH TÀI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782077001-0-0-d8b739ac6d29fbd319aeae1bd1b56864
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [DECO] (Socolive) flv
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782082401-0-0-057b6530b077ee81d9226f5a74761531
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04:30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lsd.flv?txSecret=2e9f536ce9576f69355b4290850ce594&txTime=6a389e01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [DECO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=44371000c7d4e65388f736a764be7f00&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04:30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=5801ff5b5f8c511b080b89b526080809&txTime=6a389e01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [DECO] (Socolive) m3u8
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=b998823eea25a34973e3520a32ed94f0&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04:30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=2e9f536ce9576f69355b4290850ce594&txTime=6a389e01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [DECO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=44371000c7d4e65388f736a764be7f00&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04:30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV CHIVAS] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=5801ff5b5f8c511b080b89b526080809&txTime=6a389e01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) flv
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=b998823eea25a34973e3520a32ed94f0&txTime=6a38b1b1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/f06f803e33fc753807023735d44db24d.png",05:00 WIB 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782077361-0-0-afef73ed666c9ecd29469c0a8ff7ef90
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782082401-0-0-245a2ff3c34ee84af78a2ed11119641e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/f06f803e33fc753807023735d44db24d.png",05:00 WIB 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782077361-0-0-8b501229931607613b3dcfa669543f95
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782082401-0-0-2d27f45822beee91f58a6bbd114c45c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/f06f803e33fc753807023735d44db24d.png",05:00 WIB 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782077361-0-0-f14ef68453093c2551da047e5d6386e1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [RICKHANTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782082401-0-0-f4c72590404bcd45b7bae6902282fd37
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/f06f803e33fc753807023735d44db24d.png",05:00 WIB 22/06 Minnesota Lynx W vs Washington Mystics W [CHAN SENA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782077361-0-0-8e199ea581edbd7247ae556993eb7431
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) flv
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782082401-0-0-3e8f8de15157012e0be6ba30dc9d236f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05:00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=528ddc24cd345d8e1d0141e11b03e2aa&txTime=6a389e01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782082401-0-0-e7e8ba9540ec11a8db773e793bf691a4
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05:00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=03e3958b4be07ceed5a807415ff4c59e&txTime=6a389e01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782082401-0-0-4195178a0e5ed37009113a0ce889f78a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05:00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=528ddc24cd345d8e1d0141e11b03e2aa&txTime=6a389e01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782082401-0-0-00e2c0cc4ac4148995a1a7e79c8b334f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05:00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV A TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=03e3958b4be07ceed5a807415ff4c59e&txTime=6a389e01
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03:00 WIB 22/06 Sao Bernardo vs Juventude [QUỐC KHÁNH] (Socolive) flv
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782082401-0-0-0fe5463de673f582e456a1971021dc0f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/271eff520b298dac1fecd606feed02a1.png",05:00 WIB 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1782077361-0-0-6e32aa371f8fac0ac1083388b8a7a0e1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03:00 WIB 22/06 Sao Bernardo vs Juventude [QUỐC KHÁNH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782082401-0-0-71c0a16dc5b2e13e776edff8ad1dea84
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/271eff520b298dac1fecd606feed02a1.png",05:00 WIB 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1782077361-0-0-4e7bfb67906ee412689bc2fb17e5d1c0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03:00 WIB 22/06 Sao Bernardo vs Juventude [QUỐC KHÁNH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782082401-0-0-02678f454497dbe99c238cdc81cdafdc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/271eff520b298dac1fecd606feed02a1.png",05:00 WIB 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1782077361-0-0-d2d6e42d6f69b0af59e5b28f6cfb30e6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/3764c557c45e7e216de246c6253f1f6c.png",03:00 WIB 22/06 Sao Bernardo vs Juventude [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782082401-0-0-52c09c083f31c0ea90b9414c549f00bf
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/271eff520b298dac1fecd606feed02a1.png",05:00 WIB 22/06 Mets de Guaynabo vs Piratas de Quebradillas [KING] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782077361-0-0-4ce211ecfe3ccf6ca46037c09f1bd48e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/b1c77e390393158b0a447b89ea531e8f.png",02:00 WIB 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) flv
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782082401-0-0-5804bccdf458edb3bdb5bfd6331208ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV COZY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782077361-0-0-5f198c26232bad73b978e63dbfb4f9cb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/b1c77e390393158b0a447b89ea531e8f.png",02:00 WIB 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=9fd125fe827187c484e17f520ef99d80&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV COZY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1782077361-0-0-2146f6a77f79933c4fbbcd5bf26a3e68
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/b1c77e390393158b0a447b89ea531e8f.png",02:00 WIB 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=03a5fbbbb0196394d752180037692a9b&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV COZY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782077361-0-0-d3dc42b97a9d7b5e78a7d62db036682f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/b1c77e390393158b0a447b89ea531e8f.png",02:00 WIB 22/06 CRB AL vs Fortaleza [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=9fd125fe827187c484e17f520ef99d80&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV COZY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782077361-0-0-27ed9ea83c0e02e285a93e44d4b29ee9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) flv
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=03a5fbbbb0196394d752180037692a9b&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV CÒ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1782077721-0-0-9f402413916374bd39e5c72a88cbeaa2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) hdFlv
+https://pull.niur.live/live/stream-582342_lsd.flv?txSecret=53e7c79eaf43dd0acb5bd09b87aff725&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV CÒ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1782077721-0-0-58e2f5e8d2bbacde85f789cebca11fb4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-582342_lhd.flv?txSecret=ab33babef7d6e1d482d1c8a90b194850&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV CÒ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1782077721-0-0-7317b53492527bdcc57923e5c481eb80
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-582342_lsd.m3u8?txSecret=53e7c79eaf43dd0acb5bd09b87aff725&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV CÒ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1782077721-0-0-18ef09300d08ed8593e16766926b6915
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) flv
+https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=ab33babef7d6e1d482d1c8a90b194850&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=600673b9861c9e5a3ac1e11bdd3301c6&txTime=6a389f69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782082761-0-0-9a59b0ebd79a3028ebdd977013c7a06e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=b5f3ebb20c043f70598ebc76a367d2fe&txTime=6a389f69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782082761-0-0-c20a5ddd31e7f9607867d70ab2d0d7bb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=600673b9861c9e5a3ac1e11bdd3301c6&txTime=6a389f69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV TAP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782082761-0-0-09cb5e5d9599192688802cd5babb854d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV COCA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=b5f3ebb20c043f70598ebc76a367d2fe&txTime=6a389f69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) flv
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782082761-0-0-511bc774e70c0ebf4a4278001d866d74
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782077721-0-0-8c7e9c41536e03d8188d1bfff635d872
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=283fcb54735f8e61c63d8cea74ba9649&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782077721-0-0-d1d1691766d51a548050808a4728079d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=4e6422438c4e63a66f8d7599c63eabc1&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782077721-0-0-0a395c0cb4e16f45099b3136242eff31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV 7UP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=283fcb54735f8e61c63d8cea74ba9649&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782077721-0-0-7c283418428ad354933a34df0856af2a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) flv
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=4e6422438c4e63a66f8d7599c63eabc1&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04:30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV GÔN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=2d8b7e0855f697f59f235239a046a437&txTime=6a389f69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=5af5c7ef3c8cc4dce6222ec851b861c0&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04:30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV GÔN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=31432b1b629f73134ee4a4eb7a698258&txTime=6a389f69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) m3u8
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=1f908e6205067f5cb4201156af2100b5&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04:30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV GÔN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=2d8b7e0855f697f59f235239a046a437&txTime=6a389f69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV COCA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=5af5c7ef3c8cc4dce6222ec851b861c0&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/25363d5074529c98fddbac51253e6ac7.png",04:30 WIB 22/06 Goiás EC vs Operario Ferroviario PR [BLV GÔN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=31432b1b629f73134ee4a4eb7a698258&txTime=6a389f69
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) flv
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=1f908e6205067f5cb4201156af2100b5&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04:30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1782077721-0-0-a0d948e5bbb23c8235150f93f72ed651
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=45fc1c9747cb85ea243a0c0082570664&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04:30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1782077721-0-0-a7aed15eef11b9b19beed5383ca87173
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=f2b15f13bf5f579c5938009c3a3bfd7d&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04:30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782077721-0-0-08fbeec01b44aee23a9c10ff48362477
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=45fc1c9747cb85ea243a0c0082570664&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/c46bdbaefdcd729df16c4b1992012372.png",04:30 WIB 22/06 Universidad de Chile vs Santiago Wanderers [BLV A TINH] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782077721-0-0-b507ec921fdc7b164d3b70134e4647e8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) flv
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=f2b15f13bf5f579c5938009c3a3bfd7d&txTime=6a38b319
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782077721-0-0-9067a16b3cc1ceeec8382726527770d2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782083121-0-0-1d8588755eabf1c2bf9ee4dacf0cd5da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782077721-0-0-0fddf47088fadd3b8d3d9be2dc6b83b2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782083121-0-0-0c18519c4a98bbb22846274e52849b9d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782077721-0-0-43fc155d2cfadd65858e4794f2cedf4f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782083121-0-0-a9359229d19fce2780c9a43d0d50a60c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV MESSI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782077721-0-0-eb733fb3c25c581b5342a38d021873a5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) flv
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782083121-0-0-b1362d73d41e82c9c4437109d5d6199e
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782077721-0-0-86c321e5da50a98816b802bf6dfcf329
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782083121-0-0-9d7648f4c7674c26b7811dfbcce947f6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782077721-0-0-4d569f243290159163ac91eaccba4c24
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782083121-0-0-7b6631879b55711703043095825d25d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782077721-0-0-d77a89992481aa23580417073005fb47
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782083121-0-0-3639ff3aadb339cec2615c1bca0307da
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [A BỆU] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782077721-0-0-197c86b409f6c180ee0c38a0f6b190b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) flv
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782083121-0-0-fa98ace40d4ec0e751ec455f312a4833
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782077721-0-0-5b7b3988daa5f015d6be1964a1c12dab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782083121-0-0-7d32bd8cb0c790588c63701b4e148f28
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782077721-0-0-6ea043ad17c7fe1768827e32e12d7f05
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782083121-0-0-82bc5e687a672d679ddce3be9d86c9c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782077721-0-0-bb1b0c0e5ae787ed5a642721a6763fc0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/725a75f830493932fd23e6565ffba553.png",02:00 WIB 22/06 Belgium vs IR Iran [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782083121-0-0-f4791816773c3aa7dd32a5caf79be17b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782077721-0-0-95c1c8c5e086630edb7bfb4d3c67f196
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/b1c77e390393158b0a447b89ea531e8f.png",02:00 WIB 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) flv
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782083121-0-0-84c028db2f865e9da514f052105b3455
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1782077721-0-0-0aee4fb90ad758902e9d3fc94aea9889
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/b1c77e390393158b0a447b89ea531e8f.png",02:00 WIB 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=3b97b486fb5bf1f477f1c358c02e4a7f&txTime=6a38b481
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1782077721-0-0-f986dc3197fcb7029183a293898f53ae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/b1c77e390393158b0a447b89ea531e8f.png",02:00 WIB 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=32ea49daf8f64c439b24968eeb82a8ca&txTime=6a38b481
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782077721-0-0-62fc3f23c6a1fda35109b2a0d7873b5d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/b1c77e390393158b0a447b89ea531e8f.png",02:00 WIB 22/06 CRB AL vs Fortaleza [BLV WUKONG] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=3b97b486fb5bf1f477f1c358c02e4a7f&txTime=6a38b481
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260616/f96d98c5e8e0e6d29f5d10c1f1c5c621.png",05:00 WIB 22/06 Uruguay vs Cabo Verde [SAO LA] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782077721-0-0-e60bccddf00b88c369e5567c1bbe0fe4
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=32ea49daf8f64c439b24968eeb82a8ca&txTime=6a38b481
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03:15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=ec9055769cf9bf14ad9c41aa47063638&txTime=6a389f69
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=b3102aeb36e5c412fa0817b80387051b&txTime=6a38b481
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03:15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=e1a3aac869385b5ee9d0a8a8d13fba5b&txTime=6a389f69
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=09e7321c135a13b2891c6a8660554b35&txTime=6a38b481
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03:15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=ec9055769cf9bf14ad9c41aa47063638&txTime=6a389f69
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=b3102aeb36e5c412fa0817b80387051b&txTime=6a38b481
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/06d38eb61f48bd893c2967b35329d3b4.png",03:15 WIB 22/06 Fram Reykjavik vs Vikingur Reykjavik [PINKMAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=e1a3aac869385b5ee9d0a8a8d13fba5b&txTime=6a389f69
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1.png",02:00 WIB 22/06 Belgium vs Iran (Hội Quán) FHD 
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=09e7321c135a13b2891c6a8660554b35&txTime=6a38b481
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05:00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782083121-0-0-5f38f2b626618fe74679f35416913bbc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05:00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782083121-0-0-afed9bb1c1aacaa134ecc66e495963f7
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05:00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782083121-0-0-eab53dff9ef5405be24c1502404bb0dc
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/71fa58f55725f21e107145808f5bfebc.png",05:00 WIB 22/06 Columbus Crew B vs Atlanta United FC II [BLV RYO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782083121-0-0-bda4e989fbc8ff8b2bbebe7c0d527165
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05:00 WIB 22/06 Uruguay vs Cape Verde Islands (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1.png",02:00 WIB 22/06 Belgium vs Iran (Hội Quán) HD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05:00 WIB 22/06 Uruguay vs Cape Verde Islands (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1.png",02:00 WIB 22/06 Belgium vs Iran (Hội Quán) SD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05:00 WIB 22/06 Uruguay vs Cape Verde Islands (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1.png",02:00 WIB 22/06 Belgium vs Iran (Hội Quán) FHD 
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05:00 WIB 22/06 Uruguay vs Cape Verde Islands (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1.png",02:00 WIB 22/06 Belgium vs Iran (Hội Quán) HD 
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05:00 WIB 22/06 Uruguay vs Cape Verde Islands (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1.png",02:00 WIB 22/06 Belgium vs Iran (Hội Quán) SD 
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05:00 WIB 22/06 Uruguay vs Cape Verde Islands (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1.png",02:00 WIB 22/06 Belgium vs Iran (Hội Quán) FHD 
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05:00 WIB 22/06 Uruguay vs Cape Verde Islands (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1.png",02:00 WIB 22/06 Belgium vs Iran (Hội Quán) HD 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05:00 WIB 22/06 Uruguay vs Cape Verde Islands (Hội Quán) HD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/1.png",02:00 WIB 22/06 Belgium vs Iran (Hội Quán) SD 
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",05:00 WIB 22/06 Uruguay vs Cape Verde Islands (Hội Quán) SD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanchoptracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",02:00 WIB 22/06 Bỉ vs Iran
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/3068cfc254b9a77c7eac84c9565eeeab.png!w80",05:00 WIB 22/06 Uruguay vs Cape Verde
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.apusport.com/live/08552895.m3u8
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/e2f40e16499b22e942a5bd1d1d2398d3.png!w80",03:00 WIB 22/06 Sao Bernardo vs Juventude
+https://live05.apusport.com/live/43612277.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png!w80",05:00 WIB 22/06 Minnesota Lynx vs Washington Mystics
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.apusport.com/live/99121525.m3u8
+https://live05.apusport.com/live/90865415.m3u8
