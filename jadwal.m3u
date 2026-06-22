@@ -1,16 +1,34 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38960_1jr4fxamwa13.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs (Lương Sơn) BLV KAKA m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782061737.png",15:00 WIB 22/06 Imus Agimat vs Basilan Viva Portmasters (Lương Sơn) BLV SHIN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38960_1jr4fxamwa13.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs (Lương Sơn) BLV KAKA flv
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782061737.png",15:00 WIB 22/06 Imus Agimat vs Basilan Viva Portmasters (Lương Sơn) BLV SHIN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/65500_1hzvccgt0sx.png",09:00 WIB 22/06 AMSG FC vs City SC Carlsbad (Lương Sơn) BLV HEINEKEN m3u
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38235_1h2z891tnnt.png",16:30 WIB 22/06 Myawady FC (W) vs Yangon United FC (W) (Lương Sơn) BLV VÕ TÒNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/65500_1hzvccgt0sx.png",09:00 WIB 22/06 AMSG FC vs City SC Carlsbad (Lương Sơn) BLV HEINEKEN flv
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38235_1h2z891tnnt.png",16:30 WIB 22/06 Myawady FC (W) vs Yangon United FC (W) (Lương Sơn) BLV VÕ TÒNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
- https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/54419_1hd7w1aebg2a.png",15:00 WIB 22/06 Hunters FC vs Khoromkhon Club (Lương Sơn) BLV GẤU KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/54419_1hd7w1aebg2a.png",15:00 WIB 22/06 Hunters FC vs Khoromkhon Club (Lương Sơn) BLV GẤU KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782101056.png",00:00 WIB 22/06 Ecuador vs Curacao (Lương Sơn) BLV YẾN THANH REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782101056.png",00:00 WIB 22/06 Ecuador vs Curacao (Lương Sơn) BLV YẾN THANH REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782101584.png",00:00 WIB 22/06 Thụy Sĩ vs Bosnia (Lương Sơn) BLV TRIỆU TỬ LONG REPLAY m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782101584.png",00:00 WIB 22/06 Thụy Sĩ vs Bosnia (Lương Sơn) BLV TRIỆU TỬ LONG REPLAY flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -31,22 +49,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134250_2a12c2b6.png",13:30 WIB 22/06 Australia vs Kazakhstan (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134250_2a12c2b6.png",13:30 WIB 22/06 Australia vs Kazakhstan (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134250_2a12c2b6.png",13:30 WIB 22/06 Australia vs Kazakhstan (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134250_2a12c2b6.png",13:30 WIB 22/06 Australia vs Kazakhstan (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133414_d27d52bf.png",16:30 WIB 22/06 Oman vs Thailand (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -63,35 +65,35 @@ https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141358_bcff7572.png",17:15 WIB 22/06 Melbourne Victory II vs Brunswick City (Chuối Chiên) HD1
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",18:00 WIB 22/06 Khovd Western vs Khovd (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141358_bcff7572.png",17:15 WIB 22/06 Melbourne Victory II vs Brunswick City (Chuối Chiên) HD2
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",18:00 WIB 22/06 Khovd Western vs Khovd (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141358_bcff7572.png",17:15 WIB 22/06 Melbourne Victory II vs Brunswick City (Chuối Chiên) FHD1
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",18:00 WIB 22/06 Khovd Western vs Khovd (Chuối Chiên) FHD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141358_bcff7572.png",17:15 WIB 22/06 Melbourne Victory II vs Brunswick City (Chuối Chiên) FHD2
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",18:00 WIB 22/06 Khovd Western vs Khovd (Chuối Chiên) FHD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141358_bcff7572.png",17:15 WIB 22/06 Melbourne Victory II vs Brunswick City (Chuối Chiên) HD1
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",18:00 WIB 22/06 Khovd Western vs Khovd (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141358_bcff7572.png",17:15 WIB 22/06 Melbourne Victory II vs Brunswick City (Chuối Chiên) HD2
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",18:00 WIB 22/06 Khovd Western vs Khovd (Chuối Chiên) HD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141358_bcff7572.png",17:15 WIB 22/06 Melbourne Victory II vs Brunswick City (Chuối Chiên) FHD1
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",18:00 WIB 22/06 Khovd Western vs Khovd (Chuối Chiên) FHD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_141358_bcff7572.png",17:15 WIB 22/06 Melbourne Victory II vs Brunswick City (Chuối Chiên) FHD2
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.api-sports.io/Bóng đá/teams/26669.png",18:00 WIB 22/06 Khovd Western vs Khovd (Chuối Chiên) FHD2
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
@@ -375,78 +377,126 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV ALEX] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV PEWPEW] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1782102561-0-0-2568e64f17b7c4ab18f336bbae550d15
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV ALEX] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782124161-0-0-fbf6b96ce9a693e503e68277a849f05b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV PEWPEW] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1782102561-0-0-e2244c57e794c63e9d5d786a00e1ad3a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV ALEX] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782124161-0-0-e9d2146431b1676fe64e324c44577904
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV PEWPEW] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782102561-0-0-2bc5eedf3a3142626c5055a64f28bbea
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782124161-0-0-6fd188c26b7092b21fd45705127a3b90
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV PEWPEW] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782102561-0-0-85353095e8ba98dd0ce269eb1b9504ab
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [VƯƠNG ANH] (Socolive) flv
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782124161-0-0-6e99c9fdf71c8cc00a82176a37355290
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/450563f18ceda2e5edb579498307d1cd.png",17:00 WIB 22/06 Pasay Voyagers vs Bacolod Masskara [BRIAN] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=f1686fcf31bc7ed24368edb31b6fbe35&txTime=6a3901d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [VƯƠNG ANH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1782124161-0-0-11107c220f08649def5ec94b385afcab
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/450563f18ceda2e5edb579498307d1cd.png",17:00 WIB 22/06 Pasay Voyagers vs Bacolod Masskara [BRIAN] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=9fdaaaf68a16511c609a770d7c19a624&txTime=6a3901d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [VƯƠNG ANH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1782124161-0-0-44aa4a9990b5ce183d8281cdc7eb8fbb
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/450563f18ceda2e5edb579498307d1cd.png",17:00 WIB 22/06 Pasay Voyagers vs Bacolod Masskara [BRIAN] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=f1686fcf31bc7ed24368edb31b6fbe35&txTime=6a3901d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782124161-0-0-82ea119fa703fc19c0ad5a4beb3e81c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/450563f18ceda2e5edb579498307d1cd.png",17:00 WIB 22/06 Pasay Voyagers vs Bacolod Masskara [BRIAN] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=9fdaaaf68a16511c609a770d7c19a624&txTime=6a3901d9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV VOI] (Socolive) flv
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782124161-0-0-f6d2c8e9d15c7f127a0f4f37c211c946
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV XO] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782102921-0-0-4797e3b31433864624f5ccf875e9bf9b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV VOI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782124521-0-0-c8be51b58d451c462a60550ccf0374c0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV XO] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782102921-0-0-3fef1aa3d41893778c177de980dd4ab6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV VOI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1782124521-0-0-d1adfad77f6505172ae03c3750559b5c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV XO] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782102921-0-0-952461acccf55ec581b4fe358732bbbc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782124521-0-0-d75b086c267338e7b56fb9b906838814
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV XO] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782102921-0-0-cd46705beef7540031075dc10d4a6a6c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV RÔSI] (Socolive) flv
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782124521-0-0-32fd362762da13c6a38dd1385c6a590a
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV CUỘI] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=3428633d4490da863d4b4270f686e586&txTime=6a390341
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV RÔSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782124521-0-0-56fb6063faed9346808271713f38fe8f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV CUỘI] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=d607d2885259cbb9f23e2aab03131094&txTime=6a390341
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV RÔSI] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1782124521-0-0-6a28f79c083f5bfec9e9f3d908308d10
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV CUỘI] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=3428633d4490da863d4b4270f686e586&txTime=6a390341
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV RÔSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782124521-0-0-a00fd9762cfe1fda4138983bab8b2023
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV CUỘI] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d607d2885259cbb9f23e2aab03131094&txTime=6a390341
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [CÔNG CHẤT] (Socolive) flv
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782124521-0-0-4989771ef1fe37ab659e4bc472b65155
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [TRÀ ĐÁ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1782103281-0-0-d2ce06c7c8457eac7ba291678958f022
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [CÔNG CHẤT] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1782124881-0-0-2af3268be124bf25d5fce6fc1122767f
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [TRÀ ĐÁ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1782103281-0-0-09f14350166723a2db69078b4b034ffc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [CÔNG CHẤT] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782124881-0-0-9d5b6501be2052bf73219baf018775be
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [TRÀ ĐÁ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1782103281-0-0-98853584508790bc608facd9fd96cf7b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [CÔNG CHẤT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782124881-0-0-38754e3a3e558e46b45d087d04dc5600
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [TRÀ ĐÁ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782103281-0-0-0ad6c9a0337e2add721de334cd75f10b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV PEWPEW] (Socolive) flv
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782124881-0-0-80af9595eab4fdcce59b2dca8f409fc9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV GIÓ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782103281-0-0-454cb9f8595d8da133e9f60e8efa109f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1782124881-0-0-dc47ed7cbaaadf732a2b22704825f703
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV GIÓ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782103281-0-0-47f9796476a7ea1063dfc8ebbe53f141
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV PEWPEW] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1782124881-0-0-85c118f32379d4e9c5035fde2032d060
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV GIÓ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782103281-0-0-98746d2bd29bc39986976775734a8802
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260618/feb82d83fc97deb29c079dc6167b22b5.png",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1782124881-0-0-4397746de46910cb288f6d23cd4fe2f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV GIÓ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782103281-0-0-e821c4847da32df3d47b8375d880b521
-#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80",09:00 WIB 22/06 Tacoma Defiance vs Real Monarchs
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1782124881-0-0-08c284274e30f90ba35d6c61b4ddd1d9
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV LUCAS] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.apusport.com/live/43612277.m3u8
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782124881-0-0-1c1afc09cb4c178c481b4d42fc28423d
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV LUCAS] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782124881-0-0-71765048478b55f98f5e875bb8e1c300
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV LUCAS] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782124881-0-0-02f69455e56e3b993cb0c9e81c2791f1
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260621/ee665a6fd327552c578fa0857d63298f.png",15:00 WIB 22/06 Hunters FC vs Bishrelt Khoromkhon [BLV LUCAS] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782124881-0-0-f3ae31665a6e0d59250baf4698f4bbc2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/450563f18ceda2e5edb579498307d1cd.png",17:00 WIB 22/06 Pasay Voyagers vs Bacolod Masskara [BLV HENRY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1782124881-0-0-5178cceeae82929537cf785e91d69a62
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/450563f18ceda2e5edb579498307d1cd.png",17:00 WIB 22/06 Pasay Voyagers vs Bacolod Masskara [BLV HENRY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1782124881-0-0-15b4caef5f4e1bcfb617d2824e30fa0b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/450563f18ceda2e5edb579498307d1cd.png",17:00 WIB 22/06 Pasay Voyagers vs Bacolod Masskara [BLV HENRY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782124881-0-0-87074d60709eed85efaa6b7922c89dc2
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260620/450563f18ceda2e5edb579498307d1cd.png",17:00 WIB 22/06 Pasay Voyagers vs Bacolod Masskara [BLV HENRY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782124881-0-0-329db5f2023a3e021d7188cbd115de0e
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/8567540/713968_248564.png",15:00 WIB 22/06 Hunters vs Khoromkhon (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/8567540/713968_248564.png",15:00 WIB 22/06 Hunters vs Khoromkhon (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_630,w_1200,f_auto,q_auto/8567540/713968_248564.png",15:00 WIB 22/06 Hunters vs Khoromkhon (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFBiNRWukKX42GRP9tsSmDqxzbVLnuon0BQ&s",16:30 WIB 22/06 Oman vs Thái Lan (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFBiNRWukKX42GRP9tsSmDqxzbVLnuon0BQ&s",16:30 WIB 22/06 Oman vs Thái Lan (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZFBiNRWukKX42GRP9tsSmDqxzbVLnuon0BQ&s",16:30 WIB 22/06 Oman vs Thái Lan (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/e8082f36740ea4295a8bc67e28741933.png!w80",15:00 WIB 22/06 Thợ săn FC vs Câu lạc bộ Khoromkhon
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.apusport.com/live/87379114.m3u8
