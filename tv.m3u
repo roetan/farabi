@@ -1,12 +1,27 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Khovd_Western_FC_Logo.png",18:00 | Khovd Western vs Khovd
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",04:00 | France vs Iraq
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",19:30 | Qatar vs Indonesia
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",04:00 | France vs Iraq
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 5
-https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",04:00 | France vs Iraq
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Iraq
+https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Iraq
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+
+#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 7
+https://vip.opstream16.com/20230414/33880_160821c1/index.m3u8
+
+#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 9
+https://vip.opstream16.com/20230414/33881_9e539926/index.m3u8
+
+#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 10
+https://vip.opstream16.com/20230414/33882_44deb9a8/index.m3u8
 
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",Cuốc Xe Âm Phủ - Tập 1
 https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8
@@ -29,153 +44,168 @@ https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",Thỏ Ơi
 https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu FC vs Tsirang FC (Lương Sơn) BLV TÔN LẬP m3u
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV MÃ SIÊU m3u
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd (Lương Sơn) BLV MAYBACH m3u
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV KAKA m3u
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd (Lương Sơn) BLV LIO m3u
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd (Lương Sơn) BLV KEVILL m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV KEVILL m3u
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 22/06 Ecuador vs Curacao (Lương Sơn) BLV YẾN THANH REPLAY m3u
-https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu FC vs Tsirang FC (Lương Sơn) BLV GẤU KA m3u
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782133161-0-0-7346fb9f69d81d2c1897bb46bb92d2d7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 23/06 CA Talleres de Cordoba (W) vs Huracan (W) (Lương Sơn) BLV DƯƠNG CHÍ m3u
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782133161-0-0-4e7e64c35b0e6dba1ab48e7fe1ba3f50
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [BLV Củ Cải] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=48aa1ed0af9b963c3d27f64ed67d5dae&txTime=6a3a0ba2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [HÀ DUY KIÊN] (Socolive) m3u8
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1782133161-0-0-631993e0eb56fbec08fbb5bcdc8eca1b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=57d6ffa2ea4aafaa582bad122ce29b76&txTime=6a3a0ba2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [HÀ DUY KIÊN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782133161-0-0-3fccd1f48d28fe549222c5799c68eca6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782170962-0-0-290e9becfabc61e2c0fbec4a67a23d6f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd Broncos [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782133161-0-0-4220557afa075e7b6a6bac19a95ce519
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782170962-0-0-deeb691e9615dd3b4c10085064d32fe8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd Broncos [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782133161-0-0-78456c01a2e2aa63a38f4f1f04fa3f48
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [DECO] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=9b4f0b48c7fa7d45443e1e29c003ace6&txTime=6a3a0ba2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd Broncos [BLV KEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782133161-0-0-1f31f577871f363c8c738b0d7611cd58
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [DECO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=70d2a92cedf0a07af820a181991085de&txTime=6a3a0ba2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd Broncos [BLV KEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782133161-0-0-07e02a60fe3f8f79b0289c84a8dc0bd0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=403f56b51a42994f7e04aabdc93752f6&txTime=6a3a0ba2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5f728e82b40c64c61e2141214a215f95&txTime=6a3a0ba2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h30 ngày 23/06 AD Confiança vs Guarani SP [BLV NẤM] (Socolive) m3u8
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1782170962-0-0-09c359d93ff51b73910d618f3bdb14e0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h30 ngày 23/06 AD Confiança vs Guarani SP [BLV NẤM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1782170962-0-0-91abfb0ed19ae6ab6b01f8924f2ad63a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV GÔN] (Socolive) m3u8
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=e612039b888fc01d12c9f0b0e1e2d8cf&txTime=6a3a0ba2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV GÔN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=a0116ca0e377cf65d5cf63efbd363a78&txTime=6a3a0ba2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BEN 10] (Socolive) m3u8
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1782170962-0-0-9ae8792bd2803aaa3268dd01b66c784b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BEN 10] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782170962-0-0-e45c9712ed662b7ff25553d4af6be96e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782133161-0-0-d9714f84c069c7980fb810bf15aef281
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782170962-0-0-65fc6438ffb42f7e2d2d6e77703cac68
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782133161-0-0-2235d92bb1c2241d8a2aa77d5384c3dc
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782170962-0-0-671d676f0c5dcb8af4f2f8c905f6a3cb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Quezon Huskers vs Abra Weavers [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782133521-0-0-126fefa431344681c6a1875ddc2adcfd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [BLV TOMMY] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=37b1c41115d0c414920fc28ff61c46ec&txTime=6a3a0d0a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Quezon Huskers vs Abra Weavers [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782133521-0-0-036704b6b5893f5cbd30ec95b55bd85f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=3d2ac39b561e37d42f1bcd4791e0ad39&txTime=6a3a0d0a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782133521-0-0-c175c9538c49bd0f7beeee827e06c28e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782171322-0-0-1a630124f6c92d8df27a56e3290f3b6a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782133521-0-0-adb2a0dce9f8c10a677bad9e4af24434
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782171322-0-0-bd6f4f90c7e7015665dab46e30727b47
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd Broncos [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782133521-0-0-0dbc2a0448529152bbaef7696b647e31
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [THẠCH TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782171322-0-0-4b087cccd191beafeacee159aa09e1e7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd Broncos [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782133521-0-0-98217b351edb88ce2e2972a78cba571a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782171322-0-0-b7ad35b3f8b9d5ff5afcdb73bacca75f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=75dd5b49645906fa31992a0057f6387b&txTime=6a397961
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782171322-0-0-b8291cc9747586729129e8cf2e932bbb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=9baf5e4b00130b0d9f36dd8846e2a25d&txTime=6a397961
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782171322-0-0-e7d4baae4e13decf0652ef260fddb2cb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [BLV 24H] (Socolive) m3u8
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782133522-0-0-08751cfe480dbba1656186a7dd0bf5b9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=ba68cfcec73ca038125d7cadb75e1c19&txTime=6a3a0d0a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [BLV 24H] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1782133522-0-0-12060274e677e96835c66a279186f088
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=52dfe25477bdd6f0968afd403906e73c&txTime=6a3a0d0a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [LÃO LÂM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782133521-0-0-b3e11d78f3b55553e288f71a1c0d777d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=7ebb32f175f41edeff328282239aa2c4&txTime=6a3a0d0a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 22/06 Thimphu Raven FC vs Tsirang FC [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782133521-0-0-bf134c51dc12bbccf8a6730dc9b4eec9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e006378075798d05a0c890ee9fd5e0d8&txTime=6a3a0d0a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs IR Iran [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782133521-0-0-cedefd89889f97050e4c65cdf5b75ad1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782171322-0-0-365074651bb560202b41f80abb962d00
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Belgium vs IR Iran [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782133521-0-0-7989675bb25d0a1227d90cd818192a0e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782171322-0-0-ebd618a2bc854dde7b4d77ef5b81eb4a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Uruguay vs Cabo Verde [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782133521-0-0-980cadeb11eed556452cca4126086189
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h30 ngày 23/06 AD Confiança vs Guarani SP [BLV CÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1782171322-0-0-98c7749e38555916e99a2eec5c7b1d9a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Uruguay vs Cabo Verde [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782133521-0-0-cb9707798aab420ce62ce9d477715348
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h30 ngày 23/06 AD Confiança vs Guarani SP [BLV CÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782171322-0-0-477aed10a2e000a7055ca44af861bb44
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Saudi Arabia [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782133521-0-0-5440f973081b8794a084c77c6820f1dd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV RYO] (Socolive) m3u8
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782171322-0-0-67fac602309ef23e3b9832aa4fd03e56
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Spain vs Saudi Arabia [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782133521-0-0-b06b4fb1212a22058e2a05a2e460e5d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV RYO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782171322-0-0-53ddc0571b3e5f4a28af4fbdc78156f6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Ecuador vs Curacao [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782133521-0-0-f03a15a5015b6c525c0b00055b149b79
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [BLV COZY] (Socolive) m3u8
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1782171682-0-0-0905aab0c855dc225879e36cf8c2de04
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Ecuador vs Curacao [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782133521-0-0-cab5209796f4b9a62ebeb61f9d29f52b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 23/06 France vs Iraq [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782171682-0-0-ff1625c34de7a16223f6ee1dd83982ac
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Tunisia vs Japan [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782133521-0-0-b2d44a80b806a72e3ddd504e48530911
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV A TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782171682-0-0-c3eb6d710ca0e782d1d015457c906c3e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Tunisia vs Japan [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782133521-0-0-d711f15b4f6dd5efa3e3f66f43856a5b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 23/06 Ponte Preta vs Gremio Novorizontino [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782171682-0-0-17c494e7872b6480d67a52015cf3bfdf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd Broncos [CƠM CHÁY] (Socolive) m3u8
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782133882-0-0-98612d0269e60133fca7a4d66edcbcdb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 23/06 France vs Iraq (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd Broncos [CƠM CHÁY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782133882-0-0-ec0b01dd33722275fe9c22cb8a0672ac
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 23/06 France vs Iraq (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd Broncos [BLV A TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782133881-0-0-fc7b7cd577e4bbc5ca83cd50e25afef4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 23/06 France vs Iraq (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 22/06 Khovd Western vs Khovd Broncos [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782133881-0-0-1295a1c0d6508a835b84d035bfbcf018
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 23/06 France vs Iraq (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782133881-0-0-d9b3f01d0218564e8ca4fd3c41e5c7f7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 23/06 France vs Iraq (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - New Zealand vs Egypt [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782133881-0-0-585f63a94a8afe6fc4d5f62c0f6f2087
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 23/06 France vs Iraq (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 22/06 Khovd Western vs Khovd (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 23/06 Ponte Preta vs Novorizontino (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 22/06 Khovd Western vs Khovd (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 23/06 Ponte Preta vs Novorizontino (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 22/06 Qatar vs Indonesia (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 23/06 CLB Ponte Preta vs CLB Gremio Novorizontin
+https://live05.apusport.com/live/99121525.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h30 22/06 Qatar vs Indonesia (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 22/06 Thimphu FC vs FC Tsirang
-https://live05.apusport.com/live/90725470.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 22/06 Khovd Western vs Khovd
-https://live05.apusport.com/live/08552895.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 23/06 Connecticut Sun vs Chicago Sky
+https://live05.apusport.com/live/82054853.m3u8
 
