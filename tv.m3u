@@ -1,24 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",05:00 | Scotland vs Brazil
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/9030.png",06:00 | Miami FC vs Orange County SC
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/4143.png",00:00 | Super Nova vs FS Jelgava
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/21141.png",09:00 | Los Angeles FC II vs Houston Dynamo FC II
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",U18 Việt Nam - U18 Malaysia
+https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/31.png",Ma Rốc vs Haiti
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 7
+https://vip.opstream16.com/20230414/33880_160821c1/index.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/31.png",Ma Rốc vs Haiti
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 9
+https://vip.opstream16.com/20230414/33881_9e539926/index.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1108.png",Scotland vs Brazil
-https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1108.png",Scotland vs Brazil
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 10
+https://vip.opstream16.com/20230414/33882_44deb9a8/index.m3u8
 
 #EXTINF:-1 group-title="Mortal Kombat" tvg-logo="https://phim.nguonc.com/public/images/Film/f9tWGssOpViDbh6dV6gtLFiCc7i.jpg",Cuộc Chiến Sinh Tử 2
 https://vip.opstream90.com/20260608/34303_1bc949fb/index.m3u8
@@ -71,252 +65,75 @@ https://vip.opstream90.com/20260305/26504_404d52bf/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",Oshi No Ko Phần 3 - Tập 9
 https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil (Lương Sơn) BLV KAKA m3u
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782362842-0-0-e2e17d939e249c82e6d71b13200f3a75
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti (Lương Sơn) BLV PELE m3u
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti (Lương Sơn) BLV NGƯỜI THÉP m3u
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti (Lương Sơn) BLV LÃO HẠC m3u
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil (Lương Sơn) BLV LƯU BỊ m3u
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil (Lương Sơn) BLV LỮ BỐ m3u
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil (Lương Sơn) BLV KEVILL m3u
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil (Lương Sơn) BLV MÃ SIÊU m3u
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/06 Charleston Battery vs Loudoun United [BLV KAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=b1724f0a7025ed2d1d4c0a44430f3cb0&txTime=6a3cb442
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/06 Charleston Battery vs Loudoun United [BLV KAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=49fa0e7367676a920dac49d57bf8e5a4&txTime=6a3cb442
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/06 Charleston Battery vs Loudoun United [BLV RAMBO] (Socolive) m3u8
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=0a4ae5bfebffaa97172c35b979e7678e&txTime=6a3cb442
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/06 Charleston Battery vs Loudoun United [BLV RAMBO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=1d46d819897e8344b01181dc1fa35ddd&txTime=6a3cb442
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/06 Miami FC vs Orange County SC [BLV RYO] (Socolive) m3u8
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782345202-0-0-d1ada9d7133a0ed5d149642479803c38
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/06 Miami FC vs Orange County SC [BLV RYO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782345202-0-0-7e94ed5d7066a6fdfb13860cef7dea87
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 25/06 Washington Mystics W vs Minnesota Lynx W [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782345202-0-0-432f970cd7047aa02813b3b1de61dbff
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 25/06 Washington Mystics W vs Minnesota Lynx W [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782345202-0-0-0536c36f591a490cfa82cfd432b21ce9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [THẠCH TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782345562-0-0-1d178fd200531e739698f8c13b9f9b06
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782345562-0-0-84ac76711ca2531dad868f2e1567aca3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV MESSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782345562-0-0-1b539bed773351b284306827431bff42
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV MESSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782345562-0-0-a23f0acd6f807dd786f45f6d59f1211b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [DECO] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=4a4ad289942af9f9da9c6eddf9c9f1ee&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [DECO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=f07f9b1fdfe3e201cf1e3e7e343e4adf&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV TAP] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=46ee09ccbe6e844aff2393cabc5c15f4&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV TAP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=c78eb71db6e1beb404d23b76a7adcafb&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=5abd666f7c73d32df14689a4ec7da182&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=5d5c9be52f98e52d39de5981af92101b&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [RICKHANTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782345562-0-0-7ea1fb52381312d6578e3d851d5cc69a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [RICKHANTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782345562-0-0-bda3f7a5da1e0bfac560f28e6c21358b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV TOMMY] (Socolive) m3u8
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=3a1de1d66d00be1da7e0cc4463353aac&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f9aa048def4dc04b67b29ab1c6832664&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782345562-0-0-93d54f25c3e05a04f58ba9946cbc9035
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782345562-0-0-653577855eb3e00e8fdb2c6c80ba92c4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782345562-0-0-9081ecf4facc84ccf2e58b1ad1e98299
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782345562-0-0-1ef4220b6141c59aeceedd73ba9b9909
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=17bb3a0fefbabefae3ca5a25ac142638&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=885a0f0c1b3b9bdfcccf7987adf9e8bf&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV ĐỐM] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=cee82d3b370604916cbd6d1504b28a22&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=439c0d3d78885cf9dae463c43339f566&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1782345562-0-0-afecfe1f08eaa27febe14d4b85b1d0d5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782345562-0-0-55575fc7d316fac89bdcdb87e24f9f50
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [A BỆU] (Socolive) m3u8
-https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=7c9b4acf2519b458a31afb131954ebc1&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [A BỆU] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=398cc04ff23be2c53d306ad341d66e26&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV FIREMAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=9cce3d410e2f5643d5844ccaaeea7cf3&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=7b6e1d984d8e0f12a25ab0d66266c137&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [LOGAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782345562-0-0-d8fafe6163afd2fcb8a410faa3a25d2b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [LOGAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782345562-0-0-5987e5b64a6102cc0f4bf979e9cbebc1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [HẢI THANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-599634_lsd.m3u8?txSecret=5c2ed131d7fa397893833ca6211ce518&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [HẢI THANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-599634_lhd.m3u8?txSecret=fc5c1bef641d96be853e82e708873afb&txTime=6a3cb5aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV KEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782345562-0-0-f3f161cbe2adb32390d0b67fc981b198
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV KEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782345562-0-0-911c220b20dfb938972ce4f43654e48d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1782345562-0-0-c275ba03414cd3c1fea01d466ffa1dd9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782345562-0-0-85b7858ae88f1c1fd9e39a78d432adce
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782345562-0-0-60b8c3cca492ae915087b4827b0380d7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782345562-0-0-f643eb91c43ae212e2264c146685c3c9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/06 Miami FC vs Orange County SC [KÉP] (Socolive) m3u8
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782345562-0-0-0f702c65a5740c73cca4953714da2ec3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 25/06 Miami FC vs Orange County SC [KÉP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782345562-0-0-734b6546a8256946d2544a4d4e939268
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782362842-0-0-60de1b9ba73866e648e0ed86d1759a99
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782345562-0-0-20235c6479b99e3809eb2388156f7b08
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782362842-0-0-0090d280b797397a6317fa3d0d6cdb15
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782345562-0-0-173267383b0cd98d3f210af67b77a00b
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782362842-0-0-614e2d40add6349fda66b9709279cf0f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782345922-0-0-4127837935d94cecd3d0b36255b708a0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Canada [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782362842-0-0-b6e5c321fb5433fa63f2f5e74d589ddb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782345922-0-0-3be0bea6eca3bc1e45e897f1a12f99e0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Canada [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782362842-0-0-e67255b6cbfda0450b392ae59b34cf68
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=856eb3e09152159f8eca799a7d9c9bb1&txTime=6a3cb712
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782363202-0-0-60051def568c08e87d2a0635e8389af5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Scotland vs Brazil [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=6a6004b72f8b7e63f0868ac72bf18433&txTime=6a3cb712
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782363202-0-0-d3f435135f53e08ee83690371511ccde
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV CUỘI] (Socolive) m3u8
-https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=5fdd695c14b19a727755b2fca9fb0d60&txTime=6a3cb712
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782363202-0-0-0c88b88cc661bc2417e047298dd8384d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=7f1cf0ca9f2152490d85a42953130b10&txTime=6a3cb712
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782363202-0-0-f1e84e2f9c98bb47aaec5a2aa246daaf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [LÃO LÂM] (Socolive) m3u8
-https://pull.niur.live/live/stream-527384_lsd.m3u8?txSecret=54bb03e742db0902f736ee0382ce10df&txTime=6a3cb712
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782363202-0-0-f8cf81c0fd04ea43cf2bb21a38a3942e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=bdd119ec2098c128d937e23a60560a41&txTime=6a3cb712
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782363202-0-0-05d939b4e5b6b77452893160f258a110
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV BÉO] (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=d3beb89e6576e45586043157dcbfd725&txTime=6a3cb712
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782363562-0-0-79cf517f8bf0185a41d78f1b6bdd52e7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 25/06 Morocco vs Haiti [BLV BÉO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c7cef8701e18fb9274b0bc88091adaa6&txTime=6a3cb712
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782363562-0-0-9108922c3162caabfe51b4938b2aba19
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 25/06 Washington Mystics W vs Minnesota Lynx W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782345922-0-0-6d98df07868758903a73c56a0b9ea6b6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782363562-0-0-b1f73b2f392aaed44f41bf1215166e2e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 25/06 Washington Mystics W vs Minnesota Lynx W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782345922-0-0-81b9e02fff697e97a0e54066b0b3b4f5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782363562-0-0-62f6b06c9b39ee51937c1a8455a128c0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 25/06 Indiana Fever W vs Phoenix Mercury W [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782345922-0-0-fd0024b8e3f94b3e7130671efcffd677
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782363562-0-0-b668666d264f299d6a40d31188e786cc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 25/06 Indiana Fever W vs Phoenix Mercury W [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782345922-0-0-d1a908281124b6edd00c9543660375d7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782363562-0-0-84bc46300251650f05a96ca37ae1f293
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 25/06 Morocco vs Haiti (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782363562-0-0-d1a167d38ab7e386ce4d389e26f12fde
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 25/06 Scotland vs Brazil (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782363562-0-0-28a6e9e0a1cf3df9db308887b6ee27c4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 25/06 Scotland vs Brazil (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 25/06 Miami FC vs Orange County SC (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 25/06 U18 Việt Nam vs U18 Malaysia (Hội Quán) FHD
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 25/06 Miami FC vs Orange County SC (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 25/06 U18 Việt Nam vs U18 Malaysia (Hội Quán) SD
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h40 25/06 YONEX US OPEN 2026 (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h40 25/06 YONEX US OPEN 2026 (Hội Quán) SD
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 25/06 ĐTQG Scotland vs Brazil
-https://live05.meung.app/live/08552895.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 25/06 Ma Rốc vs Haiti
-https://live05.meung.app/live/78905744.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 25/06 Los Angeles FC II vs MINNESOTA United B
+https://live05.meung.app/live/14707124.m3u8
 
