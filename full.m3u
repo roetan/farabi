@@ -1,18 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",03:00 | Curaçao vs Ivory Coast
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",09:00 | Paraguay vs Australia
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/250px-Flag_of_Cura%C3%A7ao.svg.png",03:00 | Curaçao vs Ivory Coast
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",03:00 | Ecuador vs Germany
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/777.png",09:00 | Türkiye vs USA
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/250px-Flag_of_Ecuador.svg.png",03:00 | Ecuador vs Germany
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",06:00 | Japan vs Sweden
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1193.png",06:30 | Cuiaba vs Londrina
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
@@ -23,14 +14,23 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/16769.png",17:30 | West Torrens Birkalla vs Sturt Lions
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1431.png",18:35 | Qingdao Jonoon vs Yunnan Yukun
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/4559.png",20:00 | Taraz vs Shakhter Karagandy
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s",01:00 | Ba Lan vs Thổ Nhĩ Kỳ
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s",21:30 | Trung Quốc vs Argentina 
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",21:30 | Iran vs Nhật Bản
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png",01:30 | Pháp vs Cuba
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/250px-Flag_of_Paraguay.svg.png",09:00 | Paraguay vs Australia
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",02:00 | Norway vs France
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
@@ -38,26 +38,26 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/WKTUghyB-612vZEE1.png",Ba Lan vs Thổ Nhĩ Kỳ
-https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/fBWBjchl-dWxvhZJm.png",Slovenia - Bulgaria
-https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/5530.png",Curaçao vs Bờ Biển Ngà
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2382.png",Ecuador vs Đức
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2382.png",Ecuador vs Đức
-https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2382.png",Ecuador vs Đức
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/12.png",Nhật Bản vs Thụy Điển
 https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/12.png",Nhật Bản vs Thụy Điển
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/12.png",Nhật Bản vs Thụy Điển
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/28.png",Tunisia vs Hà Lan
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/28.png",Tunisia vs Hà Lan
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/4559.png",Taraz vs Shakhter Karagandy
+https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/Q3KOlYVg-IPF97VQ3.png",Ukraine - Canada
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 1)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",Tập 1
 https://vip.opstream15.com/20230414/37767_4a795191/index.m3u8
@@ -590,32 +590,14 @@ http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGZ3jVwbodnd-XsYnXY4nccw
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://img.vtvprime.vn/8EDc4aHKZhga3-JQ72NQf06cwtefrcE_jgxUPiKUA_E/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjk2OTYyYTktOWIwNy00YThmLWE5ZWUtYzY0NmY4YWI2M2Y1LnBuZw==.png",SCTV22
 http://aismile.dpdns.org/play/Xp0xPSl85wdNA55xBqtBGXCZRCXXdXK70orNkdxHd9s/ts
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 26/06 Al-Hikma vs Al-Mabarrah (Lương Sơn) BLV LIO m3u
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h04 ngày 26/06 Bồ Đào Nha vs Uzbekistan (Lương Sơn) BLV KEVILL REPLAY m3u
+https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 26/06 Al-Hikma vs Al-Mabarrah (Lương Sơn) BLV LIO flv
-https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h04 ngày 26/06 Bồ Đào Nha vs Uzbekistan (Lương Sơn) BLV KEVILL REPLAY flv
+https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 26/06 Breidablik vs Vikingur Reykjavik (Lương Sơn) BLV HEINEKEN m3u
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany (Lương Sơn) BLV TRIỆU TỬ LONG flv
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 26/06 Al-Salmiyah vs Al-Arabi Club (KUW) (Lương Sơn) BLV PHI HỔ m3u
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 26/06 Al-Salmiyah vs Al-Arabi Club (KUW) (Lương Sơn) BLV PHI HỔ flv
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 26/06 Al Kuwait SC vs Kazma (Lương Sơn) BLV DƯƠNG CHÍ m3u
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 26/06 Al Kuwait SC vs Kazma (Lương Sơn) BLV DƯƠNG CHÍ flv
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h05 ngày 25/06 Al Fahaheel SC vs Al-Qadsia SC (Lương Sơn) NHÀ ÐÀI m3u
+https://auto.cdnfaster.live/live/sd-6MwdqBeqMAM7HWTT24/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -632,77 +614,41 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 26/06 Poland vs Turkey (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 26/06 Poland vs Turkey (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 26/06 Poland vs Turkey (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 26/06 Poland vs Turkey (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 26/06 France vs Cuba (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 26/06 France vs Cuba (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 26/06 Slovenia vs Bulgaria (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 ngày 26/06 Slovenia vs Bulgaria (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curaçao vs Ivory Coast (Chuối Chiên) HD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curaçao vs Ivory Coast (Chuối Chiên) HD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands (Chuối Chiên) HD2
 https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curaçao vs Ivory Coast (Chuối Chiên) FHD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands (Chuối Chiên) FHD1
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curaçao vs Ivory Coast (Chuối Chiên) FHD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curaçao vs Ivory Coast (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curaçao vs Ivory Coast (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curaçao vs Ivory Coast (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curaçao vs Ivory Coast (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) HD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) HD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands (Chuối Chiên) HD2
 https://gckc0525.edgemaxcdn.org/live/troctru.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) FHD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands (Chuối Chiên) FHD1
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany (Chuối Chiên) FHD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
@@ -728,6 +674,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 26/06 Paraguay vs Australia (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 26/06 Türkiye vs USA (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 26/06 Türkiye vs USA (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 26/06 Türkiye vs USA (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 26/06 Türkiye vs USA (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 26/06 Türkiye vs USA (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 26/06 Türkiye vs USA (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 26/06 Türkiye vs USA (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 26/06 Türkiye vs USA (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -737,363 +707,291 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782420442-0-0-7e531ed8500ac5a1b40c18a548ca7bfc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV ĐỐM] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782428722-0-0-bfd2fc11eeec146dfaa27d9f110fe286
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782420442-0-0-b267cd5f908f06c67fa48b8f17cb6270
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV ĐỐM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782428722-0-0-088c88e3e57bf2ca024273d120c6447f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782420442-0-0-2ab5a7f3e3fbf764fe9568bcf31ab946
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782428722-0-0-c27cb27c6daf53c0aa0c4e4c640ed236
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782420442-0-0-d1f1e3ec05be098a5ddb3e6063aae04c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782428722-0-0-0e3778847a4e0f73779897774250f5a1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=327265babb20658ef1cf3078199e5dd2&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=aaefb7677b72c33f74078d08d79364ab&txTime=6a3dfa82
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=448f199f6e15491a30c294a1990c070f&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=2a58d3223419d60c36c983b3591c8634&txTime=6a3dfa82
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=327265babb20658ef1cf3078199e5dd2&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=aaefb7677b72c33f74078d08d79364ab&txTime=6a3dfa82
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=448f199f6e15491a30c294a1990c070f&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2a58d3223419d60c36c983b3591c8634&txTime=6a3dfa82
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) flv
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1782420442-0-0-cef0fab0aff616e2c335a0e088fc5459
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) flv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782428722-0-0-d880915ef535595ff828016e74b4cdeb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1782420442-0-0-e2652511f0095dc1c826640873b159e2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782428722-0-0-ae52af4d00156080a8e7dd85c12636f8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1782420442-0-0-a0897bebb580d79cd79fe4ef3c77bfe7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) m3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782428722-0-0-b4f59701845ffd820e8a77694091908d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1782420442-0-0-80efb963c0a7d5635779122a76aa41b5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782428722-0-0-a584e8c8c16f6ba590e99809f7fe1715
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) flv
-https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=164d98872e4bd57f4b32ccc1bae36cda&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782428722-0-0-7e84582fe8ac0d73edc9783e4e83dafb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) hdFlv
-https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=e0474372ba1cfb3179623f478bcc3e52&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782428722-0-0-99c56eabb7e00bdf0ce04812c1a07f03
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) m3u8
-https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=164d98872e4bd57f4b32ccc1bae36cda&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782428722-0-0-c988f02218356b4f5bf5061c41462c15
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV KEM] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=e0474372ba1cfb3179623f478bcc3e52&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782428722-0-0-a06397ebd9dafe4e04520c879eea4ce2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) flv
-https://pull.niur.live/live/stream-557845_lsd.flv?txSecret=cb9eb411d1702e68755e35d1288b97b0&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [LÃO LÂM] (Socolive) flv
+https://pull.niur.live/live/stream-527384_lsd.flv?txSecret=10fe572ca3a1ab00c7b818ec2226d452&txTime=6a3dfa82
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-557845_lhd.flv?txSecret=8ced3a8b446d2a1f68e034ddaf8e5dc9&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [LÃO LÂM] (Socolive) hdFlv
+https://pull.niur.live/live/stream-527384_lhd.flv?txSecret=db9ee45cea6b53c8afab037adc504dda&txTime=6a3dfa82
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) m3u8
-https://pull.niur.live/live/stream-557845_lsd.m3u8?txSecret=cb9eb411d1702e68755e35d1288b97b0&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [LÃO LÂM] (Socolive) m3u8
+https://pull.niur.live/live/stream-527384_lsd.m3u8?txSecret=10fe572ca3a1ab00c7b818ec2226d452&txTime=6a3dfa82
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV A TÚ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-557845_lhd.m3u8?txSecret=8ced3a8b446d2a1f68e034ddaf8e5dc9&txTime=6a3dda2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [LÃO LÂM] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=db9ee45cea6b53c8afab037adc504dda&txTime=6a3dfa82
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV CUỘI] (Socolive) flv
+https://pull.niur.live/live/stream-256080_lsd.flv?txSecret=43fb8dcec3aa62d1d3710b6cf707c592&txTime=6a3dfa82
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV CUỘI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-256080_lhd.flv?txSecret=dcaed8ebd7c1c788264afa7ff3b00074&txTime=6a3dfa82
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV CUỘI] (Socolive) m3u8
+https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=43fb8dcec3aa62d1d3710b6cf707c592&txTime=6a3dfa82
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV CUỘI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=dcaed8ebd7c1c788264afa7ff3b00074&txTime=6a3dfa82
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) flv
+https://pull.niur.live/live/stream-291277_lsd.flv?txSecret=ba7d0be6ffd5b223784b82a3f4730bf3&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) hdFlv
+https://pull.niur.live/live/stream-291277_lhd.flv?txSecret=c38cd26a45b0972081bd212cabc00963&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) m3u8
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=ba7d0be6ffd5b223784b82a3f4730bf3&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [CÔNG CHẤT] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=c38cd26a45b0972081bd212cabc00963&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV COCA] (Socolive) flv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782429082-0-0-32ca51d06e77ddaa30d40ad4c4764e96
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782429082-0-0-6d2a16c1ddcfdb644d0276da6aab12a5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782429082-0-0-a4fe3ba484bf5da8bfc30c755a745bfe
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782429082-0-0-2d991ccba54930bdcb6af242ab7e37d5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782429082-0-0-4c2342ad21c6a5da11ebda088c733d1a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782429082-0-0-bc92cae5c9fad66c6a3c3894a1712c93
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782429082-0-0-e7037eb766fde69f826c692e1642964b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782429082-0-0-1cffc1cb6484bcef18d1db851541dac9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782429082-0-0-ef1c832318b2cebcf254c280a820413f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782429082-0-0-9b539068db071641560fc3a20033e083
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782429082-0-0-0045f2da1f9ee9098176e5c7fef50446
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782429082-0-0-bb7731d27c6a13cf522c3e3dc560a838
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) flv
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1782429082-0-0-841f9bf82fd81abf68f8f0acbee025fe
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1782429082-0-0-7c806cbecb698d108e66d7dc76b43f20
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) m3u8
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1782429082-0-0-3702edcabae144e0dc8cd96e74b6b442
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [CR Bưởi] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1782429082-0-0-46ec1b1b725b1209a376c12e22f187de
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782429082-0-0-8f4b2570bc70138cf145786c85147842
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782429082-0-0-e6085118bfbec2ddeb5b0ec8e5a4449a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782429082-0-0-9cb2995779f3455ae8119d759ce538c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782429082-0-0-8c89ac4291b85980cf5493f05a30a122
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) flv
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782429082-0-0-0a8eda73677ec0d08f3c040f6fcb26fc
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782429082-0-0-7e3e8461301e57605204c3adba68c823
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) m3u8
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782429082-0-0-f54b2ef6e74eea74108beb3cc6b8afb4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV MESSI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782429082-0-0-529d05cc725a2cb9b0a685d16347daa6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1782429082-0-0-06e0858c5d192a524e8785bd4a6488a1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1782429082-0-0-1edb27b14211e2c4080436620389e161
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782429082-0-0-9adede5252e74c8f029f1a2740ed492f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782429082-0-0-1ac306ec1319f70e163749940d778eef
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) flv
+https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=734ee329b18b911354437f4bc477edbc&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) hdFlv
+https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=ef86dfa07aa40b6dd73ceed6da60edfb&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) m3u8
+https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=734ee329b18b911354437f4bc477edbc&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [BLV KEM] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=ef86dfa07aa40b6dd73ceed6da60edfb&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV COZY] (Socolive) flv
+https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=2a611b97d662ebef0911f7ea5a05d0ab&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV COZY] (Socolive) hdFlv
+https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=10c01b5ee4b38275698763c8f90bbcbe&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV COZY] (Socolive) m3u8
+https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=2a611b97d662ebef0911f7ea5a05d0ab&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV COZY] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=10c01b5ee4b38275698763c8f90bbcbe&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [A BỆU] (Socolive) flv
+https://pull.niur.live/live/stream-484845_lsd.flv?txSecret=607f4a92735b839a488151746d7bbb74&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [A BỆU] (Socolive) hdFlv
+https://pull.niur.live/live/stream-484845_lhd.flv?txSecret=157fda90207629f94a853b0e1bbe7027&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [A BỆU] (Socolive) m3u8
+https://pull.niur.live/live/stream-484845_lsd.m3u8?txSecret=607f4a92735b839a488151746d7bbb74&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [A BỆU] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=157fda90207629f94a853b0e1bbe7027&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) flv
+https://pull.niur.live/live/stream-552832_lsd.flv?txSecret=0d85b24da6af3828f91bda43b61f78a5&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-552832_lhd.flv?txSecret=99aa0b31695be3ba1d3c6603d8bfcb0f&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=0d85b24da6af3828f91bda43b61f78a5&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [LOGAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=99aa0b31695be3ba1d3c6603d8bfcb0f&txTime=6a3dfbea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) flv
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1782429082-0-0-d221ce7409238617c3e59574483aa935
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1782429082-0-0-a457ae8d22d02a9f930919735bb88973
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) m3u8
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782429082-0-0-e54fadd1c9ff15fe7bb9f26adca95576
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Tunisia vs Netherlands [HẢI THANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782429082-0-0-959d2534686f84df837d48f36dd10bf9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782420442-0-0-1e225bb45d56deb81b4afdc356b66640
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782429082-0-0-2240275c334268c6f2362473f23c9c9c
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782420442-0-0-eabe505973b4136598ca3344608ef5e8
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782429082-0-0-845dcc290529b7a27f03115f906fec8d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782420442-0-0-373b43a87e75628d011de2e5fe37a8a6
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782429082-0-0-88a3607b7519736583b8090fc99ca2ff
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782420442-0-0-3ab9147cdb3e1dbaf4ffd8bc5973cf1b
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782429082-0-0-5135d61b8d7218691b2cde8a2a3b4afa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV ĐỐM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782420802-0-0-7e46888d1552493a1de7b292a1734ade
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV 7UP] (Socolive) flv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782429442-0-0-68931238ec7ffd6d1081ab33b3f0c7b9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV ĐỐM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782420802-0-0-fbada1e0a9df1f9510eeea0cf873acff
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV 7UP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782429442-0-0-8dd59db44d0a1c7836c397e64ee39b7e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782420802-0-0-48205e3133a8e5b6a4cd37482dac2b41
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782429442-0-0-cbe3eba7ee3b52e79bd4c59808d4f0aa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782420802-0-0-ede4539a11b41e4c63d8fa2cf560ced9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782429442-0-0-76f9aa2b1eac3823d93899a4031f9b34
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782420802-0-0-eb9299740d723ef8bd8182661743dc6f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV FIREMAN] (Socolive) flv
+https://pull.niur.live/live/stream-991140_lsd.flv?txSecret=d0defb392610d417f75e154731715c02&txTime=6a3dfd52
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782420802-0-0-a57e51d369443a568ec6a5ce6a32a0fa
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV FIREMAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-991140_lhd.flv?txSecret=2cf442c27b10e307ffe17f28f3df865f&txTime=6a3dfd52
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782420802-0-0-dcec99d50deadc5e8d46360108adaa2d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV FIREMAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=d0defb392610d417f75e154731715c02&txTime=6a3dfd52
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782420802-0-0-1524c76f7f379a664092f41c52a4e9e8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 ngày 26/06 Japan vs Sweden [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=2cf442c27b10e307ffe17f28f3df865f&txTime=6a3dfd52
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [DECO] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782420802-0-0-cb75b4bcb3d50a733b033f7ed9422b31
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [DECO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782420802-0-0-0db8fb6c65f41071936d28c2ac7804fd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782420802-0-0-3eb0755505ed039bb31f93ea91d58840
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782420802-0-0-7038e2b2f0b74fab1879da37a011381b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=8c6ec6b7b24135e9a443630fb5d2d744&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=f16c30c05a7b8317d13858dc01b9292a&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=8c6ec6b7b24135e9a443630fb5d2d744&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f16c30c05a7b8317d13858dc01b9292a&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [LOKA] (Socolive) flv
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782420802-0-0-95dd4076dfda0ab2b2e239d8abf0f089
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [LOKA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1782420802-0-0-621284453e6dfc7e595e092158c26f67
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [LOKA] (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782420802-0-0-4b1e88a3f8500a61d3e4cb015a433924
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [LOKA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782420802-0-0-0acbbd8ecc63cfa7b9008c226fa35c54
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [VƯƠNG ANH] (Socolive) flv
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=024c00e34d9995433e809ddf955313d2&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [VƯƠNG ANH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=1add5910a2547004f52fb55bde06330a&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [VƯƠNG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=024c00e34d9995433e809ddf955313d2&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [VƯƠNG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=1add5910a2547004f52fb55bde06330a&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV ROBBEN] (Socolive) flv
-https://pull.niur.live/live/stream-527383_lsd.flv?txSecret=5af904b72e6f28c7c436a11632087cbb&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV ROBBEN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-527383_lhd.flv?txSecret=7c0f2b0a1534d7ec45df2f4349d32924&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV ROBBEN] (Socolive) m3u8
-https://pull.niur.live/live/stream-527383_lsd.m3u8?txSecret=5af904b72e6f28c7c436a11632087cbb&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-527383_lhd.m3u8?txSecret=7c0f2b0a1534d7ec45df2f4349d32924&txTime=6a3ddb92
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV VOI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782420802-0-0-43f879184643ecc655fd619c890200da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV VOI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782420802-0-0-9e267eda4986e55fa14674ff7d3729ae
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV VOI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782420802-0-0-4b63176bd9a153c132a50e85bf267adf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV VOI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782420802-0-0-2f8ca9c4bab359512700877cdac4bcee
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [CR Bưởi] (Socolive) flv
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1782421162-0-0-0d25f5ff90cfb30cd02e03bdd4a54460
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [CR Bưởi] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1782421162-0-0-6ed1aa23dbf755ab6262568a3e64601f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [CR Bưởi] (Socolive) m3u8
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1782421162-0-0-80d7d030635cb8968b067b4f183dd937
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [CR Bưởi] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1782421162-0-0-7127ea2fd9fa308d3d136668c00aea6f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV Củ Cải] (Socolive) flv
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=311700d60618f8c87a53fcbb0bfda368&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV Củ Cải] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=bed010bed5a233c44b870323907255e4&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV Củ Cải] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=311700d60618f8c87a53fcbb0bfda368&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=bed010bed5a233c44b870323907255e4&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [THẠCH TÚ] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1782421162-0-0-d8444c84d617731623f0fb9b468ea00f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [THẠCH TÚ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1782421162-0-0-14543ac1a6db74d1c6a1ee04ada60fd9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [THẠCH TÚ] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782421162-0-0-4b8ba959918036ce1ce88c64546f628e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782421162-0-0-ea4bd4ffd73fc7b68acd432d1adfa6a7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782421162-0-0-af964351eeebd53cc6b03d9a8d8c1073
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782421162-0-0-ca8ecab9909cfd20c48757ad1489750e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782421162-0-0-d587ab824517bd7f69238262b25aa044
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782421162-0-0-3547177df105eb969524b73f82115a84
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV MESSI] (Socolive) flv
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=9388e0a4680339fb5995902fcc00b671&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV MESSI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=90e22d46a447f821f0bc4b1da55efc49&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV MESSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=9388e0a4680339fb5995902fcc00b671&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV MESSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=90e22d46a447f821f0bc4b1da55efc49&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV TOMMY] (Socolive) flv
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782421162-0-0-48a6db0e78cf86305689c44fae636127
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV TOMMY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782421162-0-0-5adb5f988f7e0c4a43bcf22d0046f84e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV TOMMY] (Socolive) m3u8
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782421162-0-0-6118965f0e6512c70f699b329f1a0a49
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782421162-0-0-c976be17682183c4458f289b1cafa95e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV PEWPEW] (Socolive) flv
-https://pull.niur.live/live/stream-9912015_lsd.flv?txSecret=6bd8eeec169f4cbc41efdd84936bb284&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV PEWPEW] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912015_lhd.flv?txSecret=2db11f00e46e3c4df8b483ba7a12e66e&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV PEWPEW] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912015_lsd.m3u8?txSecret=6bd8eeec169f4cbc41efdd84936bb284&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=2db11f00e46e3c4df8b483ba7a12e66e&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [A BỆU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782421162-0-0-89a2975b6ba378f2a8a24c1e710107c9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [A BỆU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782421162-0-0-5ee25ede3e1b3563bbcbce7ade599a09
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782421162-0-0-b5f495009a5a5fb95318f9af0fe87694
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782421162-0-0-960d28c64d0afc7a78cfeb480abddbc2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV FIREMAN] (Socolive) flv
-https://pull.niur.live/live/stream-991140_lsd.flv?txSecret=7315e40b0f4f546ae95d567a487f19fb&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV FIREMAN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-991140_lhd.flv?txSecret=1f83ce25a230b3b915c46d6179513ff7&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV FIREMAN] (Socolive) m3u8
-https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=7315e40b0f4f546ae95d567a487f19fb&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=1f83ce25a230b3b915c46d6179513ff7&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [NGƯỜI CÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782421162-0-0-333c927ecd330b7a56e04db67b7b7c27
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [NGƯỜI CÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1782421162-0-0-473444d86a7ccff18704164e48a6c460
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782421162-0-0-9fbbebbe3530b5c4c7d723ee7c83bec0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Ecuador vs Germany [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782421162-0-0-60ee8b322921ba386d81047f447f30c2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV CÒ] (Socolive) flv
-https://pull.niur.live/live/stream-582342_lsd.flv?txSecret=63f2d9d2fe6960d80a9fb5ebd4c39019&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV CÒ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-582342_lhd.flv?txSecret=484d06c3fe3ddda3eaac2d8bc21e889d&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV CÒ] (Socolive) m3u8
-https://pull.niur.live/live/stream-582342_lsd.m3u8?txSecret=63f2d9d2fe6960d80a9fb5ebd4c39019&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 26/06 Curacao vs Cote d'Ivoire [BLV CÒ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=484d06c3fe3ddda3eaac2d8bc21e889d&txTime=6a3ddcfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 26/06 Al Kuwait SC vs Kazma [QUỐC KHÁNH] (Socolive) flv
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1782421162-0-0-06e009aab68725827310345e8cec0d7d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 26/06 Al Kuwait SC vs Kazma [QUỐC KHÁNH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1782421162-0-0-28a7f467135d7f493bbd324722db0687
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 26/06 Al Kuwait SC vs Kazma [QUỐC KHÁNH] (Socolive) m3u8
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1782421162-0-0-5bea97b5c765c03a570e182a9e362afa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h45 ngày 26/06 Al Kuwait SC vs Kazma [QUỐC KHÁNH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782421162-0-0-8a2b80b1be96f714d17bea8fa0c3d8cb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 26/06 Curaçao vs Ivory Coast (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 26/06 Curaçao vs Ivory Coast (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 26/06 Curaçao vs Ivory Coast (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 26/06 Curaçao vs Ivory Coast (Hội Quán) SD
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 26/06 Ecuador vs Germany (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 26/06 Japan vs Sweden (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 26/06 Ecuador vs Germany (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 26/06 Japan vs Sweden (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 26/06 Ecuador vs Germany (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 26/06 Tunisia vs Netherlands (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 26/06 Tunisia vs Netherlands (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 26/06 Tunisia vs Netherlands (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 26/06 Ecuador vs Germany (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 26/06 Tunisia vs Netherlands (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanchoptracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 26/06 Ba Lan vs Thổ Nhĩ Kỳ (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 26/06 Ba Lan vs Thổ Nhĩ Kỳ (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 26/06 Pháp vs Cuba (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 26/06 Pháp vs Cuba (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 26/06 Slovenia vs Bulgaria (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h30 26/06 Slovenia vs Bulgaria (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 26/06 Ecuador vs Đức
-https://live05.meung.app/live/08552895.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 26/06 Curacao vs Bờ Biển Ngà
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 26/06 Tunisia vs Hà Lan
 https://live05.meung.app/live/87547578.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h00 26/06 Nhật Bản vs Thụy Điển
+https://live05.meung.app/live/08552895.m3u8
 
