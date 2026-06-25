@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/4143.png",00:00 | Super Nova vs FS Jelgava
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/27561.png",20:00 | Jaiyq vs Akademiya Ontustik
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",U18 Việt Nam - U18 Malaysia
-https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 5
+https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 7
 https://vip.opstream16.com/20230414/33880_160821c1/index.m3u8
@@ -65,75 +65,150 @@ https://vip.opstream90.com/20260305/26504_404d52bf/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",Oshi No Ko Phần 3 - Tập 9
 https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W (Lương Sơn) BLV YẾN THANH m3u
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h42 ngày 25/06 Bồ Đào Nha vs Uzbekistan (Lương Sơn) BLV KEVILL REPLAY m3u
+https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782362842-0-0-e2e17d939e249c82e6d71b13200f3a75
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/06 Khoromkhon Club vs Ulaangom City FC (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782362842-0-0-60de1b9ba73866e648e0ed86d1759a99
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [CHÍ PHÈO] (Socolive) m3u8
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782390202-0-0-37a4774a35ae69d356d159a450d40e8b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782362842-0-0-0090d280b797397a6317fa3d0d6cdb15
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [CHÍ PHÈO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782390202-0-0-9e05d7b14aa5f8fa94bd5a6e837c0f4b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782362842-0-0-614e2d40add6349fda66b9709279cf0f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782390202-0-0-7e4c5769aff03d706c8a7d394a91b5aa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Canada [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782362842-0-0-b6e5c321fb5433fa63f2f5e74d589ddb
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782390202-0-0-17e226706424d91f5a00e8f046aa2374
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Canada [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782362842-0-0-e67255b6cbfda0450b392ae59b34cf68
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782390202-0-0-e7c95e156f16aa7c1adbb778dc2d209e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782363202-0-0-60051def568c08e87d2a0635e8389af5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782363202-0-0-d3f435135f53e08ee83690371511ccde
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782390202-0-0-0138e84f6e3a78622e426c6620452189
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782363202-0-0-0c88b88cc661bc2417e047298dd8384d
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782390202-0-0-303c1afd4570b95c6a9a4e4482a26b03
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Morocco vs Haiti [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782363202-0-0-f1e84e2f9c98bb47aaec5a2aa246daaf
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782390202-0-0-6e2f1e7d03fd46d7a9c6f500671a41aa
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782363202-0-0-f8cf81c0fd04ea43cf2bb21a38a3942e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782390202-0-0-107934a6bd98a4b8f8aff1d9a64d6372
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782363202-0-0-05d939b4e5b6b77452893160f258a110
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs South Korea [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782390202-0-0-70391a3feeac1d2395027e6f5aad985b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782363562-0-0-79cf517f8bf0185a41d78f1b6bdd52e7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [QUỐC KHÁNH] (Socolive) m3u8
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1782390562-0-0-1bb9f435d3eb347b9a18826baccb11cf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782363562-0-0-9108922c3162caabfe51b4938b2aba19
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [QUỐC KHÁNH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782390562-0-0-116f41d419ac34dcdae69c5f005cc944
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782363562-0-0-b1f73b2f392aaed44f41bf1215166e2e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782390562-0-0-28684686d336660cfdd674f8f2c39120
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 25/06 Golden State Valkyries W vs Atlanta Dream W [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782363562-0-0-62f6b06c9b39ee51937c1a8455a128c0
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 25/06 Bishrelt Khoromkhon vs Ulaangom City [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782390562-0-0-8a3012debe4c17359573d9815668f134
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 FK Yelimay Semey B vs Turan [BLV RYO] (Socolive) m3u8
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782390562-0-0-4cba423c412d1cf249a75b52a43358f3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 FK Yelimay Semey B vs Turan [BLV RYO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782390562-0-0-770f0bef7ea302b91cdf9f2f4b715c70
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 Quezon Huskers vs Batangas City [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782390562-0-0-60d5fe2e88a1ffaa7e413d72f647cb6b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 Quezon Huskers vs Batangas City [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782390562-0-0-0b67a7b886ea877330917038772f565e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 Kairat Almaty II vs Khan Tengri FC [VƯƠNG ANH] (Socolive) m3u8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=11dd02a20831c207d726a889ea6e380c&txTime=6a3d6572
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 Kairat Almaty II vs Khan Tengri FC [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=42d08d7f8f3acb71c9ac18ff4e49164e&txTime=6a3d6572
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782363562-0-0-b668666d264f299d6a40d31188e786cc
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782390562-0-0-59540a5613040894e88f3574176c1f3f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Scotland vs Brazil [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782363562-0-0-84bc46300251650f05a96ca37ae1f293
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782390562-0-0-fcc220adf8f018b05b4e49e5101b651f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782363562-0-0-d1a167d38ab7e386ce4d389e26f12fde
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782390562-0-0-ed0a6fe901e97c7354220d011bbf7bcb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Bosnia and Herzegovina vs Qatar [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782363562-0-0-28a6e9e0a1cf3df9db308887b6ee27c4
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782390562-0-0-55d4b19b346206049a554d37799904b7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 25/06 U18 Việt Nam vs U18 Malaysia (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782390562-0-0-bc9d50a44363c7a700e463c31d71d6ec
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 25/06 U18 Việt Nam vs U18 Malaysia (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Czechia vs Mexico [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782390562-0-0-34487678ab501f21ee43d8cb06d814d0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 25/06 Los Angeles FC II vs MINNESOTA United B
-https://live05.meung.app/live/14707124.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 Kairat Almaty II vs Khan Tengri FC [BLV VOI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782390922-0-0-d20d330320b4def4850fec8df6d4c89b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 Kairat Almaty II vs Khan Tengri FC [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782390922-0-0-1526aea1da085e0bf6118e9071daf023
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 FK Yelimay Semey B vs Turan [ĐỖ TÚ TÀI] (Socolive) m3u8
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782390922-0-0-d2935d7978da540d151df89927a8a7c3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 FK Yelimay Semey B vs Turan [ĐỖ TÚ TÀI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782390922-0-0-b0e21877f36097081274fa92831944b8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 Kairat Almaty II vs Khan Tengri FC [BLV LION] (Socolive) m3u8
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782390922-0-0-db51789b0b4adc7ae79c23bc25828c9a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 Kairat Almaty II vs Khan Tengri FC [BLV LION] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782390922-0-0-2c7966e1873a12efd23f586d5eb91c99
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 FK Yelimay Semey B vs Turan [PINKMAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=4da7dfb919377bbd1e094eb2f125fa72&txTime=6a3d66da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 FK Yelimay Semey B vs Turan [PINKMAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=8029a30b2aa96d95c8e043d91a6ceb31&txTime=6a3d66da
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [A CHÈ] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782390922-0-0-4d553c31b1254baa5bef8df9c0d9a175
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 25/06 San Juan Knights vs Marikina Shoemasters [A CHÈ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782390922-0-0-33f292d8ebc42c3509982f0ea2c8cdb0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 FK Yelimay Semey B vs Turan [BEN 10] (Socolive) m3u8
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1782390922-0-0-42e03b74ab258d8be2c5b8db7e6aa8c6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 FK Yelimay Semey B vs Turan [BEN 10] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1782390922-0-0-74bb270663f7ea0cebe4e833e7838029
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 Quezon Huskers vs Batangas City [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1782390922-0-0-bf45ffe015b81845ebf85fd33ddb98d9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 25/06 Quezon Huskers vs Batangas City [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1782390922-0-0-2f0096cd4123c98e6fc347d494da7ad0
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782390922-0-0-f400c20e9dc1408176105a515ea01168
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782390922-0-0-6cd436a4e2ecafbea0ea24031aa886b3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Canada [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782390922-0-0-09a8767f185a6927ea0704be953d936a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Switzerland vs Canada [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782390922-0-0-13a7afa37b016b4570d0551842b04750
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 25/06 Khoromkhon vs Ulaangom City (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 25/06 Khoromkhon vs Ulaangom City (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 25/06 Kairat Almaty II vs Khan Tengri FC
+https://live05.meung.app/live/75748097.m3u8
 
