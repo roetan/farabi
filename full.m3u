@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",06:30 | Colombia vs Portugal
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",06:30 | Colombia vs Portugal
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",06:30 | Congo DR vs Uzbekistan
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s",18:30 | Trung Quốc vs Đức
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
@@ -17,17 +8,26 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",18:30 | Iran vs Cuba
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2994.png",07:00 | U. Catolica vs San Luis
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/10216.png",12:00 | Gold Coast United vs Moreton City Excelsior
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/10217.png",14:00 | Lions vs WDSC Wolves
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/21263.png",18:00 | Dalian Zhixing vs Shanghai Shenhua
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2259.png",20:00 | FK Tobol Kostanay vs Altay
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/3670.png",16:00 | Ha Noi W vs Ho Chi Minh W
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/18834.png",22:00 | FS Jelgava vs Grobiņa
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",02:00 | South Africa vs Canada
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",02:00 | South Africa vs Canada
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
@@ -35,26 +35,26 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/8.png",Colombia vs Bồ Đào Nha
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/8.png",Colombia vs Bồ Đào Nha
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/8.png",Colombia vs Bồ Đào Nha
-https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1508.png",Congo DR vs Uzbekistan
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1548.png",Jordan vs Argentina
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/UFsHESEa-dUwawdyp.png",Trung Quốc vs Đức
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/27196.png",U19 Thụy Sĩ vs U19 Tây Ban Nha
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",U18 Việt Nam vs U18 Thái Lan
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/16611.png",Zhenys vs FC Astana
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10353.png",Wales U19 vs Spain U19
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1531.png",South Africa vs Canada
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10336.png",Germany U19 vs Denmark U19
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 1)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",Tập 1
 https://vip.opstream15.com/20230414/37767_4a795191/index.m3u8
@@ -602,77 +602,41 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BIBI_PLUS_clear/manifest.mpd
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/life.png",On Life
 https://livevlisctcdnw.seenow.vn/livesnv2/LIFE_TV/manifest.mpd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Kingborough Lions vs Devonport City (Lương Sơn) BLV SHIN m3u
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV VÕ TÒNG flv
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Kingborough Lions vs Devonport City (Lương Sơn) BLV SHIN flv
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV KAKA m3u
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Marconi Stallions vs Blacktown City Demons (Lương Sơn) BLV LÝ ỨNG m3u
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV KAKA flv
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Marconi Stallions vs Blacktown City Demons (Lương Sơn) BLV LÝ ỨNG flv
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV LỮ BỐ m3u
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV LỮ BỐ flv
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV NGƯỜI THÉP m3u
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV NGƯỜI THÉP flv
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV LƯU BỊ m3u
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV LƯU BỊ flv
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV FERNANDO m3u
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV FERNANDO flv
-https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV LEO m3u
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Lương Sơn) BLV LEO flv
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV YẾN THANH m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Launceston City vs South East United FC (Lương Sơn) BLV YẾN THANH m3u
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV YẾN THANH flv
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Launceston City vs South East United FC (Lương Sơn) BLV YẾN THANH flv
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Broadmeadow Magic vs Weston Workers FC (Lương Sơn) BLV DƯƠNG CHÍ m3u
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Broadmeadow Magic vs Weston Workers FC (Lương Sơn) BLV DƯƠNG CHÍ flv
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV MÃ SIÊU m3u
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Gold Coast United vs Moreton City Excelsior FC (Lương Sơn) BLV TÔN LẬP m3u
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV MÃ SIÊU flv
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Gold Coast United vs Moreton City Excelsior FC (Lương Sơn) BLV TÔN LẬP flv
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV LÃO HẠC m3u
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 28/06 Canterbury Rams vs Bay Hawks (Lương Sơn) BLV LÝ QUỲ m3u
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV LÃO HẠC flv
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Rep Congo vs Uzbekistan (Lương Sơn) BLV TRIỆU TỬ LONG flv
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h00 ngày 28/06 Canterbury Rams vs Bay Hawks (Lương Sơn) BLV LÝ QUỲ flv
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -689,77 +653,41 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Chuối Chiên) HD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 28/06 Chinese Taipei vs Qatar (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m3x6/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h00 ngày 28/06 Chinese Taipei vs Qatar (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m3x6.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 28/06 Dangjin Citizen vs Gangneung City (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Chuối Chiên) HD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 28/06 Dangjin Citizen vs Gangneung City (Chuối Chiên) HD2
 https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Chuối Chiên) FHD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 28/06 Dangjin Citizen vs Gangneung City (Chuối Chiên) FHD1
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Chuối Chiên) FHD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 28/06 Dangjin Citizen vs Gangneung City (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/troctru.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Congo DR vs Uzbekistan (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Congo DR vs Uzbekistan (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Congo DR vs Uzbekistan (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Congo DR vs Uzbekistan (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Algeria vs Austria (Chuối Chiên) HD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 28/06 Qingdao Youth Island vs Hangzhou Greentown (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Algeria vs Austria (Chuối Chiên) HD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 28/06 Qingdao Youth Island vs Hangzhou Greentown (Chuối Chiên) HD2
 https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Algeria vs Austria (Chuối Chiên) FHD1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 28/06 Qingdao Youth Island vs Hangzhou Greentown (Chuối Chiên) FHD1
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Algeria vs Austria (Chuối Chiên) FHD2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 28/06 Qingdao Youth Island vs Hangzhou Greentown (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Algeria vs Austria (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Algeria vs Austria (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/angao.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Algeria vs Austria (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Algeria vs Austria (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/angaohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Jordan vs Argentina (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Jordan vs Argentina (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Jordan vs Argentina (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 28/06 Jordan vs Argentina (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 28/06 Bulgaria vs Ukraine (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
@@ -773,6 +701,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 28/06 Bulgaria vs Ukraine (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 28/06 China vs Germany (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 28/06 China vs Germany (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 28/06 China vs Germany (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 28/06 China vs Germany (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 28/06 Iran vs Cuba (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 
@@ -785,6 +725,42 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h30 ngày 28/06 Iran vs Cuba (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 28/06 Vietnam W vs Thailand W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 28/06 Vietnam W vs Thailand W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 28/06 Vietnam W vs Thailand W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 28/06 Vietnam W vs Thailand W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 28/06 Zhenys vs FC Astana (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 28/06 Zhenys vs FC Astana (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 28/06 Zhenys vs FC Astana (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",21h00 ngày 28/06 Zhenys vs FC Astana (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 29/06 South Africa vs Canada (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 29/06 South Africa vs Canada (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 29/06 South Africa vs Canada (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 29/06 South Africa vs Canada (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -794,345 +770,351 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782607642-0-0-a7ab71dc61768336f3d2e67d7aa21b66
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Gold Coast United vs Moreton City Excelsior FC [BLV ROBBEN] (Socolive) flv
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782627082-0-0-30181baec64aea538b894df12e6dc04e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782607642-0-0-afad53dc58fbe5b58697879c306e363d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Gold Coast United vs Moreton City Excelsior FC [BLV ROBBEN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1782627082-0-0-e4b078312da32f1bffa91207f25199e5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782607642-0-0-4d62ed52cfda8a0e2a01ca369afd9fe1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Gold Coast United vs Moreton City Excelsior FC [BLV ROBBEN] (Socolive) m3u8
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782627082-0-0-a02f20588f07dc5ca3712670c36bfe1f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782607642-0-0-8cd04c737c755a1837eeff9e2bb42969
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Gold Coast United vs Moreton City Excelsior FC [BLV ROBBEN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1782627082-0-0-2f7fd551f13387ca7384f5a7f06b25f5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV KEM] (Socolive) flv
-https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=f7faf8d1096b4201f9e89383ceb8f66d&txTime=6a40b56a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV RÔSI] (Socolive) flv
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=a99657b4ecdb115a7b52eadd0cdba40e&txTime=6a41015a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV KEM] (Socolive) hdFlv
-https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=af5b992a87bf6643ccb7019aa1327f58&txTime=6a40b56a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV RÔSI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=6d877be894d1cd73341051b4e28e9af2&txTime=6a41015a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV KEM] (Socolive) m3u8
-https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=f7faf8d1096b4201f9e89383ceb8f66d&txTime=6a40b56a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV RÔSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=a99657b4ecdb115a7b52eadd0cdba40e&txTime=6a41015a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV KEM] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=af5b992a87bf6643ccb7019aa1327f58&txTime=6a40b56a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV RÔSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=6d877be894d1cd73341051b4e28e9af2&txTime=6a41015a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV COZY] (Socolive) flv
-https://pull.niur.live/live/stream-531989_lsd.flv?txSecret=41c4f2402832d95d3fefe6fad3592044&txTime=6a40b56a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [A PÁO] (Socolive) flv
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782627082-0-0-6ae1dae53ed235be709402feb37d2340
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV COZY] (Socolive) hdFlv
-https://pull.niur.live/live/stream-531989_lhd.flv?txSecret=477d363a523bfabab69d21236710aa31&txTime=6a40b56a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [A PÁO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782627082-0-0-b2a2376a69cb90e1b20316a94fc42443
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV COZY] (Socolive) m3u8
-https://pull.niur.live/live/stream-531989_lsd.m3u8?txSecret=41c4f2402832d95d3fefe6fad3592044&txTime=6a40b56a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [A PÁO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782627082-0-0-43cee341c55626c05e69fbc97246983c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV COZY] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=477d363a523bfabab69d21236710aa31&txTime=6a40b56a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782627082-0-0-d0f5aa2963e25a5580f7f67b018535c7
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra FC vs Tuggeranong United [XUÂN SON] (Socolive) flv
+https://pull.niur.live/live/stream-501412_lsd.flv?txSecret=276ae61953c426fe390fc0793772a948&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra FC vs Tuggeranong United [XUÂN SON] (Socolive) hdFlv
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=d25d58d894d6a8a1d39fc825028c0ce4&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra FC vs Tuggeranong United [XUÂN SON] (Socolive) m3u8
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=276ae61953c426fe390fc0793772a948&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra FC vs Tuggeranong United [XUÂN SON] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=d25d58d894d6a8a1d39fc825028c0ce4&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [LOGAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782627082-0-0-02f71c7c4f6ed9af3f7e08d608d7a5e6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [LOGAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1782627082-0-0-cd6f45a4b5424cc1bfbcdb207995f83b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [LOGAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782627082-0-0-8115ecfc5634e89403f8b28dea5748c9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [LOGAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782627082-0-0-730499cadd3b1e7654fa77361628b82c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [A BỆU] (Socolive) flv
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782627082-0-0-82655d0a2cfe552cc90658fa8e4fffed
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [A BỆU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782627082-0-0-50aae02af28791b7ff91c0e6c8252d21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [A BỆU] (Socolive) m3u8
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782627082-0-0-69f4703b35410163bcbb1b09ddb10604
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [A BỆU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782627082-0-0-53fea99dd77035739793141e2055e102
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Marconi Stallions vs Blacktown City Demons [BLV KAN] (Socolive) flv
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=5f1bc7cfabd25a69d2f1cda9b69d51c4&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Marconi Stallions vs Blacktown City Demons [BLV KAN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=cc9866a73215feadfefcad6c8c113ad0&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Marconi Stallions vs Blacktown City Demons [BLV KAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=5f1bc7cfabd25a69d2f1cda9b69d51c4&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Marconi Stallions vs Blacktown City Demons [BLV KAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=cc9866a73215feadfefcad6c8c113ad0&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra FC vs Tuggeranong United [BLV GIÓ] (Socolive) flv
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1782627082-0-0-04555fdfef78b70849b9bde7f27cda16
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra FC vs Tuggeranong United [BLV GIÓ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1782627082-0-0-50628c8a9bd94c082a2b90ed5a36a9d6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra FC vs Tuggeranong United [BLV GIÓ] (Socolive) m3u8
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1782627082-0-0-3a077935018ff0d032d69a59fa38faf9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra FC vs Tuggeranong United [BLV GIÓ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1782627082-0-0-f2bea41c02ae0364a3e522ff30993cba
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra Juventus vs Brindabella Blues FC [CƠM CHÁY] (Socolive) flv
+https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1782627082-0-0-de6d9a4cfa1529b73c0d62677cdf79e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra Juventus vs Brindabella Blues FC [CƠM CHÁY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1782627082-0-0-e4f9acfd823e1bf58bf8548b678b430c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra Juventus vs Brindabella Blues FC [CƠM CHÁY] (Socolive) m3u8
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782627082-0-0-87201a711e5aa6c87a841e6968d7333b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra Juventus vs Brindabella Blues FC [CƠM CHÁY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782627082-0-0-32ab689956071152ff4243278dbac993
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra Juventus vs Brindabella Blues FC [BLV XO] (Socolive) flv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782627082-0-0-2f8ea877fc4816dabed652224ad94ef9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra Juventus vs Brindabella Blues FC [BLV XO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1782627082-0-0-554e81cc1f64104856acbbac4bcc3135
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra Juventus vs Brindabella Blues FC [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782627082-0-0-8984ba6e718e1268abb6edb2a82ceed2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Canberra Juventus vs Brindabella Blues FC [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782627082-0-0-6b6ca270d4a92292ef87aed88db2221a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS NSW  Marconi Stallions  Blacktown City Demons [BLV A TINH] (Socolive) flv
+https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=a0a5322b1b568e6fea8966bd1cf9f0dc&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS NSW  Marconi Stallions  Blacktown City Demons [BLV A TINH] (Socolive) hdFlv
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=0863b04db5b82065ff0c3baf08aafae5&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS NSW  Marconi Stallions  Blacktown City Demons [BLV A TINH] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=a0a5322b1b568e6fea8966bd1cf9f0dc&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",AUS NSW  Marconi Stallions  Blacktown City Demons [BLV A TINH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=0863b04db5b82065ff0c3baf08aafae5&txTime=6a41015a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 28/06 Nelson Giants vs Auckland Tuatara [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782627082-0-0-5f35dd66e92b9a7a96cfd876ee4c0d92
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 28/06 Nelson Giants vs Auckland Tuatara [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1782627082-0-0-12aad742c90623e6c9c8562d30f2d64c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 28/06 Nelson Giants vs Auckland Tuatara [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782627082-0-0-d3e46e2c6da7738c0300e7a1c20e2d86
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",13h00 ngày 28/06 Nelson Giants vs Auckland Tuatara [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782627082-0-0-060c58359099ce0f600b32108502ac2b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Broadmeadow Magic vs Weston Workers FC [KÉP] (Socolive) flv
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782627082-0-0-15caf97623677cabb670f2cb8ba9944f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Broadmeadow Magic vs Weston Workers FC [KÉP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782627082-0-0-209fc6a9f402443002efdfaf475f4880
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Broadmeadow Magic vs Weston Workers FC [KÉP] (Socolive) m3u8
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782627082-0-0-9ebe2a43c9065548c0e0a7ffb5f1f672
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Broadmeadow Magic vs Weston Workers FC [KÉP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782627082-0-0-58a3d2b59eb64f7d64ffc9d7c4d00c29
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782607642-0-0-615ced6e971e4a551385e9a1130634cd
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782627082-0-0-8eb718aca8146b7d26c98106e1dcf65f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782607642-0-0-edaa2fa598c2ee2bc5ec53ed552bc239
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782627082-0-0-72edd4c0ca28c6137250482aadfaa3bb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782607642-0-0-0763523cf2e25de74789e58de5110d3a
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782627082-0-0-9ac8499032125f2eed1862b466726deb
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782607642-0-0-522f019061eac64531ca12dda6676c01
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782627082-0-0-1743d33800ad36f775e40974b46d0ea0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV CUỘI] (Socolive) flv
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782608002-0-0-0cb4d4fa9904ac5dcb65e79b202d8858
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) flv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782627082-0-0-938b3723046426b0491bdc87690b5cac
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV CUỘI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1782608002-0-0-0e6fe4330ffa3641a0c8d4daed4a0772
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782627082-0-0-c93857bf999bc7fe09fd2cb72f4f8afb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782608002-0-0-25cc5bace6cba480463435e03b807714
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782627082-0-0-1e0c5b1c4076307d8fad58cc455be26f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782608002-0-0-779a39f29cd3f02476026ae5c7da2ae9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782627082-0-0-66033c88ddfc402cdb81a3f7d275e91e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV TOMMY] (Socolive) flv
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782608002-0-0-89f7488713f850cd905d603314f77657
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782627082-0-0-d3d9c695bd87b6a750ba6d5c38cb7cd8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV TOMMY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782608002-0-0-6c208b967ae4e8c93697a4625b2e948a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782627082-0-0-41f5e2d2b089a4062adfd247ab69fa6e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV TOMMY] (Socolive) m3u8
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782608002-0-0-e05a7a47b874aac05552ce819bff80a9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782627082-0-0-56ba8fb8b7df82cc8d98d02773ed02df
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782608002-0-0-5f67374f20283b7b873f779da03d71b3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782627082-0-0-9f6597b7c7f387077909eabda80ba268
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV ĐỐM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782608002-0-0-c3bc93a3e63ae56766ebffce7ee339f5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV ENZO] (Socolive) flv
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782627442-0-0-f3a3641e3c44f824417c96843ce0d17c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV ĐỐM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782608002-0-0-e360bbfd2784f9cb748744e1d3108f19
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV ENZO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1782627442-0-0-613d7d8ccf6a7bd31863820de345871e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782608002-0-0-bb24f3acf8ecff459d85c61a52d0286e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782627442-0-0-53ff3998adbf4c6749269a657a64804f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782608002-0-0-91080767f17ba0875b9101e08048bb50
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782627442-0-0-0ce8b25486bdab92abf2604f8bea0221
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [CR Bưởi] (Socolive) flv
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=7bc90caba16a9ae5208e880cab5ebad9&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Gold Coast United vs Moreton City Excelsior FC [BLV LUCAS] (Socolive) flv
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782627442-0-0-89e2806b6b7e57c09e282994a742aa94
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [CR Bưởi] (Socolive) hdFlv
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=d11824ecf3c706df43b44b44813411f2&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Gold Coast United vs Moreton City Excelsior FC [BLV LUCAS] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782627442-0-0-a7b0345d09892850572d5327e74be8c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=7bc90caba16a9ae5208e880cab5ebad9&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Gold Coast United vs Moreton City Excelsior FC [BLV LUCAS] (Socolive) m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782627442-0-0-07d3250896dc0326efea1f00855b8243
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d11824ecf3c706df43b44b44813411f2&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Gold Coast United vs Moreton City Excelsior FC [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782627442-0-0-1f295ec754de37b52a8acc3fa7e91c80
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV MESSI] (Socolive) flv
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=f1348f2b1bd35e111966164d414aea80&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Kingborough Lions vs Devonport City [BLV GÔN] (Socolive) flv
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=18f80c6ea9c0e9466ee2a574e1d00fad&txTime=6a4102c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV MESSI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=f21b5e56b051f6cba5dfc70b01afd5a9&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Kingborough Lions vs Devonport City [BLV GÔN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=af906103094cb38877beea4ddb9e31da&txTime=6a4102c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV MESSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=f1348f2b1bd35e111966164d414aea80&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Kingborough Lions vs Devonport City [BLV GÔN] (Socolive) m3u8
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=18f80c6ea9c0e9466ee2a574e1d00fad&txTime=6a4102c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV MESSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=f21b5e56b051f6cba5dfc70b01afd5a9&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Kingborough Lions vs Devonport City [BLV GÔN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=af906103094cb38877beea4ddb9e31da&txTime=6a4102c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV PEWPEW] (Socolive) flv
-https://pull.niur.live/live/stream-9912015_lsd.flv?txSecret=956da752650f69871b06d7a231584b99&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Launceston City vs South East United FC [BLV CHIVAS] (Socolive) flv
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=a1122980a80a0a5de3a9ebf3e5efedbc&txTime=6a4102c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV PEWPEW] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912015_lhd.flv?txSecret=894f6833d7f4125855cf77f6eae69e1a&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Launceston City vs South East United FC [BLV CHIVAS] (Socolive) hdFlv
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=2edbf8816c60f8c3175a6a50a7cd4403&txTime=6a4102c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV PEWPEW] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912015_lsd.m3u8?txSecret=956da752650f69871b06d7a231584b99&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Launceston City vs South East United FC [BLV CHIVAS] (Socolive) m3u8
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=a1122980a80a0a5de3a9ebf3e5efedbc&txTime=6a4102c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=894f6833d7f4125855cf77f6eae69e1a&txTime=6a40b6d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Launceston City vs South East United FC [BLV CHIVAS] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2edbf8816c60f8c3175a6a50a7cd4403&txTime=6a4102c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [HẢI THANH] (Socolive) flv
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1782608002-0-0-0f776dafa0c8b6c3726396f935613f2f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Launceston City vs South East United FC [BLV CÒ] (Socolive) flv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782627442-0-0-22e197198fd722cfca0927f054c5f3bc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [HẢI THANH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1782608002-0-0-60128a4be458a3c4990b08fc0f24a523
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Launceston City vs South East United FC [BLV CÒ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1782627442-0-0-396e2f7bb11ae955306f736aa494d9b2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [HẢI THANH] (Socolive) m3u8
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782608002-0-0-2296fac8b5f878fbbb6aa416d0ac5b7c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Launceston City vs South East United FC [BLV CÒ] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782627442-0-0-71ad8264895852b88f013914dcb13425
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [HẢI THANH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782608002-0-0-d9fa8f735ee82552996cbd76e886c0f4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Launceston City vs South East United FC [BLV CÒ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782627442-0-0-b4e2c2a0e7370d657bb7f3f92d4cb4f2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 28/06 Indiana Fever W vs Los Angeles Sparks W [A CHÈ] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782608002-0-0-2ef9dbe39e3420811e11deaa544db84b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Kingborough Lions vs Devonport City [BLV A WIN] (Socolive) flv
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782627442-0-0-4214c78f295617adf62c95a23e5390e4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 28/06 Indiana Fever W vs Los Angeles Sparks W [A CHÈ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782608002-0-0-0d3a9dc0204992163f64c526d9888350
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Kingborough Lions vs Devonport City [BLV A WIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782627442-0-0-36e958af0274dabe0de35b1decdd84e7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 28/06 Indiana Fever W vs Los Angeles Sparks W [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782608002-0-0-30026e815704130178003fb83c63eee5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Kingborough Lions vs Devonport City [BLV A WIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782627442-0-0-d63f4458db60fd897c81c11a256f9fb1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 28/06 Indiana Fever W vs Los Angeles Sparks W [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782608002-0-0-a4fbb6498573bdfefacb9a6d5f53fa34
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",11h30 ngày 28/06 Kingborough Lions vs Devonport City [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782627442-0-0-1558d7eba86632df797dff085c30c99a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV TAP] (Socolive) flv
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=9905d8ca0a22433ef2b275c3349c08c1&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Broadmeadow Magic vs Weston Workers FC [BLV LION] (Socolive) flv
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782627442-0-0-e18a82d71b6b7aafb04c7ef279e2bed6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV TAP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=7f70fb58c04a7403f0889666db1f82d6&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Broadmeadow Magic vs Weston Workers FC [BLV LION] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1782627442-0-0-9a01c09b4fe1aa2b9189a9408b9bfe31
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV TAP] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=9905d8ca0a22433ef2b275c3349c08c1&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Broadmeadow Magic vs Weston Workers FC [BLV LION] (Socolive) m3u8
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782627442-0-0-76df31812b8ace0b511d94e7b06a9847
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV TAP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=7f70fb58c04a7403f0889666db1f82d6&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 ngày 28/06 Broadmeadow Magic vs Weston Workers FC [BLV LION] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782627442-0-0-4b50dddf5d171761f5e41a803ad98796
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [DECO] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782608422-0-0-487fe6e03eda3d58d764cc3f2d4cee72
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV VOI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1782627442-0-0-77d15e6f7a0b589e19600e312938ca6f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [DECO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782608422-0-0-b44cd54fd05bc2c44ca303f665c9a8a3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV VOI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1782627442-0-0-314dd92f6bf907f4e8155e129242f0f2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782608422-0-0-0b53c612cad375b2b77152887200aebc
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV VOI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782627442-0-0-71246aacfd2cd96f943743bd0c51f3ab
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782608422-0-0-8779107d7b2086c12ff100ede1784da7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 ngày 28/06 South Melbourne vs Green Gully Cavaliers [BLV VOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782627442-0-0-376ff0951ace7c5c34ed51afba3e3f44
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=5ed36eb0feea12b823b610841886047f&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) flv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782627442-0-0-cc094f1f1fa6691fd02324896edaaa23
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=2f7d8f717d0c30a4060ff60c301dffb8&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782627442-0-0-78077b506db5b5cf6c0967ee43efc056
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=5ed36eb0feea12b823b610841886047f&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782627442-0-0-30db17ca9de83429f5b1c0fead0ffb19
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=2f7d8f717d0c30a4060ff60c301dffb8&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782627442-0-0-86f38f988e85afc9b2025514b3da4e06
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782608422-0-0-cff38ea3ab87ad1115357f8a931231a9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782627442-0-0-4272d30cc77e6488569bd6fb0d484cca
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782608422-0-0-94b8c8b9911261a2a38749721596ba41
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782627442-0-0-a7074cf623ddd8d241774c1060878f34
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782608422-0-0-d20763975212544ca34fc8743120638e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782627442-0-0-ee9fdf0346ea286142775f6e006a47a1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782608422-0-0-4283912e28aedc156e3b3cf16db35b2a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782627442-0-0-c71ef9642a8f25521a305db33bc8fff1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV Củ Cải] (Socolive) flv
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=ca78371a4c26adf8e2f85a48c81083d1&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782627442-0-0-198e5f25439de1d2ceb12ae03a2c2df1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV Củ Cải] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=d02384bc0e542c347fcdd0b118d06131&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782627442-0-0-4e2276ed864bbb442d6ea143857c2176
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV Củ Cải] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=ca78371a4c26adf8e2f85a48c81083d1&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782627442-0-0-58ab48691cc6e2ee119fb74b0e1564d7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=d02384bc0e542c347fcdd0b118d06131&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782627442-0-0-63e11edfa0a88c04d81e28b0f80145bf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782608422-0-0-caa94b31fe5bd367b1d29dfa9a984f8d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782627442-0-0-b13dfa80019b801a8aa81809b0d36d9b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782608422-0-0-306e4bd71644b6f1466c030a14a624d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782627442-0-0-75a88a1695031a4ec1b2ce54e8e56e28
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782608422-0-0-fa1eff18dcf86d1269d396918d9e74af
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782627442-0-0-8fac2c456e02baf2eb2fd502132bb1e0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Colombia vs Portugal [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782608422-0-0-f5680eebf570f32db4f088be80d6f4c8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Croatia vs Ghana [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782627442-0-0-fb3a6f4c398be9deaac0a36660a26270
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=e5f9ad903b0eea8598a3c629ee5d2eb4&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 28/06 Gold Coast United vs Moreton City Excelsior (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=b286b373cee805d94a83ec91d952ccde&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 28/06 Gold Coast United vs Moreton City Excelsior (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=e5f9ad903b0eea8598a3c629ee5d2eb4&txTime=6a40b876
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h00 28/06 Marconi Stallions vs Blacktown City
+https://live05.meung.app/live/16226575.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=b286b373cee805d94a83ec91d952ccde&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV TOMIA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782608422-0-0-94db5ec754fcc3d52277d744cd344056
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV TOMIA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1782608422-0-0-b071f33f0654e1f3a018caf47180f577
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782608422-0-0-f6a0e19da73afba2fe18c4d66b6e1327
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782608422-0-0-7db3c5de9278e38fb13cd6440885fb7e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [CÔNG CHẤT] (Socolive) flv
-https://pull.niur.live/live/stream-291277_lsd.flv?txSecret=8490c6da66c35e8520c607081100ef13&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [CÔNG CHẤT] (Socolive) hdFlv
-https://pull.niur.live/live/stream-291277_lhd.flv?txSecret=0ba9c2cf46c151df714dcd3c2ad8964d&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [CÔNG CHẤT] (Socolive) m3u8
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=8490c6da66c35e8520c607081100ef13&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [CÔNG CHẤT] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=0ba9c2cf46c151df714dcd3c2ad8964d&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [A BỆU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782608422-0-0-34b83d33dd5dc955310d87cacf2a58ad
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [A BỆU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782608422-0-0-fc7c9fa6727c56d3346bebdb49bb1626
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782608422-0-0-2aa75c1087ec6119acab8ac4b7f7c62c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782608422-0-0-9e4707ad1914d3c2bed540580c52a4a4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [LÃO LÂM] (Socolive) flv
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1782608422-0-0-7f15b3ab5aba7a964a05dac9d068210a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [LÃO LÂM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1782608422-0-0-086d45a7a667962f727c994677efee83
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [LÃO LÂM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782608422-0-0-fa9204444d269a8df2edfcffcbbb043a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782608422-0-0-dd97aa1a7dcdbc2c6b8142dc88ad92e7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [VƯƠNG ANH] (Socolive) flv
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=bcc437b68d5b34be853d81d24739a2e0&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [VƯƠNG ANH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=c1227abdc0654a8545298ea86d2f2d40&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [VƯƠNG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=bcc437b68d5b34be853d81d24739a2e0&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [VƯƠNG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c1227abdc0654a8545298ea86d2f2d40&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [NGƯỜI CÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782608422-0-0-a057dde6d1b6dee5ff28d226dbed9182
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [NGƯỜI CÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1782608422-0-0-5722e3333a0e54f3a14dfa36c70c1063
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782608422-0-0-af1a9caada81f29195db762911ce2991
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782608422-0-0-f0d84ca41bd758e1f26f0359f01ed8b0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [XUÂN TÓC ĐỎ] (Socolive) flv
-https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=1122238f8df070d1b0a32afea949c946&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [XUÂN TÓC ĐỎ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=cabc27d1aa48409d9a0ae29c5b0c26ea&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [XUÂN TÓC ĐỎ] (Socolive) m3u8
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=1122238f8df070d1b0a32afea949c946&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 28/06 Democratic Republic of the Congo vs Uzbekistan [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=cabc27d1aa48409d9a0ae29c5b0c26ea&txTime=6a40b876
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 28/06 Colombia vs Portugal (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 28/06 Colombia vs Portugal (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 28/06 Colombia vs Portugal (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 28/06 Colombia vs Portugal (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 28/06 Congo DR vs Uzbekistan (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 28/06 Congo DR vs Uzbekistan (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 28/06 U. Catolica vs San Luis (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 28/06 U. Catolica vs San Luis (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 28/06 Colombia vs Bồ Đào Nha
-https://live05.meung.app/live/78905744.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 28/06 D.R. Congo vs Uzbekistan
-https://live05.meung.app/live/75748097.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",12h30 28/06 South Melbourne vs Green Gully
+https://live05.meung.app/live/87547578.m3u8
 
