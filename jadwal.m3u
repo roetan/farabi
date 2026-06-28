@@ -1,40 +1,86 @@
 #EXTM3U
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1400_165363445085.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik (Lương Sơn) BLV TÀO THÁO m3u
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1400_165363445085.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik (Lương Sơn) BLV TÀO THÁO flv
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV YẾN THANH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TAOTHAO.flv?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2169_1gs1kjv8zn1s.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik (Lương Sơn) BLV VƯƠNG LUÂN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2169_1gs1kjv8zn1s.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik (Lương Sơn) BLV VƯƠNG LUÂN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2466_1gtaqccsmsh.png",00:00 WIB 29/06 Wydad Casablanca vs Olympique Dcheira (Lương Sơn) BLV HÀN TÍN m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/2466_1gtaqccsmsh.png",00:00 WIB 29/06 Wydad Casablanca vs Olympique Dcheira (Lương Sơn) BLV HÀN TÍN flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa (Lương Sơn) BLV DƯƠNG CHÍ m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa (Lương Sơn) BLV DƯƠNG CHÍ flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa (Lương Sơn) BLV NGƯỜI THÉP m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa (Lương Sơn) BLV NGƯỜI THÉP flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa (Lương Sơn) BLV TÂY MÔN KHÁNH flv
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV LEO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV LEO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+ https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV NGƯỜI THÉP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV NGƯỜI THÉP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png",02:00 WIB 29/06 South Africa vs Canada (Lương Sơn) BLV TRIỆU TỬ LONG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1926_165750275450.png",02:00 WIB 29/06 Germany U19 vs Denmark U19 (Lương Sơn) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/1926_165750275450.png",02:00 WIB 29/06 Germany U19 vs Denmark U19 (Lương Sơn) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png",02:00 WIB 29/06 Huachipato vs Deportes Temuco (Lương Sơn) BLV LÃO HẠC m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/908_1htgre2d542b.png",02:00 WIB 29/06 Huachipato vs Deportes Temuco (Lương Sơn) BLV LÃO HẠC flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/336_1hwrwf8axx1r.png",02:00 WIB 29/06 Juventude vs Ceara (Lương Sơn) BLV MAYBACH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/336_1hwrwf8axx1r.png",02:00 WIB 29/06 Juventude vs Ceara (Lương Sơn) BLV MAYBACH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/336_1hwrwf8axx1r.png",02:00 WIB 29/06 Juventude vs Ceara (Lương Sơn) BLV HEINEKEN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/336_1hwrwf8axx1r.png",02:00 WIB 29/06 Juventude vs Ceara (Lương Sơn) BLV HEINEKEN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4381_1gtqpsvqgb1h.png",02:00 WIB 29/06 Atletico Clube Goianiense vs Ponte Preta (Lương Sơn) BLV GẤU KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4381_1gtqpsvqgb1h.png",02:00 WIB 29/06 Atletico Clube Goianiense vs Ponte Preta (Lương Sơn) BLV GẤU KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4381_1gtqpsvqgb1h.png",02:00 WIB 29/06 Atletico Clube Goianiense vs Ponte Preta (Lương Sơn) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/4381_1gtqpsvqgb1h.png",02:00 WIB 29/06 Atletico Clube Goianiense vs Ponte Preta (Lương Sơn) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38678_1hptb8ckca1p.png",02:00 WIB 29/06 Athletic Club MG vs Avai FC (Lương Sơn) BLV LÃO HẠC m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38678_1hptb8ckca1p.png",02:00 WIB 29/06 Athletic Club MG vs Avai FC (Lương Sơn) BLV LÃO HẠC flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38678_1hptb8ckca1p.png",02:00 WIB 29/06 Athletic Club MG vs Avai FC (Lương Sơn) BLV PHI HỔ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:0 group-title="Lương sơn" tvg-logo="https://cdn-img.cdnokvip.com/logos/38678_1hptb8ckca1p.png",02:00 WIB 29/06 Athletic Club MG vs Avai FC (Lương Sơn) BLV PHI HỔ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:0 group-title="Khán đài a" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07:30 WIB 23/05 FC Tulsa vs Hartford Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -55,70 +101,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20251115_123028_e304fc82.png",22:00 WIB 28/06 France vs Japan (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20251115_123028_e304fc82.png",22:00 WIB 28/06 France vs Japan (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20251115_123028_e304fc82.png",22:00 WIB 28/06 France vs Japan (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20251115_123028_e304fc82.png",22:00 WIB 28/06 France vs Japan (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130141_11ba6368.png",23:00 WIB 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130141_11ba6368.png",23:00 WIB 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130141_11ba6368.png",23:00 WIB 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130141_11ba6368.png",23:00 WIB 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130141_11ba6368.png",23:00 WIB 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130141_11ba6368.png",23:00 WIB 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130141_11ba6368.png",23:00 WIB 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130141_11ba6368.png",23:00 WIB 28/06 FC Levadia Tallinn vs Flora Tallinn (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144602_ffd70c89.png",00:00 WIB 29/06 Wales U19 vs Spain U19 (Chuối Chiên) HD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144602_ffd70c89.png",00:00 WIB 29/06 Wales U19 vs Spain U19 (Chuối Chiên) HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144602_ffd70c89.png",00:00 WIB 29/06 Wales U19 vs Spain U19 (Chuối Chiên) FHD1
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
-#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144602_ffd70c89.png",00:00 WIB 29/06 Wales U19 vs Spain U19 (Chuối Chiên) FHD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20251115_123053_fc9cbefe.png",01:00 WIB 29/06 Poland vs Argentina (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -127,6 +109,14 @@ https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20251115_123051_e0a7ed3f.png",01:30 WIB 29/06 Serbia vs USA (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20251115_123051_e0a7ed3f.png",01:30 WIB 29/06 Serbia vs USA (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20251115_123043_e3391af2.png",01:30 WIB 29/06 Slovenia vs Italy (Chuối Chiên) HD1
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -175,6 +165,246 @@ https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16:00 WIB 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16:00 WIB 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16:00 WIB 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16:00 WIB 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16:00 WIB 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16:00 WIB 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16:00 WIB 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_4a21521f.png",16:00 WIB 29/06 Hà Nội Nữ vs Hồ Chí Minh Nữ (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145106_186cdb3d.png",17:00 WIB 29/06 Tsirang vs Paro (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145106_186cdb3d.png",17:00 WIB 29/06 Tsirang vs Paro (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145106_186cdb3d.png",17:00 WIB 29/06 Tsirang vs Paro (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145106_186cdb3d.png",17:00 WIB 29/06 Tsirang vs Paro (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130831_a7361774.png",19:30 WIB 29/06 Al Hikma vs Tadamon Sour (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130831_a7361774.png",19:30 WIB 29/06 Al Hikma vs Tadamon Sour (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130831_a7361774.png",19:30 WIB 29/06 Al Hikma vs Tadamon Sour (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130831_a7361774.png",19:30 WIB 29/06 Al Hikma vs Tadamon Sour (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132552_e6e516c9.png",22:00 WIB 29/06 Auda vs Riga (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132552_e6e516c9.png",22:00 WIB 29/06 Auda vs Riga (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132552_e6e516c9.png",22:00 WIB 29/06 Auda vs Riga (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132552_e6e516c9.png",22:00 WIB 29/06 Auda vs Riga (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132554_aedaa92f.png",22:00 WIB 29/06 FS Jelgava vs Grobiņa (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132554_aedaa92f.png",22:00 WIB 29/06 FS Jelgava vs Grobiņa (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132554_aedaa92f.png",22:00 WIB 29/06 FS Jelgava vs Grobiņa (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132554_aedaa92f.png",22:00 WIB 29/06 FS Jelgava vs Grobiņa (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135336_13158a72.png",22:00 WIB 29/06 Italy U19 vs Serbia U19 (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135336_13158a72.png",22:00 WIB 29/06 Italy U19 vs Serbia U19 (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135336_13158a72.png",22:00 WIB 29/06 Italy U19 vs Serbia U19 (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135336_13158a72.png",22:00 WIB 29/06 Italy U19 vs Serbia U19 (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130606_7b106a53.png",23:05 WIB 29/06 Al Arabi vs Al Fahaheel (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130606_7b106a53.png",23:05 WIB 29/06 Al Arabi vs Al Fahaheel (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130606_7b106a53.png",23:05 WIB 29/06 Al Arabi vs Al Fahaheel (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130606_7b106a53.png",23:05 WIB 29/06 Al Arabi vs Al Fahaheel (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132806_e0e97e34.png",00:00 WIB 30/06 Brazil vs Japan (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",03:30 WIB 30/06 Germany vs Paraguay (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",03:30 WIB 30/06 Germany vs Paraguay (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",03:30 WIB 30/06 Germany vs Paraguay (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",03:30 WIB 30/06 Germany vs Paraguay (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",03:30 WIB 30/06 Germany vs Paraguay (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",03:30 WIB 30/06 Germany vs Paraguay (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",03:30 WIB 30/06 Germany vs Paraguay (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",03:30 WIB 30/06 Germany vs Paraguay (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png",08:00 WIB 30/06 Netherlands vs Morocco (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png",08:00 WIB 30/06 Netherlands vs Morocco (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png",08:00 WIB 30/06 Netherlands vs Morocco (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png",08:00 WIB 30/06 Netherlands vs Morocco (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png",08:00 WIB 30/06 Netherlands vs Morocco (Chuối Chiên) HD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png",08:00 WIB 30/06 Netherlands vs Morocco (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png",08:00 WIB 30/06 Netherlands vs Morocco (Chuối Chiên) FHD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+#EXTINF:0 group-title="Chuối chiên" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png",08:00 WIB 30/06 Netherlands vs Morocco (Chuối Chiên) FHD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
 #EXTINF:0 group-title="Gà vàng" tvg-logo="https://img.sports-data.online/football/team/75bf136c336015d3adb291a238ea039e.png",09:00 WIB 23/05 UNSW FC Women vs University of Sydney Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
@@ -199,330 +429,162 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [A PÁO] (Socolive) flv
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV 7UP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782672082-0-0-4549746c1cba53034bda54651d6331b9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [A PÁO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782678922-0-0-96edf5a1f30d908b3680e204504404ee
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV 7UP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782672082-0-0-c4a379995e38cca11118d6a4b3d8f3d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [A PÁO] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782678922-0-0-d2826229adbda70d4ec1c034e4b0a734
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV 7UP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782672082-0-0-ab8517d31fb3ab07b115df91394f4e6c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [A PÁO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782678922-0-0-087c31bd1b56d91897b552ad30089580
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV 7UP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782672082-0-0-778723378ec99ad8ba2dccfd04950280
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) flv
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782678922-0-0-75951bfd5843107a49676b122e0d6942
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV TAP] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=83502e8a631d3bfe5fe34be2ed39fd5a&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=1134a576cfd06b83e93ba4a3fcb90c29&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV TAP] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=5aaf33899d2fe4a8831a0982e5a5bd72&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=2da40ecc6879a61f3d5c57cc00c9d262&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV TAP] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=83502e8a631d3bfe5fe34be2ed39fd5a&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=1134a576cfd06b83e93ba4a3fcb90c29&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV TAP] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=5aaf33899d2fe4a8831a0982e5a5bd72&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) flv
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=2da40ecc6879a61f3d5c57cc00c9d262&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV Củ Cải] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782672082-0-0-3b19ab31059c51a58aa50b9c6df5ef72
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=cff5b49f388461e5beb1a5ec48d663bd&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV Củ Cải] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782672082-0-0-bed8fdd26e607e0085667cbe0d774029
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=5e759ae193c927329de784ac36688dc7&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV Củ Cải] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782672082-0-0-fdcb2516148688ba231660dcb8c81406
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=cff5b49f388461e5beb1a5ec48d663bd&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV Củ Cải] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782672082-0-0-233318ad065a885eaa4d3135dfc1fa4d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) flv
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=5e759ae193c927329de784ac36688dc7&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [RICKHANTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782672082-0-0-f419761e8f78cca45842bd01c32e1175
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782678922-0-0-3577ea7644e6eed53b4c7ace07859b1c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [RICKHANTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1782672082-0-0-88ef618b1c666e69a055370887e7728c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782678922-0-0-af341b8f5d352657108008e8a108bad0
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [RICKHANTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782672082-0-0-ba317629dd6aae626643ed7efe861ae3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782678922-0-0-d61b4f615bf5f09e2f9df5dab2972261
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [RICKHANTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782672082-0-0-597bffb4372d42a27c988cf4380a7f68
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) flv
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782678922-0-0-1b3bc1fb89edf1f78c9d4e1ed4d9cf31
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [THẠCH TÚ] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=b977bb5af44ecd400917e53e8eec2510&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912116_lsd.flv?auth_key=1782678922-0-0-afd0924ea8fd6fbd8722c4051e032744
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [THẠCH TÚ] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=0b2e392ad77e64e1383a5744cf702945&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) m3u8
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1782678922-0-0-8677488eaeab3bf833689e259510b65b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [THẠCH TÚ] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=b977bb5af44ecd400917e53e8eec2510&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [VƯƠNG ANH] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1782678922-0-0-495015a3f0cae9c8d833d38a049d3cd8
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [THẠCH TÚ] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=0b2e392ad77e64e1383a5744cf702945&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [RICKHANTER] (Socolive) flv
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1782678922-0-0-b35c2bf9a97b9b47ddd2311a6df6fdae
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV ĐỐM] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lsd.flv?auth_key=1782672082-0-0-7e232afaeee208bae316d389afcd7fc5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [RICKHANTER] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912110_lsd.flv?txSecret=4b7be0baee6288b7cfb9200096782401&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV ĐỐM] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1782672082-0-0-bf49932c6916334acfcca3e55c0493d7
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912110_lhd.flv?txSecret=5ab3d53c597a2185d643068ed59adbc6&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV ĐỐM] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1782672082-0-0-a5a739945b85f0101eef04adc8c25682
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=4b7be0baee6288b7cfb9200096782401&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV ĐỐM] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1782672082-0-0-6b25860c1f4768cee32f9339313878a8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV ENZO] (Socolive) flv
+https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=5ab3d53c597a2185d643068ed59adbc6&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV TOMMY] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782672082-0-0-f31f3abd9e0d1ed332b17bfb38d0b694
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV ENZO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=7dc5d16b27553278017dc872fbbdcddf&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV TOMMY] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1782672082-0-0-750a220a0c2becaffc52756403653b9e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV ENZO] (Socolive) m3u8
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=249905fab3fd26127426d3ce051170a9&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV TOMMY] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782672082-0-0-8e4f5bc707fad9a5c5f85f2cfca92d13
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV ENZO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=7dc5d16b27553278017dc872fbbdcddf&txTime=6a41cbda
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV TOMMY] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782672082-0-0-12d850bc18d20889eaa5f657039d81c9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782672082-0-0-115483b547379931a949c543c7b87795
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1782672082-0-0-c8aa8eec65c707e9e7662b2e72c2696b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782672082-0-0-395204d2658ddb6e0b18b688b5b822eb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [LOKA] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782672082-0-0-123a144cfd105e132872c1212c71fda5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV LION] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782672082-0-0-4cccce5ca28fcfe8b7d36e69377a0932
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV LION] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1782672082-0-0-2f83ed73e9f411f20d7da590298b2deb
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV LION] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782672082-0-0-8e5067622873467ab4b5580a4ed550a9
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV LION] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782672082-0-0-bc19b081aa9eb4fc7c9717c566771ed2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV KEM] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1782672082-0-0-e2da9505ff3dd4964dddcfb8996da599
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV KEM] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1782672082-0-0-5d4499f45baba803cfc9a9b3e87c3f2c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV KEM] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782672082-0-0-c21983caa9388090f4b58622393c36d5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/7529dd30e7f0c6d3f994a116b2d5b638.png",00:00 WIB 29/06 Wales U19 vs Spain U19 [BLV KEM] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782672082-0-0-baa3db6cdcaa3f64f39cbb5cb25bc64e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [BLV FIREMAN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782672082-0-0-c459b933707ccb27c2006c2e4f247c31
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [BLV FIREMAN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1782672082-0-0-5a8bedf774987ff6fc2814cab5aecc39
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [BLV FIREMAN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782672082-0-0-5596e3d723800b34f63b7ce4a5e4d383
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [BLV FIREMAN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782672082-0-0-0aa08962636e33dd4f76bccb74f7213c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782672082-0-0-23fcab82aab404d2c40d3b99af8480d6
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1782672082-0-0-3da7242aaabb5a26461c4f21ac8a917a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782672082-0-0-9e866eba2d7c059e20e93a7fa02f843f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [BLV XO] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782672082-0-0-3e2e4250f5bf3caa6186048f727af5ff
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782672082-0-0-725cac851d182200865c6ab5ef9c0608
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1782672082-0-0-fd447c1c136065c93da8de2c283c7c25
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782672082-0-0-505ae7ed47843c7fe81c996f4997d12a
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/482a7afbaa0d499dfdd556446f78e2d0.png",00:00 WIB 29/06 Keflavik vs KR Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782672082-0-0-81f77bc36ea785f9526281fab26c0c5f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [BLV CHIVAS] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=3d3d4d84a6abcaf40331c7771f6c81ea&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [BLV CHIVAS] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=bffb897f93095404f116012ecc3b944c&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [BLV CHIVAS] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=3d3d4d84a6abcaf40331c7771f6c81ea&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [BLV CHIVAS] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=bffb897f93095404f116012ecc3b944c&txTime=6a41b122
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [CƠM CHÁY] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1782672142-0-0-bc452efe286f2468074a07d23691991c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [CƠM CHÁY] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1782672142-0-0-357d29ed2b0d654f7bf6c3c459403014
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [CƠM CHÁY] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782672142-0-0-873605d0dcbabc2a52160be608280ccc
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [CƠM CHÁY] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782672142-0-0-a7335d26db4042f05d9fc8d248949b4c
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1782672142-0-0-1c0a82b915458b45cdb2bb839aef5375
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1782672142-0-0-dcdc225d5f1552e386b77948d4d93e06
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782672142-0-0-7bcba5e75ed2bbe6ddd1fa0355563ed8
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [BLV WUKONG] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782672142-0-0-b241584e17d6bf1aab2d1f9e21e423df
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [BLV ANH TÀI] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782672142-0-0-f6b109632da8130737b2fda7cc46ba46
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [BLV ANH TÀI] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782672142-0-0-e272d67ff2fe949cfa9e685ec486856f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [BLV ANH TÀI] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782672142-0-0-51b17f3a32eec1b29bcc4cbb8aea3b7b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/856a05d5d5822602e67cc6ffb43d9e8e.png",00:00 WIB 29/06 Thor Akureyri vs Valur Reykjavik [BLV ANH TÀI] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782672142-0-0-b404298e012a596a4bf36b201024f458
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [VINFAST] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1782672142-0-0-85ea3ae2c03a5c537892d7fdc7918652
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [VINFAST] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-617313_lhd.flv?auth_key=1782672142-0-0-b5a3ca0695e7caf45b9eed43d58cf8c3
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [VINFAST] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782672142-0-0-dea09caffdf4a54e1a2ecadb7fae4f65
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [VINFAST] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1782672142-0-0-06a49d9cc3909b796821023dcc4bf41f
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [BLV VITAMIN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1782672142-0-0-41353c4a85aec6714461ab54aad759ed
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [BLV VITAMIN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1782672142-0-0-24bc1da6bc1f6e2016af4855ac196fde
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [BLV VITAMIN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782672142-0-0-440c7d60d0635e0228a20e3d0f3ef57b
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/f7b168ecb1818035d8a7b088a2916329.jpg",00:00 WIB 29/06 Stjarnan Gardabaer vs KA Akureyri [BLV VITAMIN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782672142-0-0-1660c23ccd3e108272cbcdd3d64081e5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [QUÂN JK] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1782672142-0-0-ac64993028b1b3f09b66f18d41f4a716
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [QUÂN JK] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1782672142-0-0-04608a356ac1fa616720adfe2f3c1b48
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [QUÂN JK] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782672142-0-0-468c68db56b5c73cdfbe3b43d6af548d
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [QUÂN JK] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782672142-0-0-acda03a397eebbc64322057c58ff7f03
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=3f4c326555561bea4943325c58e313a9&txTime=6a41b15e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=10199bfb4d1b0bc9e3c7a3016b97edbc&txTime=6a41b15e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=3f4c326555561bea4943325c58e313a9&txTime=6a41b15e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/0e586b7895a58206aefd877cbc2f102a.png",23:00 WIB 28/06 Levadia Tallinn vs FC Flora Tallinn [XUÂN TÓC ĐỎ] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=10199bfb4d1b0bc9e3c7a3016b97edbc&txTime=6a41b15e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/91f2037f1f7a827449ca55cd75fd8d5b.png",00:00 WIB 29/06 Hafnarfjordur vs IBV Vestmannaeyjar [BLV A TINH] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lsd.flv?txSecret=838894c18dd547daa504a0299e172163&txTime=6a41b15e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/91f2037f1f7a827449ca55cd75fd8d5b.png",00:00 WIB 29/06 Hafnarfjordur vs IBV Vestmannaeyjar [BLV A TINH] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=f98f81ef873d5876f5391736bb1e8224&txTime=6a41b15e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/91f2037f1f7a827449ca55cd75fd8d5b.png",00:00 WIB 29/06 Hafnarfjordur vs IBV Vestmannaeyjar [BLV A TINH] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=838894c18dd547daa504a0299e172163&txTime=6a41b15e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/91f2037f1f7a827449ca55cd75fd8d5b.png",00:00 WIB 29/06 Hafnarfjordur vs IBV Vestmannaeyjar [BLV A TINH] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=f98f81ef873d5876f5391736bb1e8224&txTime=6a41b15e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [KÉP] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782672142-0-0-708795412f3d8becb6efbe47ce73fd11
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [KÉP] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782672142-0-0-7f3480b93c664cc7f7a32b1a8c6c5b18
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [KÉP] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782672142-0-0-3908a2c5a7ef59d3de6c712084707ec5
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/62cda2f9933095fb5b29e92e1fe21970.png",23:30 WIB 28/06 Deportes La Serena vs Cobreloa [KÉP] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782672142-0-0-141ae7a54e6ac7509325e9d12ac5f862
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",KAZ PR: Tobol Kostanai vs Altay FK [HÀ DUY KIÊN] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1782672142-0-0-eaa218fa551f91556c45684ebda637b1
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",KAZ PR: Tobol Kostanai vs Altay FK [HÀ DUY KIÊN] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1782672142-0-0-bd819c35dd572257f5d04efa7db1d5e2
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",KAZ PR: Tobol Kostanai vs Altay FK [HÀ DUY KIÊN] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1782672142-0-0-75117fa306099ff8781eee1a4d10ab9e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png",KAZ PR: Tobol Kostanai vs Altay FK [HÀ DUY KIÊN] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1782672142-0-0-a85a16bf43b4ea197524a75792c2822e
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/91f2037f1f7a827449ca55cd75fd8d5b.png",00:00 WIB 29/06 Hafnarfjordur vs IBV Vestmannaeyjar [A BỆU] (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782672442-0-0-16a4b73d2c16b735a09a3ff2446debb4
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/91f2037f1f7a827449ca55cd75fd8d5b.png",00:00 WIB 29/06 Hafnarfjordur vs IBV Vestmannaeyjar [A BỆU] (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782672442-0-0-ec66128ba1fe22d38faba21e10286bae
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/91f2037f1f7a827449ca55cd75fd8d5b.png",00:00 WIB 29/06 Hafnarfjordur vs IBV Vestmannaeyjar [A BỆU] (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782672442-0-0-a07d6769b2a2368110e05ea4e991d9d0
-#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/91f2037f1f7a827449ca55cd75fd8d5b.png",00:00 WIB 29/06 Hafnarfjordur vs IBV Vestmannaeyjar [A BỆU] (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782672442-0-0-b95b924f655d828130812ec8de3143ac
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=249905fab3fd26127426d3ce051170a9&txTime=6a41cbda
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/df31e82c4dc09d60094e47c56a696f64.png",01:00 WIB 29/06 Dallas Wings W vs Minnesota Lynx W [HUNTER] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782672442-0-0-f0635a831d3b79610da86c0e52f9f0d9
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782678922-0-0-fcfe84ac50d218d836642b0b9f7dbe53
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/df31e82c4dc09d60094e47c56a696f64.png",01:00 WIB 29/06 Dallas Wings W vs Minnesota Lynx W [HUNTER] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1782672442-0-0-605ee4f8c601272d9933c82d21e2ca66
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1782678922-0-0-3dc07b16fb953eabc121baae9faa383c
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/df31e82c4dc09d60094e47c56a696f64.png",01:00 WIB 29/06 Dallas Wings W vs Minnesota Lynx W [HUNTER] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782672442-0-0-2127af47a6b070b402f11274c1569e76
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782678922-0-0-3da56479a6cad1813cde1762847531b4
 #EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260627/df31e82c4dc09d60094e47c56a696f64.png",01:00 WIB 29/06 Dallas Wings W vs Minnesota Lynx W [HUNTER] (Socolive) hdM3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782672442-0-0-51e3d80f2aef8be96a6d381c7d5948c7
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png",22:00 WIB 28/06 Pháp vs Nhật Bản (Hội Quán) FHD 
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1782678922-0-0-6391be85943fef4102cf32e51e2473cd
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV COCA] (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png",22:00 WIB 28/06 Pháp vs Nhật Bản (Hội Quán) HD 
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782679282-0-0-35cb8315831818657ba870a997828403
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV COCA] (Socolive) hdFlv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
-#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ensign_of_France.svg/250px-Ensign_of_France.svg.png",22:00 WIB 28/06 Pháp vs Nhật Bản (Hội Quán) SD 
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782679282-0-0-486d71af66611e286e5c00c4837bd336
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV COCA] (Socolive) m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782679282-0-0-4d8121b008cd5a6356095a7a662480a6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782679282-0-0-d7544ae9cf53a9e39024c2b000d4f9e6
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [CR Bưởi] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=40f02ca0d1a87fec4363379318923ccc&txTime=6a41cd42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [CR Bưởi] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=e23d63c74db20bf13c53640cf4db3b0c&txTime=6a41cd42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [CR Bưởi] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=40f02ca0d1a87fec4363379318923ccc&txTime=6a41cd42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [CR Bưởi] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e23d63c74db20bf13c53640cf4db3b0c&txTime=6a41cd42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1782679282-0-0-ce905c45ed3beaaa6708cc06097f399c
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1782679282-0-0-66c2542e281069883e822576d47b9bad
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782679282-0-0-eba936d3484bca2f82503eb4425ff37b
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1782679282-0-0-90af1fef7ac321f509a61f2a8becf2ba
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [TẠ BIÊN GIỚI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.flv?txSecret=45e50c65df5f514a15d1ede3edaa7323&txTime=6a41cd42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [TẠ BIÊN GIỚI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=90a111aee3547bf5cb1bc4fd379db8ad&txTime=6a41cd42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [TẠ BIÊN GIỚI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=45e50c65df5f514a15d1ede3edaa7323&txTime=6a41cd42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=90a111aee3547bf5cb1bc4fd379db8ad&txTime=6a41cd42
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782679642-0-0-19d4017d1713173bed3fdb0e727e54ca
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782679642-0-0-ee0ee5231b342221d31bec2a3b2b7326
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782679642-0-0-69dab6a1ca41e2575a3912f68dfb1c85
+#EXTINF:0 group-title="socolive" tvg-logo="https://sta.vnres.co/file/common/20260626/9631c008627ea6ead4ec5d27997e01fd.png",02:00 WIB 29/06 South Africa vs Canada [DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782679642-0-0-5f01f0a04027b9de58e75d64805b1703
 #EXTINF:0 group-title="Hội quán" tvg-logo="https://media.api-sports.io/football/teams/10353.png",00:00 WIB 29/06 Wales U19 vs Spain U19 (Hội Quán) FHD 
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -547,3 +609,66 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",01:30 WIB 29/06 Serbia vs Mỹ (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",01:30 WIB 29/06 Serbia vs Mỹ (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png",01:30 WIB 29/06 Serbia vs Mỹ (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",01:30 WIB 29/06 Slovenia vs Ý (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",01:30 WIB 29/06 Slovenia vs Ý (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",01:30 WIB 29/06 Slovenia vs Ý (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",02:00 WIB 29/06 South Africa vs Canada (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",02:00 WIB 29/06 South Africa vs Canada (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",02:00 WIB 29/06 South Africa vs Canada (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",02:00 WIB 29/06 South Africa vs Canada (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",02:00 WIB 29/06 South Africa vs Canada (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",02:00 WIB 29/06 South Africa vs Canada (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",02:00 WIB 29/06 South Africa vs Canada (Hội Quán) FHD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",02:00 WIB 29/06 South Africa vs Canada (Hội Quán) HD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+#EXTINF:0 group-title="Hội quán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",02:00 WIB 29/06 South Africa vs Canada (Hội Quán) SD 
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Colalive" tvg-logo="https://img.gvapi.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",02:00 WIB 29/06 Nam Phi vs Canada
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.paznhl.app/live/08552895.m3u8
