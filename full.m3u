@@ -8,11 +8,11 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1118.png",08:00 | Netherlands vs Morocco
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",02:00 | Croatia U19 vs Ukraine U19
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/11180.png",17:30 | Logan Lightning vs Redlands United
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/650.png",22:00 | VPS vs Inter Turku
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
@@ -587,23 +587,17 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BIBI_PLUS_clear/manifest.mpd
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/life.png",On Life
 https://livevlisctcdnw.seenow.vn/livesnv2/LIFE_TV/manifest.mpd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV YẾN THANH m3u
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV NGƯỜI THÉP m3u
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV YẾN THANH flv
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV NGƯỜI THÉP flv
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/06 Democrata vs Ivinhema FC (MS) (Lương Sơn) BLV HEINEKEN m3u
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV VÕ TÒNG flv
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV TRIỆU TỬ LONG flv
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 30/06 Democrata vs Ivinhema FC (MS) (Lương Sơn) BLV HEINEKEN flv
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV LÃO HẠC m3u
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
@@ -611,41 +605,29 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV LÃO HẠC flv
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV TRIỆU TỬ LONG flv
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV TÂY MÔN KHÁNH flv
 https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 (Lương Sơn) BLV LEO m3u
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV VÕ TÒNG m3u
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 (Lương Sơn) BLV LEO flv
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV VÕ TÒNG flv
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 (Lương Sơn) BLV HÀN TÍN m3u
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 (Lương Sơn) BLV HÀN TÍN flv
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV NGƯỜI THÉP m3u
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV NGƯỜI THÉP flv
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 IA Akranes vs Fram Reykjavik (Lương Sơn) BLV TÔN LẬP m3u
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 IA Akranes vs Fram Reykjavik (Lương Sơn) BLV TÔN LẬP flv
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 IA Akranes vs Fram Reykjavik (Lương Sơn) BLV HEINEKEN m3u
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 IA Akranes vs Fram Reykjavik (Lương Sơn) BLV HEINEKEN flv
-https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Lương Sơn) BLV YẾN THANH flv
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -661,12 +643,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
@@ -797,269 +773,161 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) flv
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782768922-0-0-2451f84682e8e9ad9bf144e5176ff837
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782768922-0-0-1433c08e4e0007275d68979f3dcc14df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) m3u8
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782768922-0-0-d4f56c7fd1c20bcad687365a9300c0d3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782768922-0-0-63904cb85389640e15433633124d5dd8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) flv
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=e7a699e6c22d975fa02980628c3a64b3&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=9b7fc6407f815cc06f1397fb080f0ea9&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=e7a699e6c22d975fa02980628c3a64b3&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=9b7fc6407f815cc06f1397fb080f0ea9&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=446c6eaee0450d8df42c46bbeb3e5761&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=2f6825bd97b53df03745527b56dc8bd1&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=446c6eaee0450d8df42c46bbeb3e5761&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2f6825bd97b53df03745527b56dc8bd1&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782768922-0-0-1fff75dda61e762ccc7f2e59c6ed5808
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782768922-0-0-a1a6a76bbaf740c98e3be5bec697cff4
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782768922-0-0-9cf8c553d0471598e571a9f2c0c9c617
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782768922-0-0-515cf927985b64e933abf33952c6aad1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) flv
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=e5b6e0a3980d1a2c09eea5e262086315&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) hdFlv
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=b486c4b5402f262966bab165d406c19c&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=e5b6e0a3980d1a2c09eea5e262086315&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=b486c4b5402f262966bab165d406c19c&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782768922-0-0-8fa1467f7855ce770ea9e46312740d61
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782768922-0-0-691cd6cf21ad47c3c7448c069474912f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782768922-0-0-18855f0c43f42ba1aa8fe169ad424b98
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782768922-0-0-3fcfd0c26ba584ca9ea9ea241ffff645
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV ROBBEN] (Socolive) flv
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782768922-0-0-97ede562434534c4d672e20f08de9509
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV ROBBEN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1782768922-0-0-d5b4a65c03f196f32e7c0cd5e2abff0c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782768922-0-0-480b7422dd2ac56b7dbaf9407a9622b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1782768922-0-0-657254e01c8895d73c2b5c1fc79f8c2a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [VƯƠNG ANH] (Socolive) flv
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=a522b48411361ad61f13b3e7f8e28e5f&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [VƯƠNG ANH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=f2616534f2437fb34dca7924a5e4125e&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [VƯƠNG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=a522b48411361ad61f13b3e7f8e28e5f&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [VƯƠNG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=f2616534f2437fb34dca7924a5e4125e&txTime=6a432b6a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [BLV A WIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782768922-0-0-a57cef106eed83b3ded3d11ce30c374d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [BLV A WIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782768922-0-0-d208f0c6fcc8103bc75a2e625c6c69ef
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782768922-0-0-60bb24ec2fde9116d1a1e31e553eb675
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782768922-0-0-e96555bbb40811b7a259e47b0e3ec44d
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782769282-0-0-40848ce259a6eaf87902608f9173bb74
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782773602-0-0-48394faecab84cc079b9da4786017267
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782769282-0-0-fa0daa1a3c0a623b18cbd1e7b903be3c
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782773602-0-0-25e0c3dc70a5d1fd7526050bdf65a09e
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782769282-0-0-c192154dbabe4ea005be83d47009b9fe
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782773602-0-0-8f7638552b3cf0bea6b7d1a3993316b9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782769282-0-0-3f3c38b3e803c0a460cd54a7c4125289
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=f1f81a5b79ab6ab2c4f1683ef7db81c4&txTime=6a432e3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=2176eb96a1d8c25f8b69581aa877d476&txTime=6a432e3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=f1f81a5b79ab6ab2c4f1683ef7db81c4&txTime=6a432e3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=2176eb96a1d8c25f8b69581aa877d476&txTime=6a432e3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) flv
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=47c35e6337564b690c8a3492413455f4&txTime=6a432e3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=9688c74e4021d16daab468d5c32367de&txTime=6a432e3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=47c35e6337564b690c8a3492413455f4&txTime=6a432e3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=9688c74e4021d16daab468d5c32367de&txTime=6a432e3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782769642-0-0-70187ea0a891d61cbd4cd4275b8b3e3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782769642-0-0-9915cdd0dc54400e76d48e42521a5084
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782769642-0-0-5365b5fe52b5b3eac167ed9c90e0c7f3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782769642-0-0-cf174df266572fcfb0c265ab1bef613e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782769642-0-0-a8e3817ceee542e0a0597923c9f4fa26
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782769642-0-0-2107babb8b96cf2c99b6dc979ba0593c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782769642-0-0-2f7fbd449140f783abba527991cfa792
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782769642-0-0-53cde7a763ad4165f57a3482db8735ef
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782773602-0-0-09df6cb1eb7ef3c91bc7694f8c15f9a5
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) flv
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=6263e8d475d8d16dd1dcaef9a1893d81&txTime=6a432e3a
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=b96db47f839baca4f0e6375ade691a2a&txTime=6a433f56
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=59cd5edf985bab96a545e94bc75966a3&txTime=6a432e3a
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=104bdc0b34b586b6920de3a5e83426d8&txTime=6a433f56
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=6263e8d475d8d16dd1dcaef9a1893d81&txTime=6a432e3a
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=b96db47f839baca4f0e6375ade691a2a&txTime=6a433f56
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=59cd5edf985bab96a545e94bc75966a3&txTime=6a432e3a
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=104bdc0b34b586b6920de3a5e83426d8&txTime=6a433f56
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV PEWPEW] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782769642-0-0-a17b8bd82013e8599aec67a1842bcefd
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782774022-0-0-6f5eb5050f217d3fdd87702f1b16e59f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV PEWPEW] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782769642-0-0-ba837859f81d2dd4f6ad4d750eacbdf4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782774022-0-0-5eabb7f31564b54256e7afa24aa7f449
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782769642-0-0-247b4fff0b7b1901f723914a6684e248
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782774022-0-0-b4aaa738ad9e9448f733f61003c8fa6a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1782769642-0-0-de647dc7b7d861209b08c476bd4206ab
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782774022-0-0-d3d032a1bee60186284f527bf5a59e1e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [A BỆU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782769642-0-0-ce77b4efcd8c2dea1b3f2002321e904f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782774022-0-0-e3eb31f4dc841e963a4a52441c1f3709
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [A BỆU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1782769642-0-0-0511d7ae7cf040cba0f32230084c8588
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782774022-0-0-86772cc5dd244ad42c86103a53c0a20e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [A BỆU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782769642-0-0-e4326fc4e7301ce727d0fe85c8d98b61
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782774022-0-0-48a09eccd97bd5489dd8fb0e507ed427
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [A BỆU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1782769642-0-0-04da56a02572a8b0dff46317f7ceb88d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782774022-0-0-45474768e51ccf8d972fbd172fd68e9d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV BÉO] (Socolive) flv
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=534c41e80949c6a5fa07caeadb8af6d2&txTime=6a432e3a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) flv
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=ce2539b73ba83329d9f2a290f9050c3d&txTime=6a433f56
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV BÉO] (Socolive) hdFlv
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=229a2f6380b023a384ff817eb7082f93&txTime=6a432e3a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=dbb0f37ac09b78ab3b41bd240ac00668&txTime=6a433f56
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV BÉO] (Socolive) m3u8
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=534c41e80949c6a5fa07caeadb8af6d2&txTime=6a432e3a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=ce2539b73ba83329d9f2a290f9050c3d&txTime=6a433f56
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [BLV BÉO] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=229a2f6380b023a384ff817eb7082f93&txTime=6a432e3a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=dbb0f37ac09b78ab3b41bd240ac00668&txTime=6a433f56
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [NGƯỜI CÁ] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782769642-0-0-820f6cc10a34d6118fba7a4ba94595d1
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) flv
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=fbd82bd506680a4c9cbb2ac51d560084&txTime=6a433f56
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [NGƯỜI CÁ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1782769642-0-0-db63cddf86c1bf63583b6dd5790b8489
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=e59d61689f3748522f2a898f940fa59e&txTime=6a433f56
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [NGƯỜI CÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782769642-0-0-7f3cda356d61ce0bb0b666b9a879de6a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=fbd82bd506680a4c9cbb2ac51d560084&txTime=6a433f56
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 ngày 30/06 Croatia U19 vs Ukraine U19 [NGƯỜI CÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782769642-0-0-91220430bde0570e2eaa2207702bf87b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782769642-0-0-96f181a783965927367d4d1b70ef5901
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1782769642-0-0-640358d1c56a63f94435be0839884c98
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782769642-0-0-1239409beb4278b31172e7d37d4d3433
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782769642-0-0-d774086bffe52065522cfade8e9fb478
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [BLV THÓC] (Socolive) flv
-https://pull.niur.live/live/stream-606448_lsd.flv?txSecret=606320d4724baac4f9642ada6457e879&txTime=6a432e3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [BLV THÓC] (Socolive) hdFlv
-https://pull.niur.live/live/stream-606448_lhd.flv?txSecret=9a2eb9796606914faeb6d1c91be9847b&txTime=6a432e3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [BLV THÓC] (Socolive) m3u8
-https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=606320d4724baac4f9642ada6457e879&txTime=6a432e3a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 ngày 30/06 Akranes vs Fram Reykjavik [BLV THÓC] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=9a2eb9796606914faeb6d1c91be9847b&txTime=6a432e3a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV MESSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=e59d61689f3748522f2a898f940fa59e&txTime=6a433f56
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782769642-0-0-fa6daaecac61815242ecdafedc68e85d
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782774022-0-0-5fcc6d9d8380da2d48728cd90ec8cc93
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782769642-0-0-e103f15b7e2a30b2ebe34d11c33c6ad1
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782774022-0-0-e35c1ecb4ec96c9ce6509d513adb67d0
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782769642-0-0-0d5a3011601a5813059dea33b836a97e
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782774022-0-0-48d1252754fcd08b65eaabb1d942db10
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782769642-0-0-5ebc4569636c58558d8815ff073fc38b
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782774022-0-0-560c0a63ee234541e3823a65233d7ce4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) flv
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=72f580eda8272adb09eefd4e9d2ccbe7&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) hdFlv
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=8886a8a4654a46a04e0210c1fc5f9fb6&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=72f580eda8272adb09eefd4e9d2ccbe7&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=8886a8a4654a46a04e0210c1fc5f9fb6&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) flv
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782774322-0-0-947a43525368e39d729f87dbabd8d8f8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782774322-0-0-63a4ef77d4a068d78031df83e0c6c66c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782774322-0-0-fbc32c1df80b0bcc8023216ebc9db868
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782774322-0-0-00585ed06d701adaadd589bf2a36e087
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782774322-0-0-ddefd1d7127f3532a2c3dd06ceece210
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782774322-0-0-bbbd8771b069c7753e3a3c07b2fa1e00
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782774322-0-0-907532c730ac0bde7437b89986bdfd07
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782774322-0-0-2728a72afc4ec745fe4bed6bc39aa42f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=5683e56cd91ea7d1d285c891cfe589b8&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=15a229b53675fca4dcb677a92341678d&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=5683e56cd91ea7d1d285c891cfe589b8&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=15a229b53675fca4dcb677a92341678d&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) flv
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=9a0d1ff82400fe81a1f40d0994683d9e&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=dcad0e0da6f8b028ca4de41408a398a0&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=9a0d1ff82400fe81a1f40d0994683d9e&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=dcad0e0da6f8b028ca4de41408a398a0&txTime=6a434082
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) flv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782774322-0-0-eb77927b8e749f3946a4052ab6d7262b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782774322-0-0-0f4130e93e49ecaff02b9b5aecd7ad7e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) m3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782774322-0-0-1f21e45b0635b670523e39d296215ee4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 ngày 30/06 Germany vs Paraguay [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782774322-0-0-480b520630d3aff7307da27bcb6fd94b
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 30/06 Germany vs Paraguay (Hội Quán) FHD
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
@@ -1073,18 +941,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 30/06 Germany vs Paraguay (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 30/06 Croatia U19 vs Ukraine U19 (Hội Quán) FHD
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 30/06 Croatia U19 vs Ukraine U19 (Hội Quán) SD
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h30 30/06 Đức vs Paraguay
 https://live05.paznhl.app/live/08552895.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h00 30/06 Croatia U19 vs Ukraine U19
-https://live05.paznhl.app/live/19919577.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",02h15 30/06 Akranes vs Fram Reykjavik
-https://live05.paznhl.app/live/82054853.m3u8
 
