@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Guangdong_South_China_Tiger_F.C.svg/1280px-Guangdong_South_China_Tiger_F.C.svg.png",18:00 | Guangdong Meizhou W vs Wuhan Jiangda W
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Andrey_Rublev_%282023_US_Open%29_02_%28cropped%29.jpg",17:00 | Rublev A. vs Safiullin R.
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/6eLwTbFa-6sdVtRxN.png",Nữ Guangxi Pingguo vs Nữ Beijing Beikong
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
+#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 5
+https://vip.opstream16.com/20230414/33883_53c3ecc8/index.m3u8
+
+#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 7
+https://vip.opstream16.com/20230414/33880_160821c1/index.m3u8
+
+#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 9
+https://vip.opstream16.com/20230414/33881_9e539926/index.m3u8
+
+#EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 10
+https://vip.opstream16.com/20230414/33882_44deb9a8/index.m3u8
+
 #EXTINF:-1 group-title="Mortal Kombat" tvg-logo="https://phim.nguonc.com/public/images/Film/f9tWGssOpViDbh6dV6gtLFiCc7i.jpg",Cuộc Chiến Sinh Tử 2
 https://vip.opstream90.com/20260608/34303_1bc949fb/index.m3u8
 
@@ -50,48 +71,84 @@ https://vip.opstream90.com/20260305/26504_404d52bf/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",Oshi No Ko Phần 3 - Tập 9
 https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h40 ngày 29/06 Jordan vs Argentina (Lương Sơn) BLV KAKA REPLAY m3u
-https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 29/06 Tsirang FC vs Paro FC (Lương Sơn) BLV MÃ SIÊU m3u
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) m3u8
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782715642-0-0-4b0b2543bb11afc5069da79f0a4e732d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 29/06 Tsirang FC vs Paro FC (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782715642-0-0-05829f7b91c939d43172075c5ce26f5c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 29/06 Shenzhen Xinpengcheng U21 vs Guangdong Guangzhou Power U21 (Lương Sơn) BLV SHIN m3u
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) m3u8
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782715642-0-0-b85398ad8403fbac849152bce1ef872f
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 ngày 29/06 Shenzhen Xinpengcheng U21 vs Guangdong Guangzhou Power U21 (Lương Sơn) BLV LIO m3u
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782715642-0-0-f23cabc741d7ae557b53dee3fc514bf6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 29/06 Paranaque Patriots vs Batang Kankaloo [KING] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782734422-0-0-0c27612a39555ae327836a7d6b0c9de0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) m3u8
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782715642-0-0-7c5b02b34210d8462d8dd0c250b82171
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 29/06 Paranaque Patriots vs Batang Kankaloo [KING] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782734422-0-0-6abf50a730e243bc4e20b631ed6b139e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782715642-0-0-f2273897fe70ac9bc1d07b1f51120171
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 29/06 Paranaque Patriots vs Batang Kankaloo [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782734422-0-0-3eaa01b5a984045a1f374cff63645e76
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 29/06 Paranaque Patriots vs Batang Kankaloo [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782734422-0-0-6f595c46ae03d1a7c2e15f7f4715f867
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782715642-0-0-d0f82eee453f763ecd8ae1f8c8697447
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782734722-0-0-039f2e2355e506d87a28924084d8bc6d
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782715642-0-0-a91b90416579b1f6c2b409f716447483
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782734722-0-0-2652a837da55368e10956f019db03ccd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782715642-0-0-71728683ea6c4e91f12ccd0ddb2bb5a4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782734722-0-0-0c97ca7c5054a523f3cdcdc9e038ec51
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782715642-0-0-96557d24129e0cfd163fcd22ead3e372
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Panama vs England [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782734722-0-0-b0eb441c04a8ad28afb270417d450984
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782715642-0-0-aab991782cabde7ef13818856da080d1
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782734722-0-0-47825335d4a5a915b09febc66c010c6f
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782715642-0-0-8bff44d7b17d351d21b984a87137c576
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782734722-0-0-2afb3ef72a6683f7cc80f4f4825f2908
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782734722-0-0-733f6ef8555ea5e8716fd135e05a5c7b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Algeria vs Austria [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782734722-0-0-bf259aa502d1d4fe534e90fe0d62ece6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782734722-0-0-b2d713765992ccaff36c1d3d87d10beb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782734722-0-0-0f66a72ad4b816e43a5b550bc1a72bea
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782715642-0-0-2f177b1b364107475a943b06380229cc
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782734722-0-0-937af87afb736c52bce956cb3126cfe3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc trong rừng xà nu] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782715642-0-0-ec3d2d39b21a7bccbd8dfecf2e13b9b6
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782734722-0-0-d0c160b58d9dadf0f1d20d46f5bf94c1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782734722-0-0-898af31e11a1d830f66fffd9eb87da20
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782734722-0-0-400a84db17c2bbec96e9e9b633cf9500
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 29/06 Guangdong Meizhou W vs Wuhan Jiangda W (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",18h00 29/06 Guangdong Meizhou W vs Wuhan Jiangda W (Hội Quán) SD
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 29/06 Rublev A. vs Safiullin R. (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 29/06 Rublev A. vs Safiullin R. (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 29/06 FC Tsirang vs FC Paro
+https://live05.paznhl.app/live/90865415.m3u8
 
