@@ -5,23 +5,14 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/650.png",22:00 | VPS vs Inter Turku
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1118.png",08:00 | Netherlands vs Morocco
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://tmssl.akamaized.net//images/wappen/big/23133.png?lm=1672672799",18:30 | Italy U17 vs France U17
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/6.png",Brazil vs Japan
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png",Netherlands vs Morocco
-https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1118.png",Netherlands vs Morocco
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/16777.png",SD Raiders vs Sydney FC U23
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
@@ -31,6 +22,15 @@ https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/650.png",VPS vs Inter Turku
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1501.png",Ivory Coast vs Norway
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/26028.png",Poland U19 W vs Germany U19 W
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Sweden
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Sweden
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
@@ -581,17 +581,11 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BIBI_PLUS_clear/manifest.mpd
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/life.png",On Life
 https://livevlisctcdnw.seenow.vn/livesnv2/LIFE_TV/manifest.mpd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo (Lương Sơn) BLV DƯƠNG CHÍ m3u
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h55 ngày 30/06 Hà Lan vs Maroc (Lương Sơn) BLV KAKA REPLAY m3u
+https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo (Lương Sơn) BLV DƯƠNG CHÍ flv
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h30 ngày 30/06 Asheville City vs Charlotte Independ B (Lương Sơn) BLV PELE m3u
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h30 ngày 30/06 Asheville City vs Charlotte Independ B (Lương Sơn) BLV PELE flv
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",10h55 ngày 30/06 Hà Lan vs Maroc (Lương Sơn) BLV KAKA REPLAY flv
+https://flv.cdnfaster-a.live/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -608,36 +602,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 30/06 Phong Phú Hà Nam Nữ vs TKS Việt Nam Nữ (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 
@@ -649,6 +613,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 30/06 Phong Phú Hà Nam Nữ vs TKS Việt Nam Nữ (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 30/06 Phong Phú Hà Nam Nữ vs TKS Việt Nam Nữ (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 30/06 Phong Phú Hà Nam Nữ vs TKS Việt Nam Nữ (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 30/06 Phong Phú Hà Nam Nữ vs TKS Việt Nam Nữ (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 30/06 Phong Phú Hà Nam Nữ vs TKS Việt Nam Nữ (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 30/06 Sunshine Coast Wanderers W vs Olympic FC W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 30/06 Sunshine Coast Wanderers W vs Olympic FC W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 30/06 Sunshine Coast Wanderers W vs Olympic FC W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h30 ngày 30/06 Sunshine Coast Wanderers W vs Olympic FC W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h30 ngày 30/06 Logan Lightning vs Redlands United (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
@@ -743,210 +731,87 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV GÔN] (Socolive) flv
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=4083c1ab2b29afd050c14eaca34c7913&txTime=6a4359d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc đau cổ vai gáy] (Socolive) flv
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782798802-0-0-44693dfb5eeb26efcd112c109d8dcfb8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV GÔN] (Socolive) hdFlv
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=b3e49e6bf59e83099c8152ee0bfd044c&txTime=6a4359d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc đau cổ vai gáy] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782798802-0-0-7e748be803976219010274cc6092a95f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV GÔN] (Socolive) m3u8
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=4083c1ab2b29afd050c14eaca34c7913&txTime=6a4359d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc đau cổ vai gáy] (Socolive) m3u8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782798802-0-0-ef8d925a0b19dbe443dab02cada394f8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV GÔN] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=b3e49e6bf59e83099c8152ee0bfd044c&txTime=6a4359d2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Jordan vs Argentina [Sóc đau cổ vai gáy] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1782798802-0-0-b361ec4f91a31f207aa534fb3eb9fdfd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV GIÓ] (Socolive) flv
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1782780802-0-0-7c894ce61dffc5de84f5b29faa063d20
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782798802-0-0-bbb17cd6d973af3c04f948964bbd4b7d
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV GIÓ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1782780802-0-0-65eb5f128fcba510cdcaaadcbdc31075
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782798802-0-0-a891d231460f32cbdce9d7ec4d49be07
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV GIÓ] (Socolive) m3u8
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1782780802-0-0-32840411152e26007874da49993c404c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782798802-0-0-bd80e075088d7f23caee5c1c8955d514
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV GIÓ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1782780802-0-0-7724be8e71c520a7a2889a78170230da
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [CR Bưởi] (Socolive) flv
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=7c38fe09047eb211e9e7c8e4d3368718&txTime=6a4359d2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [CR Bưởi] (Socolive) hdFlv
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=f89369cd92202b6939d669bc0417105d&txTime=6a4359d2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=7c38fe09047eb211e9e7c8e4d3368718&txTime=6a4359d2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=f89369cd92202b6939d669bc0417105d&txTime=6a4359d2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Gigantes de Carolina vs Osos de Manati [A CHÈ] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1782780802-0-0-4e91362c2b2488b83b05c4c370421fb3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Gigantes de Carolina vs Osos de Manati [A CHÈ] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1782780802-0-0-83a83bd6bae35ed683d30a2b50927c11
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Gigantes de Carolina vs Osos de Manati [A CHÈ] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1782780802-0-0-4ebca955e9a190ca470b8e92463dcaf8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Gigantes de Carolina vs Osos de Manati [A CHÈ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782780802-0-0-acaa87370ca41fe87570a48589cff343
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Criollos de Caguas vs Leones De Ponce [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1782780802-0-0-4a7ece73efd8155f2b19889f43943ec3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Criollos de Caguas vs Leones De Ponce [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1782780802-0-0-f6c5ec2043d53f3ce6c2f5111fa357db
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Criollos de Caguas vs Leones De Ponce [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782780802-0-0-e2c23a4791eb3a746ead7ec7dd296acf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Criollos de Caguas vs Leones De Ponce [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782780802-0-0-a50d94b3925232274a5773f430b7e411
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782781222-0-0-a2ed1b11ac30d0e7da8eea26b32c205f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782781222-0-0-5f2b5cad8b9a7b4dd21460f0cf1bf213
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782781222-0-0-ea2251bc9d30255be11d5ac711fb6492
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782781222-0-0-a0176c14d19874020ec9d78b2a86a590
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782781222-0-0-b28baf480804eb5db030de493a1c593b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1782781222-0-0-9c09fbf4b7d3244e2b936562dd9519e0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782781222-0-0-afe7676c2b773bc055721de7a70c2838
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782781222-0-0-12f89328e31d82168951760a43428ed5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV MESSI] (Socolive) flv
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=de9a2d6d9ab05b3bdb1d9981d488e49e&txTime=6a435b76
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV MESSI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=100af3ad4dc9cabce500da26b092424f&txTime=6a435b76
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV MESSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=de9a2d6d9ab05b3bdb1d9981d488e49e&txTime=6a435b76
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV MESSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=100af3ad4dc9cabce500da26b092424f&txTime=6a435b76
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup : Union Espanola vs Colo Colo [QUỐC KHÁNH] (Socolive) flv
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1782781222-0-0-4e1dcf2a36d3ac38e212ecf75785d47d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup : Union Espanola vs Colo Colo [QUỐC KHÁNH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1782781222-0-0-c1586fc61b05c69b1b1fcb972e00a274
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup : Union Espanola vs Colo Colo [QUỐC KHÁNH] (Socolive) m3u8
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1782781222-0-0-0a976f283a373b0149ac487a3db37d09
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",CHI Cup : Union Espanola vs Colo Colo [QUỐC KHÁNH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782781222-0-0-ba756294fc4ebe7a33aca79c7071873c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV TOMMY] (Socolive) flv
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782781222-0-0-1c6c3d37f322eb4ec0a735d00ba8add6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV TOMMY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782781222-0-0-e7d7c94c5adc46a14fb3ae9bd8100cd0
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV TOMMY] (Socolive) m3u8
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782781222-0-0-f9488dacefd5eb4f785c17a5446b65a6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782781222-0-0-8c17dff30771c41e44cd3a1228647ac6
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Gigantes de Carolina vs Osos de Manati [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1782781222-0-0-fc9ec3244b304745d37e3e403c74d7ab
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Gigantes de Carolina vs Osos de Manati [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1782781222-0-0-67a2a11e40e9e69f3516560295e4f6dc
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Gigantes de Carolina vs Osos de Manati [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782781222-0-0-902a0d66c6a713906181476144035c57
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h00 ngày 30/06 Gigantes de Carolina vs Osos de Manati [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782781222-0-0-c9d8fc183dec37f9e23d1e1a57437ea3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV Củ Cải] (Socolive) flv
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=60e5c44b72d5aa7ec872d1b01d7db1ef&txTime=6a435ca2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV Củ Cải] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=9fc6164f12081c8cf5f01ad9f55176b9&txTime=6a435ca2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV Củ Cải] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=60e5c44b72d5aa7ec872d1b01d7db1ef&txTime=6a435ca2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=9fc6164f12081c8cf5f01ad9f55176b9&txTime=6a435ca2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV LUCAS] (Socolive) flv
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782781522-0-0-00da80a1ba731b866197fdf327faac98
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV LUCAS] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782781522-0-0-a387949cc38a7a81c7c1c4223bc43f3e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV LUCAS] (Socolive) m3u8
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782781522-0-0-dc21baec6140a5128c76732b2aef9348
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV LUCAS] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782781522-0-0-da2691e48ea64cb08fa00e541a02300e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV CUỘI] (Socolive) flv
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782781522-0-0-f4e3357003acd81f11edb183597b940a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV CUỘI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1782781522-0-0-4f8dfa748de49758caafa9cc125d64b1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV CUỘI] (Socolive) m3u8
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782781522-0-0-2d06152a3f71c666d1e13d39db0f8620
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV CUỘI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1782781522-0-0-080b93b6802241101afdd824ede89076
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV RYO] (Socolive) flv
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1782781522-0-0-18a96ef1f33dbbaddd5a7f791c7cc812
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV RYO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1782781522-0-0-da7778a946dc1d1e18d9471a06c3fce1
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV RYO] (Socolive) m3u8
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782781522-0-0-ff13eb05e87b6343ed5811b6c98e59fe
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 30/06 Union Espanola vs Colo Colo [BLV RYO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782781522-0-0-0ebccfad0c20a089ea8d190064e40911
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [THẠCH TÚ] (Socolive) flv
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=e285e326e7eed0395c8168da133673e6&txTime=6a435ca2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [THẠCH TÚ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=6d26ecd902e5f80d0d4cce8e006f951c&txTime=6a435ca2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [THẠCH TÚ] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=e285e326e7eed0395c8168da133673e6&txTime=6a435ca2
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 30/06 Netherlands vs Morocco [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=6d26ecd902e5f80d0d4cce8e006f951c&txTime=6a435ca2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Brazil vs Japan [Sóc Nhó Nhịu Nhô Nhùng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1782798802-0-0-2d9750fac4f95ff2fd5807a93cfec690
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782781522-0-0-d79928a90108eb648314e98150e9b274
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782798802-0-0-870ba30f0b503b40dc1470bc44c7c977
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782781522-0-0-11676096b1756844d4a77fae227eeeec
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782798802-0-0-8a7eb0463231ecdbb7f8501ff37a94e3
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782781522-0-0-5a1a036a911e452231012586bed2a009
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782798802-0-0-c4cfcfcf1f0f821c2186ed5d5cc92ac1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782781522-0-0-9e07206983e91ba5861e6e346d2c6c0c
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782798802-0-0-b8b702e3667bf84d27d83b4dc43ce043
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 30/06 U. Espanola vs Colo Colo
-https://live05.paznhl.app/live/87547578.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Germany vs Paraguay [Sóc mèo méo meo] (Socolive) flv
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782798802-0-0-a2d038401ccc8d74e4bf6d784c9efa09
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Germany vs Paraguay [Sóc mèo méo meo] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782798802-0-0-aca08d5215b0bd499df48eb7cc527775
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Germany vs Paraguay [Sóc mèo méo meo] (Socolive) m3u8
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782798802-0-0-a93227df6afd9083327440d96b7cf4fe
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Germany vs Paraguay [Sóc mèo méo meo] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782798802-0-0-12e44c770ae563e9f5e6a231177bd666
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc trèo cây ngô đồng] (Socolive) flv
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782798802-0-0-fbeeb4e62c173494d678e985915e0a3a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc trèo cây ngô đồng] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782798802-0-0-6e6f52586d982eb8ac9336d3617e26e9
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc trèo cây ngô đồng] (Socolive) m3u8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782798802-0-0-800b523ebdf0422b55ef0418235ab297
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - South Africa vs Canada [Sóc trèo cây ngô đồng] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1782798802-0-0-7b0e5f93506f97d73cc3fe764fa23d2e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc nhàm nhang nhồ] (Socolive) flv
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782798802-0-0-916d52c9bbba9f3de43c8fbfa373bb3c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc nhàm nhang nhồ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782798802-0-0-932b521d8f56e3a913ffb024f27414a5
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc nhàm nhang nhồ] (Socolive) m3u8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782798802-0-0-02f04fd3b5a4b377993c7451e74858b8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Colombia vs Portugal [Sóc nhàm nhang nhồ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1782798802-0-0-2ccb70da9536da17d9ae834513090e41
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Netherlands vs Morocco [Sóc trong rừng xà nu] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782799222-0-0-843394bc5605b547530a78392d8905c3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Netherlands vs Morocco [Sóc trong rừng xà nu] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782799222-0-0-df73dc6957840dddb1a5e7f1cb00da0a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Netherlands vs Morocco [Sóc trong rừng xà nu] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782799222-0-0-d5f06087058280e0742fa529273a672e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - Netherlands vs Morocco [Sóc trong rừng xà nu] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1782799222-0-0-d02f022f6a756ce3011de8d2b88a5709
 
