@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",00:00 | Ivory Coast vs Norway
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",04:00 | France vs Sweden
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",04:00 | France vs Sweden
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",04:00 | France vs Sweden
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
@@ -23,26 +23,26 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1501.png",Ivory Coast vs Norway
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1501.png",Ivory Coast vs Norway
-https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/26028.png",Poland U19 W vs Germany U19 W
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Sweden
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Sweden
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/16.png",Mexico vs Ecuador
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/1oq8Fy7ETpBpZNaCA22ArQ_96x96.png",Iran vs Philippines
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/zTP55fFG-bL62vc24.png",Hàn Quốc vs Ấn Độ
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/27650.png",Izhevsk vs Pobeda Nizhniy Novgorod
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",England vs Congo DR
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 1)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",Tập 1
 https://vip.opstream15.com/20230414/37767_4a795191/index.m3u8
@@ -590,53 +590,44 @@ https://livevlisctcdnw.seenow.vn/livesnv2/BIBI_PLUS_clear/manifest.mpd
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/LOGO-IPTV/main/life.png",On Life
 https://livevlisctcdnw.seenow.vn/livesnv2/LIFE_TV/manifest.mpd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino (Lương Sơn) NHÀ ÐÀI m3u
+https://auto.cdnfaster.live/live/sd-6Mwdpr95fUfe2vv61S/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV TÂY MÔN KHÁNH flv
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV MÃ SIÊU m3u
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV VÕ TÒNG m3u
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV MÃ SIÊU flv
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV VÕ TÒNG flv
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV KAKA m3u
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV YẾN THANH m3u
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV KAKA flv
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV YẾN THANH flv
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV KEVILL m3u
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV TRIỆU TỬ LONG m3u
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV KEVILL flv
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV TRIỆU TỬ LONG flv
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LƯU BỊ m3u
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV LEO m3u
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LƯU BỊ flv
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV LEO flv
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LÃO HẠC m3u
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV NGƯỜI THÉP m3u
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LÃO HẠC flv
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Lương Sơn) BLV NGƯỜI THÉP flv
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LỮ BỐ m3u
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h10 ngày 30/06 Levski Sofia vs Radnik Surdulica (Lương Sơn) BLV PHI HỔ m3u
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h10 ngày 30/06 Levski Sofia vs Radnik Surdulica (Lương Sơn) BLV PHI HỔ flv
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h10 ngày 30/06 Levski Sofia vs Radnik Surdulica (Lương Sơn) BLV LIO m3u
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h10 ngày 30/06 Levski Sofia vs Radnik Surdulica (Lương Sơn) BLV LIO flv
-https://flv.cdnfaster-a.live/live/LIO.flv?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Lương Sơn) BLV LỮ BỐ flv
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 https://www3.f2k3.shop/live/235c29178801ef36a970731709755e2a/playlist.m3u8
@@ -652,42 +643,6 @@ https://www3.f2k3.shop/live/87b8a02016610052ff23e50744f98f77/playlist.m3u8
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Mexico vs Ghana (Khán Đài A) source
 https://www3.f2k3.shop/live/e699af6f4692703a8c718f285b40deb2/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Chuối Chiên) HD1
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Chuối Chiên) HD2
-https://gckc0525.edgemaxcdn.org/live/troctru.flv
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Chuối Chiên) FHD1
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Ivory Coast vs Norway (Chuối Chiên) FHD2
-https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden (Chuối Chiên) HD1
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
@@ -737,6 +692,78 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",08h00 ngày 01/07 Mexico vs Ecuador (Chuối Chiên) FHD2
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
 
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 01/07 Khovd Western vs Ulaangom City (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 01/07 Khovd Western vs Ulaangom City (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 01/07 Khovd Western vs Ulaangom City (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",15h00 ngày 01/07 Khovd Western vs Ulaangom City (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 01/07 Japan W vs Indonesia W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 01/07 Japan W vs Indonesia W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 01/07 Japan W vs Indonesia W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",16h00 ngày 01/07 Japan W vs Indonesia W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/07 Changnyeong vs Boeun Sangmu (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/07 Changnyeong vs Boeun Sangmu (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/07 Changnyeong vs Boeun Sangmu (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",17h00 ngày 01/07 Changnyeong vs Boeun Sangmu (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/07 Bhutan U19 vs RTC (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/07 Bhutan U19 vs RTC (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/07 Bhutan U19 vs RTC (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/07 Bhutan U19 vs RTC (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/07 Chinese Taipei W vs Vietnam W (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/07 Chinese Taipei W vs Vietnam W (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/07 Chinese Taipei W vs Vietnam W (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",19h00 ngày 01/07 Chinese Taipei W vs Vietnam W (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 HJK helsinki vs Ilves (Chuối Chiên) HD1
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 HJK helsinki vs Ilves (Chuối Chiên) HD2
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 HJK helsinki vs Ilves (Chuối Chiên) FHD1
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 HJK helsinki vs Ilves (Chuối Chiên) FHD2
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Tacoma Defiance vs Ventura County FC (Gà Vàng) source
 https://www3.f2k3.shop/live/821d54abadb12c6c15edba538ab20ad1/playlist.m3u8
 
@@ -746,264 +773,228 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",09h00 ngày 23/05 Canberra Olympic U23 vs Belconnen United U23 (Gà Vàng) source
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782845603-0-0-6b1bdffa1ccafa150f03619bb9ccb093
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV Củ Cải] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782860722-0-0-a8c4d47802d0cd91713be4d8877ff919
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782845603-0-0-413fc0c3e494dbb9ca6c318488007fd4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV Củ Cải] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782860722-0-0-42b290e810c6a2aabdba6f79e290c435
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782845603-0-0-901fd81bb28b627e5d81693ec6d9fff4
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV Củ Cải] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782860722-0-0-8cf08a3affbf6ea65c1a8825ac355bbf
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782845603-0-0-3180ea829adaf854d040d64f2a7bc320
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782860722-0-0-f885981f53a65d00a6df80c5d9d7b2e3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [RICKHANTER] (Socolive) flv
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=d5820d80fefec46797536f5ff651f4c8&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV ĐỐM] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782860722-0-0-f8a9447b43bf98987b1c6d18943198d8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [RICKHANTER] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=a3ba19a60f9ffd035de54f8bd4c0177c&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV ĐỐM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782860722-0-0-3b478c215ca0b8a758312df4e45b8a56
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [RICKHANTER] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=d5820d80fefec46797536f5ff651f4c8&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782860722-0-0-56dc1b22d4f86d1038c68483bdaa9feb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [RICKHANTER] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=a3ba19a60f9ffd035de54f8bd4c0177c&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782860722-0-0-96e37e7c8635bcd5e33f2d6eb0c071de
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV TAP] (Socolive) flv
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=118b3c083e4ac807bd69c7619ba048c0&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV TOMMY] (Socolive) flv
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782860782-0-0-585ab063ae4d06b17c73844e2211d2f0
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV TAP] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=21b4783ce0cef65d5e370a9aef055190&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV TOMMY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782860782-0-0-0d672d24af832b211042294087c17c00
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV TAP] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=118b3c083e4ac807bd69c7619ba048c0&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV TOMMY] (Socolive) m3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782860782-0-0-b2e02540f2a26a8e025a3ad67fa3d30e
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV TAP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=21b4783ce0cef65d5e370a9aef055190&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782860782-0-0-ce1e5e3dc6f594567579b59d2a465e39
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV COCA] (Socolive) flv
-https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=7e559f6729c8243bee1b78ef3bc1603e&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV A TÚ] (Socolive) flv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1782860783-0-0-20a81978f57ce57bc0ef282b665aec4b
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV COCA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=24d25dae645d0de6f8cd6ee5a90714a9&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV A TÚ] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1782860783-0-0-351d6df0f18ca99d617d4b5476f67fdc
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV COCA] (Socolive) m3u8
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=7e559f6729c8243bee1b78ef3bc1603e&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV A TÚ] (Socolive) m3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1782860783-0-0-08ad6e070af9b5f3fb083e30605f8f13
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV COCA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=24d25dae645d0de6f8cd6ee5a90714a9&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV A TÚ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1782860783-0-0-3b45a91864ba8f500240f268835337d4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [THẠCH TÚ] (Socolive) flv
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=3ba7d6c8b624722174514d57e70ee7c7&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV GÔN] (Socolive) flv
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=48fe72acdc6015beff647a57ac0ae365&txTime=6a44923f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [THẠCH TÚ] (Socolive) hdFlv
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=99c0f64ee803a957fdb7456bc229120b&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV GÔN] (Socolive) hdFlv
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=562df344204fdcbfcc044fae62a47c1c&txTime=6a44923f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [THẠCH TÚ] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=3ba7d6c8b624722174514d57e70ee7c7&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV GÔN] (Socolive) m3u8
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=48fe72acdc6015beff647a57ac0ae365&txTime=6a44923f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=99c0f64ee803a957fdb7456bc229120b&txTime=6a4456f2
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV GÔN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=562df344204fdcbfcc044fae62a47c1c&txTime=6a44923f
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV MESSI] (Socolive) flv
-https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=e22cb993aae5631cd0bf8921004ea8ad&txTime=6a4456f3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV A WIN] (Socolive) flv
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782860783-0-0-8201230aafa1d98f9fb152e394def31c
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV MESSI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=7620d3ec3d74c262cc10a56c203c95c8&txTime=6a4456f3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV A WIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782860783-0-0-c9aeb4190487194a02f75221bc469ce4
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV MESSI] (Socolive) m3u8
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=e22cb993aae5631cd0bf8921004ea8ad&txTime=6a4456f3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV A WIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782860783-0-0-7910b8ac633dcfbcb4276fa7ac4d429a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV MESSI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=7620d3ec3d74c262cc10a56c203c95c8&txTime=6a4456f3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [DECO] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782845602-0-0-bb6b70f6d758f9592a4a98c8339efe75
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [DECO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782845602-0-0-986d6fbbc4eac0af0512b84632e0de2d
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782845602-0-0-7013f5ca5c863ed61a642e9b30bd56ad
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782845602-0-0-18db921c69b37fd7e72add3123fbbd87
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV TOMMY] (Socolive) flv
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782845602-0-0-004f463e6db192000cee6d3af05e5ede
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV TOMMY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1782845602-0-0-de1765b9d31edb9f606a033d6ef5decb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV TOMMY] (Socolive) m3u8
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782845602-0-0-1df63958f42f927cc759c0ab16605e76
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782845602-0-0-74ebb6e210e377c4642c648b779443c5
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV Củ Cải] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1782845602-0-0-a807f6916103f3339aa6a65894983341
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV Củ Cải] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1782845602-0-0-99616632bcd1511d97bb8773d83619f7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782845602-0-0-de85dfb313e9c7b7f98f52e15acc567e
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782845602-0-0-a7f30230f1f11da0c459155c75d37683
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [SAO LA] (Socolive) flv
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=ca9dae4f25faab17c1566f80f40969fb&txTime=6a4456f3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [SAO LA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=eb00d70c4b66d8d670fc1cd5eff7c3df&txTime=6a4456f3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [SAO LA] (Socolive) m3u8
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=ca9dae4f25faab17c1566f80f40969fb&txTime=6a4456f3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [SAO LA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=eb00d70c4b66d8d670fc1cd5eff7c3df&txTime=6a4456f3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [TẠ BIÊN GIỚI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782845602-0-0-d25bc350e5b058b6c13ea403cf5a316c
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [TẠ BIÊN GIỚI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782845602-0-0-0a16038fc59c85e5e349bbfbfc2d8819
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782845602-0-0-913a1edb95332ba91ea2677db9e80a2f
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782845602-0-0-559c2107df917b095e76e34ccd0af4e9
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV ĐỐM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1782845603-0-0-5ce02eedd6b4ca48df8514de26f2074b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV ĐỐM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1782845603-0-0-c8401905d2bcfdb9611fab12b99751cb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV ĐỐM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782845603-0-0-fcc3075620325444f32bec040c4895e7
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 01/07 Cote d'Ivoire vs Norway [BLV ĐỐM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782845603-0-0-806d0df440304c279ad5ce16e8547e81
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [QUỐC KHÁNH] (Socolive) flv
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1782845603-0-0-028bfb0353bac3ed9a628fefcf6ea1c3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [QUỐC KHÁNH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1782845603-0-0-85c7cc6d057f6855327dd1d9760ab051
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [QUỐC KHÁNH] (Socolive) m3u8
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1782845603-0-0-61b866eef20a50cab6d1a87c8b2e4713
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [QUỐC KHÁNH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1782845603-0-0-2b7a279234932b261fefa39eed2f2366
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United [CƠM CHÁY] (Socolive) flv
-https://pull06.scstream.net/live/stream-611528_lsd.flv?auth_key=1782845603-0-0-301dfb2a135e3658a3610c267b9c9ede
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United [CƠM CHÁY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1782845603-0-0-65759beea8594fa84bd6189bad761598
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United [CƠM CHÁY] (Socolive) m3u8
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782845603-0-0-4ec8dbd93787d1c016cf5c00b5d7a1cd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United [CƠM CHÁY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782845603-0-0-4582361ce2498484fa61461962351c7b
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United [BLV WUKONG] (Socolive) flv
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1782845603-0-0-bf0404c4e9b302a052835168459407f3
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United [BLV WUKONG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1782845603-0-0-5305f333cbf1240078ec096584b4f9cb
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782845603-0-0-a218a186b386ef99bbd9f59a76c184aa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 30/06 FK Liepaja vs Ogre United [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782845603-0-0-d4f89d8cbf3e67668d1eb43ba89d1bfa
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) flv
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1782845603-0-0-31cf84fce16b90db29836b1151a309fe
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782845603-0-0-5e93b1818321fec08af49be0dfdbe3cf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) m3u8
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782845603-0-0-3d03c3dff0c62102e6e23f589a2cd746
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [KÉP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782845603-0-0-340ca0be6330389d967c40fb7beb3b9a
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",MPBL: Pasig City vs Quezon Huskers [KING] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1782845602-0-0-f8a940e73145e0e144b9d2a9be8832cd
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",MPBL: Pasig City vs Quezon Huskers [KING] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1782845602-0-0-8a4df7e43efa97838fa807945c23c8ff
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",MPBL: Pasig City vs Quezon Huskers [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1782845602-0-0-a1d07ed19cf31d7005dcfdace3709a24
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",MPBL: Pasig City vs Quezon Huskers [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782845602-0-0-dc0596f16b0d0cf176d310adaabb7a08
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) flv
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1782845602-0-0-f93f5d788ec04bcc6c8cf20367f40dde
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1782845602-0-0-e4f3aef57794f74dfc429cf91abcbadf
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) m3u8
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782845602-0-0-1e4a4aebef4385ec694949b0d808cb51
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV TUẤN CÙI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782845602-0-0-0c202c8c7de082c14abea272455fa283
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV ANH TÀI] (Socolive) flv
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1782845602-0-0-7f565259688788e20cff5f43ea4f3e75
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV ANH TÀI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1782845602-0-0-2d5a7d8ab911281d45aff4c34f3f93df
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV ANH TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782845602-0-0-5d872ccdb9233400e6b5c597108b3334
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 ngày 01/07 Poland Women U19 vs Germany Women U19 [BLV ANH TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782845602-0-0-ec0784b47e280b38ed142bc7e923fb29
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782860783-0-0-4c406cb78eace2927999b4692643b1a9
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) flv
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782845602-0-0-6bcc19e72f1fd2cb7385d5151239ecca
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1782860782-0-0-eb25e82da021f1009a77b1e1fc904a62
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782845602-0-0-28172c7a732e750a810a3db8379be71d
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782860782-0-0-5e5a0d41d7a1d047fc0c87c9aa9c57a6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782845602-0-0-e14d8fb6771095727170a8cb231335db
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782860782-0-0-fcca78d501fb2c3c8b01f475847dcb81
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782845602-0-0-21a1d24096b5746a51bc67a07e6dbeb0
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782860782-0-0-4d0b6579981f0748d8683e6d03dea444
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 01/07 Ivory Coast vs Norway (Hội Quán) FHD
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [RICKHANTER] (Socolive) flv
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=e22b89eff3f5a1fa57f1896da6376849&txTime=6a44936a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 01/07 Ivory Coast vs Norway (Hội Quán) SD
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [RICKHANTER] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=4044d5141bcdfc549c1cfbd39e2d539c&txTime=6a44936a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 01/07 Ivory Coast vs Norway (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=e22b89eff3f5a1fa57f1896da6376849&txTime=6a44936a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4044d5141bcdfc549c1cfbd39e2d539c&txTime=6a44936a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [THẠCH TÚ] (Socolive) flv
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=991938d133233101dca5242f21c1cfda&txTime=6a44936a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [THẠCH TÚ] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=67ffc55943dda0a3455d6480f2655e6d&txTime=6a44936a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [THẠCH TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=991938d133233101dca5242f21c1cfda&txTime=6a44936a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=67ffc55943dda0a3455d6480f2655e6d&txTime=6a44936a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [SAO LA] (Socolive) flv
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=f457242ffd8d6e15465049e93249313d&txTime=6a44936b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [SAO LA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=1712e8b14d119d4fbc9b0c85cf863e64&txTime=6a44936b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f457242ffd8d6e15465049e93249313d&txTime=6a44936b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=1712e8b14d119d4fbc9b0c85cf863e64&txTime=6a44936b
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV COCA] (Socolive) flv
+https://pull.niur.live/live/stream-327159_lsd.flv?txSecret=d32c4643ba123fdd9e62605012193c3f&txTime=6a44936a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV COCA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=0ebf6029cdf36debd87792ce69649be8&txTime=6a44936a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV COCA] (Socolive) m3u8
+https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=d32c4643ba123fdd9e62605012193c3f&txTime=6a44936a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV COCA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=0ebf6029cdf36debd87792ce69649be8&txTime=6a44936a
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [TẠ BIÊN GIỚI] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782861442-0-0-4ca2fb2cc29d4a701c206b63970c45ea
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [TẠ BIÊN GIỚI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1782861442-0-0-b00352941b5901aaa6eb5bd41e53ab21
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782861442-0-0-43499d3b7a8d93e1b7bb785203e772f1
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782861442-0-0-681678340a72ab4a02d64191f8f0a2eb
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [CR Bưởi] (Socolive) flv
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=8714eab3d99807405f14fee00888b31e&txTime=6a4494d2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [CR Bưởi] (Socolive) hdFlv
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=e3ce2d76ad337a5c0b09cde3d6fc18ea&txTime=6a4494d2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [CR Bưởi] (Socolive) m3u8
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=8714eab3d99807405f14fee00888b31e&txTime=6a4494d2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [CR Bưởi] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e3ce2d76ad337a5c0b09cde3d6fc18ea&txTime=6a4494d2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [DECO] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1782861442-0-0-5e633aa687c3ff831c8dd00cf527ce70
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [DECO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1782861442-0-0-a98adf2aeedf2fc55376785d4fda3bcf
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782861442-0-0-1cd2109ead2de42dd17abb7e7408735e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782861442-0-0-63455033a4f89e0c001e8bc60fff93a3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV 7UP] (Socolive) flv
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782861443-0-0-289fe3c35731848f6bd40a39b764a020
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV 7UP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1782861443-0-0-f1b4b92abaf9abbb44dab1e035cb0a8e
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782861443-0-0-f5778011ac02ee37f5ca74c769fec7e2
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782861443-0-0-ac0bcba9d61849e79c61dd2abd49c962
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV MESSI] (Socolive) flv
+https://pull.niur.live/live/stream-494201_lsd.flv?txSecret=16f7eeb0eb531886ad1c25ed290aac00&txTime=6a4494d3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV MESSI] (Socolive) hdFlv
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=69892fb3bf3bab058ea86e242a515198&txTime=6a4494d3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV MESSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=16f7eeb0eb531886ad1c25ed290aac00&txTime=6a4494d3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 ngày 01/07 France vs Sweden [BLV MESSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=69892fb3bf3bab058ea86e242a515198&txTime=6a4494d3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV THÓC] (Socolive) flv
+https://pull.niur.live/live/stream-606448_lsd.flv?txSecret=3bb2d768e218b8bf781c45e0361a7b30&txTime=6a4494d3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV THÓC] (Socolive) hdFlv
+https://pull.niur.live/live/stream-606448_lhd.flv?txSecret=8e4e8b3892d2a927ccea2efc02bbf1c1&txTime=6a4494d3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV THÓC] (Socolive) m3u8
+https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=3bb2d768e218b8bf781c45e0361a7b30&txTime=6a4494d3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 01/07 Audax Italiano vs Palestino [BLV THÓC] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=8e4e8b3892d2a927ccea2efc02bbf1c1&txTime=6a4494d3
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 01/07 France vs Sweden (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 01/07 Ivory Coast vs Norway (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 01/07 France vs Sweden (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 01/07 Bờ Biển Ngà vs Na Uy
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 01/07 France vs Sweden (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 01/07 France vs Sweden (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 01/07 France vs Sweden (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 01/07 France vs Sweden (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h00 01/07 Pháp vs Thụy Điển
 https://live05.koepgd.app/live/08552895.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 30/06 Liepaja vs Ogre United
-https://live05.koepgd.app/live/19919577.m3u8
-
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",01h00 01/07 Ba Lan U19 Nữ vs Đức U19 Nữ
-https://live05.koepgd.app/live/14707124.m3u8
 
