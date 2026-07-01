@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/10.png",23:00 | England vs Congo DR
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1.png",03:00 | Belgium vs Senegal
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1.png",03:00 | Belgium vs Senegal
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",England vs Congo DR
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/LDUQuitologo2.png",05:00 | LDU de Quito vs Orense SC
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1.png",Belgium vs Senegal
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",England vs Congo DR
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1.png",Belgium vs Senegal
 https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 3)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-3-thumb.jpg&w=1920&q=75",Tập 5
@@ -71,147 +77,180 @@ https://vip.opstream90.com/20260305/26504_404d52bf/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="Phim hay" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",Oshi No Ko Phần 3 - Tập 9
 https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 (Lương Sơn) BLV LIO m3u
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/07 Deportes Limache vs Coquimbo Unido (Lương Sơn) BLV SHIN m3u
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h10 ngày 02/07 Forge FC vs Vancouver FC (Lương Sơn) BLV GẤU KA m3u
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/07 Deportes Limache vs Coquimbo Unido (Lương Sơn) BLV LÝ QUỲ m3u
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Rep Congo (Lương Sơn) BLV LƯU BỊ m3u
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/07 Liga Dep. Universitaria Quito vs Orense SC (Lương Sơn) BLV LƯU BỊ m3u
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Rep Congo (Lương Sơn) BLV KEVILL m3u
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal (Lương Sơn) BLV YẾN THANH m3u
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 02/07 Slavia Mozyr vs ML Vitebsk (Lương Sơn) BLV TÔN LẬP m3u
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal (Lương Sơn) BLV LEO m3u
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 02/07 Slavia Mozyr vs ML Vitebsk (Lương Sơn) BLV MAYBACH m3u
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal (Lương Sơn) BLV TRIỆU TỬ LONG m3u
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [BLV TOMMY] (Socolive) m3u8
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782931283-0-0-844a080fd4877ba4e2347148a7b73e9b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal (Lương Sơn) BLV VÕ TÒNG m3u
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [BLV TOMMY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782931283-0-0-670c0f07b8cbf2a6f0ac93d548e8568d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal (Lương Sơn) BLV TÂY MÔN KHÁNH m3u
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [BLV Củ Cải] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782931283-0-0-1ad19a8f92bc27a4631dd7913dd38612
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal (Lương Sơn) BLV NGƯỜI THÉP m3u
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [BLV Củ Cải] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782931283-0-0-74c423bc8a3a0373cd50572fd3cc4c6c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",04h30 ngày 02/07 Charlotte Independence vs Corpus Christi FC (Lương Sơn) BLV LIO m3u
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [DECO] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782931283-0-0-80548f27fd609d91c00bf2013cf6f397
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV ĐỐM] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782947123-0-0-e15fae582095019ec83ed4308ed83d37
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [DECO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782931283-0-0-4d7b122bdaddae29a0b72208c4184b91
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV ĐỐM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782947123-0-0-cd9b7de6ee88eb62a45f427aa23fb1b9
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [BLV COCA] (Socolive) m3u8
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=8b00ba2e5e8ae7b6e4f37a1a39552822&txTime=6a45a5a3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [DECO] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782947123-0-0-42164293928c1dd929b5bc831600fff8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [BLV COCA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=79b38e8cd9ad7300f3472ee77be6206f&txTime=6a45a5a3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [DECO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782947123-0-0-1d74f4f0e32542d4bf6f46ae9da267d7
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [THẠCH TÚ] (Socolive) m3u8
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=be49b000c5556855eebc84c0af0f0e3d&txTime=6a45a5a3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [SAO LA] (Socolive) m3u8
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=b49d74f208ec1fcf9c060e89163701ac&txTime=6a45e383
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [THẠCH TÚ] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=dcf8c740820fade1c2ff2929995155a5&txTime=6a45a5a3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [SAO LA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d18241da9690878af1e30be010fb28cb&txTime=6a45e383
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [TẠ BIÊN GIỚI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782931283-0-0-165d44feb1b16a55435b17c299a9519b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV 7UP] (Socolive) m3u8
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782947123-0-0-d4d3f958bf2240db70f8c32f9ee8e264
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 ngày 01/07 England vs Democratic Republic of the Congo [TẠ BIÊN GIỚI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782931283-0-0-1cad62ac1b140b0e2d7af02aa1b0ca83
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV 7UP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782947123-0-0-07740f94fd0add2496ccff67925cf3a5
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [CR Bưởi] (Socolive) m3u8
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=a3b1b3b4f07e34dde5cad52595630954&txTime=6a45a5a3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV MESSI] (Socolive) m3u8
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=6c3665d06aeb2e6168becc632e289417&txTime=6a45e383
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [CR Bưởi] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=104a700d5886565a320a289f77af5cfc&txTime=6a45a5a3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV MESSI] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=f3cf1f845e7c01cee20f11095d9bc4fe&txTime=6a45e383
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [LÃO LÂM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782931283-0-0-a3df79a4d520621f9267464d943253e9
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [THẠCH TÚ] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=1a0a0877cb91c5e1719e6bc54fe24753&txTime=6a45e383
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [LÃO LÂM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782931283-0-0-e220c1ce8fee0c91d7982b844f82164e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [THẠCH TÚ] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=bef9d49da0d99e704ad62884005b4302&txTime=6a45e383
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1782931283-0-0-ba8a8bf301e7f3dd18161603a89f4c41
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV TAP] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=4c48f667c37a0146baff81d23014b137&txTime=6a45e383
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1782931283-0-0-f8ce7f0c8b88992dc5378d592c0a0e22
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV TAP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a4df34a852c43abbbb0bfc38e7c1f2b8&txTime=6a45e383
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782931283-0-0-edacfe10634652e111b1af9ce338ab77
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/07 Deportes Limache vs Coquimbo Unido [BLV LUCAS] (Socolive) m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782947123-0-0-32d62c1ff656537f8cbf32c17e7956c2
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782931283-0-0-b694556a03bd9de3f3cbe17caaedb58c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/07 Deportes Limache vs Coquimbo Unido [BLV LUCAS] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782947123-0-0-ddfcd25420d1f556a3ee5dfa898fa1cd
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [BLV CÒ] (Socolive) m3u8
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782931283-0-0-6b6a44554e5d3d7450f919553c882c5c
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [TẠ BIÊN GIỚI] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782947483-0-0-e6fe68acb53a3a1f19e0944d471bb935
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [BLV CÒ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782931283-0-0-7ad9b5e032e34f8f3f69e066289da8ec
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [TẠ BIÊN GIỚI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782947483-0-0-017af8e6ae3d6cb21df35452eb6b8c1a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [BLV VOI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1782931283-0-0-2e85571b84503e580bd252d286ea852e
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 02/07 Charlotte Independence vs Corpus Christi FC [BLV CHIVAS] (Socolive) m3u8
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=bb4a8f8c2caa428ed93d21ae1161a5d3&txTime=6a45e4eb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Denmark U19 vs Spain U19 [BLV VOI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1782931283-0-0-38dec6500af2f6dbda2bc6af8804d620
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 02/07 Charlotte Independence vs Corpus Christi FC [BLV CHIVAS] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=69ae4a650923f1a6ea89674b538908c5&txTime=6a45e4eb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 02/07 Slavia Mozyr vs Maxline Vitebsk [BLV CÁO] (Socolive) m3u8
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1782931283-0-0-f9e94b924092bfb5eda04ae9eb8dc12d
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 02/07 Charlotte Independence vs Corpus Christi FC [BLV RYO] (Socolive) m3u8
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1782947483-0-0-cbc1050b4b4b2ceb6b2e6a0ec38f0ae6
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 02/07 Slavia Mozyr vs Maxline Vitebsk [BLV CÁO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1782931283-0-0-1487803e9f4c928258f02ace2bfc441b
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 02/07 Charlotte Independence vs Corpus Christi FC [BLV RYO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782947483-0-0-14f1ba649b3ad6b7261afc0c9f0f4543
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Forge FC vs Vancouver FC [ĐỖ TÚ TÀI] (Socolive) m3u8
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1782931283-0-0-e67d9dcfc34092f29b44813e436decb7
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/07 Deportes Limache vs Coquimbo Unido [BLV YONE] (Socolive) m3u8
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1782947483-0-0-caac8fe756f4fad05c5166df8b8b8d10
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Forge FC vs Vancouver FC [ĐỖ TÚ TÀI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1782931283-0-0-59c9b37399cc3d53ffcbb9397cc4fde3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/07 Deportes Limache vs Coquimbo Unido [BLV YONE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1782947483-0-0-442bbe668fd13213e7196a02fae8b52a
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Forge FC vs Vancouver FC [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782931283-0-0-69f456669d5a772254cbb72f0ef55080
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/07 Deportes Limache vs Coquimbo Unido [BLV KAN] (Socolive) m3u8
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=35a16eb884af375b2e770e6642877b4a&txTime=6a45e4eb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Forge FC vs Vancouver FC [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782931283-0-0-c62e3e2b3fceba45d39f4a2a31856776
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/07 Deportes Limache vs Coquimbo Unido [BLV KAN] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=13fc4e295900c0c5cd80caa41ba6a8d8&txTime=6a45e4eb
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 02/07 Slavia Mozyr vs Maxline Vitebsk [BLV PICK] (Socolive) m3u8
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1782931283-0-0-4e0b8d5783f3033fef123c914919eab5
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV Củ Cải] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=a15634fb1e69e43b797eca8d49b1a440&txTime=6a45e653
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 02/07 Slavia Mozyr vs Maxline Vitebsk [BLV PICK] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782931283-0-0-4b81751c465b0344a9d9304993166b08
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV Củ Cải] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=418f0b89950775516f148b369cd66202&txTime=6a45e653
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Forge FC vs Vancouver FC [TRÀ ĐÁ] (Socolive) m3u8
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1782931283-0-0-95db7c0ab45e00c50502f50e595dc893
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV COCA] (Socolive) m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782947843-0-0-17f42084cf8a039e5da82e81dc1853e8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h00 ngày 02/07 Forge FC vs Vancouver FC [TRÀ ĐÁ] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782931283-0-0-438355295301ad9e51071fdc25a1ea07
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV COCA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1782947843-0-0-7ef7af9287a143427a7217cf7b99f668
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 02/07 Slavia Mozyr vs Maxline Vitebsk [BLV VIP] (Socolive) m3u8
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=6a421e164ed65fa9a0eb5cd0df008e3d&txTime=6a45a5a3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV TOMMY] (Socolive) m3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782947843-0-0-fa0c848377bf3aacf374c03b44787d74
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 ngày 02/07 Slavia Mozyr vs Maxline Vitebsk [BLV VIP] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=221a59d4d8843c2ecb3b5df4a07bc37e&txTime=6a45a5a3
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [BLV TOMMY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782947843-0-0-f01b11056288cc6af1dc6d86f4724e36
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=c76d65d2a86fc4c36514c3b9bbb17bef&txTime=6a45e653
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 ngày 02/07 Belgium vs Senegal [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=a6ce63fc2f3d899ea03a1ee5dbb5dc48&txTime=6a45e653
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/07 Deportes Limache vs Coquimbo Unido [NGƯỜI CÁ] (Socolive) m3u8
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782947843-0-0-d9f05ba826669affb0b3be36da697ec6
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 ngày 02/07 Deportes Limache vs Coquimbo Unido [NGƯỜI CÁ] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1782947843-0-0-09e89b1f9ae20b32065191903233874d
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 02/07 Charlotte Independence vs Corpus Christi FC [BLV COZY] (Socolive) m3u8
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1782947843-0-0-a1ff5197d8b5f262288c1799f85ba6b4
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 02/07 Charlotte Independence vs Corpus Christi FC [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782947843-0-0-cbe27d171b447a2cf4a3df2146e6cc3c
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 02/07 Charlotte Independence vs Corpus Christi FC [BLV A TINH] (Socolive) m3u8
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=b6ee7ef3a4980367b6540c67a2edc3b9&txTime=6a45e653
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",06h30 ngày 02/07 Charlotte Independence vs Corpus Christi FC [BLV A TINH] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=c6092694777d27cf96ad7a8aae09a00d&txTime=6a45e653
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) m3u8
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782931643-0-0-080dfd76c9ffbe52e938936283a256b4
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1782947843-0-0-94082772ee7074f48c7b8b860b043eba
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",BIT.LY/SOCOLIVE [SOCOLIVE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782931643-0-0-c9360997dcb4d891c46e13a2cca17ad4
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1782947843-0-0-8293e0580adec63f72c9cb0ef0ce5481
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 01/07 England vs Congo DR (Hội Quán) FHD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 02/07 Belgium vs Senegal (Hội Quán) FHD
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 02/07 Belgium vs Senegal (Hội Quán) SD
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 02/07 Belgium vs Senegal (Hội Quán) FHD
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 01/07 England vs Congo DR (Hội Quán) SD
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 02/07 Belgium vs Senegal (Hội Quán) SD
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",23h00 01/07 Anh vs D.R. Congo
-https://live05.koepgd.app/live/08552895.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 02/07 LDU de Quito vs Orense SC (Hội Quán) FHD
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",00h30 02/07 Slavia Mozyr vs ML Vitebsk
-https://live05.koepgd.app/live/99121525.m3u8
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",05h00 02/07 LDU de Quito vs Orense SC (Hội Quán) SD
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",03h00 02/07 Bỉ vs Senegal
+https://live05.koepgd.app/live/08552895.m3u8
 
