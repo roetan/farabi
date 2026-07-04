@@ -5,7 +5,7 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdA4dVwq19DxdhyjbUAo3wM3GSIMHaPl3tLg&s",06:00 | Goias vs Ceara
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2994.png",07:30 | U. Catolica vs Deportes Copiapo
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/3765.png",12:00 | Blacktown City vs Sydney United
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Gwangju_FC.svg",17:30 | Gwangju FC vs Ulsan Hyundai FC
@@ -23,17 +23,14 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/5529.png",Canada vs Morocco
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/5529.png",Canada vs Morocco
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/5529.png",Canada vs Morocco
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/7834.png",Novorizontino vs Atletico Goianiense
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2380.png",Paraguay vs France
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2380.png",Paraguay vs France
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2380.png",Paraguay vs France
 https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
@@ -41,8 +38,11 @@ https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/151.png",Goias vs Ceara
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2759.png",Gwangju FC vs Ulsan Hyundai FC
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png",Nhật Bản - Mông Cổ
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/960px-Flag_of_the_People%27s_Republic_of_China.svg.png",Trung Quốc - Việt Nam
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 1)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",Tập 1
 https://vip.opstream15.com/20230414/37767_4a795191/index.m3u8
