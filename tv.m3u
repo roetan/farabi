@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/4563.png",21:00 | Aktobe vs Zhetysu
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/3384.png",22:00 | Belshina vs Baranovichi
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/3530.png",23:00 | Tammeka vs Laagri
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgyDXXFrntQ8oD-0ScBeI4o43O2rcgU2dsjQ&s",21:00 | Auger-Aliassime F. vs Davidovich 
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
@@ -115,4 +118,7 @@ https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782978143-0-0-15f6
 
 #EXTINF:-1 group-title="FPT SPORT" tvg-logo="",Tường thuật: WORLD CUP - USA vs Bosnia and Herzegovina [Sóc mèo méo meo] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1782978143-0-0-27b2fc9b491f1b06385322936d9acf1f
+
+#EXTINF:-1 group-title="FPT SPORT" tvg-logo="",14h00 02/07 Bay Hawks vs Taranaki Mountainairs
+https://live05.koepgd.app/live/90865415.m3u8
 
