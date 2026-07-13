@@ -1,12 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/27556.png",18:00 | Ningbo Professional vs Dongguan United
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Ugyen_Academy_FC.png/250px-Ugyen_Academy_FC.png",19:00 | Ugyen Academy vs Transport United
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png",21:00 | Chelyabinsk vs Ska-khabarovsk
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1077.png",23:30 | Arsenal Tula vs Tekstilshchik
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s",06:30 | Ceara vs Athletic Club
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
@@ -20,20 +17,23 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/31.png",22:00 | Morocco vs Burundi
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://media.api-sports.io/football/teams/4548.png",21:00 | Astana II vs Khan Tengri
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/27556.png",Ningbo Professional vs Dongguan United
-https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://mediares.thethao247.vn/res/image/data/YJN4hmHG-Qq89lvZJ.png",Nữ Singapore vs Nữ Lào
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/22812.png",Reyady Abaseya vs Racing
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/3527.png",Maardu vs Tartu Welco
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/364.png",Djurgardens IF vs Halmstad
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/276.png",Breidablik vs Keflavik
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/129.png",Ceara vs Athletic Club
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
