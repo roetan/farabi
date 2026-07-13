@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/1614.png",06:30 | CF Montreal vs Vancouver FC
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/27556.png",18:00 | Ningbo Professional vs Dongguan United
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
@@ -10,6 +7,9 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png",21:00 | Chelyabinsk vs Ska-khabarovsk
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s",06:30 | Ceara vs Athletic Club
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/3764.png",16:30 | APIA Leichhardt Tigers vs Peninsula Power
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
@@ -23,12 +23,6 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/4040.png",Chicago Fire II vs New York RB II
-https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/1614.png",CF Montreal vs Vancouver FC
-https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
-
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10490.png",Sportivo San Juan vs Marin
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
@@ -40,6 +34,12 @@ https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w60",Campuchia W vs Timor Leste W
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w60",Ningbo Professional vs Foshan Nanshi
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/962538cccefe2f3c95d40f66ed2bfb71.png!w60",Japan U18 vs  Australia U18
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://mediares.thethao247.vn/res/image/data/YJN4hmHG-Qq89lvZJ.png",Nữ Singapore vs Nữ Lào
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
