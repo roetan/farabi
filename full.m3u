@@ -11,7 +11,7 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/194.png",22:00 | Ajax vs VfL Bochum
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://media.api-sports.io/football/teams/2.png",02:00 | France vs Spain
+#EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png",17:20 | Japan - Italy
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="HỘI QUÁN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/250px-Flag_of_Germany.svg.png",18:00 | Đức - Slovenia
@@ -29,26 +29,26 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH" tvg-logo="https://img.uefa.com/imgml/flags/240x240/MNE.png",23:00 | Montenegro U17 vs Denmark U17
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Spain
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/336e1c9ab6894a3b893c1ef45235a164.png!w60",Canada vs  Argentina
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://static.flashscore.com/res/image/data/nsORfhdM-AeUnl0mG.png",Việt Nam  vs Thái Lan
+https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w60",Philippines  vs  Campuchia
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Spain
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/2.png",France vs Spain
-https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 
 #EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/5590.png",Tensung vs Thimphu City
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/e5c9882eac2bcd64767b4cdb6544dcd7.png!w60",Wuhan Jiangda Nữ vs Shandong SL Nữ
-https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/7060.png",Cheonan City vs Mokpo City
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/football/team/8ce22a46554a4e59cc40e76f1341c15a.png!w60",Freetown City vs Ports Authority
-https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
-
-#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/10.png",England vs Argentina
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://img0.aiscore.com/basketball/team/58df018114526da9fa078444ba9b585f.png!w250",Đức vs  Slovenia
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+
+#EXTINF:-1 group-title="VÒNG CẤM TV" tvg-logo="https://media.api-sports.io/football/teams/15576.png",Malisheva vs Vllaznia Shkodër
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
 
 #EXTINF:-1 group-title="Spartacus (Season 1)" tvg-logo="https://ophim17.cc/_next/image?url=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fcuoc-chien-cua-no-le-phan-dac-biet-thumb.jpg&w=1920&q=75",Tập 1
 https://vip.opstream15.com/20230414/37767_4a795191/index.m3u8
